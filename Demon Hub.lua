@@ -1,1 +1,11408 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _XgHeAaQKJ_hB = a; end)); bXRGznGOZfmPlyfx=_ENV;nLGmwwEVrTgAAVE='pI1;78iCPec-aAR5a5C11-R7eA8i 5aPPI;c5;cac81IAAeo7eD11RRPe575zA-5I7aRP;;a5811R:e{;Re88eL7-ACi1Aa?C1;cA7cc;5IPaIC71a5c-a758U^a-5CP;IRPPa7C5C-8C77{5e-1i-17AAei75tPaICc;;Rac88RICaGaP7855-7iA1i7IIIa8i5aiPI;8RRcC8R5ecaCI115A-ii51PRIec;;C-U8PI;a5bcei1P5;8R5-1i7--ee1cR;ea8;A-cPi118P-Pc7id1-71P;PA-cikaI8A/Pi77RRc8i5IeAI7i8iLIa8C1R;aec78AI8-;CR;8c-ec;?7G5Rc5iP1IAP87;e51cC;CURAic885I7aAPic1i)I1Aa1i5ie87RKC-R;5IcA;P-1e57c-iq_ARCeR7R,a-RP;IIR-e58PI1A7if7ak8-aPA7i5a-8iRec885-88Ica7CA;i8P51a5iA71a5-C78IeR8Cc7AI8aiC-aeP5;P5IcciIG;a3PI1-accC7AR-a58e;RA-c577Ia5i-;i8IRAC5i-PC71VA8e97Rc1i;IIacP;;cAcei7I5Aa8C5;iRic78i;1^ecI8cI;acii1-R7ee88A8P;;a;iR*c-i8w5aee8!;R5-CCgRPRCP77C?%PA7;;;a8iei8xAAacPiCICAWPe7}RPea8eI;acCc;PRca8Ca;8RRcRi3IeA1PR7e5A-ii5ea715a-5CIaPCR;C5=cei1I-A7PA7i55-PCIicR;ea880RaCPj;ei1R-i7IAAiP57PNI-ci;i-RPe58CI&aePn;R5ccAiiI57-E8-aia1cAa15RCcs8eI1a-P7;A5ic5iP1IAaee7aO8-RCCicRec78-I7aAPi;55Pa-ic1iAaei7R}Ca!Ce;RR-cP8AICa5PP7I5cacia1PARee8Hb-a1C-78RAcP85IPAIPA7;5a-5iR1CR9ec81k-a7CRicR5cPiIIc5dPa7i5R-CC>1eR1e-P8hAaPC5;P5Icci;IaRRPR7PL>--C11AR7a;ei?5aePI7i5;cAi8I5ACe78ag1--C7;eRic68PIIRCP;;A58c5iC1(Aee1CaZ7-5Ci15RPcI8cIeIaP87I5C-hie1;A-ei7AFi5-CP;IRcc;8aI8aRPCii5e-1i-1iAAei75,PRICc;7RacP8RIPA9PA885--7iA8PA5ee8I!cRmCa;iRRcCiyIeA1P-C85A-Pi51PRIec8;DaARCR;P5/c-i1IAA7-;CI55-eCI;aR;eA88I8aCP77a51c-i715AieM7Pq8aAC;1aR8AO8CIIaeP1C157cRiiI5APeI7cIIa-C8;;RC-i8eI;a-P8;A5ca1iP1IAcce7azi-RC-7;Rec18-7iaAPC;55PaRic17AaeP7RLCa_CeC7R-ci8AIia5PP7IraaCia1PARea8+uea1PA77RAcc85IAAIPc7;5a-iiR1PRleA810Aa7c;7RR5ceiI7aA;PA78x7-CC7;aR1e-87;5aiP+;PB;-ai;IAA8e47CT_-eP7;AR7e58iI1aPPI;c5;R;i81IACeq7e#1--Pi;5Ric;8PIiacP;;a5eR-iC11Aea;7-.8-ACiivRPcC8cI7aaP8;R5C5cie1eA-eP7ADi-5CP;PRcc-8aIeaRPC7.5ea1i-1AAAee75WPaICc7iRac58RICA6Pe715-a;iA;IA5eA8IHca;Ca;aRR-;i/IRA1P-775AAUi5;IRIci8;kRa8CRic5+-Ii11;A7ei7i55a7CI;;R;cI88KRaCPF7551-;i718AieP7P1Ia1C;;7R8ci8CI7aeP17R57-7ii1iAPee7c.;A7C815RCci8eIea-PP8P5i-IiP7;Ace77aF8RiCC;IRec78-I7aAPiiC5P-Iic18Aae87RQCA7Ce;1R-c88AIia5PP7I5c-;ia18AReC8Ir-a1C-;7RA5;85IPAIPc7;5a-8iR;-R/ee81Xaa7CA;iR5R-iIIcA;eRiR5R-CC^;cR1e-87I;aCC5;P5IAei;IAA8PR7CB7aaC11-R7aa8iI/aPPI7I5;cai8IRACe.7e91};C71RRie58PIIacP;8P58cRiC1(Aee;7-175iCi15RPcI8cIcaaeC7I5C-Iie1PA-e77AIPAiCP;;Rc-78aI8aRPAed5e-8i-18AAeC75LeaICci5Rac88RIPA>Pe715-A>iA1PA5ec8IB-a;PR7iRRcei}IaA1P-77s5-Ai51-RIea8;gaa8eR815Vcai1IRA7eA7iIIA1CI1RR;cC88YRaCcq8i51c5i71IAic17PI;-AC;;IR8ct8CI9aec1C757-1ii17APe57cI855C8;7RCc18eI1a-c77R5i-8iP1CAce-7ah8acCC;CRec18-I7aAeP8-5P-eic1eAae87RIeaaCe;-R-cR8AIia5ec8e5c-Aia1aAReC8,4AAPC-;aRAai85IeAIPcC75aaIiR1aRNee81H-5cCA7;R5-;iIIcA;Pa7P5Ra;CE1-R1eA87MAaPC5;55I-8i;1PA8PR7RYmaoC1;CR7cP8iI;R;PI715;aii8I5ACegP7>1a;C7;8Rie58PICIcP;7758cRiC1IAeeP7-V75eCi15RPc;8cI;aaP8Cc5C-jie1iA-e77Abi5-CP;IRcc-8aI8aRPCCa5e-1i-1CAAei75fP5ACc;;Raca8RICAuPeCR5--7iA1CA5eP8ImcIiCa;RRRc5iKIeA1P-8A5Aa6i51PRIec8;ZaR1CR7/53c-i1IAA7PA7P55-PCI;;R;ea88}RA-PG;e51cAi7IAAiP5iG}I-cC;1aR8eR8CI7aRP1;-57R5ii1kAPc;i1x;-aC87xRCcr8e;1RcP7;A5ic5iP1PAcc885z8-RCC7iRec18-1iaRPi;55Pa;ic1;Aa-88i:Ca!Ce;1R-c88A1PRePP7I5c-Pia18AReCiPQea1C-;8RAci851cRIPc7;5aa7iR1CR&c-icS-a7CA;cR5cPiI7r5RPa785R51CE1cR1cC87IIAeC5;P5IR8i;IAA8PR8-Nl-eC11aR7eA8i1IRnPI;c5;a{i8IRACc1CPz1-aC7;iRie58P;Ia5P;;A58c5iC1AAec78iM7a Ci77RPcI8cI;AcP8;55C-;ie11A-e7ic0i-5CP;IRcc88aI8RBPC7<5e-;i-18AAeii;:PaICc;7Rac88R';VCsJMvkdAcRsVjSGD='PH(-yBI{cp9_AX&OAOHOc_&py-pA_-y&_9H8I(Xu((cB&HOcp-_IHB{(AO({A{({{cX--_yAOB(H9OCOIq__(--y&BVpp{O{yc9-Z_HAAcOH{OXO-Wc_O-ry_-XpI{A{Hc{-X_&Ac9AHyO9OYEB_A-XycI9p-{p{&cy-9__AB&p-&Byy9IO_BA_OyX9XO&BpAHX({X9pOpIH&OyO9YO_I-{yHBy_&IyBI6Opy{9B,BB_{-H&yp9nOcBy9Hy(99_cI-cOHX-{p9jHp9&cyI9IOAHy_O&9-_&VOcB(&yOAp9<yB{{%H((Op{-AB(_{hAp_XH((A{,OyHA_&-cy&AO99BXHBO{pXA(cA9OOy{&HhyIAA_(c{IAO-_p_OBBB_-Oc9HjHB(9XHB(IAIOXc_9B-AByO9By{-FX(9p(-{yX9_CIpc_p(_c{X{{Ap9&&B(pcypp9OyB9Ip)_yfcc((yB9{yAI(AHB/{HA9-(X{&&y99A1BB6nyB(_dHeII{&(pBy9By9IcOM p9{HHIy{XHO-A9yypIH&&y9{BX&(OXy&9{_9cgcyX&&BIIy4O-_Ap&-yIp(-yIp_Hy_I&XI(&p-&.-p9-JBIi_9HII(b_I__AH{{Op!-OI{OBKO9I_&Iy_&XX{{pyOA9H_py{9IZ<(-p-&ycppO-Uc&&9x(_-JyB&AyX-{B99O(cA_HHH_IAXB&{&X{-O&y.HBO_cHcBXTIII_{H({9c_(XI(_-H{IAX/({{-Hp{-c9-Bp-OBO&pOO-B99O(-{yA&-yy-&y-cpOOy-HcH(I-Acc(IBOO9Bp{yO_IH_yAXIOX--{cI&{yHBcO9H{cH(9yIpI&-py&B-O9B_yBIc_X-IXpuO(p{9X}AIc_AHB{X((IpppO{Byp_yy9yOBBT_cApI_97O(By9&dXI{_HB{_HAc{-XH---AXX-Hpc&XIH_(=A{(cH(({IXX-(IO_OIy{9AI{{pX(-cO&B-{9BO{B9_IAX{Icc(cccXp-ypA9XyOcyXy{pc&&A-c&HyHp(&XBBIILp{BA_HXc_XXy0pA9_yAIXHh(cAHOI{_p&-&yXOAyA_cHI{zApXccp9Ay(9H&_=&9cAXI_cIHAyH9HyIB__pQ&9{5XI6{p(X{_Xp-pcO9{Bc_-H-Iw{cHpcHcO-cpc&pyy9A_XIcpyHc-pp&y-Bc_Ia_9ca((HAyO:yXcO(IBA9Iq9_(i-BXA-X({HX&(&c{&&^g9(KcB_{yHX{XA&(ppH9(yy{p}c(y_B(pcHAO&Occ9pt&_-Ac(I{_Xc{cXc(pcy&AOXpOXyBc{pH--yXH(_y(&XHp{I_cyOc(AO{&AO(pcOp&yV{BOI(G_-HHBB9_-AIcAyBVBOOpH9_-H{{_A9(_cBpAy{{-X8H(9pXX(pXc(pc-&pOcp9AOByA9&I(c_OOb-OXOy-9{OIB{_HAc{-pOOA-&XBNABB#yBB9OHB(yAXHpcWXBH(pckyB99AH9IAAO(_y(XAompO_{BX9XHp{{XH(9-pXAO_Ic_pBc_DHG(XAy&{cI9H-{BcOHB{99A-IBAp(X{AXX-{y&Op(Bc(AyB_pDX_c9X_-Bp_99yAcHmXBpAWHB{9X&y(pHO(yAI-<&-9p{Xp{h9HO)pOOLy9_h_OIHpI((I&XB(9cB&_EA_LAABXXH(p{{p{-!BH_IB_{tA&(-c2XXI&9p-FpI&p%(9_g_BA_{HO-3X_#{c_9AHH_IA_-h{&H-I9X9(II-&cS<9(DcB_{yHI{AAO&cc9Ooy-BAO&I(AIHB(XAO*yyA&I#pI_H}B_cpXc-Hpp-&cy_y-&9S_{I(c&HA-Ipp&Bc&&&-Op9,(H-_B&9yHppOcB-9OO_9HO_H(_XH_{XcI({{_&(-{9_OABI_AA_IAA;({{A_p/p9&AyH=_A&{{9Xc--c{&p-O{VO{BX_MApI_XH(y-XXOyBpc_HB-_{H_I9A_(B-AX&O_IB!&(9{9A{{cAp(-cppc-9IO_{BH{-XI{_p(OB{&9fOpIHZIHX{&XA--{O--cHXO-OpB9XBcc-Xy{ppM&_{XpB--pXO*0p9_Ac-?XB&_{cXIhBI9__I#9pX{It{AHXcBp--&I9OcH({BAHI-pc&2{9pA,-B&_A.OIcX((XcX&Xy9pH-9p9&_yI9&_O{xpI(y-&XB&Xp-&X6A9IA-(_X6&cyI9((OB(AyH-_cA&B_ccHp-H&(--cXO-r(9yXp(H__X&yi&B(XB{9XsII&H-Bpc{Hy{-cA-BpB&IyH9p_9BApH&cyB9yOAB_9(yc9(_pIyA((y(XA&((cpX&B(9-OXI-{(H-I{A&(-Ie_;BBI__{Bp_OH((_AX-HpB&yyBpO_IBc{BXOcc9yOyyHO(y-pXC-H(_y&p-HA_O BiOBFXpp_XHI{&(-yHApO(B{pAyB9BOIBH_pA9IA9HOIy&9_2&IA_(Bc_(Ap{yX(-y-XX&-(pp&&I(_-bX{-c((-{{X&--{rAGIB{_A{IpAO((-_XXyH9BOygA9&&-(_AB&9y9&OC{pBA(HyIXXB{9py(H{A9&O-p&A9Bc{(XB(HA9(9{_XI-&yOOH(I{{Xc-cc&&9-{XX-{y&OpB{_pA(I-_{H&{-&{-cp(OcM{9cOAI-_cOByB&93myAOB(-99jB{HAhHAc(&{&&cAOIypI(qIIHAXHA{cX&y-B(_LHO9ItABO{cH9c}X-&Ac&Oyy{IYs(IIA9Hp-HX-1cBn&9uXIOHy(_c9H{-pp(O9pO_By{pOOOHcA-&O{Xp{O9yIO9yc9I<IBA{yHOy9p_y,B__pOOpXQ{B9{-HB-(p9-OBB_(-OIXXy(BA9&{{Up9&Ic{&OOX9cXyI({AXO(_AX*(y9&y%IIOAX(B{pX(-Ap&OpB-_HO_9yKyBB_EHc(pX9Y?c&9c-OB{OXB{{IH4(XpB-9B(XO-XI&_A(&c9X9{OpB(IByX&Oc9pO9By_9ApI_9d&cc(9yn{9AOI(y{yAX-BX9O7c/99LIB-OABA9XUc{ZcH(-Bc99KAIpA-(HIpROIpcg(_cp&_OypB&pB#9BHpI9Ay(9-pX9(&pB&9({{{HA-({&(XBBp{(&I-&c(H9(Xy-Hp-HIyc9BQ(c9_AHp{BO&-8cXO+{(9y:GII&I(1{AOX(Oc_&p{H9-QGIF&BH{{-XSBpc_&{yBAXUBIH&yH_{_O_(Xc_&{IO9{OOcI_&HBpXAO(Ap1HHy(A_V(cB_{Hy{BOp(_cc&9IXpOOABA&HH-IOXHBBc{&yy5ApO_B{_{-X{(O{-Hc&:&yFpAOXc(_AH{ppA_(ccc!Xyy9-(yBI_(HHpcA9({cIEA-&p9Occ6_9H-p{Ap(IcIi_yy9H((By_RHBpIA{BVc{u9-AppO9{&_:CXIOO((ycH&HIIpcOyBIX9mAIpABy&caXA-AA(OI{A9&h_IAO (({O&(Iyp&O9{__yZ_p(Ap(p9p&H-cAnOcB(X{.pIBAIy_c-XAI(pyOHByXIH>Iy&XH&9{X&IHp-O1BHXBW{IyAIyp{_Xc-c_X&Oy_9X-HI-AdHA9BX{--p-Hpy&X-!XIp&9HA{9XIB&p#&XyOX(tyIU_&yI{cXy-(_9&Ayp9B(&I1_AHA9(Xy-Hp-HIy&99(XIyAyyy{_X9B_py&X{(9-(AI(&IHc{BX{B9py&O{H9_.{cc_9HI{_OA(&c9&c{89{(9IyAHyH{-Xx(X_B&{yy9^(pI-Avyx{9XBB{cp&IycA_?(IG&(Hy{HX-BIcc&IyHA9.yBc&HH-IOAOBBc{&yyBAp<(B_&5Hp{yO{(c_H&{I_pXO9BAXOHp{yOI-vcA5X-Op_z^cH_-<OIXOB(A9O&H-XpO(-BB_()&p{Ap(Ic{k_-XppO{{O_Hw&I&O-(Bc(&yI{9HOA{&_SeAI_O((9cyFpy(pp(,B{_--{IOA{y&ciXX-9A(OyBH_H-IIA_I(A_-HpIAcB({c_&O-&pOOpHG_(AO-p&(O&y&p_yApXO{BXIA8&y-c_(By999yOI{ABBy{yAX-BX9OHBCXXOIpOOOBJ9_H-(yAIO_By_G*II__O}A_(gA(-A&(Ac&p{-ccAO-yc_ATXI{AXXA{XXH-ccXA9H9_OXB(HA9Ocyt&-yH9-9ABBIOKyI&AHX9{I_pHOcy9_B{_{A(I_p{H&cyX{OLp(OIB99pAHI-pc&%{9pOOO9y_9y99IAp((c9(Oy_9Irjy_OI((_3A9(X{p((c(X-(&pI9{yp{&X-(&cO&cy-cO-BcO9IBH9OHHH9__FO{IA_-OpC&9B3BO!sBy__HRyXpXy(Bc9yBI{_/OI{A-({{AA&(&pc_&yB9_O&H{_pHO{(c_(Xp-&IOO9HD{B9{-HB{_A&&{cp_&VI9bA-({c_&H-Bc&O9B-_-H.IX_{Bp_OH((_XA&Xpy9cH{9BGBBI_HHp(9XB2HpAO_HIp&>yIyIOHHyIpI-_B*9ph99OO9B{I&rO{{cB(&c&XO-99(_-Byc9e_-B9c({cO&e-{9{&9B_{yj&(Op&(&{cXO-y{HOB(p_pN-Ip_OOAcH_y-_9HOyqX_IHII{A((9-_X&y990O(I5_(HB{Hc3(^y(XAOX9-O-BO_XH{{#{O(9{yX_-}I_O(Bc9_AyIXAXH&{p&HO(p&ApHH9AHcI&A+(&ct&--OBIO9Hy9_A_I_A_HA{{XOO7pO_Iy_cHXH{Ic_&pyH9(y{BX_pDI9O OI6__(--yXO1_9IW-I(I&H9{pcB-HpL&X-ppp&9yB9X_&I{pB&(y(&{OAB99IyO9Or}B_A-Xy{I9_O_97_BH-BOgcIc_pHy{AcX-&IyO-3H_B#-IHAHH{(O&r-_p_&c.l9HkpH{A(GA-&&-OcBcXO-9pXA{ycpcO{B{X(HdppX_jI9HAyB9{&X{{(X&-ycIOyyI9pxBHA{9H-ycX9ODc{pOy&p&19IcA(H_(9AAOHBHOI _Ip_BB{_XHd-(c&&AypX9H{BOO9II_AW&{AA&-HcX9yC(9(X;BA{cX9{OpyO(-&&X-X9pN{IH_9Ap{(c-(Bc_X&LFBA_9B{_HAc{HpOOAyy9py&I-OIHI_&.OIpAOX&c{_BO{ByO-(p{pH&--p=&X-9XpyIpI&OBIIcR9{fA-XA{&&y-{BjOpBp99GBIX{&({BBpc-cyO.-BH9O}OIB{XHOB-&aOAB&N-Hc{IA(I-A_XpcyA& h9B_9Hp9HOAI(_cOB{I94(H{HX;-Z9_&p{(_yXO{9pX--B{_ly__{/XBOAXHOc(X&OBB-&A(H_-ApIw{c({{{&-yHp_Oy+-9BA9(9AO&yy(c&-EpI&pk_I{AB((_9OY{ypcO9pO_yH(B&RyB&{BHI-ypAyHBI_BHX{9A9IOcy&H(&XO-+c9OQOO9FXI(IA_& -Xc9(cB(&(yycB&9-Ip9H&{&pH-y{&_!BBI9AcBH{XXII&pY&Xy99{y9pyAII_c%&JI{A(-({A9&B-IcA{yO99XAcHpIO-{XX9yp9p_y(HAIX_-cc&&AyOOyQ9II_AH_{BHcI(py-py&9&-BphQay9{A(H-IpBHX{c99yOIyA(y_9cH{{{c(&Opy9puIBA__IH{-AA-yXp&Oy_9cO&B__c({_X&-{(c_-HBBXAy(pB9&Ba_I=p((XH(HcX&_yBp&9Xy_{B&{{BXIHB{O&c(IcB_yB{9HX-{ccX&_{ypX-IpA&OHHcDHI({A_&Hy{9cF-Bp9Ay__BO9{p{AfpyBpXO(cX_-H(9XXB-p_H&{{B9I({B_&pH9_XH9HX_9&_IAAHO?c_OcyBp(Ap-:{pU&cXp(Hyp9X{-HIAAcI_9-XO-Xpp-ABc_v--9p&Xy9{{XIIpX&OIB{9OdAIHX:-yc1Z-IIXXH9I(_c-pc&o_(HA&*9(OpIO-{AO-H_cX_9(_cOXH(&9IO-y{OA)9I{&OyA{BX9IBp&OH{y_.4{c_ac(p99HI(&c_H&pX9(x{{BA_HI9{&pI-_c&&c_AAyI9(OIHBcyXc-pp(HyyA&{(_cc_&B_IOdyIpAI-X{I&IOAI_A_H9I&XO{Hc{-AyHXAyp{HN-H9IXXp({AXOByX&_yHpB*AIp9AX-B&_-(DyAXFH(cy&H((__Hc-yc_O-y99c({I(_O(c_AAp--cAO(y9pc-&IIOOrA_pAO(XX{XOypOHdcB-Lc(IIcHB(_cHXA-ppOOX99_IH-_8Hy{_cXXXB-&ByA9p9&HXcHX{{R9X&yIX&y(HBc_O(-{yA((9cB OI&pBO_9{AcH(IIA9Byc9-(cOX(Opcy_XBI{&A((AA9&_-Ip-Kppy_{(c{XAp{IcJHIy{&9HXBy_(yX99HcHX9cHB{_XOHAIy_H-ppcA{I-_{(y{&A&(-{&9OQ(9cABI(X}Oc-(9c(9y{X9HAp&__y&p:&H{OXB&_{&_&Hy9IAc-(_yE{Iypy&cc&&_wH9A&OHcc{HryHpIOIcy99T&B9A{HOcIX&-I&-OHy&OLHcp9&XIy{HXc-Ip-(BpA99BIcO_OHX{,H---_O&-BB9zOX{-_&y(_O&8-XcI&AcZpXy9cX_&yp{cXyy-_X&Acc_;6XBI_XBp9-(yBOcOHp{ypX(cB{O_H&9yXyIIAA&_IX&9(XBOg_B&IXA9I{pX&HIAXH.9I(&cBI_-XH-9pA&X-X&H-BB(_HBBcyXH-&_c&AyB9((A9H&&B_9^Xp(A_{OAy-9B--B_OXIy_&A&Bppp(_I&XBYHpO&(i_pI7AIpcA&pI{XX;A9c*BD9IOXXIcc_;py9pAy pX0yw{9yXA{cXB&HB{_cHOB__cyO9AAO(cA-X{-y&HOxBIX&xOp(Ac-{c--n-A&9#HB-_IB&I9A{B-XsX&-AcOz{BX_vu-9psII9p(XO{H&#(_B(_yfXIcX^yO{IXXy_XX&99H9OBH_cAB(-AO#cI{c&OyIH9--)pB_A-(99&B{&py&9pOO(ycB&H/-Hc(XzI-p&-{p&X{-&IyOd(p_(&Oy?pcH&B&9_;IIBD5yA{HXp-IA2HByy9p-yBpABBAc_HIcyXF(yBA&&-HpcXd(XIO;(--_IHp{I&I^p_HOXyHAc&I--XB-App9IQ-{H_-HOIXX--H_A-HpcX--cIGJAiO9A;pIyp-&OycXcEHB&wHHpp_HcB_cA&9cAApOIc-_pBI{&A{{&A9O({-O(O&B_9OyycyXH{XX2HBI9p{-XBA&I(II9HB{(_OO(IO98OXpBOIHyAHXO{HcrE_B-X&(9yO_{H(9_O_(O_XOByyAA-Hy&_yH-pXA((ccB&XcIpX-Wc^O9B{9yApBycy-(I_X_O-cyXOHh_XA(yXpB&_-Ip-UpcHXc#B{XA9{I_H&HIp__HXByXO-9IX_&B-cHXB{_X&(yB(_HH&pc&XB9XH,9y2_&-y{&&&-({XnB(XX!XA-O9c(dI(XyHA{(&_IH_B(A{OXBOy{&_{ykI{HyH{_y&eyBX_&cyB&_WH_IOH(g{X&yI-p_&{B-&9(o_BA{HOcIOO-_c_O9B&O1sIp9H4Iy{-Xc-9pA&B{9OIBIcO_OHXA9HI--A{HXcH9{(_c&_OHAc-&{Bp_&&Xy__H(y_H_IH-{cXyy-_X&Ayc_{scBI_&(y9BA9({cXOAc&X_(cB&O_HcAIA_(Oc&&_IX&9(XBO&HB&_yX(B_pX&pIA_&HHBX!9yB996{{&X_H&-X_--Ac(_9HB{XXH-&_c&{yB9((A9__<y_p&OB(A_OOLIp9B>(Bp9XB9AHA&(Ap((y-c9y+H{_OBJ_{BO_IpX{-yIOXXOAp&8BHHIBH9HO9A&cy9p&-_Ic&9IH9yAAB>XBHc{&Ac(BB__((H{{A)IIcB&(-ypAO{p_X&yB{HX--{_H&9y(pF(&B&*HB&IAA{(B9HXO-Ap&(({O_VF&{_}X{yc_HyIHX&(HB{9OHXIHX*yO{I;-yy9H&A{{_OHB_c_XBc_&C9{O_A(pIHX_-cI{_9I6{Otp(&Xy6-pOX9yc9B&p-&p-X9c{X-O(p&_BK{9_A-BBA(#B-{c_H&B&9pOX99O_(-_HH{-y&(&Oy_9pHII(&&(({(HII(pH&X{{Auy_pcXn(X9{(IBOcO(-ptXB-9I(OyI_9ym_Ic_B-({{XA7p{_<Xy?9BX&({cy-HycA_H-9BApIc{_A_BAp&&O-O9&-XB&WHH{cI+:IBc_H{B{9X(IBBOp(c_9OX{&cA&{{-O(-Bp(A9III_^IB_p_&cI99HOOcH9&HO9cbB{(9Ox{IO9Lt(BXAcHyI{OAy_cc-BB-AX((c{_BH-pAAX(O9X&&IO9Oy_y&_y(-_BA((pp{OyI&9{O_yOO9-{IIO{BycB-(ypX(({B{_-BI{&A_(AA9&({y9A-&BI_{Hzpc&O{Ic(XO-AAc(XyAA(!IIAOyH_{9HByX99HAcp&OBX_9_XI-c_jA-Ap/OIBA_yHH{-qBBHXGXBc9XH&_yO9AH__HA(II{A&(yqpOOyy{_cB(9_XH{-_{Hc{O9_OpBc&O({I&QXyyp-(ABcX&HB{(AHB9cIOO-BAyX_-O9p-{BIAUHXc(TBIIc(&J{p&yOIpn&Xy&IAA{HApk&f-_XB-(c&&HyppOOc-9A-H&-_XO-OpHABl_p9Xy(-pI({IOX(Oyp_&&}_pyO9((p_HHI&XHO&cA&X-_IIAy(OpyH_{y9-O(cO&Hk9Ieu--I_AV_{{p_OOB9&O-p9qVHBO{_Xc-_p-(X{&9_BHpOAHHI9AHyy_p((dcH9pE_{OOHBO_9uc--9X&Ace9Xy{{cO&-(cyd_{(pH)pcp_B#BI{&9B._cOB--A_O9cypIu(IQOXy_{c&9IXXc-B{p99(IIhX(H&_I&p-&X{-yc(&IyHB&OI(I{9HA{HA(H9ccX&^Hp(_OBIc9Oh-A9{&X{99HH_{(OcHBcOdH-_pc>-y-9kOpI&Oc(-9{mO{Icc(I-I9Hj_9yO-(({O49y-cp(:-XXO(XB9__H-_9O&IBA-(IB{X&yBBX_B(D9<E_(pAcHOyB_-(_ccA9(X9-OABX9H(({&_(OpIA&yH&IAXcI{p9(Hy-9p-c{-_(W&c(WpIccy&({XXpOcpw_Iy-9IX(H-AyX&-p9O-ccyOT(II96(I-_(H9BHAX(Ic&ABEA_-l(-pA9({-_XIt9yIOc({_(*y({p_H{y{X_H&cA&A39ccOp(Oc-HX-{9-({y(9Ayc9HC-I9_AHAB-AOOOyXAHyp9OAH(yp(X9-Ipc(AI-p9bAIyOIB99A+p-BA&(GB9_O:IpyABHXpIXAy99X-cpB9{(HI(O&B_pBO(IyAB(Oyp&{H9I(O9H99pHBI&c&O9{j9Ig(IBOX-IcBHK{H_O&Ay{&HF-IX__BB_c&p{fp(&O{c_9y-p&__qX9Iw{(OAAH9y{&By9p(_pBp_HWI(X9{Hp{I9-OOpAA{y{cO2_IXc_&c{y9<(-c{XyHy_H:Oy(cc(cc-pOO&pIO{-0_NH<((ccO-cHXOO_py&{BX{BA&B_A-O9{IX9-Xcp_BBA9FAX(p_{Hyc(XOrcccA9B-9p4vI9A{O&{ypAOOc{&y(I9OAOI{p9&({9p9OX{{_H &_IMpIIc(&B{p9c-IBB&yy-I9OpIBA(&Z-_p&OtB(&ByXchOc-(A-OXBHpc-Oc-9O((p9H+I(_Hn&-_Xp-&cI&pyXcy,yB{{OH&c-pI-BB&&Aypc-kbBI{&HX{yA9M&BG9AOcBA_p(c_-OH{(_y(XB&&9HApy<y-X_y(8{BA&O9cS&Ay(pyW(By_{H-(9Ay&B{&p&O_BX&&Hcp_OB{_9O((I{_9yBB9_yyO__HHI-XH(-cI&(OpB{O{B{9c -I_{A(Xy(Xc!Xc&_cIa_B09BKXBOpccA9O_cX_{(AcOOpI&_-(X{I&IapB-&&B9_f0({8A((BcHpc-_BI&AHJ9BA{Ipc8Hp-9X-Occ&9Iyy9&EHH9_A&Y{Ip{O{cX9Xy{I_j9(BAyXA-AX(O(pB9yy(9AOOHc_9X&{XcA(9py&{o*9(AIIB{XX9{-Xp(Ay&99yB_HG{BpA{Hp{AXc&Op09XyAI{OAH&__HB(AXX+ycy9&-(9AX_y_9IH_I}A&&BpI&{yH9{_IIB_B(H{OXp-(yH&(O_pXj-BIIO(6yIX9&&cH9_(0c-&XI(9{(HI9X9&(cy_p+Hp_ArBH{_HcIHAO(_IX&O(c9&__Hy9XX{IpXAHBcI&A-_cHa9*&_yM&(XA{&y{X9{(OpIOyyH_-&&{_A9&{BpXp?-{{O(Bc_yb_BAA{(--9&_-ApIOA0_9X&((9Ay&p{99y-(p9O{y(_HOpyppO&y-XXI=d{-Oyy(_{HpyA9I-(-{&I-I9(i.B9_-A(I-{AH&c(&I-ByXOAyA_cHI{*ApXcc-p9--ByOBH(9{AAI_c-&-{cpp-9B{&AHH9&_OBXA{H9--X&OIBIOB/A9OA9Ipcy(--_pc-Hp{&93-_(/(I&AA(I{Oc&-{BGO-x99-AcIBc((H-ZA&-cc_9yyXI{A{Iy{XH&-_X9&pc{OHyyBX4I(-_cX9-9AOOCcp9&y-IcS{HO{AHB{_A&O-c9OIyAp&,AB&AHHX-yXBO(c{9Ay_I-v B9{H((ypApO-I-&tHOc(H*yAp-OB(9X_(AcI&AO_99O9IIAyH&{{cI({y &(ycp__yIBc_HO--AIO>IBAc-(9{&AII9OHO({ApO&yI&f^(pIAuB&p_H-I&_p>OcpXX!LBpO(HAAy&A{-Ay)A{&A_(OB-OpB-{(iA(pA(&AcpA{(Rp{J(BOp-l_(ApAO9{_9BHA{yXHB-_IOI{{AVXAcXX&-cp&9XyOcyAAIIcpHAyIAp((pcXy(9c&&pBJcIXO{c9((-IOjw-XcX&yBpXBXpccXcyy9(OABBIyfO(IAp&d{pp&-_BcO{aI9y3&IH{9(--XpX-9B-OIHH9&A_I9c(&(cHpc-_BIO-Ly9(rABO{cHp-&X-OBB(&_yO_-e(H9ApHpcB&--XpI9ByIBOWHI{_9X-c(X(-&pAOIyOB&OOHc_9(G{-pc(Op_OHy-_H1-IIA(Xp{9p{(ABHOg8c9BOOHIA{&&I&pc-B{oO_B-pH:I-&9-AOc*XH(_pH9YyOpO#_IpA-HA(_Xy&Bc{&XynBp69-RAyXcI_pBU9IXX{yApH0_ByAyAAI&9-&_cB99-_IBOOB&_p1-B&AX-cIB9BO&p{AHBc9{H9B9_AHBpc&HOcp&OcH{_HA&I{pH7ccBX-H_9AO(BBcOXHy-A-&X{-&BH99pOcBAc&O-(yXB(Ico&IOB9yOyIu_&Hc{HcJ(_-9XAy79yO-%__9b9{IXy(&c{pI-{BcOHH(_BXaIOc9(pyH9Hy6B{OzHB_(AOIycI&IcBpA-BB9OpHy9pA_I+A9HX-I&HOcpp_IBB{6DB({cyHXc-XI&Op&&&B9_cH(I_{9(--AXOOIcO_yypI&/_(BcB(y-_XyOppc_-ycI9A9I{c/(--(Xv-9cX9Iy{IAMH(IA-XX-9X--pcA9&By9yHwI&Ac(H-hX(JBcAO(yBI{A-(H{&X_{yX9(XIHOHB(_{#BycApH-BBXXm_pyXByXcIn(--A&HH-__-(pcpXJy(cBX_y({&Hl-9X&(&pDOB--c-H4BOA&&p{{X{(cc-&_OAp&X-H_{Xa&-c_IH9I_OyyXcpX{Bp{9XyIOX_-Hc-OHy-9Il(Hp{{H{{{Ac(-c_pAyXI(Oc(X9&XccEXB(9{^OBHp9c&9H_9XX{yA9OHpc&X-yXpIKI(p{-g&{9Xf((pl&(yB9H_cB_{I%_-sAI&{{O9L-9B9O-Hc_{AIIyA&(H-9XA4ZpO_{H{9XAXIIc_(HyBX_OABAO_H(9AXrIO{&HAcIXpO(p-_cB{IOAAIBA_H&yDpA-{9-Opy__pu_I&A9&Hc(pO-yBpOcH?9Xn{H&AOOI{I9}-I{y&9-iccOO{y_NX{ccXp--pp9cB{9{H-{HA_(y--Xy&XcOOBycIHH(-cAA&5{-pXH({BXOByppH-BAAAXy{I9_O-cX_(y-IX&(y_A-OXI1XIaO{O9XsIpOApIBABOOBO_HyHI{Aykv9I8DHO_pXIIOpp(HpAOH(ppI&O-cAIXpyp9{(cB(OIB-cH%Xy_9cHBBycp-9c_&By_B9GpBpAB(-{XXI&Bpd9{yQIHM(HO_&XpI&p3O7cO9Iy{IyJ-H&__XB-BXy&_c&pX-_9BOcHH_AX{{IpH(Iyc9B-&9(JIBBIXHAIAXc-Ipu&pOcpp_(By_9^X(IXB(BpH&Oyp9(_HBAI_gX{-AI&_c(&&yypIUyBI_pHB(AAX&9cp9y-pB_OcB(IpH9yHAH&_BOXIy_9_&IBXA(OA((X-(y{&&yO-9(O(B&_AHIIO{&HO-cX9y0p-9ABXc-H{(__&&cBXA4(9pO&yB&9{H{HOAHOI-&XcO9c&_cyAcpwAyc9_HOI{_OOcBH&9Hy_6O9IXXGO9cvXIy-y_OHy_I9oy(H_9&y{XXB-IIO&pypcy&((ypyHIyoX(-&{CXAB99&e(yy{{(c{pX--pycO{y{_-HHI_AyX-{AcX(Op-O{yIB&zXBXAp({cHX9&pc99_y&IBbc(-_cXHIOXp(AyB&&s_99A(((_{Xc{HpI-BBh&XO&pAoIBp{(HX-BpB-yy_&A8pp&A-Ib{9fO{pAA&Bp#9{ytIBO9HO_&XI--AA-(cBp&yXpXJpI{AHH9(pXy&_c&9BycI-0?HX_9Xy-yXH&9cX9c-XI(OOHp{po&(OXK&Xc99{-AB&__By_9.X-(Ap-Bc_XXy_pX8TBA{-GA-HA&&_c99(-Opp_wIHccoc-(AI6&c9&c(>9A&cI-IpH9I_AB(_-9&p-p9Bw-BX_IAB{4{O(Hc{X9O-9yA9B&{(:B(O9yi{{H&I(_9B&&B&IIlc-XcBHOy(XBOOcB&XyX9&&By_9OHc-Opc-HB_&X(&c_H_{I_y(BIXp(-cp(_Hy_IcDH(_9XOOcI_9HO{XXy-yI_X_BXc{(0B&&B-_c-O&({9(_&IOA#H9cvcO-HII9&ycIXO&(c9cOXI(&c-yc(&AB{IcAHB9cy7X{OX_(X{_O_-p_m__I9_9(IcyX&-{yI&O,c9_A(B_c3HX(&AA-Icp9(y-IcOXHI_yH&{Hc9-ByX9Xy9I-OA(H_&X_{9p(({pH&yOX9c_OI({XH(-{Xy&&y&&_zy9{_IBy_&HH(9XBO!cOp&-A9IOpH(_-XcIXcI(yc&&HO99B_XH9_-H{{_A9&(pH&HyX9_}BB&IXHc({Ap(Oc(p_y9p9QIIy_&H{(IXH&rc(&c-_BX}-B-_OHX{{X#XOcH_y-_9HOyHI{(X8(XAX(X{&XpyHB(:((p99XyyX_p(Ic _c-I9(&Xf__{H{((A<&9BX&&HA9pOABXcXOp-AA9(9{_XI-&yOEZy&c-A_I{A((&{XXp-O9y_yB{_{A9IBXH({{p&{-ppAOcjOIXH-I-AO(Xc{&N&Oc_A&-yppAFI(AcH_-X9A-9p9&_yI9&_O{BpIH{yH_IHpc-Oc-X_{Y.{hp-(HcHX((XpB9IyO{XO&(cA9(cIpA--&IA&_(I{9RcIc_pHy{AcX-AIy&BtO9(&H{i9Hj9BcA>H9IH&OyO9eO_I-{y(By_AAOII{X--BcyX_-&9yOXycXI-Ic{&(y9B_O&I9AZH(c}X(-BpH9gy_pO_OBI{XXA-ppI&&c&&&-Op9t(H-_c&9{pcO(pyX9IBIIIA-(>AAXBIyp{(jyc9yjHIY_X(A_9H9I_AI(&-O&9HIp{AHIp_&H-BpX&U(pHX-H-pIAayHpH&&BIAA(&{A&AOOp9SIBA9&HAI&XH(Xyy9(-{IHq(BX9XHH{&XH;cI-9sO&9uAAB9{y+{-H9Itp{-&c(X9{O4IDIch9{?A-&BcB&B-IpHOp:99XHpIOAH(OcH&yyMyOOHHH99AOIBcI(-{Xpy-Iy&OOBr99H^HOA&H&c9&cy(p_99BBIyUIIA_OO-c-9O--B{O{(H9cT&IH{9(-c-Xy(Op{9cypI&SX(c_AO-{ppc(&BcTrBB99OY{Bpp(cI9p_-(BB&_KO9cApB_cBHp{OXB-O{yA9(Ip-AB-yA((({-A&-Iy{&9BI9AO&IA_&(H{XcA-cy&9AyA9AOXBcAUXH{Ap{(AI(&-0X9Ht{BXA{OAB(9&H_yA&p099%A!BIc6OBBcA(-{{AOI-O9OA-BB{OO2BA_&DXIyA{(XcI_OHO_BXBI_pBH9I(OB(Oc(&(yHA,XcI9py8Oc-&A-H9p<A-IpcXy--AIO3p(OW-Hc_LI-y_-&&-LpO(IyIXA6I9cMIy{9HHAy9Ap0yyI_BypppwBI-_XHI(XAI&p{X9{yI{p&9Bpp9O_I{9&&{yI&IHDp{OXBJcyH({(A-H&cIp{-OI&v(BX_XN9-XA_(_{AX{-OBwOc({9cX({9AO(yI9&OH-9(&yqp_(H(I-_&(I-{X9yIpA&&BA9&HHIX{A---&pA-ApA&Xyc_vAHI9pc(I-Xp_d9pcOcyp9y!AHX_OOyc(ppO{IIOyBy9BG1Ic{p(9BaXHO_{/X--X_(O{{H_9(9yXX_-_cA&{yOI4Lp-{{OHc-pX-O{cp_-(cc_OBI99O(p{(&(OIcc_(yypy&-yBpp({IpX_O(B:9_yHI_wXI_9AtIcH9O(&Ip&;ybI9H;Bp_&(yIO_BHp{A99J{IISy-+_&H&IOA9-(y-&&H9p&_OBp{X=O-pXp/&cO&(B(_8&A-{{Ah&-c_y({IX&X(cc& -B&{c&{{BXB(IcH&pO9pAXHHp{IXcIpp-,cI_XBy9cOLpB(A(X-IBAc&pc-9{-pI-+pB(_{HXIc9&H({B9-rzIOO9By{-HIy(pO(,y9O(y{pA&(I{c_H9BAc9-(c-XXy-B(OcB({HH(y,pX(cy-&_-ApIOAK__9W9{IXy(&c{pI-cB9&&HcA*HBI9_Z-BBp&c(9I9OHBB_pdc(!A_O{{c9(H{{9&yBpp&HcIHXHOyc9_k-HB_1-Bc9XO-{cpA(_IX9X-yp9&X(H9c.A{!_O(6{9pp-AIcAByI{;&>IOA-HpB9&{-(p&_JBc9pb-Ip{c({{{&-yHp_Oy#_9AX9-{c{XX{(XA(OB!&9LAI{AX(ccIXA-pXA-AyO&pr_IIA_({cBX_-c9{(&py&{H_9OOOI_Ap(-{Ac_(pB-&c(2py&pI&ABO9{Ap((AB,&OF_IAAc({cBXc-IpH-9y&9cypIp_O(I9O&--XpH&&y__9yH9{O9(&_AHAIXAc-}yH&cHc9IXdB&_&0OI9X(&-cIO(ycp98cB9_XHp(cXB&9cX9ByB9BOIBH_pA9I_pO(9cy9-yI9ydI/O_9X({9A_(Bc_p9yB{HO_HI{y&-I&Ac&{c9_IH-I-_pIH_(2A{(cH-ict&Ay99yOXH-{b&HIcA&(HBBXAy(pBApyOcB8I-F_HzHISAd-_{ph(yyIO6A(XA-&-yp9HuBBc_cy&I&Xc(Ap-&-y(&(O&BO_y(-99A9IXcB(BcBXI-Hpp99yAcHA-(fAH({c{p(-XIp_HH{I&D_(IcIX9{cpH-(p99cy9{O*y(9c{H{yHA(H({HXHyAc9H-BBc5Hp-&XXOcp{9Oyc9&NHH9ApHpcB&--XpI9By{{9wHI{_9&&{AXA(XccOzxH9pXcH__I&RBcA&(&{B&{(9cZ&{HOApXp-BA{OAB&_2-_{JXHHX{AXpc_9{Ocyy&XyXp&OpIH{(HyypX{uHcO&Oy>p_0-Hy_{(-{pA_-pc_&&y9Bp:(Bc{cX_-cpB&Xp-&-yO9XG{IRA9X9-{pyySyAX&uc{pX&yIp_vAIA9_m9y{9-OABX_OH&{_Xc-;Ap(Oc(p_yy9yOBBV_cApIAXc(&cL&&yS9-OO=&_pjX(Xc_(_c_XA-{pO_iB(c{((cHpA(9c9X_-Ip&9OIHcI(Hc!p_(pcpX9-BpX9&B&cB(U{Op9(cccXp-ypA9XB(cyHO{yc9-myy&--_p__cy&A-X&IAAAHX{c&WOHp-AcBIIXA_I_A_HA{{XOO:p-A{I(AHV{IXAXXccH9Og!Bc&&+I9{GOHXAI(I{{X(-9y_&A((9BA{(Bpy((c(X-(&pI9{yp{A*{IHc?HpyO9AOXB(O9y_9B._H9_AOH-pXHO-BHh-HOI(H{{I{O&&{BXp-XcA&Xy{IIOO-Bp(&(-c&a-Hc_OHtK9pipB9_BHX(&XpiBpO99Gc{{v(BA{-H_(XA_-Bcc9H-OIp3AIO_AH({&AX/{cp9c-&Ic&DBI_IOXIO_(}cIO9{y9I(A(H9{&XBIIp_OAyA9{OOBO_&II_{HH{{cI-HBXX&%ccXXByp_H}BBp9{SXy{&9w({HOcB&_HA9IA9H(OBp&Ryy9cO{Bc_(XHI993OXBh9-y_pAOIBAI_6Xy(X(&{yB_y-_9HOy(c_r!({8_&O_cL_--997O-({9OHB{Bco((B{9ctVpO_IHy9AHy((XyH{{&9-O_B-tcH_AyAXB&p_(p{XpXO_I9OHB{99X&Ic_c&X{y_H-yBI_y(-9_HH{H{A(HB-9yOAp__(H/9cH>H&A{({{cX--_yA&&(-9IAc(IpB(%{9pp-(B-&XHH{-A_(Xc(O-BQ9WOIp&&Oyp9O_&I{A{Hc{-X_&Ac9A-y{Ice((Icp&Gyyp{EIpyOyyB9;ncHp_pOF{ypB(OB-_cZX{yAy--AH(H{(AX-ByI&cHX_c%pHO{XXX{Xp-OHBHONyc9cABIy_AHAc99B-Mc99p-O{cXB(B{_(-{yA&-yy-&B-c9&Oy-HA/XI-y9-(9{XOH-p{IJBH_{p&cIOX--{cI&{yHIeOI(OcAAOcyp{y)ypOHy(pAD(HH_-GI{AA(OOcX9yk({HOcBAALUO{DA9&p{O_cHBp{&X(H9pX({9A_(Bc_p9-AcO!By_ccHI(Xc_&Ayy9_-yIyAIHI9OH-{{AI({cH9Y-IIOAAy&9yXpIocp-Hc(XAy(BHO-yI_AF(-OAX&yy(9-O_I(&_H_{XAXII_p(X{B_(yHB{_B(y9_HHIypc(-{XpA-BBI&&Hy{IA&-WcBOIB-9yOp9HO(yA_(AHI-_I(y{(9O-Bc{&&yH9OOXB9_O(B{cpH-{pH_;ypI91((cc_&(yBpp>9I{_ciX_BiII<AIXB{{A9y)cIA-ypp_v(BBA_HHI&X--pcA9By_9BAyBX{&HI-A9fOIB99XH&{_AA(HApH9{yX9&pc_X&B(p9X{BX9OHIIpXX(Bc(&{yX9V_pIp9&HcI99{(ABO&IyApO_cB9A2H-y{X_(_p{OByO9c_{BAcAH-{pAADYc&&&-Op9J(H-_I(({cA9-cc9&XypBcOpB{{{HS-BA_&Oc&9IyI9IO{B(_9A_{y9(({B9&cycppOyBAIXHIyyX(OApb&zyA992yBXIAH&(&Ay&&pHOyyHp{x-B(cA?&(XA-&XpEO-y5pIa(BHc_3X(Acp-p{A9I({{{Xy-A_(HyI(X(&B{&9KBHB9&pHX9BXHI{cc&cc{pOOApBO_y&I{HU{fAHHAcypB-c9yO9yA_9oAIOA_X9{IpA-Ip-_{y9{H/B(cAc(c{pXy-AyXONBA_(Fy{(Ay({c-p(--pH_HHy{HA&(IAI(I{{X(-9y_O{HH9pA_IIcB(y{cpAy{BI&_Hz9pA9IIcy(B-&XAOcp&_(BH{_}pIp_9HB{Xc&-WIB_BHX_IQyI(A(Hc-Xp&GIcA9yyB9X__IH__X(y(9c!Ic_9-By9BOOIB{yH9{yc_(XI-_IOO_KWHB_AHX%{IX;&{cpOOH_I&_cIp_9Hy{9cp(Ap(O(OXp&Xy({cBX9ytp9&BcI&&OA9(OAH-cI(_y{AA&ypB&Iy=9I_BI8cAH(-HpX&AB_XOyApAOBBAcpHJ{IApOXcy_p:IIcA&B(_OMOIcAOOAc-&p-A{:O{B__O#&(IAcOXy99AH(ppOOB(I_iX{HXB(y-A&(-AB-OBI_c{Xc(yXB(Icz&IOB9yOyBA9&E{{{c)(Ic}p{;c9OA_B>IcHpI9Ay(9-p&HHD9_=9(B_{&H{AcA&pyIO(FXpHO&y&9{Z&-_A((c{_9O-&I_&AHIc{&ABy9pH9{9_pHcBB_HK9I_AX(Acp&I-&pOKJI{O&(-_&HX-cAO(BccX9-9y_OAB{_{Jy-{_&((cIXB&XpBAyBO_&XpI_pB-5ySpXO99IAHyc9&^HH9_A(({Bc&-3pyOcy{BOqBBO{I&-y&99(Oy{Ocyp9-3pHcAy&O{BpyOOB(_BH{IpA_(-cc&9-9XS(Xy&_XyI{pOOH&cpXAyyp&O-BI9XHy{-AyB9_{Xcy{A&-(pI&BOX9-OX(Hcy&9ycAX&BpI&{yH9{_IIB_BHXIOAc-cyH&{yHBcA{-+_yAA{XA&(cc&pXyy{yO9HpcyX{-&p9&&B(9cU9IX_OBB_(X-y(X&O&c9&JOc9-O{(A{A&yIcXB(B{&&BH(ppOOB(cI^Ay(cOO-yX_y-&{g_XH&cBHA{(XB({c{pcyp9yiyBHcyo_IOX-((-9X_HHB&A(HAc-nX-OcA&XByX_yHpy9XyO_BGc(HA-(p{ApB-{IAOHHy{{X&IBA_H&B(X9y)9a9_yXc(X((_ApXp{9&(OspIOKdO9pXO-_AB&HcpX9-yp99pBHp&qB(9AyHyBH&H(ppU_-HIpOX9IHAB(p{cp -_cB&AyH{&R&BI_X&Uy-AA:{c&Oyy{{_>(Ic__&O{XXX(&cpOH,(9OXpIIc-HX-_p&&9p-O-yypO/{Hc_9&X{_X_(Ac{&Oux9-XBI-A-HyIOX{&cc_O{yXpOJXBOA(H&(XXy&OB(9OlAIy3OBX__H_{Hcp-9pBOBy(B9O_I-{HH-{pAA&Bc{&Xy,BptXB__pHpIOc{-cp-O-yZBcOpIHIOHBIOcI({BA99/&I{_yIB_IH={IcB(IBA&UKyI9ABH,_(HcI_cy(IB_&9--pp&O(9_(&II__&-p{9_Byop9_H(({X&Iy(AcXOp7&H-_9H_SBI_ZA{-IpHO9cHpcypp9OyB9IpxOIpcvO0yA_-HHp{9&BO_)i9{o{O(B{OpI-pI&A0(lI{HcIpA-(p-cX&-cyOO((B{9X-(,XH(({A&(OHp{OH7c9_X&-(pyXpc9X_-Bp_99BBpO^IBpA{HB{(p9OcI{&&B(_IYBHXA-HX-yX{KAIc__HAI(H-Iy_&(y--XI-ApA9{yc{&X(-5cy&Xy{cO-!pc9IyA9I_XI=XBOHyy9{&_pA&Xy{9X_AI{_HHcI_Xp({cyAHy-ppMzB-ApzOIA9{(_pc&cyH9cXBBAA(HBypA&(-c9XXB-ppOI--AHN_{(AB--cHX&HppX;9B9_-H9y{A&-yc{__y(9It9Bp{HHAIIAX(Ec&XA-p{IOcy&_Bbc{&Ay(HBA&-yppA_BB{_XHw(pA_(Op-&(O99UO9HH_y&{yBppO(-OOEyHp_2HH!_HHp({XI(Ip(Oty99-_(BX9{g&IHAOHX{9XOyBpc_HB-_{H_I9c((cc(pp#pI9=&(9_#A{{cAp(-cppc-_9HLHEA99&--{p(&pB.9OOypBOX;__H _((AB-9BI99wBBK HB(9AH((HAy(9c9pB--IA_AHB{{A-IyAAX9c7X9OHcOAc(B{IA({-AyH&cyp--pp-99BBpO=IBpA{HB{(&I-{pHO{vI9{XXIHcB&cyOXI-9p&&X8B9IXAIH_y(9{o9_-(pc&_HO9I^9I&_XXBc%A9-HcyO(yMpXX9BX_(HpIA&((ccBAuyI{A*M(yc{&&{B99-pc(&c-&{p,CII_pX({yX9(XyI&BB(9(O_I(cOHI{AAOu-pHOHy(pX>BHI_O&X{(AB--cH_Ay999O_BI_&AO{K9I-y{&&B-c9&OyBHcAHAIIXyOZB-XAHppXXHIH9_HpI{9y(c{A&--I99O(yOc9Z&{_A_(yc__c-O9BOc(A_-H{{_A9&(c_&_-Ap{OOHM_H&{IA_O(X{__Iyy9yOBB;_cAp{(9E(&{cXO-(9c&&y_cIHII?AI&9yXXIH-pOA_B_9B+_IHp&(9{IXX-}9y&AypcyC_{HAyXX{O&B-cBHO-Bp9AABI{A_(O{&pI-ApI9XBCc-&H-ypHX_cAXX-{pX9AB(9AA-IIp_O{y99yOH9(O-yX_-A(IBA_(_-IX{RXIl_XH-{9XIH&_O({-BX_-ByA_AHpcH>IHXA&HO{pXO&&p{O{yc9-?_HA_XO-{cA_-pc{OB-O9BO_(-A_XXcxp_-iBy_{8O9BOcI&_yXX-9X -XcX&IyX{96HI{_9&&{IXA-Ay{&pH&9-OIIy_(X&{yA{-Xc-&{yOBXDcB(_p1&y_Xp-HpH_Xyy99OX-H_B(({(A_-(BO&IyApOX-B9_&(({Hcp(Ap(O(OXpOXyBp9AH9Icpy(9{XO--ppX2BH-_&gcIOAyMHcO&{y{{-O9Ii_-&{I&Xy({y1&(yI99OpHH_{HH(cA_;mBA9Oe&BI>{Bc_(Hc({AX({-&&HHB{(AB(BIAHXI&Ac(&-X&IyIp{O(B9I_Hyy(A{H9ccXIHHpOOOBu9_H-(yABO_cpX--9cXs-yp9I&H{H__(pyB9c-HI&O((I_IKsI&_AOp{XXH-cc_OOy{9yXOIIA9(&{XpByhc9OHyy_(gvBXp9(c{(Xp(A9(&cyB{GHEB9AHHyccXs(XIc&OBB9cAHI-A{(_{9p(-_p_&Ay{9OA3IHp{HAIOXX(_pp&-yppOXAI9_yH9{YpcybB(OBHY9BAp(AcyH9IX&-(pB(9Oyc9&lHH9_A(({Bc&-UpI&p/(9yQcIA__X-{pX-&9cXA(H&{mXHHcApH9{yX9&pcO&pE/IOX---pHH{(&XO-Cc9O8OO9BOOHI_p&Ay9pAkLyyOByI9DsIHBA0?9{HAy-(cQXXH9pAO(Bp9A((IcAB^fc{&_yOp&_IBA_IAX-ApXV+c{p&yO9QO9IwIOH&I&XI(ccHOHO99SO9HH_y&{-_pI&(p-&y-&9y_-BA_AUXIcXn&H{O9{-&IH5yH_9OXB{Bp&(AcAXX-c9/_HB(ccXcyRXp({cB&B-_B-Oy(_{{Xc(yAB(X-_&H-_B(A((99XAI{{Ac((ccp{-Xp{9&yOcI&(--{O-EcHX_yHB?OIBKI{Qc{Op_&cy_pByIp{OHB{IIHBIBAXHO{c&cOHp{OHJc{I(!-AAQXpc9X_-Bp_99BpcHHB-p_X(9{9X--9I{&&By9{X_I-p{(-yO&I-ApOOHBHI(H-I&A&H_y&XB-ppX&AZy9{X_I{p-H9cuX-&Ac&O(BI9B_XB_pyHpyAX--pcA9By{9_ROB&{IHA{IcX(&I-_p0H_(Z-BXA-X({cX(&pB{_OyyBX5&BO_pHO(&XH-{p{9(yy{pA9({{O&pyHc9(_p-9Hy{9H_cBpc&&-(AXX(&cc&&OXpXXyBB9A(RIc9-({py&y-X9yXHBc_&HHyBXIoHc(XpyHpBXfByAHHHI9XHO&cB&_-&{(OpBXAHH+(cXyOOcSX{-Op-A&BB__,&({Ap(XpH&vOcp&Oc}OcH({y-A{&1pH&(-A9(_HB(ccXB-{pX(ycc&A-_B-O&HB_pX-I{c9OpcL&I-pB(OyB99XAIIcA&(H-9X_HHpB_pHAIcM9{)A-XA{_&c-cpHOc(B9AH(IBpp(Hc{&{O(pDApHp{(Xp(4AH(p-{XX-{y&_X(Ic(7-HOX#(H{_&HOkpIO1a{9BXO-_cAXccpX9-yp99pyO9pAC(XXcOy{BpHy(p-&XB-I(gBI_A_XI{p9XtaI(_-Hp{p_&BOA{XB{_XB&AB9A(yyIZHHI(_A((-HXA(IcX&6y&pAOp-I_p3&{BAc-&cy&HHA9(XcBAcJ&-y9XHTIpBX&yyp9XBBpAIHIIOXI5-c9Oky-{{OABH_ck_cHA{(yIH&O-p9fO-IH9O2Ay{AXV-c{9_:&{BOA-HA<dpIOAB^+cyOHyHp9qH(&_BH_I&9((pcXOHyxBcOcyX_yF{{XA-(QBX&_-BpA&OBX9_ecy-ApOOc-9{*9{HOc(X_ADBI_AHOAc-&p-ABBO{B__O,&(IXHH_c(XBy-pH&&(__pC-I9_X--{pXI-Hpc&_BO9{ay-OABO_{O9-^IIXOy(p_c,HI{_XOc{O&B-cBHO-B{__W9((Ac((-pX{FOIXAH;9__^AIIAAX_cHX_O(pgAp(I{9A-{yABHOcBpy-ycpO*y-_pOOBApp({{HXc(_pp&{yy{ODB-__O&-yI9X-yIpOcyH9{OX-c_O(-c{XI&&pp&-y9pXV_Bp_IO-cHA_-(cBO_yHp&OpIJ_-({IOAAs{cXA-y{I_A&-B_AOHc}Ap(OcBA+y{9X?gHp__HOc-X(&9px&9+H{(X{-B_IX(c-Xy(&py9-B(9(.9BA_B(B(&Xy(&yB_cHXpX_pI9__HB{_c9-B{O&I-p9{OBB(cOX{{HAy-9c7O&H9I9Ar(O_B&_IOp-OIBX&yHp9cOHB{9X&cIAXp(pc(&pHIpXU-BIc9WOIyA_H&pyX9-{{yo(yA_-oI{yA(HOB9OHy{99OABAIXH&{pXp(IBp&jyy9cO{ZO_9NyI__&(A{9X{HyBAOIyp_OuBc-pO&OyB_y-9{%OyHc{_&(Ipp&(X{IXA-(IXOyB99XAIIcA&(H-9XAy(pB9&Bn_I6p((Xy(9cXXO-OB>eHBA_Ahp-AA-({c_X9O(p_O_yA9{fO(^A-&I{c9Vy-B9&&Hy_yXXI_A_HA{{XOO3pHA{H{{OHcIIAy(y{9p(--I9_IH{I-.yIA{9(D{9pH3HIp&ACB_I5{IHA{XI{AXI&Xc&AB(H{(_&IOAtH9c^cO-BcO9Iy{_&X9({c9XycBXI-TpI9BBy9y=AB&_{({-NXI-*y{_BBO{_OOHcApH9{yX9&ppcAQBy{cOAIp_pH({p9I(Xp-&IH9pXXII(c&(B{_X&-*p19HB(9XKXB9cXHy{cXA(_y-&HH99IX(Bp_OH((_AX-HpB&yOApOX-Bcc_H({cA_&ycI&9y&pX_BB__BAAIX9(OcyrOHy(pAi(HH_{HH(cpIO&c-pAyXp&OcB&IXHm{IXI&Hc-_clpII_&(ccxApI9X(&VcI&7O{pcAX((I_HAIXA{(X-AXAH-pp&_BO9{&(IIX-(-{A&-HJp{OXBScyHBy=AIHc{_XylOp-EmBN9pHE-XAy(9{X_H-cpAbTyOI{H--&AyHI{pX(VXpyO9yXIIMcIAX HO-{XX-{y&AmIIc(qIHOX}(H{_&HOvpHA{Hy{IXAI-A{(_{9p(-XByOcH(9IAp-c_O(B{cpH--pp&A2B9{mXI!{pH9B)XyOcB_9{yp9O (H__X(-{IcO-Hp{&9s-9BdpIX_AXy{9Xy&_B9_AH&{AL(HpA9H_{BX_&9p5&9gH{;XH-y__X(c-Xy(&py9-B(9(59BA_B(B(&Xy(&yB&cBX{pA_(&{-(y{BAO-Byy&XyXp&OpIH{(H_ypA&(HcOXXHc9I}IB{_(H9(_A&T(pgX9ycIyAcBsc_Hp{pA9(BcXp&-A{B)-yX__3p-yAAO&c&XcyIpyXHB(cpHyI&cX(cBX9Ax(99O_BB__A9{=A9&p{O_{HB9-&XB_{{X9I-cA-ycBXOyBByOB(__/C-{p_OO9c9Xyy(B&A-y9c{fc-OAI(A{Opc-9p&%(BH_(dA(_AHO_B{&B(OpX_pHA9BA&{IA{(Hc{pI-{IXO(yB__hH-AAAHIcy9f^BcAApy9cHqcI&AHX9{p&I-IcOOI(-99H1I-p{(BcBXI-Hpp99yX{O8{IXAXXc{I9OOOBc_O3I9{sOHXA-HX-yX(29Ic_9uB_I.{IHA{XI{AXI&XB9A-yBIHH(I-_X(--(Xc-(yp&{(HIXA&H9A_HA{IXA&_p9&9B(9yOXIX{IHA{IcX(_IB_B.H_(k-BXA-X({XA{(&cH&O-Xp9X{B99OHIIpXO(Bc(_Xy-{pOX(Hcy&_{(9{-I{O&B-_{IO9I{_{HJ{{9y(_pH&yHc9cO(Bp9AH9IcABh(cBX9yHpyE9BC9X&cI&9y(cyA9OHIpXX(IH99HvII9H-cc&OHy-9-_yIBAq(?IX9v({c_&O-&BIUHy__(0B{-AHH&B_X&--p9&XI-9pzIyHA{OXcH9BacIOOI(__9e-Ip_OO9cH&{-9B-OBBp_XvA(yA{O_cMX-yHcOOXy{9O1-(_A&HccK9(sBc&_{yOcB8p(Xp:O{{&_-y(c_OHy{c(WpIOA(X_{X&HyBpy9AB(9AA--Bp_H_-{&c-pp-OpVc9&2cHO_XO{ycp-yypB&OBBIyH-I-A_HX{I&I&OpB&OLI{IXAB&{9(_{AXI-Ay_OIyn9{O9Ic_IH-B3X-(ccO&(Bcp&O_-I_AO({Ip9OXIy&_(t9OOcB&_y&O{-&<-McpO)HX9yg9BXpH(HI_X((Bp-&H-&{_apB-_9vXc-Ap(IcH&c-_9OO{BycOHBy_AOO-BI_Xyy{pUcBH_{mXycXO-Bpc&9y9B_7AI{A{Hyy{A&-(pI&BOX9cO(Bp9AH9IcABd(cBX9yHpyq9Bk9X&cI&9y(cyA9OHIpXX(IH99HtII9H(cc&&HO9pA4.Iy_-A_{HA_&(c?_9g9BIz{Bc_(Hc({A9-!p=p_-&{(AB(H{cX&-_c-(ycAp9yVp9_HyOAp&B-_c(--cyX&yyB-O&yc9Of({f_&H_Bc&I-mp{&9I*9I/-B&ABHccAXy-HIAO((c9AX;--p9(HBI&B(&py&9(B9pHIII_O(IB-X9y+p-A{B{9H#cB_ApH{{y_H-ycpOky-_pOOBAp{H_ccXc-HpcAByA_(<B-pAo(yccX{&Op9&yy_p&sAB9_{Oy{{AA--cIOAy(pOX9IHA{H9--XB-_c&9{yp9O.(H__X(-{IcOyHp{O9yA9A_XI&Ap(p{I9p-/pyOcy{BOCcIc_pHy{AcX-MI(&9BV_1__Bpp(&(-_9(&pc9O(,G9I:FH{_B&Xy_pX&cpp&9yy99_pBO_pXC-X9I(cyyOByI9m5IHB__HB(AA9.yB>_HOX9&OOBp_OA&{XAX-Bc{&UB:BpOOBp{Nt&ycpc&ypB&IyC9I_BIu99HHIyX((W{X_9-Xp(OpyAA(JcIB9x(IBA&anyI{A&BBc9HpI(AcH&BpXXy9p9O-B9c{U&{yA{O_c_XB-AcOOXy_9c&BIc_X(y{{&X--pnA_BHc{!_(Op(OpcU_ByycXO-ypcyH_{HXy(IcIp{yc9-)-Bbc->9I&X((H-p&y(&pB&cBI9y<H-&AHHI{XXlyIcA&p(y99&oIycc&_B(Xpo&pX&IyA9(XXIyA9HX-IXc-A91&OJ{99X&I-_I(y{(&s(9p(&I%&_HO_I-cB&c{Hp9-(Ic&AHo{-X9IHpI(BI&Xy(9IB&AB(9B_&I?Ay(c{{cO-BcO9IHc{&O&H9A_HA{IXA&_pH&_V(9DX9(_{I({{cX(-cy{OIyI9& +BpApX({cX(&pBp_OyHBX}&BO_pHO(&Xp(-c9XXy_ppOI--_I5_{(AB-_cHX&HppOXBBp{X&oy{A&.-p(X_yHp{X(BIA-H-IAX-UMc{&XyU{ywyy&_Bmc{IAy(HB&&A-IpXOiII9AjpIyA_H&p(X9-{{(Oc(&_(XI-p9s({BA&_-yp9Ol(_A(Hc{_AX(X-&&Oy999O{(9_HHB{pAc&Qc_XB-AcOOXy_9c&BIc_X(y{{&X--pRA_BHc{=_(Op(Opcv_ByycXO-ypcy+_{HAyXX{O&-y{pI9&By9&ABI-pX&X-p&9-_pBO_k99XH-{-{&(HBB9cUyB_AHH&IIe{IO{X(-{Xpy-(9AAcH&IBHII{AH({-I&H(_p(&BB-9HO&-_ApH-{9AXy-cp&IyH9cO_IO_{HyyOXBC_cO_-HI{XSy-pAcHH{{AXgccAOpyp9(,p-I_X(-{I99-9cy&_-&9AO9B{pyH{IAX-(IpA&(-O{9O&I___Hy{_9c(OpB&cHA9-7{I__9X({XA{(&cH&O-Xp9X{B99OHIIpXO(Bc(_Xyy99OXHI_cH&{Hc9(Ap(&BO&9)}IBp{(Hy{9AX&Icc&AB:pO_{BX_{XI{?A--H{O__y9pyO_y&A(>9I{p!-ccp&-ypBcOp(O_yz{{XA-O&cB&pyXpA_yBBc_SO--pIOXcy&9-X{HOcB&_HA9IAX((B-&&Zyy9cO{aO_BTO(IApO&yO9AO{9cOpB-_pAcI&AcXOc(_{H-IBAyGX_&jOIpAOX&cyX&OBpcCX(p{_X{(-Xy(B{O&BOyp{OXBXIcdp-Op!O(yB9X%pB1OHBpI{:XI{{&&XyA_H-cyOSsBH9_HH(#Ap(p{9XB-Xy&Oh(B99OXI__p({{HXc(XI9Ocy(9pO&(IApH-{9pXzfcp_(yc_B>BB&ABO({pXO-(IIOIyz9{O9Ic_IH-BnX-(ccO&(Bcp&O_-I_9({{{XF-{Iy&_BH9yXcBOA-({{Ic&-pc-&9-X9_OpBIp-HII_X((Bp_&H-&{ptvII_pX({yXc-Ac_9-yA9AOXBcA.XH{(9c(Xc &&-A9cncBp_yHA(XXIO-cp_&BcI-#IBZ_ItA-yXA&&pH9AyHIBAc(V_Igp{OAB&&y_9cyy{IO_H&_yX9-_c{-Rp;&H-A9y_BB{cAXAyyAA-(p(pX-&{yOcHX_IA_IAXy&(cy_p-&IHAy(___JBI_AHO&c9XI-Xp(AXBy_9+XyHAc(&cHp9-A9wfyB-I_HHI_c((Bp9_I%cI-_RIH_(LA{(cH-ucx&c-9p-#-FA_(sA(-p(&&BIXXOy9BOIBj_IABI&A&HO{9&(O-pBA9yO9(H!B&pp(-BBX9OXpO_pH9cH.pIOAOX9{__H-IB9O-Kc9pHHHOAc(c{pXy-AyX&O(y9OOAI(ccHX{(9X-Xc{&Xy-cLvB-c_O(B{c9A- pX&XyI9XX9IHA{H9y&X&(ccO&(Bzp&O_BIAIH.{{A9y1cI&-yW{X,_BB_AJOc-A_(cI-O9BF_-)BIB{I({c(&((OI(&pyX_H+SHcAH(H{(AX-ByI&cHX9(OBI-_H&A{I9c(XBUO(6AIXXyBAA((((XA&Vycp9XyIB_OAIy{(H_{_AA({cO9ny({{C(yO_BX_{!AB7wp4X9yTpIX-Bcc_H({cA_OOcI&A-OBcO9Iz_-AAI&Xy({y%&(ycp__yBI_9H&IXcB(_cBpAo9IIXHBIIXH&IOAp(O-&&y-&BBOc(_cpXX(IX{(cc(&cO{pXO{i&{X&yy(AcXOpg&H-_9H_^BI_LA{I9pXO_yXpcypp9OyB9IpH({(A-H&cIp{-pI&O-yI_yN({Z_9(H{Ip&yHc_O(HB{c,H(9A-({c_X9O(pcO(6p9A&H-XcXX9c_XA-IpA9_y&_yHyHO_XOIy{9_OAII__G{9cHhH&AyH&-B9IyXIp&OfI_{qcI(AcX{{9&2yLy_&p(({(A_(X{pH9c(ph-Ipt9{yB_OX_(_{c(p{9Xy-9ypOy-&9BOcII_yHHy&XH(IcX&MBIpAOp-y__HOc-X(&9pB9AyIppe{BBcHH{I9&Z(IyO_&yy{9O&((cB&A{-9c-{c^&I-A{{O&Iy_{XY{(Xc(_yy&-B=9+OpI.cXHy{9AX<HcO&OyKp_0-Hy_I&_{)A--H{O&X-{p&O-H__&ncIOp(OB{&9{-X99O9B-_9&{I&Xy({B_&(yI99OpHH_9H9I_AI(&-O&HHIp_&&BA99HcI(ApH&yI&p--p9_X(R9pX(I_XH(y-XXOyBpc_HB-_{H_I9c((cc(pp-A{HAXH9{XA{{cAp(-cppc-_9H}HJA9X&--Bpc&pBH9XOypBOXL__HC_((p%O9{OpIy{pcO(BcI{H(BAA-HIcyX((Oc9O9yy9_O&{y_9H{{y_H-OcpOry-_{OOBAp{H_ccXc-HpcAByA_(rB-p_&H-{9AXy-cp&I(-_HO_I(_B(-{HA&1pcXO9y99-<9-{_&(y{{9_-(pIO9ypIHwHBI_XH=cIAA(pIIOy-&9BOcII_yHHyAX--pcA9By{9XL.Hp__HOc-X(&9p%&9zH{BX{-B__X(c-Xy(&py9-yp9-_9(Op(H{(&XO-gc9ODOO99OyB_9&HAI9A{rypOO&Hp9%,yIc_{AO{BAO&IBp_Ay-B9f_BA_IHA(_A&-ypypOys{IA9(A{A&(-Xc{(cpVp&yyp&_BBccX&y(pX9(_cB&_O9p_2-HHAVHz{AX9-ycXpA-&9yO{(_9OHAIAAB(ABp&RyIppAXB___=AI{AO&ScB9Iy9I8OyH9_HXy{yc&-yycX9HHpOOOBZ9_H-(yABO_y__-yAp9OcBc9&AII{p&&9y_p{-c989&By9&ABIIpX&&-p&9-_pBO_S9_7v9(HA(O{BB9pO(9-Oyy&_yA-IpA-X9{_O(N&B&9_BA9XU{IX{A(_{_&--Bc&O&s{9X!{H&cO-IB(XI&O98OHy__HA1{(p{HXIOXp(_II&9B{9{NlI{pyH_cHXyRcc_AyB(pA.XBcp-H_cH&H&Ac&A-HyI_:A(I_X>O{yA_(Op{9By-{AOX({cy(HI_X(({I(&pyO9(XIIXA-(I{cXc&pp9OBBB9(XBBAA (y{-c_(pI(OY-99_OI-H_pHO{Oc9(AIH_(Jp99AyB_9XH(IpAX-By-&HH9p_AB((_O.p{/AB1Wc{&Xyr{yO_IH_yAXIOX--{cIp&yyp&_B(ccXHT(pX9(_cB&_O99B&OII9_&cIp9>({c_&O-&BIO{(X{9XAy(Ap(Oc(p_-X9-OIYO_HHB{pAc& cI&vO{pcAOH&I_HAIXA{(X-A&(-AB-AZ(pc{f_(yXB(Ics&IOBpcO&B&IpHyy+pyO(yI9&WyBHO(B9IcM&Ic{O(>p{_-/BBxZHB(9AH((HAyOc{X_!-y9HOHy9_HX&IBA_H&B(&-h&py&IB_9(XXIHA&H&{{X&b_p(Ocy_{OCII9A&HX-BXc.ApHAyy__HGyHX_O(-c{XI&&p-ABBH{XH(-pAXOH{I9X-OIB&AB(9B_&I6AIHp-(X-rpcX_HHyI7M(Ic__Xy{-&W-TcpOhHX9y39BXpHHc{A&r(Oy{&cB*B&6XBXAp({cHX9&pc_OHyy{cOOIB_cXH{-Xp(AyB&{y_9OO&HI_AHI(XXr.BBp9HB(9-OXI-{(HXI{A&(HcOXX-9{{#ByO_I/p{OAB((y{&y-{9_O-(&_BHp{XAA&ycOXpy0p-sHyO9A&p{{AH(c{_OH-{py&OBO9pHsI-X{HO{AXpHyp_mHByIXCO{BAc&Hc-&p-ABBO{B__Os&(IAA(I-X&QHBIBAB2&_OHuI9X3XOcBXOOIppAA(9{_X&(yXB(Ic5&IOBp_OBKA{9X_-OAIXXc&XO-ppO9&By9&AB--pIO9{OpIy{pcO(BcI{}c-&A-HIcAX(=XpyOcBA9_A-IAAAHX{c&FOHp(AcyX9xd&BAAc(c{pXy-AyXOIH-9pX&{cc-(I{YXI(AByOAU&_HAAIHcB&cybXI(ppO&BN&I_AcIypIH_-&XyO9B_9{Bb_k.HBAAyXB{{9AOAIy&AB(_(_XB&pyHc-XXI&_cAOyw(9yXpB&cH&yy_X_(Bc_&HH&99OIBX_(&X{yX9(XIH&cy&9H_9BAA1(y{-c_-Hc_99yyp{gBB-cOH&IcAO((pIX&-_IyJABX_{HX(AAXF-ccX_BHp{X(Bp_X(H{Fcc(pBO&-M{I9XHBc_&HHyBAA-(cBp&y#9yRcB{IOHBIOcI(pBA9&H-B{*cBp_-Hp(cXH-Hc(XXyBBIOyHA_OXI{Ip?(yy9&HH-9H,HB(9XHB(IA{OXyX_By&pAO9B9_5AcIp9o&AyXpp-99(_oBI_kA{-IpOO_{Opcypp9OyB9IpFOIpcw&&BI_y-cBH>(B-9XH-((Ac((yI9pBHIXOHZ9__vAIIAAX_c9X9y(py&XBXII.AII{X&ABBXcOH9(O-yX_-A({Hpp(BBHXBy(p(&_B({ObIIA_OO-cy9Oy-I{O&By_{tpIp{9(_cI&I--II&XBH_BUyHAAcO-c{9_-(pc&_my9I?9I&_XXB{-9A-HIy&_BH9y_XBOA-({{Ic&-yc&9ByI{_XHHpA9H_{BX_&9pF&9zH9(Hp-BcIX(c-Xy(&py9-yI9AmAH{_p&&y(p&OyBX__OO96KcHI_AHI(XA&yBIH_BO&9O5vB9AgAOIO9I({{&&O-9{BOpII_ISO{I9-(9p2&-H{pOX-By9_HOI{9((Ip-&--A9-X*B{_XHvyyA_(Op-&(O9pXXHB(9pHXIB9L({cX&fOpp_OOI-_(A9{tA9&HBHOpHBpp_(I-_y5&{yc-(IcA&AO{ppA&HOcHXy-XpcXOc1&cOIpAOI7X9&(ByHp{X&cO&C-99f9OB9{H7A(OA-&IBBXpyIpI&OBIc-h9{jA-O{{X_-+LI(AcyA_pTpI(ApOI{X&--II9OHBB_pJc(TA_&({X9u-yB{AIyX_-JIHOAH({{9p--Bp_&&7{9cX&I(cI&p-BX{-Xp39py_9OH-I({9(e{9pH-yI{_9HBI(H-Iy_&(y--Xy#9cO&(Bcp&XpI6Ay(c{{cO-Epc9IBB9BHHIOAp((-HX--pcAA3y{9X!eHp__(H{ycX(OpB&c*H9-S{I__9X({cX(&pB{_yHA9-_9I__AHI{Ac_-Hc_9(H.I&X{--_pXLcHX((Ap(9Hy999O_BI_&AOIOpB(AB&&IyA9A_{BBc&X&-{pA&BcI&&OA9(OAH-c(&_I_c{-ccp&-ypBcO&BcIOXXy{A{&-py&B-O9B_yBO9pHiI-XHHO{A_p-_pHOcy_AH!{IypO(BB_XO?-IIAXBycpHcIHA{HXBcXOy-9{OId&_pd-I9_X(_{pXIH-9H&_B(9BH_IH_&&pcpX--9cXiHyp9I&HI{pX(HyB9c=OpIA_B99-xpBOp9(Hc{X9O-pBOpBX9AAyI9AyX_y__H6Op*9ABX9&qcI&{X(-{Xpy-(9AAcHpIBHII{AH({-I&B-BpX&Oyc_cAHI{AHXcyc9&-DyAOXy&9cf&HX_XOy{pAAy(ccA-y_{O7XB{_AH-{pXO-Oy9&A(H9yAp(AcyH9IX&H(pcXOBZ-9IX9ITcB&({OAp-3cBAWy{9X#6-yAy3&{BAc-Icy&HH&9yXIB9A{H{{.X{/yc_OHyy{cocB(_pCA{9Ac(BI(Oi-99HOyI9_C2XIcXc((cpXABkpcOBB(cXH-ypAXOHBy__y({{,IyO_B)_yIXX--pI&cycBpS9IBABH(yBAA-rpy&-O_9IONB{99HcIIA-31c&Xc-Op(/cy&9_tI{IAl({{9&&-Ip-Oh(__H&{I_cOO(Bp&aHB9y&XB-9p&yI_XH(y-XXOy-9{OIu&_p1-I9_X(_{pXIH-9H&_B(9BH_IH_&&-crX-y{cOA9B1cIo9(&pHOc{O_yy-cAO(ycc-!9{xA-XA{&&y-{BzO(Bc9_AyIIA9(&{XpB-_pB9AH9{cXOII{X(&{OXp-Oy&OHB{_{A(I-pp&Ay{pOicI-99y__-AHI{AHXcyI9I7Xp(9pB99_aBI_{9(BIOXI(pp{&By({OA(I9_yH_I&&y(9c{A(yI_-!-BAA-O={{XX-TIyO(B(9-O&II{{Hpy&X-(Ipy&(Bhp9,HBIp-(HI_X(({yOO{Ep9AA{BXcS&--_XyO(yO&BB(9(O_I(cOHI{AAO8-c9&&B(9H_pIy9&HBIcXI(ycH_&TH9pO-B99X(-IpAI/Hcc&&yHB9OAI(_BA&{qXy-cc{pOyBpO_I(AA&&9{qc{-ccp&-ypBc2{B{_OHHI9X9&-cp&-O9pXXW(({OA_{AAX({cXpAyB9BOIBH_pA9Ic9H(I{p&{-B{QO&B&9OJ9{(c-(AB9OBByIOO{BX_XAcI9pOO3ycpAy_B-OyBAI9H-{-AyHOc{pc-9IODyy{9&V--&AI(AcAp{-cI&_&H{I_*9((A-(_-p&(y(p-&&BII{op-&A-HI{AX(KXp_O_yA9{NO(=XHO{{AAO>(c_AIBy_yFBIiAcXp{9_n-Bcc_Ayy{Om9Iy{_(AB(9O-XyA&9By9{AhIHpcOy{BpHy(p-&XB-I(S_B{_XH-B2&y(cc&&yHO9IOp(A_BO({&99-Hp{&9H&9B)_B&p(Hp{OX(mIc9O{y{9#f{-y__(H{y9c-IpI&{y(99__BXp(H{I9Xc(IpyX&yBp9X{IB9OHII_p--_yXOt?_9HAy({{OHc-Ip--Ap(OBy{9{_cIpAy(y{H9y(_cOO-y(B95-I-_yfO{{cc(IBO&y-{9BO-(&_AHAIXAc-YyH&9Hc_-H((X_BH_{_cI(cBX9&qIB9^pHH_(H9(cXH-Hc(XXyBBIOc(XA(UBIAAHOAcy&9y9BBOI(A{AXB(pAc&4cH&pO{9}wYBH9AHy(BAIOAcHXy-9p^A_Bp_pw9IBAXX&cO_B-pcXAdypcyH({(A-H&cIp{-pI&O(yI{9M(-XAc((-p&9HRIXO_l99cH(IB{&(qBI_(--yOr8BH9_HH(ZApHB{AXHx&9(&IyX9(XXI-_{&9{-_g-AIc&OBB9cXAI-ApHABkX{-XpuAyy__HSyHX_O(B{cpH--pp&AoB9{wXI6{pH_cHXy&XcOO-B{9I_&Iy_&XByc9-h9II&AL-_yKBBOABXy{9Xy&_BX_p(q9B_AIX_&Hc{&cX--cX9yy{{AXc(AcXX(c-Xy(&py9-yp9-_9(AcB&O{yc_-AcX&{yXBAv(BA{-&yyI9c(XyyOByI9hLIHB__HB-yX{(HccX_ypp{Oy-Hc&H-IIX9((y_O-yyp&ayH-_y&9I&p(OBBA&-y{9_O9H(_-&pI&AH-{{X_c-O9BOc(A_-H{{_A9&(cc&(OppAXH(yc-A9{_AA(IcAp_-&9ygy7O_/&I-9pA&AB(9OO{pce^1&_yW&(Bp{&OB9XOOI9{OcB(_cA{{CXS(H{A&yOBpc__B_{BHc(OA-&p{_9--AIAO9B99_hII&{O(,BI9I<&9{OBB-_-Tp(HA(OpyB9IO(p-O_Kp9Ofp(NAHOcy9pyyBpIOuBIIBT_IB{A&OByX{Os9HO(yA_(AHI{AHXcyIO!4Apf9pB99_QBI_{9(p{p&H--cAOATB9_xBHA_XOyy{p;yHp(&AB(IHKI-c_&HLcHAA:{c_Ocyc9HDc-B_A(({B9p(AIB&c-X9BO{I__-H?y_&(-cp_&XyXB&2OI9A9H{y9XH-Bpp&ceqp&X{B99OH{IpXX(Bc(_Xyy99OXHI_cHAc.AO&{cX&{O&pOHI-(cBAOc2XH(_pH9sy-9p:pHy_I&_-ApAOHB9_-OApX#BH-_pH-(9pXy(B&&(O_9AOXB{_XAAIX9-OaB(_c-A9pOpB(_p&IIXX-(IB9&9-yp&O)(X9&&BIpXI(I{O&IH-p9KUB-c{s&{(XI(B-X&c-(pA&&(_9A&-I9Xh(--AX&yyp{_iB(_IH9IpcH({cHpcLII&O-NA_Xl&IcA&XXc-XXOypB*A(c{_AB{IA{(Hc{pIyBIX<H(B9AH}{yA-X_{__(y,I9OHB{99A-IBAp(X{Apy-9py_cH_cH%IHOXg(H{_&HO p-OpBpIyFO-_cO&AyH9{jcyA&XBBI-!pI-{9H_B%9(&&pOOny9_>_OI(pIH_y&X(-OcO&cyO{AM-Ip_AO1cH9A-cIy&cBB9BO&IBp(Hp{OX(UIcXOHBB9y_AIcp-HOy_X(-cc_9yyI9AOOHc_9(>{-cA(XI-&{!_I&_9BAA(HB(&AX-9c9&-y9{{O&Iy_{&_{_AB(A{O&X-_pcXBHX_{z9cDAIyyIj_slI{BOpII_IFO{I9-(9p &-H{p&<(II_BAX{IXI({c(&9O_ppAHB9{_H&-BAp&OcI9pyp{(Q!I8_HoA{ycB(IBA9AHy9XO_Bp_peO({AcOOy_9AOcppvH}O_BgO(IA{O&B6p9y_pAOIBAI_HHI_c(OBB9XXOI9{OcB(_cA{IXA{X&yAOIH(pI9OIN_H*_{Hc6(O{O&{-pp(s(/__H,_((A-O9yXpIy{pcO(BcI{H--&_OHIcvX(5XpHO&y&9{t&-_A((c{_9O-{I_&&y-9IOX{H_pHIBH&c-&9HO-B-IyHB{6X.HXB.X{-_pO&&*I9pXXIY_BHcIO&-(_ccA-y9_%z-HA_&((cIXB&Xp-&XQy9BHA-cc_XBcIX{-Hp{9Iyp9OrOH9_AOHy(9(O{I4_p:(9-E_Hp_OHp-Z9-ycIy&clH_(:-BXA-X({-9pOIBc_&y(9OOOBc_O&A{-Xp(AI}O=-99_OI--_p&_IOXA(AcB&AHp9iRIBpcXHy{cXA(_y-&&-c9pOy-H_{&p{2XI(py(&yy9pX_IBc_A(KIOc{(Xc{p&xA{yOpH(A-HyI&Xy&-cp&-O9p_H((&cHA_{AAX({cXpAy_{-L{(__(HI{9Ap&HcH_cyI{JO{BX_FApI_AO--c(p9yhp9_&(Hc{CA(BXI({cH&{OIppOOBOI9HByHpBO(y{9X%&B(O-B_IpxOIpcU(HBI9cOy9BOIBV_IABI-pA(HByXcyBpB&&BBc(}pIOA(OIcj_(-&I9&&B_9_3yI_pcHOcBXcYAp-O{B_99A(I{pp(BBHXc-&pH99yA_(3BH&A (I{pp(--Ip&XHH{yAGI(AcH_-yXI-AcO9cy9_ig-HA_&((cIXB&Xp-&X*y9{XA-ccX&{-(&--yc&OyV-9pi-H9_X-(y&9(%-ycOpy99yd9HpAcHccKX((_p_9yy99y__B&pH&{y(cA-Xc&&cy&BX2-BX{yHOIpXG(-pHXO-A_qWHB_AHX;{H9{(_yO_(Hp9N#yIc_{AO{29I(_{&Oy-9{BOAI(_B&pIXX9(9c-&9H{p&JyB{c_Hp{pA9(BcXp&yV{BO9yX__apyyX(-(c-X&yIB{Oc(&_AfIIXA(OXcB&_y_BIOc(X_(XB-cpi(p-&XOy{BBO-HX9XoOB8_BLHIB&pypBAOBH9_p4-I9_O&ccH&{-9I&GBB__&Hs{5cH-(cX&X-9IXOyBc_Ai_(-AA(A{XXcyFBHO-(c9XV>I&_AO{cB&B-IpHOp#99_&HIO_p(o{B_ -cp&O&tp9_&rIBcc&_y-XAOHp(O9#c9IXeI!A(l-Ic_yHcpAOA3O9cAXIA_IHX{(p_-yp9&X(H9ck&IH{9HAc4&y--y_OIyZ9{O9Ic_IH-B<X&(ccO&(Bcp&O_BIAIHL{{A9-&cI&-y;{_ (Ic__Xy{IXA(Oyc&9y&_(oHHp_OHp-n9HOOIB&9)H_(C-BXA-X({cX(&pB9_yHA{9SzH{AcHp{-Xp&cc_OHBHBAO9--cy&I-p9(O{yy&ByXB_ HB_{(&--O9B(Ay-OyyBpOrBHy_XHXI&Ap-Hy(&yHpp&OHBO9X&c{(9y(pyA&&jcIpXFBc_&H&(pA9JncB9py(B{OcIkI&H{{{Ac(-c_pA-&{-O&y__HX{IAAHOAcAXI-Ap(AOByc{s&{yA{O_{O&A-ApBOA(p_vHIIppX(cc(9Hyyc&OByc_I>yIHXOO_coX-y{cO_cIK_H?_{HcM(HB{X_OOI(ApBV_yHcI{{O(=BIX_(&9y&9(B9AH(IBppHXc9X9--p9A{y&_yN{-_A((Ic9XpOHp9O9y_9IT&HOAHOI{_A&-Ac9AByOcHJI(pA_&ByI9X-Bp_O_5I9{XXI(cIHO-yXB-Xy_OyBy9Br:Ic{pH_B4X_(cc&_yypp&XpIp_-HpIO9A-HIy&_BH9yXcBOABHc-HX--{p_&9>(9cw(Hpc9&pyA99-3y{Ocyp9-zpHc_&Hc(O96OA9yA;yIBXr&BO_pHO(&XX(XpB&{y}_u_pBO_pXiyH9=yBIH&{O&9O01B9A>AO{cXc(pcy&AOX9lA-IX{XHp-{XXOHcH9_yIIBOcHO_HXp{{p-(_yX&&HIp&UyIyIOgXyIpI&OBBpX-&9I_yB9_yA_-_9-(--OO yHp_CHH=_IHw({pyOX{Op_yApXO{BXIAH(IApnO(Bp_{-cByfBBI_/HI(BXy(ycAX&-{9{_lBI_hA{-IpOHO-_&A-Xp{OXxA9O&-Ic__(p{{_(yXI&OAyI9XMh{I_AHpBy&y(&pI_cH_9y&H{9pp(p{-X_(OIA5Byy9_O&{(_9H{B(XcL&p(_IHpct1{-AA_Hy{9X8a_cOOAyA9BWA-pAU(I{p9X-4Ip_p(H_9ecIIAIHA-yX(aABc_poB9I2&HAA(HA--XH1pBX9{Bc9pa-Ip{cH&{ccO(XI{A-HyI#HHI(_A((-HX{-HBB_IH&9N_AIX_&Hc{&cX-AcAOyyIpOZOHc_&Hc(OAX,BBc9-By9BOOIB{y(Iy_X{m-c{OyyypX;y-H_cH&{H9B(IIHOBHp_h6IIp__H_(AXX-cpc&BHcpOW-I{_IA&c89B-HBX&yy9pX_IBc_A(<IOc{(OB&&-HIpXm-BIIOHH{BXp(cy/&IyiB{OB(Oc_&8(cXp(9cy&9OppOOpH%9&(cyyp{&Hp(&--X9-_(IH_HHpI_Ay-y-X&--XByO(IAccX&(BXI({cH&{OI9H_cyO{IHH(XpA(KcXXX-IpXA9BH_{m9-&AHO9y{9pLO9IOABO_HHH((X-(&c&X_8&pBOpBX9AAyIOcIHXyyXOO_I9OHB{99A-IBAp(X{Apy-9py9_HcA-XOID{A(X{&Xc-&yXOSBI_IAHI-pc&9yAp&;II#9py9_(ATIIA^X{yc9O(Oy_OAyX9{0XHAA-O-{&A_(Ac{A(yI_-o-BAA-O/{{XX-gIy&c(G9_OcIO_y&O{-&7-vcpO:HX9y.9BXpHHc{A&T(Oy{&IH&9pOIIX_(&X{yX9(XyI&cy&9H_9BAA(HB(&AAGBcI9XHnBAO&Iy_{Xk{H9{(_yO_(Hp9fXBIy9XH-Ip9y-_pHOyyI9I_{IcA-(-{+9-(9c&O(yHBpO{-WcN&ccHAO(XcX&-O_ppX-HOc>AAIXXB&-cp&-O9pcXt(yI&HO{<A9-S-O&B-OBIOy(&c9X_({Xc(pc-&pOcp&OcHA{X&BI{c--ycBXOyBByd-B-__,XIIXIXOcBXOOIpyAAHOI9H_IAAI(A-_&XH(p&A9y&__s_IyA_Oc{O&B-cIA&X(c_A&+{{AX-^c(&(O-9yOOBO9AXOIIA9(&{XpBy{IAOc(y9_HHIy{XHOc-&{-Iy&OI(B99XXIyA9HX-IXc-A9Q&O#{9XN{H&_AOIB(9{&O9oOHy__HA?IIA^X{{B&Ov_B&9cBp99CyI9{p(c{c&:-(c_O_4y99kyH__p--yO9B&ApX&&yc9&_XIc{OHI-XXcOyI-&{By9yOXIypHHc{&XHrBccAHE&{/XIIXA-(I{cXc&pp9OBBB9(XBBAA3(y{-c_-IyX&y*_9IA(-H_cH&{Hc9(AphOyy-B_KHB_{(XOc99I({y-OyyBpOtBHy_{HX{Xcc(9BO_HH-IBAX({{qHH{pc{(Xc{p&tO{IOIH(A-HyI&Xy&-c9_9yBp(O-y&cpoX{9A9(-c9_{-&9yO{(_9O&{{(_O-I{__I-99{O{Bd_{&yI_XH(yBcXOy-9{OIe&9X&B{._X-y{p_y-_9HOy4X9OHBIccH(-cpXAOBp-AAyX{yX{(-AB(_{&p{-cI&O(HI{p&VI{pA(_{yX9-GI_O(Bc9_AyIIA9(&{XpBy7c9OHyy_(ZjBXp9HX{(Xp(A9(&cyBcQTI-AA)&yy{9&-BI9Opy(9cO&-pAF(I{pp(-ypcOAy_I-RpI-{9&9BoX(&&pOOCy9_+_OIB_OXI{y9X)9BO9{Bc9p2-Ip{c(-IXXy({pB&-yLIcAI-B_A(acyX-&_c&A(y{p9McBIAyu&{IA9Y{pBXOy{p_A-I_{X(x-_X(OyB{9OycIIA-B_pHHB-ppAz-c9_Oy&p{OXB-c&HB{_A&&{cp&XBH9*_cB_cOHyI{XB(-p%9Ayy{{HHHA_O3p{HAB&XpB9{y9IBOAH&cHXpIOA(-c{&9{syIHOX(O_IX{IOp-Oyyw&XH{I{AOB{_XHX(cA9OOcB9cyHBIO{BOIXH9yyXy&AyO_IyIpDO{yAcpHIIHX-HXBcXOyBpcAAB(ccKA-op-O9cH_IyBc&Oyy9cBUA{(ABX&cU&I-pB(OyB99XAIIBX((({_&(hOpIOAyOc-HH{HA(HXcBpI-{IXO(yB_-ZHIO_pHO{BpXyBB{O9HB99A&-HcpHO{(&c(&B{_yBX_-HIIcAcXpc9&ByBp(AByA_5HyI-{_(ycyXB-+pc9pyAIOHp(pAB&-cppX-&B{O(HH9yA_BXcBHX-OXXOpcpA(y9_LHhH__pO(y(p_^Hyp&9B(I%DIIZ{{&{yOAO&_pA&Xy{9X_AI(_AX-yr9p(_y{Ocyp9-TpHc_&Hc-Ap&FBI-&yJ%_Ha(BAA(XHc7XG-cc9&-B-BA*(BA{-&(y_A_&{pc&py-9p_cB_cOHyI{XB(-B&OpH99cO(Bp9A((IcABG,pxX9y(IyA{BZcX(IyBXBHOc{X_Hc_HOgB{99H&IIA-O&cy_9-&I(AB(A_-&c{{A?(I{A_{-_9cOcBH_c&BIAX((BBpXAHBIBAXII_yH({(Ac&h{&_cFyIB_HB(_9AcI&AcXO{X_B.pB-gyBB9OHB(yA9(y-_XpH-IOA}oA_Xz&IcA&XXc-XX:HI(A9yAIcHpI9Ay(9-p&c-c9ZO(y___AyI9AyX_{p_HzyyO7?BH9_HH(oX(O{c-9O--9 O4yp_,XXIyA9HXBH&-vX9HABBA_(HBI{A{Xccp&yyypHAyy_9OH-I({9(ABHXX#ppMOIypI(tyIcAAH_--X_d9cOA(yp9Or(H__X(HcBXy&Ap(&An-9HX_-{cAXycBXI-UpI9By_9B_AB9XyO+y-cX-&cO&pyOB&YXBXABH{{;&z&pcO&p,Jp&Hc-yc9XHc(X-(Xp-9(yXIyO_((_XXpycAA-pcp&(yp{IOXI-_I&9IX9IO-BB__B(9c#_BX_XA&{OX9-9c{_9yH9B0pBc{^H_-(ApO3c_9{HIpXk-BIIOHH{BXp(cyZ&Iy=B{AyIOc_WA(cXp(9cy&9OppA^(I(IXnOyypIOcy9_(%ABBOIB&IAH(IAc-OyB_X_O{9cOpB-_pAcIOpO(9{{&p--I&O(BO9OLcIOpA(-cpXAH,pyAAB{9yH_Iip_HOcAXA-BpAApBV_IGp-XAy(ccAX_O-p(A9BB9(HpB&pp(*cIXpO(pyO9yXIIGcI&AHX9{c_H-(Bp_A+c99HSI-{AHXB-X{O_B&AByAcHHYBp_OHBBR&{-X9,O(B(I-HyIOAOHAyOXI-9p&&X7B9-XA(Apy(X{_Xp-pcO9{yB{OA_(A{cHpcHcO-BcO9Iyy{AXvH9A_HA{IXA&_pH&_8(9rX9-Ic{X-cyXB(OpB9yy99yAc(ppHH-(O&z-Hc_OHTd9OOOI{_pH(c(c_-Hc_9(yk{cA_HIA{Hc{(Xc&{pp_&y9{IO9I{_{H0{{9y(_pH&yHc99XyIccA(-{pXA(&c&pOB09_4_Bcc_H({IX9(pyHO-Hc9yXWB{_XH6(pA_(Op-&(O99(XHBIcpH;{IAp&(cy&cyAp__-Bp_-A9Ic9(O&B-p_yApXO{BXIAH(IAc-(Hp__{t9ByNBBI_xHI(BXy(ycAX&-{9{_7BI_.A{IBXOO_BHpcypp9OyB9IpHy(_A(&pcy98jOp-x^Bo9pHu-XAy(9{X_H-yIX_9HAc(HpIOX((ycypByI9H=Hy&cHecIAXZHO-{&(Oppa_{B(I&XXIyA9HX-IXc-A9K&Oj{9X4{H&c_-IB(X-&O9zOHy__HA4I-Ap(p-yXIS_BX_OHH{pX-HA_X(B--Xp--y9__((9(_&IOADH9cwcO-IIIOH-&_WO9-B_p(I{IAO-II-&9Bm9-X{B_p-H&I_&(({I(&IB-9-OAI-p,H{{XXbryc_&OB-9(_9BppHHAIp&%(BIU&{yX9}_pB_AHHy(XAO-Bcc9H-O{cOp(?c-AO{HX{(9y-&yH9p&A((BcAH-ycX{(JcIXAH{p&DyB{{ZH({IX9(pyH&A-IpXO#B&9AxpyIApH&cBXcy&pyOH(A_(&cIApYO-B9&HHI9B&&By99&BIAX((B-&&Gyy9cO{xO_BSO(IpIOA{&p9y_pAOIBAI_HHI_c((NBp_IF_B-#yBB9OHB(yAOHpc;X-yHcO&AHy{(&HIcAA-T{Op{-9I&O-yI_ya({S_9(({I_-yHc_O-y{IOH{(pAA&{{&9#v-B_OyH(ION{-XAH&Byc9O-II_O9y-9pOO-9AH({{9p--BppOXyAIy0{-_A6H-cHAO-IBcOI(-_XAcI__BHX{HppyHB-OIHH9cA9(XcBH_I&&y(9B-_2gX9pX_Icc-H_-O9U&AccA-H-{_L-IpApXy{I9_-HBy&X<(9-D_Hp_BO;IOpcO_I(O(-A9-Oc-B_ACXI&Ap7yc_OHyy{cO&-y_cXA-O9I(XI(OH-99JOI-H_cH&{Hc9(Ap(&BO&9isIBp{(Hy{9AX&Icc&ABQpO_{IlARHHIAXy&BpB_Ay-pyO_y&Ay 9I{9(-Qpt&H-A9y_BB9c9Hc{cAp(ycApXy?{ymOI&cpH-yBAIO;{pAAyp{AXXBAp9xH(OXO-&y9OI-{pyO_BX_,0&{&9k(Ip(&c-99cO9BX_pXR{-c&(yyB&ByBpIOHBpI9.AyHA{HpcKXBH!9yOyIj_&Hc{Hcz(({B9c-HcAO-yI{9)(BOp9(Hc{X9OOcO&ABc9AH_I9AAHO{X&X}OpBDHB{9pH{IpAA(c-OXcOXp-_{BII&U&I&_OH9c(p--BI9Ofy(9pO&I-_I&p{(AX-yc{__y-98XXI_pBHAc(XBfp9c_H(W9c#&I&{p((BF9HOpcO&(BIp&V(I9{cHpyOX-O{B9AHyO9OY8B_A-Xy{I9_-9c-&p-O{9vBBO{IHcI_&I({IyAHH{I&__IA_XH{{XcA(OcH&OYXI&O{-yAOHO-9XR(-ppXOBA{{O&I(AIHB(XXk((p=9&ZOpcXB{b_yX_{HAy-9ciOXHcpO;BBccA(-IIc_-9yX_U-p{IOA(&_BH_I&9(-({A&--I9yO(yOcA8_-HXp&Occ9p-XIDAOBI_AaO(cA9-Uc-pA-&9yO{Hg_(HI{9Ap&Hc{&HOcI9A9(__(Ap{9A_(Bc_p9yxp9_H(y{A&Iy(AcXOpN&H-_9H_xBI_<A{-pp9OABcX&OB9IO{BH_{AIIpAO(O-9XAHHpI&pB{9BXHI{_9-){IX9y(BuO_yB9AzH-&AA(ycy_Q-{pXO/(y9_VO{-A(X9ctX9OHpy}p(B{_X(HOXw(H{_&HONppOpy99B=XH&A{OB{9AX-_cpAyB(_(/-B&AIX{{B9&-AcIOyy(9&k&BO_9((--XI*9pc&(B/IAXKBcp-H&{cp{-(I{_INA_y0BBOABXy{9XyO-cpA-BZp9Mc(yc{H6-p&H-(cAO(=H9(XcBX_w(IIA9{(&p(OIyBBX=cB(AfXAyHAcTBcI_Xyy99OXHI_cHAc<AO-,c99p-O{{LIB1_&X9-XAI&Op{&cy(9c_{Bcc&H-IIXA((BX&yyc9AO_H-_&5c{Ip(O{{&__-A{-O9Ir_-AAI&X(-IcBpXyI9IO{B(_9A_IppH-Hy_&yoBpp_OI({pH+y(XV->cHXAyyBBOI(A{A&y{XA_(pcpXOO{pcAOH_{AAcIpXHXOcBXOOII{AA(99&A{{cAp(-cppc-&pc9O(Hc{&-I{c2-Hc(XAy(BHO{BHIc4pcCpA&X-p&9-_pBO_L99XH-{-{&(SBB9c+_B_AyHpIIj{IO{X(-{Xpy-B9AAcHXIBHII{AH({-I&BRXpq&BycpOMpB__cO-{{&y-ycXOy(H9c=&IHpBHXBHX((pp9&B(^9yHHIH_9(Hy&XB-_c&A(yp9XHHIY{cH_yOX:({pc&-H&9BK_B&{{Hp{X&H-xyc&&ycBOX2-Bp-H{-S&H-(cAO(/H9y 9I9{BH{yAp&OAB(_cHBBXO&II{yH9{yc_(AIH_pOO_4THB_AHXw{_AB(XcH_&Bh{IO9I{_{H+{{9y(_pH&yHcp&Xy(Hc-&pIXX9(9c-&9H{p&oyB{c_H({IX9(pyH&A-Ip&O((OAH&{I&Xy({yh&(ycp__yBI_9H&IXcB(_cBpA89{(O{HDAHH(IAX(&Hc{&HOcIcAO(A_SAp{9A_(Bc_p9-9{HOO(p_KHy{cA{XOcy_Iy9I&OBB_9&A{IpAX-HcWpc-&pc_AH&cB&-I{cw-Hc(XAy(BHOyB9_9AB{<pA&XyA9(UAII9Xy&_IAyI9AyX_ycO-SOp-9ABX9&gcI&{X(pBy&65ApgOXyX9IUX-9AH({{99&-HI9&O((9IH-I-_A(-BDX{-XpNAyy_9OH-I({9HcBHXIKppCOIypI(qyI9_XXI{cX&-Hy9&_(H9BAp(A{cH9cxX-&Ac&Oyy{IJn(Ic__Xy{IX9-&cX9By_9B_A(OccOHyXX-&9p_&AyI9A__IyAyHB{ZXc&pc{AqyBpcLIBycOHX{XA&(ppH9(B-{pHy{-c&HI{AXA&{cp_&:OI{__I9{(H-{_cp-(p(&--&9I_{Bpc&(-IIAX((BX&By_9__IB{cXXX-Ic9(pyH&(y9BcVHIH_()X{BcI(cBX&(-Bp_OH(A_9H9I_AI(&-O&cHIp_&&(H99&B{-X-(y{O&{OcppAOBy9{X_I-p&(pc-p9y-{HA&BAI_Ep{-AIXOc>_{H-py_zIH_(+A{(cH-({IXA-(IOO_y{9Xv--&ABHcy_XyHH9BApBE_Iwp-XAy(9{X_H-cp&OH(B9AH}{yA-X_cHX_O(IB_&(Bc-Qp(wXH(({A&(OHpyO9B9IBs--Ac&O(y(9pFcyX&&BIIyF9Iy{_&&yc9&-ByAOXy&9cv&HXA-HX-AXO(pp<&-BHpOOA-ppIH_I&&((9B-O_yA9I6AH__AO({Ip9OXIy&_yO_-,(H9__OH{IAp-OcBAKy{9XRb-y_c(B{BA&-BI(&pyO9(XIII_bH{I9Xc(Ic-A%y-pcOOB(AcL&I_9I(9p{&{yG9{XyB_AHHyycAO--p{&IO&9pO-B99XH_IpAID-cIX_y(pB)_BH9&&p{CXI(py(&yy9pX_IBc_&HH(9AA-Cpy&-O_9HO_H(cy&(y{AA&-py&B-O9B_yB9_yA_I&9(OOBy_HOp99O_BB__A9{B_O(I{p&{-Bp(AOH(_9:yI__&-y{9X{H(ppOXIH_RAc{HXH(({X&BOIpI_ABB{IHA-0Xy&9{X9yyRB&OnHc9O&HIpAO(O-9XcHHIH_9H&Ic5p{H{O(B{OpI-yI&_&49__?AIIAAX_cHX_O(p<h9(I{{A-{yABHOcBpyy-p-O_yX9IHIHOABHO-IXyy&I9_AS{_c/pI-ApXcc-AX-yc{OBy-9vO_I__BHAIO&B(_cc&B((_!O9IH_y(c{lAXbccAOpyp9(fp-I_X(-{I99-9cy&_-&9AO9B{_(((IAX-(IpA&(-OpAXpI{_HHcI_XO({cy_OyB{_OO(-cI&X{y9p-ccH&{-X{cEOIBAcH9{9c_-Ap{O{yy{{O&I(AIHB(XXc((cpXAy9pcOBB^AtR9{HAy-9cLXX-9{{tByO_I p{XAB((BX&yy9pX_IBc_A(mIOc{(Xc{9_jO{yOIH(A-HyI&Xy&-cI&AyAB{vI(&cHX&-yp&O(-O&CycBIOABIIXd_cB9HO(-&&Oy^p9qK%O9X&I-Ip&-{cB&-y-pp_HyOcpXB-Ic((-c_pp-Opp_Q(HcI&yIBcH-(c-XXy-B(OcB(Ip>{yHpXO--9&_-ApIOA,__Hq_((py-9BIX{O-9yOByO_BAyI{AX(X-cX9)OIrAyHB{AX9(YAH(p-{XX-{y&A(IIc(s-HOXe(H{_&HOep_&BB(9HX&IDpIH9c{X{-<p{Ayy__HVy-c__OyyH9-1pcXO9y99-S9-{_&(y{{9_-(pIO9ypIHOO-ccB&{yXXy-9cX9Iyc9AHUBO{{HX{{c&O&Iy&Iq(_-jyB&AyX-c(X(-9cA&BBBB&qyB&{BH-cX9pOXyIO{yc9(3cH{_O&&{HAI-Ec(_XyH9&O&B{_&&_{(Xc(_BO&-H_9&O-Bc9X(yIpAIrHpc&&BH9-z-HyAB(fc1AX4ec{&_yOp&_IBBcX(ZIBA9HOpIX_-c{-O9Ia_-AAI&Xy({yv&(yI99OpHH_{HH(cAIweBA9&Op99O_BB__A9{5A9&H{O_cHBIc_(I-_y0&{yc---B9&cH(ppOXIH_,Ac{9pO--B{X&yyp{_=B(_IH9IpcH({cHpc-I{h_AHOIpH9I_AB(_-9XXy-9-9&BpcBXc-_c_OBy9pI-{pO9XB-9XAyI(p9&A-c&p-9pyO9hp9p&WIBpcHAcpXp-(ppAIyX_-fI-9AyOIc(9&-(pO&Oyc9OXAI-ApHABoX{-_pO&&=I9_XXIppBHAc(XB&&psOIypI(vyI9_XXI{y9X(&BB_cYy9I5ABO{cHpyOX-O{B9AHyc{X?ABB__HHyAXl-XcX&IyX{9?HI{_9&&{I99(Oc(Oq-&9AOIB&_(&O{XA{(Oc-9_y&pctE((cB &-{AOTBcp9XHg{{O&--A(j_{HA{R(cIO-y-pAF--8_{HX{^9y(_cOO-y(B9OX-H_I0p{{AB--{X&B-p{I*yy&_I;9-(XBHOc{9p?ApB_&BIcAH1-yp{O&cB_9ypp(Ocy&cpHW{IAp&(cy&9-XBIOcB&_HA9IAX((B-&&)yy9cO{CO_B5O(IApOAB(_HO{9cOpB-_pAc{HXH(({X&BOIpcAXB(9BH-IHpA(9c9X_-Ip&9OB/cIHyB&ABH9BBXXy-9-9&BlcB=9(Xp+&ccHpI-{pO9Xy_{B/BI{9c/XBp_XyH9H_yyX{(HHB_A(H{yDXp-Op(AIyX_HHBIy{A(({Ap--II_A{HA{pAH{(A-HXc-p(yHpHOpy_9yHyHXA-HX-y9I)I9pABy_I(H-Iy_&(y--X&(ccO&(B;p&O_-cAIH^{{A9y,cI&--&9BOcIA_yHHyAXg-XcX&IyX{9>HI{_9&&{AXA(XccO.oHpOXIII_uH{I9Xc(Ic-ASy(pcOOB(Ace&I_9I(AI(&IY9IXXyB_pVHOIcA&(yBO&O-p9SO-IH9OdAypA_(HccX_BHp{Oy(O_B&_IOp-OIBX&yHp9cOHB{9X&c{cA((p{A&9-cpBX(IZ99HHIyX9(r{X_c-&{yOcHA{O&IIX9(-H{9&N-I{HOy(X_(gB{-AH(O{pXA-B{(a}y99XJI(&XHH_{&9BxcpH_9B(cc4A-op-O9cH_IyBc&Oyy9cBHBBOAIHpc{XB-(cXOXy{9&4H{{_XH9{{_yy(cAO-yI_9r(BOp9(.BIX9O&IHAcyOcyH-BAA(HcB-XpyHyOO&y&_9Hc{(A_X9{A&(-BIp}sBI_pV_I_{A(Xcc&c-BIc&OB-_{rIH&ApH-{9AX-_cp&I(-_HO_I(_B(_{HA&(ppN&-B{pOOA-{_&(y{{pS-(pc&_my9IYABO{cH9c=X-&Ac&Oyy{Iem(IIA9Hp-HX{-Hyc_AH{{_6(HpA9H_{BX_&9p.&9?H9yXp-BcX&-(O&Y-Hc_OHsg9Ih;H{_9&Xy_9-O_yBOIy{9Hb{HI_AHI(XXQK-IH_pSOB_4ABX_{HX(AX{(HccX_ypp{Oy-H_OEp{nA--p{OXA^{9{OHBc9_HOI{AyOOcI&9y&pX_BB__BAAIO9yiLB{_BO99_OABI_AA_I&Xy-y-OXXHIIcAAHAcyXX({Ac-V-&&y-&BBA9((A9&IIAc--ycBXOyBByOBBXI_H9I9XI-yc&&{OI9H&_B(9BH-IH_&(-cpXAOBpyVHBH99HH-&AB(_{&_(yl9MOHyA_yABI-c_(yyB&pOOpI_pyX{-HI-AAAHI{XX -&cA&p(I_yO&IB_c(&{yXHaAp(AcyA{*X--9AHOIcBA&-yc9ABBBpO,IBpA{HB{(9O-Xc{&&yH_{OXB9pBH_BHXBOpBAA-y9{O &B{_XH-y&XH/9cO&(B3p&tABI_pH(yOXX({c9&-+_9&OcB_c(&BI&p{(OIB&p/X{0X{B&p-((I_XH({I(O(-A9-OIIy_(lOyAX9(yc_X&Byp9O{-(_c&&{(pIOpIi&{HA9_OyB9_n&_{HXp&{pI&IB(_839I-{(HXI{A&(HcOXX-9pO2BBc{HH(ycAAO!B-_9yH{I,By&_y59yBAc?HcIXpy{pBXmB9cA({cI9H(pcO&OO9pAXH(({9A&{XcB(Ic&pAyA{-hcy__(C{y(A9-FpZp_-X{(A(H_IOHA(IA{(O-X&jHy9{&AB-9c&-IcpO(B{{99--I&#((9_o:(-I_&OpcyX&OBpBAA(p_{AIIyA&(H-9&pH(I&&Ow__AmXI{AXXAcHXHyBcXA9yX9(HIB&pp(H{-9I(OIAOy(y9_HHIypcHOcBXctAp-OpyAca,I-AAa&yy{9&-BI9Opy(9cO&-p_OOB{9AXy-cpAyyc_BZBB&ABO({pXO-(II&XBH_BvyHAAB(B{IXH-py9&cHf_yA9I-cy({-&X(OccOAHBHp_Q(BBA-HHI&9_-pc-&9-X_-OpBIpHH{yXXHOBBc_OyI{_.9B-_poOy9X9(yc_X&yAp9O{-yA(ZA{-AI-Ac(XOH99!XIB9{&&HycAOSyp-XAy(pcX-BIcOHyI{XB(-pHX_-&p{XyI(9A%OIcpj--{X&0D{I9O-HA_y&9I&p(OBBA&-Hc9{OeBI9A&{{{AH(c{_&p-{pyXHBO9pHYI-XpHO{A_{-X{-O{H_{&&BIA9H-,{pXO-B{!OIB&IAH_I_X{-BcO&cO{9(&AB-9IHyI(_O(yc9XXOIp{AXBH{BXc-OAIO_c9X--pcOA9yXcIr_B&AAH9BB&9HH9A _(I9&Hy{y{O(HBI9{OOB-Y(499_H-(HAIOccXXe-{cAA{yO_BHB(gA(O{y{9gOypI9_yA_yA({Hpp(H{HXc(XIc&X(y_IOA(O_cO-{_9OyHc{__y-{&YpI-{9H9BH9&-Ay_&pB-9I_OI(p{O-{ypeyHp(&AB(IHHHBI_&H(yOX(({cO&-H&_(Oc(__yOHcy9p-:pI&pHX9y)9BXpHHc{&XHZBc_AHyBIpAA--_9&O{&A{(Xc-_&yy{9OOB(AcY&ypX4-Icp9(yy99OXHI_cHAc*AO&{cX&{O&9HXy(Xc{AOcEXH(_pH9!y_pBOAyO_Xz_IcpF&&BX&yyc9AO_H-_pH-(9AXy(B&_IHHBcbpB9_yH9(pXyH&cBXcyIpyOH(&Ap(cy-A9(&p(&HOp9y&&BB9cHIIyAHO&yI&W--9p&OIXcpXp(Op&(Bc_X&O{ppOOB(I_qX{-AIXOcH&Byppc_RBI_^A{I9pXO_B(9OOB9IO{BH_{AIIAAIXXBH9&HHI&OyT__A2XI{AXXA{_XH-cc_/Hy{9y&HIO_p(x{-&H(OcAA{y&_(HIIB{X(IcIX{-(p99_yAc(j{B9AcHIcyA&-yc9A{BBpOoBB_c-(_-X&4O_pb_yH{IOtBBcA&Hy-Xp9--pp&AVB9{1_IO_&XI{AXI&XIH_O(z9{_&IOAvH9cgcO-BcO9Iyp{&X9-HcXXycBXI-RpI9BBy9y6AB&_{({-1XI-<y{__H9_AXcB&{B(I{{XH-{yI&OyO9^O_I-{y(yy_X((-c9XXB-ppOI-H_OHO{jA_--yy&pHp9{={Bc_-H_(AAO5-p&OXHc9(XyBB{O7cB_Xc?_IA&_(ppb_&I&AXXpcBAI(-c9&A-OpXRX(O_B(H{{Ap-{cp&AycBO#(HX_-Xy{yXy(Bc+&cOpp_X>BI9cTOIypO--c-&OyX9{j2QO_H!y-{ATH_c(XBqppH&&(p_EHIIpc&H&{_&{-_99OpB_9&>A{Ap&(ypk&I-c9IOcB__{A&I{cA((yI&BOXpXOXy&9pHH((AyOp{OXH-ccXO(yB{c<HBAA-HIy9X((OIAO9(y9_HHIypc-{y>9O-{pXOXvc_HXO-WccH&{H&B(XpHOp={9cX&I(cI&pB2X&-&cO&9B(I-WB-9ApH({cA&6ppy&&nB9{O9{B_IO-B}9IOXy9O_yA9IYAH__&Hv{&pAOXcIA-B&9&ApBO_((cI&&_UIcXOHBB9y_ABO_HHO-Xp&({IyOOy-I9aoB-Ap.OcA9{(&py&{H__(OBH9ApXA-OAcmBc__Xyy99OX-HAH._{(AB--cHX&H_p9A4Ic{&H{-cAA&OB&&(yOpOOcBOcAH-{pAA;^c&&&-Op9s(H-_B&9IOA(-k{&&A-IpXO((O_XR{I&A-&_c&Xc-OI(ABy&{{(Z{IXp(_c_pAyX9cvcBBcc O{-X{(I-&&{y{pcO-B_IAHAy-A9H_c(XBy_pH&&(p_{H{IcA-(_-A&HHHpOOOB>9_H-(yA{O_pIOBHDp9AAyX{{^aB-XJ7-Iy&-(Hcc_IIIABXH{X_&H_c(&y-{pBSB({9XHpIOAH(OcH&yy=B{O9HB9_AAIAAAHX{c&zOHp-Acy&9nJ{BAp{(_{_&{yBpOOcl{9pOA(O_cH-{9AXNHcp&I(H9c,&IHcIHI{-XO--9(OHB-9Iby{ypIHAccX&-np&O<B-9OAIBOcyH9-&XXOBpBOByI9HapH9_AOH{{Ap-7cB&9-X{NOpBy__Z&y(A9({IyO(HA9-opBAp)(O-c9{(OpBOB5u9pX{(ccbHIIpXX(BcpOHOO9.XIB9{&&HycXI-Ic{&(y9B_OX-(AHE9{LAIFHcA&IOXpOO(IX9&&_ycp&OBy(O-yyp&#yH-_I%c{IpyOB{&__BI9IAHB{99(nII&-O&cB&pyXpA_yB{9pH{-BpIHOBAO{-_I(Ocy_AH3{cypO(IcAXOH-99&XH(AHXy-{ALOXc-_B-A9(OB(p_pn-I9_X(_{pXIH-p(_cIZ{IEO-,Ay&{BIXXy-pI9OBH_BHpIcchHO{BXA(O9B&_yccBH-BXAyH{cBX-->I_O(Bc9_AyIIAAHO-cX9yRp-9Ay&_(HIIB{X(-{Xpy-{I9A(HcIBHII{AH({-IXA-IyXA=H&c(W{H&AO(={9&Z&OpB&OsI9pX&--cOX{ccXp--pp9cBH_H2(BXABXI{y9_--ppOpsy9{X_(_cy&p-(X--_yp&OypI>AO-c_XXycBXI-dpI9By_9B_A(pp-Oq{IcX-&cO&pyOB&UpB-_9CX{_Ap(II-OH-_9(OBI__Hf&ypAOSBcp9XH/{{O&--A(C_{HA{e(cp&XBH9e_cI-{9HyI{XB(-yO&B-c9&OyHXcAH(ycAAOrB-_9yH{IwBy&_yj9yBAA-(cBp&y?9yYcB{IOHBIOcIOIBA_9y+B{/cBp_-Hp(cA&(c-O&(HI{-A{HZAHH(IAX(&Hc{&Ha;9-&XBy9{HBI-A!OXB9XO-(9I&&H{_OHbI9XbXOc/_I-9B&AH(c9OH-{{AIX&{O_B-9cX/-ypcyw_{HAyOc{O&-y{pI9&yAcBx9BXA_Hpc{XH-ycXA9Bc9(dBB&cI(&yi&-O&pT_{H9{(5cB_XHH{y#pX-BI_&OH-{IXXIypp(c{HX{(XIc&OBB9cAHI-A{(_{9p(-XBy&&yH9OOX(p_OH(ccA&O{II&A((9IA9(XpyH_BwXO(cc&&yHO9ISABO{cH9cjX-&Ac&Oyy{I?l(IIA9Hp-HX{-HB?O--X9yO{IB_-HMc&99(Oc(OI-&I{<OIG_9( (OXf^Ic99&HH{cOOI-A{HI(&AO7Bc9XXB-ppXyB_AHHyycAO-Bcc9Hy-9{?_B9{(Hc{(cpOAB9_&H99o_{Ic_pH-{pcc-HpH&(-X9B_IBp{AHB-IX9O7c-99B,IyOIH&_9Xc{-p(--B_&_-BpA&OBX9_4cyBAcHXcyX{yXp-O*(__H&{I_cOO(Bp&ZHB9y&XB-9p&y{y_&(B{c&I-ypHA&BA9ISXIaXIHA{pXy-_c&q(y99{&(Icp&((yI9pH<p{AAB_9yN9I?p_(_{BXA(OpX&_yccB(}{Op9(eBIX9O&IHAcyOcyH-BAA(HcB-XIkOBOA{IW9&mAIAA(X9{c_(O&BO9_yA_yA(IcA(Xpyp_H-HyXO&yO9pFOH&AyH&-BX-6XIp_9jI_{0cI(AcX{{XX{&&cAAIH({-_O{GAHH_cHpm-OcOO{yp9(H(H_AHH_-(9Hy9II&{+-_yYBBOABXy{p9_-{I-&{By9yOXIypHHc{&XH4Bp9AHBB{pH.IIApH_{_cA-XpcOcyB{cOOI-A{HI(&X-mBpH_Xyy99OXHI_cHAcaAO&{c9_&y-{IOXI-_IAO{HXB-pcc9^yI96_{(ccXSO(_XA(Xc{&XOA9(OAH-cI&9y{Ac&ypB&IyV9I_BB-cAXp-_9H(ccAO4-OB{>(HpA-X{I9c&OXcy&9-XBIOcBAAjxO({AX({-&9_Hy{(O-eOAZHHI_XH&xcOXOy{ppO(I(I_HHI_c((oB99AOI9{OcB(_cA{{pp&(y{I&^-(IXOHB&9&R{I&p_((ccX_sOp-A_BH9-HcBOp9-Hc{&9-ApA9XB&_pHpIIpp(2cy&c-{yO&&(I9AO&{-_9OB{A&(-By&OEBI9pA(IyA9HX-IXy*Xc&_BHcIyUIIA_OXc{p9O--B{_9(H9cXXIA_BH_{H9A(OIc_c(D_pq{IBABH_--XHT_B{_cCy9BCXH_AHH_-(X/McBA9IB{9cF(Ic{{HX{{c&O_Iy&ID(_-wyB&AyX-{pX-O{BcR(H&pO__IA_XH{{XcA-_c_O-yBp&+&H{_XH{(&AA?yB{9(B-9yO&Iy{-Hcy9XIu(cIO-y-pA0--a_{HX{)9y-pI4OyHc9O3BIc_9H9(_XA-{p{&yH{p&%(II_BAX{(9y-kBA&-yppA_BB{__HOI&cI(pBX&(HBpA;(BBI&H5{yXc({-O&B-OBIOy(Ac(A9{_AA(IcAp_yHp__((jA9&II{c--ycBXOyBByO{BX_XAcI9pOO-yX9B:_I__VBH_pA{IXA{X&yO_I-IB(3-By9&Hy(-A(O9ciX(y{c&ApyX_969I-A9O{{&&y-{I_6(({9XOOIp__OI{9&{-{p!O{(y9_HHIypcHOc-&{-Iy&2t(B9_OXI{_pOy{_&H-yyX&OB-_{zIH&AyH&-B9y%_cX9pB99_iBI_{9HXc-&-&&poABH{{_A_--c9XI{{XO&Xp-&Xxy9(HA-cc&XBcIX{-Hp{9IBHIcH((I_pXXyAX:-XcX&IyX{9}HI{_9&&{H99O{Bp_Oy-_djDBpAl&X{yX9(XIH&cyA_SOOH{_B&&-_pX#-c9OSy-BAO&Iy_{X1{(Xc(_yy&(H_pAA-(I{(Hy{9AX&Ic{_XyHIBAc(O_I&_{9A-(p{O_9-X{IAI(&A{HB{-X-(pyHXOHpIBAIH(_-H_(pAO(py^_wHI{yOBHHA(H-IXX-&(cc&(Opp{AO(BIXH&IOAp(O-&&y-&BBAB(_9XAp{9A_(Bc_p9yA{HO{yp_-TBy;A{(_cOX&OIpBAXB-9BH9IHpA(-cpXAOBp{O_BO9&AIIAAIXX{__BHHIB9&BO_m49{h{O((cc&cO-pBA9H&{OXZ-{p{X_{A&yO(pcO(3p{_XOIH{X(&{OXp-Oy&&A(B{(Xy-9_&(_{_Xy-_Ic&OBB9cXAIAc-(XyHXyOcI{&_Bc9coHIcpBHAc(XBMpp;OyBc9{_OI9cH(_-OX(OIIB&AB(9B_&I^AIHp-(Xy-cpA&_E-9pT-H9ccO({(c&-OpY&9BzBOQ(-I__&&{BXp-XcA9yy99yAc(ppHH-(O&K-Hc_OHsv9OOOI{_pH(c(c_-Hc_9(y^_9XI(c{-(y{BAO-Byy&pH_9{X-B{AyHyIXXy8Hcc&&yH{Bn9-HAB&pc6XI-pc_&_OA9XecIc_B&cIOX--{cIp&y&{BQp(X_yH9IXcI(cc&&HO9pA;(BBI&fAyBAI&XB)pA-&9yO{HF_H&{I_cOO(Bp&5HB9y&XB-9p&y{H93(B{c&I-yIOO_(__p2-{m_O(OBp&{-Hp&__HO9{&(IXA{&Ic__I.BB_L-By9&Hy(-Ap(-y(&HH(pO&pBI{-XIBOcc-+cHX_yHBKOH({9AOO{B__OI{X&HyBpy9AB{9Hq&(_p6H{ByX&qAp-OpyAIBe{I_AOH&{OXpOcp{AIBBpO A(pcAHB-&&I-{pHO{SI9{XXI(_B(_{H9A--p{O_y9I( XB{Ay&HyIAX79pyA(yp9O)(H__X(HcBXy&Ap(&A?-9IX_-7c&XycBXI-*pI9BBy9yrAB&_{({-hXI-hy{&9BO{_XH-H{B(I{{XH-{yI&OyO9GO_I-{yHXy_X (-pHXOH99c2cBp_yHA(XX5}yp(XAy9IIA9B(cXH_{_AA({cO9j-&{{KByO_Xg_-IA&dipGX9ycpIX-Byc_HI{DcO(9BO9&.y9AOXB{_XAA{(AA&_cH_pH{9B&OBX{pXAIBc&-Ic{&Hy{BIO{(X_(?B{_AHOAcAXIyyI3AByAcpJ9yHAc(&cHp9-A9:JyB-_y}&(XA-OXBp&{-HpO__H&9{Xn{cAp(-cppc-pIOOyy{_Xk--&A&HccI9(k{c&A_yAc-G9{8A-XA{_&c-cpHOc(B9AH(IBpp(p{-X9(Xp_&pyIc-HHB_A(HBc_XH(&cpO^y-_{OOBAp{(&cy&{-ppp99B__IHII-pIHXcH&B-yyAO{yH9cO_Ip_{HyBHXO(pp7&-BppOOAB{_&HHcBAX(9IB&AB(9B_&I4AIHp-(Xy-9cX9Iyc9AHDBO{{HX{{c&o(B_AHHO9B_AIX_&Hc{&cX--cX9yy{{AX((_{B(I{{XH-{yI&AyIBXi;--c_&I(&XO-nc9O^OO9c?cBp_yHA(XXvm(c9O>BWB_Op-(c(X_y(cp(9p(9>yI9g_{BBcX&H(_XA(Xc{&XOA9(OAH-_H&_y{pc&ypB&IyY9I_BB__BAA-_9y(yy+OHy(pA%(HH_A,IIXAz(&{AXpHIpc&&BB9cH&IyAHOAc(_c-AI0A-(9_H&I{B_&(y{9_B-A93ayB-I_HII^A{H9ccXI--{wO(yc9Oq({c_&H_BIXAH(pI_9HXcyl_yhAOHc{&Xy=OpIOAyOIc29I&X((H-p&y(&pB&cBI9ydH-&AzHI{XX>yIcA&p(y99&gIycc&_B(Xp^&pX&IyA9(XXIyA9HX-IXc-A9i&O,{9X4{H&cOOy{Ip(y-py&&ByI-8pI-{9HcB(9(&&pOOly9_e_OI&_&(I{cXHyHy9O}y9IHX-{ppBHI-(&--yc&Oyt-9IX9BO_((fI&XA(Ic&&(HO9XO{BO_-X_c-pB-cB-&9JAIOA{BX_C(IIApBO(ccOByBp&QB-(_pHO{(9I-IcV&{-99cOIB-pLH&IcAO((pcX&-_{IOA-(_IX9-X9y(_I>&O-cp&Oy(OAIHA{OXH-Hy(O-y&9&O_(&_BHp{XAA&ycOXpyWp-QHyO9A&p{{AH(c{_OH-{pyAOBBc_ZO--pIOXcy_pycpHO{yXccMO{BAc&Hc-&{y_p9_(Bc_(XI-{pOOX{&p9y_pAOIBAI_H9I9X((y{X&XOIpAOI!X{&&BIBcH-(c-XXy-B(OXy{9&3HIO_XH9B{&B(OpI&pBO9BV(-XA-Op{X9H*yI_O(({_IOOIB__OI{9&{-{p5O{(y9_HHIypc(c{(Xp(Ap9&cyBc(H5B9AHHyc9XN(XIc&&(y9cAA(OpIHXB(&H(9pw&I(H_c<&{HA-(--y&ByV94&X(49{ _IO_&XIcHA_-(cBO-yHp&X_Ip_-H9IX&-(pcIAHy{{XrH(Bcc&O{I9_-9c-&p-O{98HI{_9X-{BX_(&y{&pyO9(__BXA-HI(OXH-Bpp&c6J9pNpB9_BHX(&A&Oypc9&ByIcO9((A(XA{BpI(XBO&XyXp&OpIH{(H-ypppCHp9&cyI9IOAHy_B&A-cpp&BcI&&OA9(OAH-c(&_y{A_&ypB&IyV9I_BB__BAAIX9(uqB=pXy&pOOpBOI&2&yBXHOXp(_pyX{Hec(X_O&BIAXm-yc-p_yHp__(B-c9&I--py&ZpH&(-A9(_HIU_NHcI9A----A&(-AB-OyI_c{Xp(yXB(Ic,&IOBp-AABHcyUc{BABH&cB_(-ppOO((I_{&(I-_9(O{I_Hycp&}HB-_-Ay{BXV-e{X_Y-{p_OOy&IINy-XA(OB{A&(-By&ORBI9pA(IyAc(A{_p--pp-99HAc5X&I({_(A{XX{-XyAO(yAI-Xy{_p{H_-y&B-Ip OI2B9cT&I&{pH_B19yO&BI_&HpIH,(I9{cH&{ccO-W9{A-HcIlHHI(_A((-HX(TcBB_{HX9HC&B&_{H&y_X(-cc__OyOpph-BBp(Hcy9A&-_c_&yy_{cOOIB_c&A{-X{-_c99(y-{pAI(cc&HB{_A&&{cp&XBH9K_cB&_cAOyW9Ih-c{9!BH9(OAI({HHyycXI(+pHXAH{pO;BIB{TH(y{pc&OpG99-Ap-u9yO_-H_(pAASVcI9_Gc9B&OBI9_&IIXX-(IB9&HyB9pOcHv_B&{Ic_O(y{__I-X9-OIeO_HH{I9c-(Bc_X&O{pcA&B({IXp(BA{(Xcbpp-_9HOy:X9OH-{{AIX&cyX&OB9w&9BH9yH(It_X-Hc(XAy(BHO((c9AXs--p9(HcB&p-cB/OH({9AOO{B__OI{X&--II9OHB{99A-IBAp(X{Apy-9py9_y&cHXp-F{A(X{&Xc-&yXOIBI9{x(I9{_(yB(X{(9pc&I(H9OLOIR__(--yX(M_pp&-BHpOD_I__AH{{Ope--I{OB-O9XAp(X_BOr{_XBOycOAyH-IpHHI(_A((-HX{-HBt&I(s9XO{IBcH&yIXpI-&cO&pyOB&OO-B_9^Xc-ApFyc_&OB-9(_9IB9OHX-pp&(BI(&-H99H^{B9{-HB{pXX(AcX&{aIpAXyI-9XH_-{p9(-yAOyyBpO:BHy_B&_{iA--p{O_9yH9BDpBc{+H_IBX-&OByX_HcppX5B{_XHM(pA_(Op-&(O99DO9HH_y(pyBpAO(-OO<yHp_RHH*_OzO{{Ap((p(p_yHp__((I{X&BIAc--ycBXOyBByOXBX9&ap{Hc(--ycXOF(9BA_B-_pHp(yAyO_y_9ysIB(O-B_IpJOIpcX&&BI_y-{BH;(B-9XH-((XH(HcpX_-y9y9XB-9XAy-Hp9H&-c&p-9pyO9dp_9&4IB_c(I{y9Oy-I_Opy-_pOO-9A((cccp--BI9O&H({BAXII{_HAcyp(-eB9&9yAcXO(-&9((IcIppy}B{OIyS9{OA(B_&(y{{9_(OpA&AyB9AXpIrAIHpyX&-<pc&&HyOpXXcI(py(c-AX&OcBpA+yc9&2&Hp__Owcypp-(y{&cB%B&dH-BAb=X{ypp-Xc-_&y&pcOOBypHH{ypX}-Icp_Xy-{pOX(Hcy&_{(9{-I{O&B-_{I4XI-AIHc{ccp-9pBOBy({BOAI=AyH-(_XA2(c{X9ycpIXHB_cX(H-BX{OHB(_pyH9{t{H(_y&p{Xp((_yt&HypB{O9(&_pgIIXp(-I{A_{y{pHOcyXc9Hsy(Ap(Oc(_I-A{(OIH9{X&yI_97(O{cX&-yIOOIBA9OAcI9XF(--AX_ycpcOHBccBrA{(ABOpcpX--9cXO_yp9I&-{H__(({B&_-Hc&_-BV9-H{BOp9-Hc{&9-ApA9XB&_pHpIIpp(}cy&c-{yOO9yy9_O&IA_9H{By&((Ap-&IBA9(OO(yAHHyccXVq_p(Ocy_IysIIA_OXc{9&1--yA&&By9{A/I(AcH_-yXI-AcO9cy9_Ku-HA_XO-yyp_-HIB&AB(9BXpI1AIHpyX&H-HpXO_BB9&_XB&_AXy{IXA(OI-OHBH9(OXIB{IHOyXpXy(cX&9HA99V9B__IH&(OX_QI9H>VH_9p+pB9_BHX(&XXgByX_-*c{{?BIB_IHH{pc9-_IH9c.B{IA<B_A{HXIOXX(Op(&&gB9cAEIZA;HHIAXy&BcI_Ay9Bpf(I(_-R&{Ic{(9B&9&B-IcABH(__H_IAA{(OyK&(H{I{wA(H{&A_IA9(-Xy{&(y&9yOIIy_IHp{BcA((y{&y-&BBOc(X{A(H-{Ap&vpH&(-A9(_HIS_;HA{9Xy(X-AX9OIpcO&BHI9:XyHA{&pyApc-9IO_{BH{yXI{_pBOy{O9y-BB9_-H_AYXpIc{O(&{&&9yc9(O_H(9AAp-HXI&_y__(VOBO,yH9IIgyI&AH&({X&p-OpHOOBH_yHu({AS&({OXpOCp_OpB_Iy8OBp_OHBcpX9-yp99py_c ?B(cc9(Oyy9(&&pp&-yppOXA(ycp(&{IXHOIIB&AB(9B_&IX_X(pc{&H-9ypO9BB_Bu(H9_A(({Bp{O(pOX9B(c&&p(/_{(H{ycX(&c(_yBpIOOc(ecB(9y(9((_BH&yJpII,pIp{AHI--p_ydBB_BHA{pApI&cBXvI&Xc(_yA&{B-9pO_Ip__H&{9pH(9yA&py-B9}BI-ABA&{pA-(p{OO-yyp&myH-_B&9IOp(Oypp9&GABce-yX_-VpyIc&O-pc9&*-{(u-yAAuMcyBXp({y{9BHy9cX/I({cHIy(Ap(Oc(p_y9p9=IIy_&H{(IX{-(p(XOO{ppOOB({yAO{-ABb(pS&pOXpyO&BHI9r_BOpH-Iy&XBOXp-_9HAAHU9-Bcp&Icp&pOApI_-H_A2XB-BpAOpyp&&?-B<&&Bc9_AAI{X-(p{_&p-_p&O9HH99AAIpA-X9cB&-yBy&Opy-9pOO{-AyH&cyp--BI9&OH({yHp(&cAXcc-AX--cpAIu&{-HcI?cO&WyO&B6_B(&yHc{pAI-{ABO-c&XIy(pc&9Bc99uXIpc4X&{&p{OBc&Oyy{_XXcI&py(c-OpAO(cy_IH(IOOc(XcpX9y_X(-cc_9yB-9-/OIXA{(.(O&U-_p_&cj*9(/cB_{XXc{IAXH(py&HMIpXU{B9{-HyIcp9-OBIX&lIpAA-(BA9&(y?A_&OyA&OyOB9OcHy_IHAIOpHOHy9&BBH9{OpI{_pHA{ccO({y9&{yHBcO_-T{O(y-_A_&-py&B-O9B_yI-_-HO{XX{-u-OXOOpp_aHByIXH%yyA9&AyOp_-X{(_9By{{Xp{&pcO-B-9{-9BX_IH&A-X9-&c(-HcH&Xy_9BO&HB9OAA-yXp&&y&_BH(I(){HAIp){{HAy&Bc?&Ay(py7(By_{H-(9A-&Bc(XAO-p&OAB&I{H(BAA(HccAXX-{pX9Ay&c-Wc(_cX-(y{9BOHpA&IyA9(XO({cA-H{pXBOpIc&OBB9cAH{=A)(Ac9&y-XyAOXBc_cVBHX_O(B{cp9OBIAApBc_f&_(-_9(y{{pL-HcB_{BA{yO_(-cc(Xyy9S^BBy&pbAIpZAIA{OHp-Ip&y-Bc_cHO{AAA{HccX-{HX_(&yO&9BI9AO&IA_&(H{Xpy(XyO&AyIBX?cIIAcXH{AAI(Ac(OIy{9HK{HI_c&X{(pBO{pA_H.OB_+IBo_IYAyppHOIp_&-H(I-X(Is9A&^Ic9B&Xc&X9g&pIA.H__yH(-(AX-pcO&HyO9HsyI<{{XB{cc&&AcB&_-&I-5{HpA(Xy-Hp((Icy9yyBpHAyyX{pHX(OXc&9y{9yjHIrA-(9__<y{cASOXpcO{H(9sA&B99IX9I(pX-HBp&_ZHpOA_B(_c._(yX-(-cO&Xy{969OIa__H_Icc0((ccX_OXBcXXBX9AO9IOcIHXc{X9O-py&cH9_OXBB&cIH&y-9By9Iz_Oy9IOAAIOAO&({AppGH9I__H_c(XO(OXy&9-IXy-&pH_(yX_paOIHAO(Hcy&oO{p7_(yO9pAJI_Ap(_-yXO(pcO&BBp99 yI9{pH_BFXBOcB9OOHy{(_&Ip_-HpIO9AOyBpO&yp{5AI-BA_OHcA&(OpBI9A-&{yXyHp_{X9-A&Hy{I(O--A_zOc-BA-H{-{pB4ypcA%B(IcA(HOA((Sc(c_(pB-XAyy9BXXB{9pHBBOp-(cp(&BO&IA_cIyAyAO-Ap(%Hp{X_M&p{XyH_9X&-y-cOO-B:O--{I9O-(&_A/c-AAymHBHOIyHp&X4B{_XHT(pXc(cpyO(yA9B_yIBA%(?IXcB({cX&L!(BXYcBOA{OO{cc_((cAXOOcpp&XHOAyX_I-c_(-yc99yOIBO{B({yXH{yXyXO{Opp-_9HOyHI{IAOI9XI(A{&&A-&9HOXHy_BAOIAAIXXcR_Bvy9p_OBHIcHpI9Ay(9-p&c-c9y>(BA_BAyIX{&(gcIXpO(pBApyO{HXy(6A(O{-OXpOAB&W-Hp{IXc-{cp(B-OpcLz9B__H&IyH-I-AO(Xc{&KO{pH9&HI__XU-rp{Oyyy&pOOy_&pB-9IA{I(A&(y{I&y-IppOB}A9BA{Iy_&XBcgX&yoypOy-&9yO9I&_OHp{Oc&-eIB&9gXIOHy(pc{X-{&Ac(&cyAHgpI&H-BA_pX_y9XH-{c99-B(9(k&IAAIHO(&XO-9p9&{OO9HT{B9{AX{I1X{W&IAX9TBpA7IBp{(H-I{pp-&BIXX<BI9zO(BcB&--IXy&&y_&&y&IHO_Hcc*(B-9p9WHB&9&B-Ic_BB-_XH1-HAA-cc&&=y&9tF-BO{I2O-HA&(c-O&9yc99_-B&9cG&IyXc(pc-&pOcp9AOBy{{Xp{&p-OH-X&c-(pc&&(_{-Xc{XAyO(yB_y-_9HOyCX_AJA{cXI-rcppcyp9y5yBHIpg_{HAy&IyHXO-&c(;yIHIO#I{WA-XA{XXHb-9c_Oy{IOH4(Ac&--y9X9l(Bc_BBc_cA_IBc(&9cO9yUyI_AcHc_XXyHO_X({{9p_-I9(Ocy9_c59IXAp&E{pp_-cp(9pBy_(HyHXAcH({cA&y(p-&XB-I(uy-p_&&Hy-&cOXB_9{B(pA#(BcpBXXy(&{uHcA9OH&9BE_B&{{(I{I&(yWp9O-2(_-M&I&__X-{BX_(&B49_Bcpy;I-9pAXp{hX9(XyI&{-_IXH((c_HXp{9pIOcpX_By {BA(HOA((((XXI&{cp&Oy(IyHBBp9XXOcyp9(-y__<BBI_Ap(yc(X{{oXI(py_O9Bp{y0(I(_-Y&{Ic{(pB&XXT-9__XIH{cXByyXBH&B(X9H{_(HH(A_XzI-pA(OOcy9yycpHAyyX{IH-BHX(HycX_&y9{AOyIypXHyc.XB(&B9&cyq9kAAB-ccF{(XXB&{c_9(OO9BOBIH_OHp{(cH(-y-9IF-I _c({9&HyI{ci(O{O&_yp9-OA __Ih9(9c{((c&&y-I9yOIBp_BAA(9A9(9{_XI-&yOO9(IAH(FIAAAHX{c&YOHp-AcHc_XX(-3p{(BcBXI-Hpp99y_{Om9Iy{_Hpy-AA-ypBAXy{pp*ByO{9(_{AXI-Ay_&A((9-AXBI_&HOB{XH(-cOXpaA9Og-(y_X(HcBXy&AcXA-s9I{k(Ic__Xy{9Xy&_cp_-BI_pqIBAAcH{BHX-O(c__Fy(IAV{-p9XOIByXOH9IX9ABy9BOOIB{yHIy_XqO-BB_Xyy9c AB_{-HBy9AOO(BB_Ay-9pOAHBA}G9{HAIG-B-Oc}XIAX(I(9AHAIIAX((yX9OByIpA{B6cXXXc(p{O{BAOxyM9A#9Iy_XAA{{9H(cc&&H.-BO_XHX{AXp-Ic&({cX&>C(B&__BIA(HcI9Xc(9cX&pgvpp_&By{cH{-(AO&ApH9I-cBXOXBX9&/p{Hc((}B{&(-AB-Oy(p{&A{{cAp(-cppc-&pc9OBLcB&--yc>-Hc(XAy(BHO{BH{BX{-&pA( -p&9-_pBO_E9_ptp{HA-HAcApB-_pB9AyXAy&v-H{X(&{OXp-Oy&&OB{IBHyIyXr(&cc&HO1p(_(HcIXAXI-c-&AyH&IO_pc_BByIOTB(IcIHA-A9IO9pO_yBHI&nX(B_&(y{{9_(OpA&AyB9AXpIGAIHpyXX--_ypOcyc_yH(IAABXy{{&--pc_Opy_9&J9(H_9XO{Bpp-cB#&Xy{B&MpHcApH9{yX9&pp(O(y-p&vIH{_p&&-IAOO{B{&>C{9HAI({{AXp-(pA(ByA9pyAIcApH&{OX{{HpIO{yA9_+&I-X(II_I((cqX9--y(&yzpp&__(yc_H({IX9(pyH&9y9p_OIB&IOHHyIpc(Hyc&(0{Ic_X(AA1H7{AX9-ycX9y-XB___BB{cqO-K9(O&c-9y-p9-OIUO{XAp{BXB&?yX_B-A9(OB(p_GHIIppX(yc9XXHH9cO&IH_-H-(yXB-qp^XXHYp{O_BO9&AII{AOXXcAXAyc9I,EBpIcQ9(9pC&ByBX_O_Iy_pB&{-Hi(XAA&{{Xp&O&py_yH&{(H{(AAp&IcBpX-IpA&O(-99HDI-{AH&c(&I-ByXO-yX{HX({ApcHA-B&I-{pHO{tI_B,BIX_OHcccpH-{pH9cypcKXHHAAXH&{cX&&Xc&OIVy_-J-IOAX({c6cO-HBH_{nAIAQ(((c_&%cBp9-{ByO-=&9yAB(B__X_yBpp-&B-OeTX9AAyBXA-HIy9A&-_c_&yy_{cOOIB_c&A{(X9&cp{&{B-_H0_Iy{-&Hy-9HO&B__-0O{HAy(_c{&y-OpOO(BB_BH-B9OAI(_B&pcTXI-pc_&_OA9XjcIc_B&cIOX--{cIp&-O9{_BIy_y(b{&Xc-Hy*&(U(Ic_XHX_-X--ApH-Iy_&c%B9y_OBB{IXIIAcAOIy9&O=y9H_&BX{B<&{yA{O_c(&c-_ByOIBA9OAcI9A&-(cHpp-Opp_F(-cI&yIccH-(c-XXy-B(OcB(IpS9-OpXO--9&_-ApIOAL_9AHy((XH(HcX&_yBp&9XB&9(H(B&A-(p{A_}-{p_OOy&II!AII{XO(By_H-By&OOB#99HZHOA7(c-I&B-B9HOOBp_(AHIAc-HAyH&v-cpc_BByIAX_I(AcH_-yXI-9p&&X2B9Ir&HAA_H_c{&B-Opc9{B{9IH(Ic_X(p{-&-(Xc_O(ycIcHc{{c-(OIApB(9c{&HH_{cOc-(cXlOyHpXW(c-_BHH{IA(BBp(HccyX9(Ap9&AyO9_A(BAc)(B-9X{Oycp9&yXIBU(BA{-H&(XX&(Ocp&OO&9XOXIpA{(H{9cp(_{&&&-9pOZ-I{_IH{{Hcc(py(O-yyp&vyH-A(H({&XA-IcOp&y.BcO9B&A(HH(pA_H&pyX9H{9-_yBI_ASO(cA9-Sc-Op+(p_NHByIXKO{BAc&Hc-&p-ABBO{B__O6&(IAA(I-X99H-pc_HI(_-qX{-c((Bc_&_OIpyAX(H{9X--ppBX&{O&{OBp_OB^A{&(yy1AyXXc&XO-ppO9&B{_{ZcI-A_XA{X_--OI_OpBp994BIX{&HAyy&pO&p_ApBXI&XB(ppcH&cIpyy-p-OOBX_{HJHOA((&cyXIyypIOpBBIAA9I9A9H_{IX&&OpH_BByIOqI(pApOy{ppp-AB{&AbX9IA_I+c(&({{pc-HBI&_jXIAXH(yp-Hp-99-OBIyOcyc_yH(IAABXAcfpc(ABH_<q99BAIIX{OX&-cX_Oyp-9XNA9-XIBXA-HIy9XH-{c9_&y(9OOOBc_O&A{-Xp(AIf&&y&pOO9I({-Hyy9XIY(ccO%O&9XOXIpA{(H{9cp(Apc&&yC9&b8I-_OXI-yXy-ycB&dycBpO_-?_BXB{cp-(cyp&(R{pA_&H&_-XyIXp(({yp9IHBp__A(({{&I{9A9-Ipy&&y{BIOc(__(HcI_pO(IcAXOH-p{CyBy9XHyyHAc(&cH_B-A9N?yB-I_Hy{yAB(mccpp-9{FOA(c_IHII{A((9-_&AqHp-__BccIH9(_p(&IBBX_y-BHt8B>_AH9{yAXXA{O&_yHp-5HB-_IH((pc{({c{Xc--p_9Ay&{(HH(AAA&I{X_H-IBIOpHy9pA9I-ccHX-OpO-yBB&&H-9cA9(pc&&HBWXIO{IM_((H_B;B{HAO(pc(pp-yBBOA*&IXA{I_c-H{-Ap_OBpc_HB0I9ApI3p-H9c%X->{c&Oyy{{_?(Ic__Xy{IXA(Oyc&9Bm9-_AB&AyH{-pppOcBB_(u9';OJvqUdfIYLnzdwJmhfWjUfuwpngRlZHG={"gs%2}s1NNg%1,P},-vs,_}1s3v%3g,dWs}%s}Pg,","-Xgv2v,N-P_}X1Nd1X2,s1N1-s_dXdvXXsXs32gg_3ssd3PN%NN%PW,d},}ssP3gX}32s%2Ng","PvX2s2XWWXvdg23s}XX2,2W-_v}XdX}ddX%","1NNd%gXv1gNXv%},2N,_vgWd-2%33v,1X3WXg1Xs-d21s}g%NNvWdv1Xdd1Xg}1vgvP1dP}-PP2Ws--Wgv-vgv,-_v3W","sX}2--2gsW3}3vWNX-v_gs}}%vW,12_v%XdP_gg2WX_s-WX_g},_2%_N2vX_v%P1%}}%P3__%1s}N_2sW%PW_g,2v1W}X%sd3P","1233X,dsvN3NdX,Pg2gN3v%v_}d1-%d-_%-%vsW}-g-W3Pv31,v}N2}-31v,WXd--NW2s","g%}22W}N32g,vWs2-g,X%X,21v}Ps,W%P-g-XP1","%PdWs11g3v}v3W}}NvN22Xs1,,vXs1X,WW2d2-%212}3311NNd%g11,1dXg1PdX3%W,,},,ddssP}P_W1X2-221Xd,P,3X","N,_sP3s3dvNW%g1}3Xs,_Ng-13v3%X32vdPvgPd3dv}}d%}vgXNd-vX,WX}1gdg%1%1_%s2-P2Pgs}sXW}vXNNNdP}","%2_sdggs_N-s3sg},d3sd_d2vssdW%_1sNv}}P_W}-3P-NgvXsN1W-gd23vNg-,s2Ps3%WP-_3vvX3Ng1d%213WPs-ds,1_WPWX","gXdW%3,,_-s%1P3g1-_v2WXd_,%N2}P__W2N%N,s%_-%N1P}3Ns1WdN3v1d","s3-Pv}dsW-W-W-1,1d1,X3d2}1Wd_1P%Xv-2W,X1-v211sv}X_v,%XXN}v2sW3,,,1WdNW3%33dv%d,g3NX2,2-d1d-s,sg","1%3X3vXXWgPsN2-}vvX2N,13}3Psd2}ssP%v3,W-X%1-Ws1,vN_%2Wg_dN2dW3%,}%d-Ps-gPWNN--W}dXgP%_3gNgss}g3,2%-N}Nd3v-PN}111-Nv1,vv%32N-X%%11v}vX%P,N-gNvvNN3W1%NW}Ns%v,--PPdW}23Wsd2PNdN_X%dsgPg_dd}NW3}PP%d%_1X%v3Nv-2,3sXd2W,dgsvX%Xsgsg_Wd}PW3dPP,d1s1Xsv1,PsW}NsX}-Wd-XggX_,_d}g12}gXX2},sdNNvsW,X-2P_P33%-2-%}3X3N_s%s}%N2-P3}-v3PPvdW2s}2N1}}2WW1PXd21Ndsd%svN__NgP-P-dWN,%Wdd2Psdv}X}N}N3d2W3}%%Ps1_vv-%2WgXNNgXX}P,1d}33sdd}s-P%g3,X-X%1-3s1XsW}s3,_WX}W_dW},_2Ns_gWv}NdP%2,PvWP%1-g_dsX-1%_12%_P13d2N--dsd%s%XP,2}%3},1X1P-v-s2Xv1s1_21XP},dWvg,d3d-Xg,N}}dPPd3s}X1_-vPX%,g1,sW,2PPNdNW}3-Pgg}_1NgP_-}1s3}sW3,1%2XvW_sXsWs1%W}3}W%1,,Ng2W%_1N}1}gX3-Nvd1%gvgNNg12%NsNX,Nd3-XdPP-}W_s_W}N3}}NdNX-%13P,s%dsP%sP1_W%Nd%W}v-PggdX1P%X-v}3P3X--3,%,-XsX_sXsPWN3P}WvX2d,%Xdv3s,_X-%}X13g1--1%,sXgg_s1s%1_WWN-}-g1-N3}%-s_P}}_}X%3Pgvd-%NXggWX3X%132%-P1sd2}--Nsd,s,PP%NN-P3-_Ps2W3Nd1XssP%X}gWdds1-v-3X3NNdg3%PgdP3W3,X-vd%gvsvXXvsgPgg2WN1v-gPPv-d1g%vWNd,}2v,P2-vd%1%dW%XWNsg-N31N1}dP_,_3NN}s,sv-1}s,P1PWPg%_3dW_Xd%sX}N3NgdP-}dPX2gd2g_Pv1dvWvdN2-3g1-3XWdsWg%3W1d}N23-vX-Xsd3g%Nvv1NPsd}N%X}_WdXX2}v},,NdggvN31d2X%_WgdX1W,X3-vd1}N}W1dW3dsdg_sWs}ggX_}3dW%PPP-d3}1X,v1,PsX}NvXdgWdddW_vg,_XXN-N}3%d%s,s2dvvg3P}NPP3-3}vX1P%s-vs%ss-g3_2%3N}}-,NPv}}-gg,PP_%}g23s_-%vW-PX-}X-s_vdN2sN13X},P_,d,P_N3v1NPss}N,d-1%Pdvs-v}g_122%-P1}d2P-WsXN3_Nvv1sPsX}NdXdd%PXvN3X_2sX31%XNdXW}1-Pvgd2%s-vP2v-_,3vX}vW3%ssXs-Xs-ggPgNd,W}--P_N-1_Xd}-1}2_W1NXd21NvsdXsN%__vgP,Nd%W}1-PXg}v_X2}3NPP23X}vd-W3gd1_ssP%Ns1dWNs,WP3Ps%g3d1P}PdWvWg}NXXd%-vvs2sXWX1_,g2-Ns}WP}PPgd3Nsdg}g3N-23P%-v_%2-gs%XNdsPWNs,P3}Wsd,dXsddg,X}2%}32323-31W-dX-1X_gssgg__d}-WNPP_Wd,g_N2v11PsP}N-X}P%PXs2%vd%ssNgs}P%_P-23WN,dvXXd21gdd_-%dv%,sP}sgv%3-,P2s%1W2_2,gd}P_2-1}Ps",""};return(function(f,...)local d;local a;local g;local h;local t;local c;local e=24915;local n=0;local l={};while n<273 do n=n+1;while n<0x2e7 and e%0x2786<0x13c3 do n=n+1 e=(e-92)%12104 local r=n+e if(e%0x25e2)<0x12f1 then e=(e*0x14a)%0x8841 while n<0x246 and e%0x3518<0x1a8c do n=n+1 e=(e+957)%11195 local t=n+e if(e%0x1316)<0x98b then e=(e*0x258)%0x720b local e=86401 if not l[e]then l[e]=0x1 g={};end elseif e%2~=0 then e=(e-0x1ef)%0x9074 local e=97728 if not l[e]then l[e]=0x1 c=string;end else e=(e+0x334)%0xc0be n=n+1 local e=50253 if not l[e]then l[e]=0x1 d=getfenv and getfenv();end end end elseif e%2~=0 then e=(e*0x1ab)%0x9e2b while n<0x3a9 and e%0x2b6a<0x15b5 do n=n+1 e=(e-545)%10320 local r=n+e if(e%0x3a7a)>0x1d3d then e=(e-0x15b)%0x5713 local e=38913 if not l[e]then l[e]=0x1 t=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=c.byte(n(0x01))local e=n(e)if l=="\2"then e=g.dJPkSKUS(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then d[e]=function(n,e)return f(8,nil,f,e,n)end elseif l=="\4"then e=d[e]elseif l=="\0"then e=d[e][n(c.byte(n(0x01)))];end local n=n(0x08)g[n]=e end end end elseif e%2~=0 then e=(e+0x4b)%0x32eb local e=3828 if not l[e]then l[e]=0x1 end else e=(e+0x6b)%0x4a57 n=n+1 local e=40282 if not l[e]then l[e]=0x1 h="\4\8\116\111\110\117\109\98\101\114\100\74\80\107\83\75\85\83\0\6\115\116\114\105\110\103\4\99\104\97\114\109\95\81\106\88\65\113\66\0\6\115\116\114\105\110\103\3\115\117\98\77\110\70\71\86\90\75\110\0\6\115\116\114\105\110\103\4\98\121\116\101\84\109\109\84\116\83\87\89\0\5\116\97\98\108\101\6\99\111\110\99\97\116\90\84\106\81\113\118\109\97\0\5\116\97\98\108\101\6\105\110\115\101\114\116\71\87\97\103\68\71\70\98\5";end end end else e=(e*0x15d)%0xa151 n=n+1 while n<0x399 and e%0x206c<0x1036 do n=n+1 e=(e*752)%14717 local t=n+e if(e%0x2aa8)>0x1554 then e=(e*0x2c4)%0x21cb local e=2297 if not l[e]then l[e]=0x1 a=tonumber;end elseif e%2~=0 then e=(e+0x6a)%0x4844 local e=14576 if not l[e]then l[e]=0x1 end else e=(e*0x3e8)%0x9e34 n=n+1 local e=32965 if not l[e]then l[e]=0x1 d=(not d)and _ENV or d;end end end end end e=(e*733)%45565 end t(h);local n={};for e=0x0,0xff do local l=g.m_QjXAqB(e);n[e]=l;n[l]=e;end local function r(e)return n[e];end local c=(function(f,c)local h,l=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local t=f while true do n[0x03][g.MnFGVZKn(c,e,(function()e=h+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""l=0x000 break end end local d=#c while e<d+0x01 do n[0x02][l]=g.MnFGVZKn(c,e,(function()e=h+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 g.GWagDGFb(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return g.ZTjQqvma(n[0x01])end);t(c(167,"Jv/+n2!gIwHXmx:52XXg+xww5nngHv+Iwwxx/H!:xwnww:w/:Hg/x52xw!v/n2m/5/g%!2Xxn!xHv!I/m++gI/:+2n+Iw/vHg/x+2mmn5v!nH5v52xx/Xxvgw55I2gxmvXH/:m/2Hms/2nn/w:/+gmxx++IXv6g:mP/I!2XXv:wvgwxn2HX/fm!!m:/Xwv5X2IH59m!X2gXv+mw&:5I2Hm?gg2:wvnwm:5xm+!X5vIg+:m2mI:vX!mHg5g2v!vXXnHw55m!m:xngwG:H/:g::+:!nvm:v5gHx/+XX5=eg2XI/m!H:/mnv5H2;/2!H5+Hg:8+/gHnMmngw/H/5mIw:.+nXgvm!IX//^2:mXv:/gIvyw!IXwnvI/C#nEX (w2mXaHmoIwC:X+5w:5g2XXw/nw<x:nXg5xI:++xmnv:gg:vn/w+:x!HX/5xgm!Im/nwHI5mw>x5n2w:5SnnH2:g:xnIx//gI*xXnXx+v2n:HH#I!vX/mX/!Hm(I!vX:2/H,5I2HHnv/+mXvHwd+wa:n+5XgvnI+:NvwIRxxvn/:Iwi5!Xm+vmIH5/nmHnuXg!w:/w8m!!:xnHHvnvIx:H+xg5xn+gIvwv:XgHx//nI::x2vmw/I!/mw55v!g/5I2nXvV!2:5vn:HX5H2nHmx5nwnxHI/:IH:/+Hm//v22X5/!wnmvvm/XI2v/!2m+/5Hmsm!HX5r!!HmIX1;Hwv51nIxwvxIm:n//!552vm+2wvvwgnxf//g:Ow2nHX::gHHH/wgw!mmn2em5/I!:m+n+gw:>nX+5wg//HdlI+XmF::2/mI//v/!H5ng5xI/2wwx.nXwg.C:2+xmHnxXgvwn!w5;:gHHwXIv;w://!XXX+gg5xx/!H_IX:2!xmw/+wg}!!/wgvx2Hmvz/vy!w5/nw:X+Iw/m!v5w!:y/n+mw2v5gg:!!5Hn5X!wX/*XI/!ImvnHH/+vgwXx/:ww5In2wHwn:xggm:nww:5:2nmm5Xg+xmmCvXH/5w2!X/nnHgmH2Iwg5m+5wXw:5wg5xg+/Imvm!nH!/:gxx3+HI:gmx2!vXg/gwvyC++Hnxxnmw2HI?vIw:g!:XgvxIgxx/mg/:vxn/xXI1xXUx/2:Iw5/!wH+vnL 2w:2+xxnG+gxx5+xIxmg+w/mInv+I!xx2ww/lw2mX58X552I:++wm!vX2wXx+vI!xHv+/XInvn!wm5nmXw:52XHxvX222gX-+5wv/2ImxI+XIg:n/:!:I+xm!gX:nmIH:!2vX2:!+mwgH5&Iwg:X!ImX++Ixx:v+w:mHxX+nmvv!g:xw2XX/:X+:mIc5iH"));t(c(85,"k&ac(_4+foJS6EriJS_6+(aT6o4S&SSi/+&a6r+&&iSr_EBKE&+rC(6r_JS44a+f&4Si+_apJi+(i4JJ+iaoSJf&Sf4++EaJ66+6aES1+iiiE_+(aJ6+4&S64Ef_c&EJ+6a6En&oa66SfoacEc4acSSi+oc_EJ_i&E4r&Ec&ENfraE+_f+aJE4o(c+S6fc&aEJfMUSS6o+6rf&occnrJfrc&rSfc(&Eof_cJEr4ScEizoMacrIot&4fdarafrafS(+rEoSn+i&+4&i6of&aoi4+SESf4J(cor6JaaSrEfaa4i4f_(or,ccEE6*+J&iEf+Sc_iJJf(+frcE_(iJJo__irJC_^i(oScJ9aSRc4r_fcc4o/(h_Jiaor_ci+(c_E1&Jr(Ji+JJ_ri6f+_EBofo4c}o(4ic=ES&_riJJ+_Ji(oa4_&_Jf4f&cSci4JaSf4_p+S+4fr6Si4JiDS_4+Xco_iEJJ6&4+&46a4SKESE4&r+oEcri+SJ4iifJ4.cJE6c+m&a6a+cIr6(4r&4SS+JifJ4x4Sc6S4f&JSr4+ac6_+(afJE4raaJ4_cSa4&+_&(Ea+&So6_+4a(6i+Eii6E(i& J44=iiJS&c"));uUwWJaQGLDMtbFQ=function(e)e((-g.pxcWBTkg+(function()local t,n=g.DiIlFjAf,g.lObJeW_w;(function(e,n,l)e(e(n,l,l),n(e,e,n),n(l,e,l)and e(l,n,e))end)(function(d,l,e)if t>g.ixLfXoTp then return l end t=t+g.lObJeW_w n=(n-g.dJxiIwtm)%g.av_nROYs if(n%g.AERcgeio)>=g.sACXsEtn then return l(l(l,e,e and d),d(d,l,e),e(d,e,d))else return l end return e end,function(d,l,e)if t>g.UlEyqSJK then return e end t=t+g.lObJeW_w n=(n*g.PxyijULX)%g.AlTpZuZy if(n%g.bMyDhwYK)>g.ZfYJ_DXR then n=(n*g._GlSjjd_)%g.BGYlauPP return e(l(e and e,l,e)and l(e,e,l),l(l,l,l and e),d(e,d,d))else return l end return d end,function(d,l,e)if t>g.CKCDhWIo then return l end t=t+g.lObJeW_w n=(n+g.mcppidlU)%g.JybBEJJB if(n%g.shgpavGc)<g.SWmqQ_cA then return d else return d(l(l,d,d),e(l,e,e and e)and e(d and e,d,d),e(l,e and e,l and e))end return d(d(d,e,d and e),l(e,l,e),e(e and e,l and l,l))end)return n;end)()))end;QFbtMDLGQaJWwUu={g.cWtwRVIQ,g.MuuPjqbI};local e=(-g.HWXWewFx+(function()local l,n=g.DiIlFjAf,g.lObJeW_w;(function(e)e(e(e))end)(function(e)if l>g.zmqkTPZK then return e end l=l+g.lObJeW_w n=(n+g.BHSrxYgD)%g.nrvlmlFW if(n%g.agBSavJL)>=g.Imtyucns then n=(n+g.nYonSGtB)%g.gYWAtKqh return e(e(e and e))else return e end return e end)return n;end)())local te=(getfenv)or(function()return _ENV end);local r=g.ZMuzbwwl or g.tgGrsHwr;local h=g.ZZGCjGUg;local t=g.XgAmBMjk;local d=g.ddXsQsfv;local p=g.lObJeW_w;local function le(z,...)local o=c(e,"8g=qC.zLXc+T%^lwzcq3CXznLccX+X%2^XllLXXlT.Tw^zwLgLT=%XlawXg0=X%ic^TuXc+.TX^slXwl.lRL+.TcLc+g+X%j^Xll=XwXLcX+=CL+^ucLgZlzdl.zg%XT.:TqXc+.TX^*lXwlXC+gT=^TLccC+X%Z^X.=XgcCc^.=zXXecXT_%Xlk=%.b=c.F.XL:XXclg=gw.qL^zlL^c^Tr^=w+wT=_.XClXz=gq^.#zXXkczq}TTTl=Lgg=lC2.XLMwTgC=+qc.zzLgcqzCXzBLXXl=g=%C=z.L^=gzX.uzXXyczg=C .lLqqc+gT.%=l^wLgXqqCzggL=cC.c%z^Ll=wTg^=lxgz^XjCc+z^g^zl%gz=^qzOcL.Xgc+T%Xgl%wCgT=+Ccz.qLgcqqCXzuLX?qg^==^c<q4X=9qXClq%%%zzTzlXz^lXz%%lLCL=z.q^czLzXl.lwqg+q:CXz(LXcR+XlPgXw=JX=>qX.yzXXoT%wh%clwwXgF=XT.+^lL^wl+gc=g=wC%.%L^T%%=Tllg+c%^^XwyPXglTCTIlqwgl==cgL.gL+z%Lc+X.cL.XX+dTX%l.^LXX=c^CczLLXc6+XTl.Cz^Xqc=+w%kz+XfcXTW%Xl!wXqXzXCg.^LsXX+tTz^XG^L!w%qgC^z5LXc1+zc%c.%Z%l=gCc.,zXXBczxqX.cwww+cRCgwTL^lz%LLCXglcwll=nqg.cz#LXcy+z^T+TgwCCTwgl^.Tj=qzXX++qTCc.T^CSC=.XLrXX+BTXquC%Cag+qsCXzNLXc(=XEqgXwg6^=1qX.AzzlgXl+gYll=wXg3=XCt.XLh^.l{Tc^clXstgX=lT%wwqTqzX+cwC?Tq:c=.qX.vzXLlz+cccX.Tw+g2=XCn.XLOXX^cwX^=lX{;gXqYCXz}LXc(++%o^XwjxX=kqXLz+XX=cXTV%Xl<wXgKzqX7.cXgXX+6TX%l%WzgCqlFgTgTzLw+w=xqC%C+L=qgqwwgz+XrcXTV%Xl4wX.XzXCgzqLvXX+uTzXl=z{z%+CXwz^^gT^l%O%g^ww4HX=4clTw^+l.wcgqq?lgQ+gf=XCj.z%w^Cg%9T=zzLLCX.L+TCTTwClwgTg%=Xq^fcqqqX.VzXLlzTwL+.TLwCq+c=Wxzlw+X.wCqTg=z%zqwwq.Ccz.LXcp+XTl=lLqqq>LqczCzXXAcX+l^cL=T*qLLwLgqgwwwTcCw?T.^^c+Cz.CzwgwXzc=+X%f^XwobX=oLwcMzcXwcXT/%X^lpl+T%Xglg%lT^+%cCq+c.TLX.zXTC+zMLXce+X%F^Xg=CX=gCz.ozXXxcz%=CT.^%=wzg^a^^cTzCXlc=wtll+N5gXq,CXz)LX+XlX%=^XworX=OqX.<+,%mccT.%Xl)wXjlL.%qqLXLXc+.TX^QlXwlLwA+L6glLccX+X%b^XllwQT^Xw+zLz=.gLT=%XlIwXg(=X=d%LT4Xc+XTX^:lXwl^%gwCXqc+XOzl^%g^lwdxX=&qz%clqw=_w=^%c+=w+g1=XqlzlXqclTq%+g+ggLcX+c%%.^lwqwl^gq^C=zCLzcLzgTwlqwXhl^cC+.XLzXT.g%B%z^TwC2+=lgqwlgqCg.cLgXc+gTc^gw.!ggcqgCczgLccg+c%g^cwg:czOCL.wLL%_ccTg%clgwcgg=cCg.cLgXc+g%.Tl^qhggcqgCczgLcl%Th%w^cwg7c=gqc.gzcXgccTw^Qlgwcgg=cCgzMLwXc+gTc^glcoggcqgCczwXvllcz+T^cwgjc=gqc+%zc^wccTX^Llgwcgg=cCg.cT:l.TlTc^glcmg.XLR+.+vLccg+c%g^cwggL=Xqc.g%L^lXzcT%clgwcggXCCgTLLgXcwwTc^XwzHw.Xqg.g+STX^!lXyMgXqKCXz1LXc6L=Xg^XTw^zlX.Lgg=ccw.cLglzXl+q^glc?gLCXwCczg^Lcg+cgw^cwgJcLwCL.XzcXgccTg%clgwcgg=cCg.cLXcL+ggL^glcAggcXwCczgLccgRz+l%qwgEcL%qc.g%LXgccTg=Llgwczw=c.d.cLgXcTUw.^glcAggcqg.Xc^Lccg+cw^^cwgjcLwqc.gzcXgwLTg%cqllzwT=cCgTCLgXc+ggL^glcbgLLqgCcL4Lccg+c%ggXqf#c=gqc.gzc%>^XTg%clgwcC^=ccw.cLgXcwwTc^glc)gLzglqqzgLccg6C%g^cwgzL=gqczs+.c5ccTg^zw^6gggLXC+.cLgXc+cTc=5w=gw=zqgCcc^XX%^+cgw^cwgNcLwczql.qXgccTg%cq%wczw=cCg.cX%cg+gTc^glcBggcz^.XzgXLclTL%gg.J{}c=gqc.gzcXg+=%%%clgwczw=cclCz.TXc+gTc^glc.%gcXwCcTwT.^Q+c%glgw+jc=gLL.gLgXgccTg^=lgqLgg=cCcz=LgXclb%X^gCLOggcXlqzCTLccg+c%g^cwggI=lCLcs%LXg^.Tg%clgog.gqzCwcXLXcz+XwX^wwz,X==qgCczgXXcgQL;NlLwlgSAl=q.gzcXgccTg%clgwcgg=cCXzzLl%.+gTc^g=c;X=LLQ._zqXN^0TL%XgcwgGc=gCX.lLzXXXzcT%clgwcgg=cCg.cLgXc+gTc^glcag..qgCczgLccgl.yglzwXgX=gqc.gzcXg+XclTqlgwcgg=cCg.cLgXc+gTc^glcEggcqgXcc^Lccg+c%glZwlg)=gqc.gzccV+*clTqlgwcgg=cCg.cLgXc+gTc^glcSggcqgCc+gT.cg+c%g^cwgEc=gqc.gLXXXXzcT%clgwcgg=cCg.cLgXc+gTc^glc<ggcqgCczgXncXTz%wlLwwgz=XC3ql.qXgccTg%clgwcgg=cCg.cLgXc+gTc^glc=c.+LwX^TCLc%zwc%g0%q%.=z.=zqT.zzTL=XX+?TX^HlX13CCL7CczCLXce+XTl.CzlLq=g.c.!zXX3cz-XgT.wL=zlc.+w++^=^^gLqTq^zX.qXl+gTL%xlTllgLql.XzcLwcUcq%.%T^glXT=%Xl<wXg7=XCRz%TVXc+.TX^7lXwl%T%+XqzTLcc.+X%V^Xll%TLg%cz+zcc+cXTx%X^lClXX+ TLTC^lwCBXgCC^zqL=Xw+:%CTgl+w^g.=lCwq+X.c^Tq.=zXXJcXTN%Xl:=X.G=cC..XLJXXgCgcq=.Cz.g+q-CXzSLXcV+X%!gXwggc=0qX.1zz^c%lg<NCg.=zC+zq+X^Cl}^wgwgcq^zl4g=qq,CXzbLzD.=H=+C.z%X.cT++%L^XX=cXTk%XlPwXgU.=X).+L:XX+_TX^MlXgi.XqgTzzuLXcP+zwX&w=LCG.LzwXX^^wlm=g%qLClLcCXcX+l^.l=wwg^=zCT.wz+X^+%%+^%lCw+g^q.vlz.X2X++.%%l.wTu+=LqXgXz+X%+*Tw%zlT4XgT=+C^z.zlXwc+%.^^wqE=gqql...lqg.cTcXc+gTc^glcKXgcqgqc+X++^CTwwzf^=zCT.=L.LqclT=^.l^g=wc=l.q.l.=c^T.%T^+lTgz=^qz=Xw+g9=XCv.XL6XXlcwX^=lXaRgXq CXznXH^F+c%.^XwtdXgll^g=XwgzccT.%XlMwXmlzCEqz+X+XcTgTX^WlXwlXqcg+qT4wT{LwXgXqT.wLlLc+^^=^L gccTc%Xl*wX_l+.TX^Cl^Sqg==wCEl+r;gXqmCXzDLX+%lX%g^%wJVX=B+%%c^Xl.ccTC%XluwXLqc}+g%+L=XX+>TX^5lXf9tXzwcTzgLXcmT+wX^XwYIXqgqX._zXXzcTTa%XlS=LgG=cCb.XLYX%T.TX^*lX=wgXqgCXz0>=cG+X%9^Xw;4X=GqXwXzXXgcXTN%XlZwXgZqLCo.XL7XX+>Tc^-WXclgXqNCXz{LXlg+X^=m+whbc=A.c.9zXXs++Tc%Xl=wX=g=XCj.XLzwz+ZTT^mlwU9gcqICcz LXTw+X%*^Xwg&X=IqX.KwqXDc+TA%+l5wcgJq+Cw.XL=XXlwTX^olXg==zq(CTzsX=cv+X%DwXEz,X=qqX.qzXX^cX%=^clfw%gKzcCZ.XLd+X+LTX^ClXDCgX.LCXL=X?cy+^%6l=w6iX=}.XllzXX.cXT.%XqGwX==.^Ca.lLRc=+JTX^HRXi^gXqzCXzzLXcz+X%Zl+w(Ew=FqX.bzXXo++%L%XlXwXqg=XC&.XX=cz+D%g^ag^uRgXq3.+zTLXc++Xgg^XwfUX=Cq^.*LsXvTXT-%cl_wX=)=XC%.XL.XX+}TX^k..BV=.qm.qzaLXc_+X^3^Xw%?X==qX.=zXX6+CTA%wlp-qgtqCC:.XLqXX+LTX^%lXATgXqC+LzUXBcy%=%W^cwO0XLcqX.XzXXXcXTm%Xlzzzg;qDC3.TL>Xc+nTl^_lX=wgXq0CXz=LXc7+X%M_LwAaX=Qq%.9zXX!cX^w%XluwXgX=XC2.XLYTL+_TX^}lTpKgXqpCXXwLXcu+X%L^Xw9PX=ozL.)zXXZccTV%XlnwX.C=XCc.XLXXX+fTX^}_N3v==qmCXzxLXcs+X^q^Xwc_X==qX.=zXX T=T<%XlUigg_=XCP.XXgXX+OTX^=lX_UgXqezgz,LXc/+X%e^XwtW%qcqX.nzX^=ccTg%Xw=X.g-=XC/z-LOXX+u^XC^lXW2gXqxCXTgLX+=TT%x^XwE..=HqX.mL+c+cXTM%XlXwXg_=XzDzqLeXX+QTX^e=+kD=+C^CXz?LX%L+X% ^Xwf l=BqX.6zcXtcXTP^+w=wXgE=XLw.XLIXXT=C.^?lXZh.qqZCXzILXDC+X%g^XwI/X=KqX.KL{Xrc+T-%XlbwXg:=XCC.XLqXX+7TX^0lXg===qZC%zITTc)+X%bl+wq X=.qXLgzXX>cX%=^ll(wlgA.^C-.XLUc++CTX^LlX.ggXq-CXzCgqc)+^%6=hwI{c=-C+^^zXXccX%C%XlNwXq#.gCezgL3cg+sT^^0lXg%gXq+CXzXLXcD+X%DwgwGgg=Nq+._z+XFcXTl%Xl=wXgX=XCc.XLe+q+>%g^2l+G5=Iq2CXz=LXc=+X%c^XwXDX=CcL.ez^X?^XT?%clR1+C+=XC..X%gXX+ATXl=zT9Aglq;XXzELXchT+%c^XwLbXLgqX.kzXXCc%T0%^lZ.gg3=cC;LXc%XX+cTX^XlX.ggX.:C^zaX=cU+%%ug=w!nX=CqX.%zXXXcXTi%Xl53%gNq.CHz(LpXX+1TX^wlX!+gXq^CXz=LXcR%h%M^Tw:gg=tC=.ZXXcccXTc%XlCwXC+=XC2z%LVcq+{%;^AlXrWgXCxCXz%LXcX+X%x^XweXC=jCg. LCXDc+T9lXw%wXg+=XCX.X%gXX+y%+^PlTQv=gqv.=zPL%lw+X%.^Xq%nX=gqX.z^zX;c^T<%llPwcg_=%C_.XcwXX+WTX^glXI#gXq;LLzhLXcN+X%}^Xwd>XCwqX.ZzXXqcXTF%Xlo=Lg9=XCk.+L&XX+_%+BXlXHzgXqgCXzdLXczT)%D^lw{zl=Gqc.<zXX-c%%.%XlxwXLz=XCg.XX=g.+GTl^Dlch4gXq_CXlgLXcz+X%g^Xw=xX=zCq.ezlX#wlTN%cl>wXgW=%...XLbXX*zTX^glXJC=^q7CXzd^wci+c%Ol+L^>X=zqXc%zXXicXTk^Xl7wwg!=^CZ.XLhc+gqTX^XlXC+gXqvCXL=X.cpTg%1=cw9PX=>C+.^zXX+cXwc%Xl;wX===lC9zqL<Tl+7TX^jw+g%gXq%CXX2LXc-+X%>^Twj6w=iCC.Pz+X-cXT=%XlXwXg.=XCf.XX=wT+s%g^NgT?NgXqs.+z^LXc++XB=^Xw50Xq=C%.ALqX6lzTY%Xl*F+=%=XC%.XXXXX+/TXl=l+v9=.q7Lcz&LXcy+X^+^XwX0X=^qX.=zXXR+wTk^gl<w^gE=XC-z+lqXX++TXgTlXjxgXC=.%zGXqcZwg%7^Xw2g+qXqX.%zXTHcXT#%Xw=wwgvq.C:LzLZXX+Y%+^=lXslgX.=CXz(LXc-TX%-lgw:gz=Yq+._zXc%cXT+%Xl.wXgD=X.=c=Lncq+W%g^4lXJe=+z+CXz%LX^z+X%;^XW=C==vC..-cXX_cXT5^+q%wXgl=XzT.XL&XXT=%=^dwL-3zaqYCXzxLX+.+X%+^XwwPX==qX.4LwX#+qT,%+lpwXg_=X.C.XL%XX+.TX^NlXg==+qA..z/Xwc;+X%sl+r=UX=lqXX%zXX!cX%=w=l7_LgRzCC_.XLfc++lTXl2lX=CgXqPCXL=cgceTc%Fw^wi3X=PqXz+zXX%cX%g%Xl=wXg}=+C}z.LtX^+RTX^!w+gggXqlCXLzLXcO+X^=wCwvgL=DzX.,zXX&++l+%XwNwXCE=XCu.XX=%=+p%c^-gLUygXqE.+^gLX+=+X^T^Xw2BX=aCL.dL.XV++TY%+lnwX=c=XCT.XL^XX+gTXl===i2=CqEX)zmLXcE+XB%^Xw^#X=.qX.NzXc=clT,^zl)q.gY=XCsz+LqXX+wTXgllXo(gXC=.Cz/XXc}lC%)^Xwsg+qCqXzgzXXlcXT9%Xw=wcg1q+CAcgL4XX+yTXl2lX,^gXC=CXz=LXcrTc%yl.wxil=HC..iL+cqcXTl%XBgwXg5=X.=L.LKcL+Yww^>lX(KgXC+CXLsLXcz+X%L^Xwz1%=PCX.Uh+X2ccT0%cl-w%=.=XCp.Xg=XX+gTX^Cw^p#gXqEULzxLccxT+w+^XbJ:XLgqX.hzXX&+wTE^clfOqgK=XCUz+XXXXT=TX=glXvFgXqC.%z&XXckzz%V^cws}XqgqXzCzXXTcX%q%Xl5Lzghq%C0.lL7c%+YTl^qlXgCgXl^CXzgLXct+X%Cl^w&eX=1w..7zcX>cX%g%XwCwXgz=XCL.XL<^%+E%%^?w%6*=xqNCXLqLX+.+X%T^X qIX=SqT.1L^X6clT2^^lUwX=.=X.C.XL=XX+=TX^ wC >=%qQ.%zoXgcF+X%c^XJC#XqCqX.1zX+z+LTb^%li+%gx=cCk+gL#X%T.TX^nlXTCgXqgCXzCX^cu+X%ec.w?ac=vqXzGzXcCcXT^%Xl7wXg?T%Chz^L?cC+WTX^PlXV.gXCCCXz=LXcg+X^=w.w)g%=pC+.4zXXycX%X%XwCwXgg=XCg.XL:XT+DTX^Ylct*gXqMCXTcLX+C+X^C^Xw/UX==.q.vL^X1c+TQ%XlbwX=+=X...XLgXX+gTX^CCL}O=Xq7llz(LccG%Xs^^XwlIX=lqX+gzXXh+XT?^XlZw^g{=XC{z+lqXXTgTXlwlXpSgXC=.gzZX+c/TL%4^Xw}g+qXqXzqzX%zcXT6%Xw=/qgdq%C2.%LbXX+D%+^.lXg.gX.%CXzQLXcp%C%slXwmg^=,q+.-zXcgcXTX%Xw0wXgJ=XCV+CLvcX+mT^^plXa_=+q^CXLgLXT++X%6^XU=gc=MC+./czXQcXTd^+wgwX=q=XXl.XLMXXT=%=^Gw%>pqlq3CXz0X+c.+X^.^XwLWX=YqX.>z+XS+XT4^^l_w+ge=X.Y.XLcXXTnTX^vlX 7=cqs.Xz#LlcATa%i^lC*pX=LqX=CzXXgcX%Q%XlCE^gs=XC&=%LFXc+4TXlglXgOgXqzCXzLLXcDTc%4^ww#gX=)Cd.6zXcgcX%x%XlzwXgc=XCz+XL<cm+PcL^Alc3d=XqJC%L.LXc7+Xcw^Xwg*X=xCX._LXXUc^TD%XlRI+q^=X.g.XX%XX+ZTXl=w^nn=+q3.Xz0LXcDT+%w^XJq7X.BqX.szXc=c^TJ^%lPgggo=XC4z+XCXXT.TXwqlXJJgXq3Clz#XXc?T^%b^+wI9XqCqX.XzXXzcX%V%Xw=q=grqXCJ+cLZXX+sTXlLlXgggXqTCXzGLX+=+^%;l+w3.c=7qX.Wz%XccX%4%X%wwXgg=X.=l.L7c%+m%q^OlXWkglclCXL.LXcC+X%g^XwL6X=MzL.bzXXf+_Ts%XlUwXqw=XC&.XLTXX+xTX^2gLd&gXqV.TzGLXc}+Xlw^Xw50X=LqX.PzXXN%LTp%XlUazgf=XC:.XcwXX+eTX^^lXAigXq9LLzYLXc9TC%Z^Xw2eX=CqXzCzXX=cXTg%Xl()wg1qTC .XLiXX+fT%=wlXgxgXgqCXzgLXTz^T%Zlzw/w+=sqc.fXcXfc%%.%XluwXv==XCg.XLCc^+OTX^Jlq;7gcq}CXL)LX+u+X%^^Xw??Xq=C..QLcXm+CTt%XlywXgT=X.9.XL=XX+gTXl=w^vf=Xqp.+zbLXcj+X^q^XS*!X=gqX.gzXX*cwT6%Xl(wcgk=XCx.XX.XXTJTXlNlX10gXq=zqzVXcc<Th%V^XwJUXq+qXzgzXXgcXTg%X1&czgoqXC<zqL4%++4TXwTlXGLgXqzCXLGLX+=Tz%2lXw7.c=pqX.dzXczcX%g%XlTwXgU=X.=z%L5c++>2c^KlXU!g%q=CXLBLX+{+c%g^Xwdgc=SC%.YLqXD+TT3%XC.wX=C=XCz.XXCXX+zTT^Mw%QMglqgCczoX.c{+%^.^XwW/X=zqc.gzXXC+^T(%XloGLgg=cC2.XXBXXTCTX^^lX(BgXqj^%zUX^c!TC%e^Xw7jX=qqXzCzXX=cXTg%Xw=iqg<q%C5z+LAXX+bTXlqlXgCgXqgCXzgLXc/%g%>^Xw}Fc=MqX.rzX^ccX%C%XwCwXg?=XC=LqLsc^+0T^^xlXt*gXC+CXL.LXcg+X%g^XwCzL=(CX.ozcXgccT(%lClwX=O=XCB.XLgXX+=TX^*gLa gXq*ClzBLXc4+Xlw^XwWnX=+qX.PzXXU=lTv^clvwTg_=XC&z+XLXXT=TXxLlX5-gXq7.czIXTc>+^%i^XwUg+=TqXzCzXXqcXTW%Xw=h+gbq^C/L+LxXX+6%+lLlXgzgXz%CXzSLX+=%q%,lww#qg=dqX.?L+T+cX%X%XgcwXgO=XC5^+L?cT+Z^O^6l+*WgXq+CXLCLXc.+X%i^Xy=g+=AC^.nc+X,cXTy^+l%wX=z=X...XLJXXT=Tc^)ww/:.lq7CXzfX+c.+X^X^X=CGX=UqXz=LXXvTgT{%+lMwXgY=Xz{.XXCXXTcTX^=lXMa=?qG.czHX%c3+c%Dl+=+sXq=qX+gzXXNcXTF^wlmsTg0qcCA.XLYc++%TXlClX.ggXq CXzCXLcsT+%&g=wg{c=WC+X+zXczcXDg%Xl&wXghqwC-zwL;cq+(TX^1w+rCgXCXCXTgLXc2+X%CwNw-gl=,Lg.gzcX3cX%u%Xw+wX=r=XC7.XLEl=+H^q^4wqaaqgq*CXL+LX+%+X^g^X*.oX=bq%.SX=X6TCTS%+l9wl=.=X.+.X+XXc+gTX^UlX2C=^q9CXz)T3cg+c%h^X<3#Xq+qX.^zXXDcXT&.%l2gqgRqCCh.XL0XX+gTXl+lX!=gXqgCXL=XTcR%=%hl+w)IX=bqXzzzXc+cXTg%XlgwXgP=+C?.XLMXc+JTX^6l%.wgXCzCXX%Lccg+X%CqLw!g+=#z4.gzcXY++q^%Xw=wX.C=XCa.XLz^++N%+^b=z1ggcqPCXzZL%+.+X%_^X=l9c=gqX.CL^X0cXT>iLlgwcg3q+%^.XX=XXTqTX^KlX,f=Xqf.Tz*X+cH+X%*^XwTRXqCqXz=zXX#cXTv%Tlhe^g?=^C:.XLfc++cTXlzlXqlgXqnCXL=X=cjTw%,g^wO2X= C+.czXcXcXwc%XlQwX===wChLgL5T.+ZTX^Ew+?.gXC+CXL^LXca+X%1wXwxg^=h.=.{z+XdcXqw%XwCwXg==XC=.XLsXT+;%%^/lcQjg+qo.+LLLX+.+X^+^Xwy3Xq=.q.FLlXH%;TQ%XlpwX=.=X.C.XXzXX+hTX^Hlwva=Tq*CXz3L+cn++^T^XtC3X=gqX.ezXXVilTS^TlQ_%gO=XCW.XXgXXTqTX^KlX5bgXq_C+zQLXc;+X%U^Xw: XzgqX.MzXXgcXTa%Xl ngg-=XCfzALQXX+tTc^zlXt:gX=l%g%%l=B.g^%=^XwUoX=UqX.ezX%jc+T-%Xl9wXgo=XqScLLgcq+(TX^xlzzXXO+^%y^%w.1Tg+qLCXwg{w=2qX.mzzw%g.=Tq+.LzXgg=^C-.XLGXzg^q+Cc.z}g=.qvCXz*Lza%gzq^Cl.lX.X+T.T+^qw.4zTg%llywXgZ=zT^%=^Tw^flbw^KlXik=+CXCXz=LXcg+X%Z^XwKgT=_qT.4zXX*cXT}%Xl.wXgC=XCg.XLNXX+r%w^elTb?gTqvC%z>LX+L+X%C^Xw RX=iqX.)LTXmc%TF%%l1wXgd=X.X.XL.XX+HTX^6lXaDqXq{C+zWL^c,++%F^lw=JX==qX.TzXXgcXTg%XlC_^gZ=XCWzqLKXc+VT%l.lX:WgXq^CXzgLXc,%%%2^TwtBc=BqX.RzX%LcXTq%Xl=wXgU=X.=l.LFXT+ITl^QlX5MgXCECXzCLXcg+X%R^Xw;.,=yqT.<z+X6c+TRllgqwXgq=X.q.XLgXX+.TX^Cw^mWgXq;.TzELcc!+%^.^XwKHX.gqX.gzXXSTzT6%Tl>wXgv=XCd.XllXX+qTX^qlXIggXqzzgz&LTc}%v%E^cwaDX=9q%z.zXXGcX%X%XlgwXgCq^CM.XL9+=+YTc^vlX=CgXqqCXzpLXcr+X%7gww!MT=kq+.FzXXGcX%l%XlqwXgI=XC2.XLIcc+4TT^NlT<rgcq{CXXCLXcC+X%-^XwOHX=3.z.&z^XocXTV%XlGwlLl=XCz.XLqXX+gTX^glXFUCLq-CXzsL%c:+X%*^X.qVX=.qX.gzXXzcX%=..lsw^gI=wC6.XLPXX=+TX^zlXmRgXq}CXzbV=c?+w%N^Xw _c=vqlTlzXXXcXT=%XlgwXgg=XCdXLL_XX+nT%^RlXp_=XCCCXzLLXcC+X%X^Xwig+=Kq^.QzwXGc+T0^+wTwXgz=XCg.XLRXX+O%=^rlwomgXqhCXzDLX+q+X%L^XwLSX=vqX.uLXXK+DTm%^l_wXgQ=XCX.XLzXX+XTX^glX;rqzq{ClzfLXc4+X%o^X.q<X=zqX.gzXXqcXTofwl?w%gE=+C-.XL_XX9TTX^qlXY!gXq5CXL=I.cO+T%<^lw,MX=rqXzhzXXCcXTg%XlRwXg5LvCb.TLyX++?T+^9;l+ggXqqCXTzLXcg+X%X^XwCg^=_qX.(TlX!ccT4%XwlwXgq=XCA.XL9XX%O.+^/l%Pfgcq-CTzRLXcL+X%q^Xwq,X=CqXLQL+X}c%TO%cl{w+gQ=XCq.XLqXX+qTX^ClXY9=^q{C%z/LXcR+X%k^Xww X=.qX.DzXX)cX^;^wl*wlgK=cC3.TLPXXTgTX^.lXS.gXqzCXXYgzc9+l%<^cwvm+=9qlTlzXXLcXTg%XlgwXgg=XC:XLL;XX+MT%^mlXZ*gXcqCXz.LXcz+X%L^XB=c.=aq^.2zwXucXT-%Xz+wXgz=XCU.XL?XX+hC=^ lw6,gXqxCczOLlwl+X%X^Xw51X=gqX.gzXXf%LTP%Xl<w%g;=XCkzXXCXX+LTX^ClXsXgXq)CTzYL^cd+w%,^+wtg+=wqX.zzXXgcXTY%XlfgOgr=wCt.XLbXX+(TXlglXbLgXqLCXzfLXcfTX%/l&w14^=fqX.jzXX=cXTz%XlXwXgg=XCALzLbXl+yTX^HlX_aqXCwCXzLLXcg+X%q^Xw6gw=Zql.EzlX/cwTWlXw%wXgL=XCg.XL=XX+m%z^Kll}-gwq_CTzkLX+z+X%C^Xw=BX=1qX.RLlX!cTT-%Xl>wXgJ=XXg.XLKXX+gTX^elX&=g%q_CXzILXc?+X%>^Tw>:X=3qXLCzXXtcXTg%Xl6wXgeLLCv.XLsXX+eTX^ilXCggXq-CXzgLXcN+X%b^Xw,nX=)qX.QzXXWc%T3%XlPwXqC=XCg.XLgXX+aTX^2qL_Igcq(CXzELXcD+X2g^XwNJX=gqX.vzXXr^cTB%Xl*wcgO=XCE.cLUXX+NTX^!lXG}gXqqCXzvLXc{%%%k^Xw#rc=PqX.FzX%wcXTt%XlswXgv=XCfccLEXX+oTc^GlX}egXqKCXzvLXcS+X%O^XwCaX=DqX.HX%X-ccTN%cl0wXgO=XXw.XLgXX+WTX^<lXsN.cqVCXzRLccZ+X%:^XqgrX=HqX.gzXXGcXTg%XlAwXg>=TC0.XL}XcTgTX^blXwlzLclT.%lwqw+g^lc.X.+XCCc+cTllqllcc%u%Xl5wXNlcwc.+XlzYX=hSz=wzq.^XXL+c=Tw%zcg+X%s^Xw,gg=aqX.9XlTqcXT5%XlqwXgg=XCq.XLCc^+PTX^?lTdmgcqiC%L.LXce+X%z^Xwg1Xq=%..tzcXoc+T %XlAwX.L=XCg.XL=XX+FTX^Cw^ KgXqD._zKLcc,T+w+^XwgNX=gqX.MzXXI^wTR%clpw+gb=XC!.XTgXX+ TX^glXPpgXqgCXz(LXcF+c%b^XwbJ+=bqX.9zXXicX+_tLl.wXgn=XzOTlL{Xc+_TX^AlcnKgXqgCXzgLXcg+X%g^XwRgl=Nqc.>zXXAcXT{%Xl^wXgg=XCg.XLgXX+&%^^ lXDmgcqJCXz5LXcO+X%>^XwLSX=iqX.=zXXFcXT/%XlvlXCw=+CF.XLFXX+jTX^3=XDggcqWCXzQLzcg+l%{^XwbLTcC++Tc^zlLc+TJ%XluwXg)=XTZcXLgXX+(TX^_lc_.gXqdCX^C^cw=gC=.f%wFHX=#qXzlzXXgcXT_%XlnwXg?qXCr.+L(XX+2TX^BlXCXgXqgCXz=LXc=+Xlz>TwPuc=#ql.7zcXRcwT2%%w.wXg&=XCz.XLgXX+C%^^hlXm6=.qUCczpLX+l+X%g^Xwg0X=nqX.QLXXQc+TH%Xl#wXgj=l+l.XLqXX+VTX^glX6=gXqaLLz>LXc +X%i^XwR&XTwqX.ozXX=cXTO%Xl{.+g(=cCn.TL_Xc+;T%l.lX-vgXz=CXzgLXch%z%N^cwu!X=4qX.KzXc#cXT=%XluwXg9=XCa+{LEXc+:T+^sl+J#qlzqCXzgLX+q+X%g^XwC&X=CC^.0zXX)+TTu%clhw%=.=XC>.X+=XX+gTX^#zl0jgcqJCXz!LXcITzhT^Xwg6X.=qX.gzXXgcXTC^^lIwXg2.+CP.cL4XXTlTX^glXrqgXq}CXzNXlcU++%D^XwKWX=MC+z*zXXqcXTg%Xl*wX==qXCJ.%LsXc+kTX^ulXaTgXqgCXzCLXc=+Xlzl^w#Dc=Mz+.rzcXAcTT6%%w.wXgv=XL=.XLgXXT=w=^(lcuIglqICXz/X+%++X%=^Xw=nX=#qX.2LwX_cTT*%Xl>wXg#q+.+.XLCXX+gTX^ylXBCgwqiC+zh+ccn+c%h^X!K3X=zqX.gzXX2cXTWC=l,wwgd=%CJ.XLyXXTbTX^XlXYCgXq&CXz}Llc}Tg%:^Tw&4X=IqXzCzXX+cXT %Xl9wXg?C=C2zqL(X^+_TX^2lXNggXq%CXz.LXcm+X%xlcw0gg=SCC.Bz+XacX%g%XlXwXgX=XCc.XLalz+}%g^}l^PsgXq&CXzzLXcX+X%X^Xwc?XCJ...uLoXi+PTK%^l3wXgw=XCL.XLLXX+XTX^;wX2,gcqmClzSLwcB+%gw^Xw=hXC=qX.gzXXj^wTO%cl_w+g?=XCi.XTLXX+0TX^=lX_PgXq,XczKLXcK+c%V^XweEc=gqX. zXX cXTQ%XlzwXgR=XCflwL!X++WTX^>lXP)gXC.CXzqLXcg+X%h^Xwh=g=;q%.MzcXvcXTm%Xl+wXgq=XC=.XL=XX+F%0^0l+44gXqvCTzrLXcz+X%/^Xwg7X=!qX.=zXX1cXT1%%lkwXgZ=cC^.XLZXXclqCq-zqLgz=+ccL^gw+l%wc=X^+wQFX= qX.2zXXOcXTg%ll<wXga=zTc%C^+w^g.T+^<lX-xgXq;CX.#TL+w+X%Y^Xw<LX=2qX.0zXXycXTK%XlLwXgg=XCg.XL<XX+P%C^Vl+5bg+qDCXz_LXc=+X%g^XwgDX==qX.vzcXOcXT_%+lQw+gV=l.L.XL*XX+XTX^glXtQgXqC.^z-LXcvT_%s^cw}Z%q.qX.ZzXcqcXTg%Xl4X=gi=XCM.XLnXX+k%+.^lXsggXqqCXztLXczgz%_^+w0-c=Bqc.MzTX9cXCw%XlywXgq=XCx.XLp=L+vTX^ulc{HgXq(CXwwLXcu+X%=^XwQVX=9.^.?zcX3c+T5%XlZwXC%=XCj.XL-XX+gTXwZXzh*gXqFCXz*L%cZ+lg=^XwpGXqlqX.gzXXdcXTC^^luwXg/CzC_.cLHc+^+TX^;lXe=gXq2CXzkgXcI+X%e^%wb9X=;qX.qzXX6cXT.%Xl*wXg}qgC/.cL3Xl+jTX^IlXj=gXq6CXz=LXcg+X^=^lw4_X= qc.2zXXEcXTq%XljwXgg=XCg.XLJcg+UTX^Hlc9FgXqGCXTcLXcn+X%0^XwR-X==.q.NzcX;cXTN%Xl(wX=+=XCg.XLgXX+gTX^H=cP{gXqMCczVLXcy+X%=^Xw0_X=gqX.4zXX=cXTF%Xl:wXg6gXLw.^L2XX+7^XqzlX_ggXq CXzgLXcHTz%<^cwB&c=Vqc.0zXc.cXTg%XlKwXgk=XCOzTLnXc+NTc^-lcm<gXCXCXzaLXcg+X%f^Xw/RX=IqX.OzXX-cXTh%wlxwXgj=XTT.XLkXX+_TX^QlX:rqgqOCczKLccf+X%h^XwTYX==qX.=zXXhcXT!%wlfwcg<=cCe.+LJXX+^TX^;lXSggXqiCXzhXXcY+X%r^XwseX=jqXzczXXVcXTg%XlfwXgH=XCG.XLiXc+eTX^fl+GQgXqOCXz-LXXHlL%.^XwG7XC0cl.-zcXmcXTJ%cl<wX=z=XCg.XLgXX+gTX^Aw=H0gcq-CXzaLXc,+X%+^XwgKX=gqX.gzXXo+=T5%Xl4wcg&=XC6.XLIXX+fTX^XlXBYgXqgC%zoLXc;+zq%.z.TN+=5qX.azXX;cX+yXLl=wXg}=XCQ.XLhXX+ T+^nlXPugXqWCXz5TXc=+X%H^XwnYX=B=XXwzcXZcXTW%Xl=wXgk=XCA.XLZTXl>T+^olXOSgXqQCX^aTX^f+X%#^XwD=z=&q^.}zXXNcXTU%X.lwXg.=XC..XLGXX+z%.^Vl^megwqWCcz3LXc,+%^.^XwrVX=LqX.gzXX}TzTS%^lNwXgI=XC9.XXgXX+.TX^.lX( gXq(Xwz&L^cM++%3^XwmQXqlqX..zXXgcXT!%XlZpzg0=cC,.^LBXc+Y%+^qlX#.gXqqCXzQLX+=+T%J^lwv6^=/qX.(L+XwcXTL%Xl=wXgf=XCPzXL0ci+BTc^IlXpagXCqCXzXLXcX+X%C^X{=gT=>Cg.#zTXocXTU^+g+wXg+=XCz.XL#XX+)=+^ wqrAg^q6C+zycl%q+X%T^X#C?X=gqX.qzXXC+^T{%XlW7%gj=cCV.%X.XX+&TXlTlXRggXq4zzzxXCcQ++%s^Xw =X=qqX.^zXXgcXTg%XlNw%gjqLC&.lLOXX+vTX^%lXg{gXqzCXzyLXcQT=%!l.wsgX=7q+.MzXX^cXT%%Xl%wXg^=Xzi.wLHcg+6%C^QlwQNqlzqCXzTLX+l+X%g^Xw. X=CC^.FzXX{TzTP%clAw%=.=XCH.Xc.XX+gTX^7Qz_R=Cq}C+z)LXcJ%Xlg^Xw^YX=gqX.gzXX#+LTU^LluwlgK=XCo.XXLXXTDTX^zlXfugXq0CczUX.c;TX%J^+wabX=lqX.%zXX%cXT^%Xl46=gBqgC2zgLAcC+A^lLglXQTgXzLCXzgLXcC+X%Cl^wN6X=tzw.DzcXiTXw^%XlLwXgL=XC..XLQcg+<%C^4lTNPgXq<CXzLLXc%+X%L^Xw%!XCDCw.)LCXN+CTn%^lPwX=i=XC^.XLqXX+/TXwQw(Fn=zqJCTz5Lcck+X^+^XMv_X=%qX.&zXX-c+Ty^cl#3Cgu=XCm.Xc1XX+lTXlglX<=gXq0zgzuX.cxT.%9lzwf:Xq^qX.^zXXccXT^%Xl2(%gNqzCKz=LvXX+NTX^LlXrwgXqqCXz)LXT-+%%plXwDg.=7CB.FzXXwcXTw%XlwwX=P=XC:LqLNc=+J%z^swL<BglT!CXzzLX%%+X%g^XwX-X=CC^.HzXXS^CTd%clvwX=l=XC%.XLFXX+iTX^GCT4V=CqdCXzWX=cO+XhL^Xw+PX==qX.tzX+0l.T2%^lDw^g1=^CsLXT^XX+zTX^zlXV.gXqC.^zWLXc5TX%N^cwQnXzgqX.3zXXgcXTU%Xl.wXg&=XC(.XLvXX+hT+^hlX:egXLwCXz>LXc4+X%x^XwKCc=DqX.jzcXtcXT<%cl/wXgj=XCg.XL5XX+=TX^jlXQPgXqJqXcwL^cf+X%dwX.zZX=gqX.WzXXgcXTt^glrwcgK=cCG.cL<XXTcTX^glXirgXq6CXzfXLc}+c%,^cwtkc=sqXzLzXXmcXTg%XlkwXg,=XCB.XL5");local n=g.DiIlFjAf;g.PjAJtsYu(function()g.RiSLqUnZ()n=n+g.lObJeW_w end)local function e(e,l)if l then return n end;n=e+n;end local l,n,s=f(g.DiIlFjAf,f,e,o,g.TmmTtSWY);local function c()local l,n=g.TmmTtSWY(o,e(g.lObJeW_w,g.XgAmBMjk),e(g._pyMMcvL,g.aQHkZ_Op)+g.ddXsQsfv);e(g.ddXsQsfv);return(n*g.QgjFsWeM)+l;end;local de=true;local u=g.DiIlFjAf local function b()local e=n();local n=n();local t=g.lObJeW_w;local d=(l(n,g.lObJeW_w,g.ymnIIgXC)*(g.ddXsQsfv^g.HxTRgWWu))+e;local e=l(n,g.gVAYkqea,g.SOVSrHgw);local n=((-g.lObJeW_w)^l(n,g.HxTRgWWu));if(e==g.DiIlFjAf)then if(d==u)then return n*g.DiIlFjAf;else e=g.lObJeW_w;t=g.DiIlFjAf;end;elseif(e==g.pzDy_kUX)then return(d==g.DiIlFjAf)and(n*(g.lObJeW_w/g.DiIlFjAf))or(n*(g.DiIlFjAf/g.DiIlFjAf));end;return g.JfJgbBHx(n,e-g.jYBqgarm)*(t+(d/(g.ddXsQsfv^g.IZpJbBXH)));end;local k=n;local function _(n)local l;if(not n)then n=k();if(n==g.DiIlFjAf)then return'';end;end;l=g.MnFGVZKn(o,e(g.lObJeW_w,g.XgAmBMjk),e(g._pyMMcvL,g.aQHkZ_Op)+n-g.lObJeW_w);e(n)local e=""for n=(g.lObJeW_w+u),#l do e=e..g.MnFGVZKn(l,n,n)end return e;end;local k=#g.cWtwRVIQ(a('\49.\48'))~=g.lObJeW_w local e=n;local function ce(...)return{...},g.koxRhqJL('#',...)end local function le()local e={};local o={};local a={};local u={a,o,nil,e};local e=n()local r={}for d=g.lObJeW_w,e do local l=s();local n;if(l==g.DiIlFjAf)then n=(s()~=#{});elseif(l==g.ddXsQsfv)then local e=b();if k and g.LzSbsmGZ(g.cWtwRVIQ(e),'.(\48+)$')then e=g.IlCYDSGH(e);end n=e;elseif(l==g.lObJeW_w)then n=_();end;r[d]=n;end;for o=g.lObJeW_w,n()do local e=s();if(l(e,g.lObJeW_w,g.lObJeW_w)==g.DiIlFjAf)then local f=l(e,g.ddXsQsfv,g.XgAmBMjk);local s=l(e,g.ZZGCjGUg,g.aQHkZ_Op);local e={c(),c(),nil,nil};if(f==g.DiIlFjAf)then e[t]=c();e[h]=c();elseif(f==#{g.lObJeW_w})then e[t]=n();elseif(f==z[g.ddXsQsfv])then e[t]=n()-(g.ddXsQsfv^g.dTaroeRh)elseif(f==z[g.XgAmBMjk])then e[t]=n()-(g.ddXsQsfv^g.dTaroeRh)e[h]=c();end;if(l(s,g.lObJeW_w,g.lObJeW_w)==g.lObJeW_w)then e[d]=r[e[d]]end if(l(s,g.ddXsQsfv,g.ddXsQsfv)==g.lObJeW_w)then e[t]=r[e[t]]end if(l(s,g.XgAmBMjk,g.XgAmBMjk)==g.lObJeW_w)then e[h]=r[e[h]]end a[o]=e;end end;u[g.XgAmBMjk]=s();for e=g.lObJeW_w,n()do o[e-(#{g.lObJeW_w})]=le();end;return u;end;local function ne(l,n,e)local d=n;local d=e;return a(g.LzSbsmGZ(g.LzSbsmGZ(({g.PjAJtsYu(l)})[g.ddXsQsfv],n),e))end local function k(ee,s,o)local function ne(...)local c,_,m,ne,b,n,a,u,j,y,z,l;local e=g.DiIlFjAf;while-g.lObJeW_w<e do if g.XgAmBMjk<=e then if g.ZZGCjGUg>=e then if g.lObJeW_w<=e then for n=g.zCvHXvWo,g.rHirwnOh do if g.ZZGCjGUg>e then u={};j={...};break;end;y=g.koxRhqJL('#',...)-g.lObJeW_w;z={};break;end;else u={};j={...};end else if g.XgAmBMjk<=e then repeat if g._pyMMcvL<e then e=-g.ddXsQsfv;break;end;l=f(g.QOrRpjtg);until true;else e=-g.ddXsQsfv;end end else if g.DiIlFjAf<e then if g.lObJeW_w~=e then n=-g.eaFQlhcC;a=-g.lObJeW_w;else m=f(g.aQHkZ_Op,g.BfzWjcxY,g.XgAmBMjk,g.lObJeW_w,ee);b=ce ne=g.DiIlFjAf;end else c=f(g.aQHkZ_Op,g.lzmwjn_F,g.lObJeW_w,g.BfzWjcxY,ee);_=f(g.aQHkZ_Op,g.ZZGCjGUg,g.ddXsQsfv,g.BfzWjcxY,ee);end end e=e+g.lObJeW_w;end;for e=g.DiIlFjAf,y do if(e>=m)then u[e-m]=j[e+g.lObJeW_w];else l[e]=j[e+g.lObJeW_w];end;end;local m=y-m+g.lObJeW_w local e;local f;function sWrhApFhySH_()de=false;end;local function j(...)while true do end end while de do if n<-g.zCvHXvWo then n=n+g.gLOalDAC end e=c[n];f=e[p];if f<=g.WapqiEwJ then if f>g.eaFQlhcC then if g.ACljJDuc<f then if f<73 then if 68<=f then if 70<=f then if f>70 then if 69<f then repeat if 72~=f then do return l[e[d]]end break;end;local e=e[d]l[e]=l[e](l[e+1])until true;else do return l[e[d]]end end else l[e[d]][e[t]]=l[e[h]];end else if 68~=f then local s,o,u,z,a,f,g,h,r;for f=0,2 do if f>=1 then if f>=0 then for b=31,95 do if 2>f then f=0;while f>-1 do if 3>f then if 0>=f then s=e;else if f==1 then o=d;else u=t;end end else if f>4 then if f>=4 then repeat if f<6 then l(a,z);break;end;f=-2;until true;else f=-2;end else if 0<=f then for e=25,61 do if f~=3 then a=s[o];break;end;z=s[u];break;end;else a=s[o];end end end f=f+1 end n=n+1;e=c[n];break;end;g=e[d];h=l[g]r=l[g+2];if(r>0)then if(h>l[g+1])then n=e[t];else l[g+3]=h;end elseif(h<l[g+1])then n=e[t];else l[g+3]=h;end break;end;else g=e[d];h=l[g]r=l[g+2];if(r>0)then if(h>l[g+1])then n=e[t];else l[g+3]=h;end elseif(h<l[g+1])then n=e[t];else l[g+3]=h;end end else l[e[d]]=#l[e[t]];n=n+1;e=c[n];end end else local f,s,o,g,r,h;l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f]=l[f](l[f+1])n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];do return l[e[d]]end n=n+1;e=c[n];f=e[d];s={};for e=1,#z do o=z[e];for e=0,#o do g=o[e];r=g[1];h=g[2];if r==l and h>=f then s[h]=r[h];g[1]=s;end;end;end;n=n+1;e=c[n];n=e[t];end end else if 64<f then if f<=65 then do return end;else if 62~=f then repeat if f>66 then s[e[t]]=l[e[d]];break;end;l[e[d]]=l[e[t]]*e[h];until true;else l[e[d]]=l[e[t]]*e[h];end end else if 63==f then for e=e[d],e[t]do l[e]=nil;end;else local a,r,o,f,g,s,c;local n=0;while n>-1 do if n<=2 then if 1>n then a=d;r=t;o=h;else if-1<n then repeat if 1<n then g=f[r];break;end;f=e;until true;else g=f[r];end end else if 5<=n then if n~=3 then for e=46,64 do if 6>n then l[s]=c;break;end;n=-2;break;end;else l[s]=c;end else if n>1 then for e=34,64 do if n~=4 then s=f[a];break;end;c=l[g];for e=1+g,f[o]do c=c..l[e];end;break;end;else c=l[g];for e=1+g,f[o]do c=c..l[e];end;end end end n=n+1 end end end end else if f>=78 then if f<81 then if 78>=f then o[e[t]]=l[e[d]];else if 77~=f then for c=16,76 do if 80~=f then s[e[t]]=l[e[d]];break;end;local c=l[e[h]];if not c then n=n+1;else l[e[d]]=c;n=e[t];end;break;end;else s[e[t]]=l[e[d]];end end else if f>81 then if 82~=f then l[e[d]]=l[e[t]][e[h]];else if l[e[d]]then n=n+1;else n=e[t];end;end else l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;end end else if f<=74 then if 72~=f then repeat if f~=74 then local n=e[d]local d,e=b(l[n](r(l,n+1,e[t])))a=e+n-1 local e=0;for n=n,a do e=e+1;l[n]=d[e];end;break;end;local e=e[d]l[e]=l[e](r(l,e+1,a))until true;else local n=e[d]local d,e=b(l[n](r(l,n+1,e[t])))a=e+n-1 local e=0;for n=n,a do e=e+1;l[n]=d[e];end;end else if 76<=f then if 72<=f then repeat if 77>f then local g;for f=0,6 do if 3<=f then if f>4 then if f~=4 then for h=11,86 do if 5<f then g=e[d]l[g]=l[g](r(l,g+1,e[t]))break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end else if 0<=f then repeat if f~=4 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end end else if 0<f then if-2~=f then repeat if 1<f then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end else l[e[d]]=l[e[t]];n=n+1;e=c[n];end end end break;end;l[e[d]]=l[e[t]]+e[h];until true;else local g;for f=0,6 do if 3<=f then if f>4 then if f~=4 then for h=11,86 do if 5<f then g=e[d]l[g]=l[g](r(l,g+1,e[t]))break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end else if 0<=f then repeat if f~=4 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end end else if 0<f then if-2~=f then repeat if 1<f then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end else l[e[d]]=l[e[t]];n=n+1;e=c[n];end end end end else if(e[d]<l[e[h]])then n=n+1;else n=e[t];end;end end end end else if 52<=f then if f<=56 then if f>53 then if f<=54 then local e=e[d]local d,n=b(l[e](l[e+1]))a=n+e-1 local n=0;for e=e,a do n=n+1;l[e]=d[n];end;else if 56~=f then l[e[d]]=#l[e[t]];else for f=0,1 do if f>-3 then repeat if 1>f then l[e[d]]=o[e[t]];n=n+1;e=c[n];break;end;if l[e[d]]then n=n+1;else n=e[t];end;until true;else if l[e[d]]then n=n+1;else n=e[t];end;end end end end else if f>49 then for g=44,89 do if f>52 then local f,g,s;for r=0,6 do if 2>=r then if r<1 then l[e[d]]=o[e[t]];n=n+1;e=c[n];else if r==2 then l[e[d]]={};n=n+1;e=c[n];else l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];end end else if 4>=r then if 2~=r then for f=41,68 do if 4>r then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end else if r>=4 then repeat if 5<r then f=e[d];g=l[f]s=l[f+2];if(s>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else f=e[d];g=l[f]s=l[f+2];if(s>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end end end end end break;end;local f,s,a,o,f,f,u,g,z,b,_,k,h;for f=0,6 do if 2>=f then if f>0 then if f>=0 then repeat if f<2 then f=0;while f>-1 do if 3>f then if f>0 then if-2~=f then repeat if 2>f then s=d;break;end;a=t;until true;else s=d;end else g=e;end else if 4<f then if f>=2 then for e=43,53 do if 5<f then f=-2;break;end;l(h,o);break;end;else l(h,o);end else if f~=-1 then for e=20,68 do if 3<f then h=g[s];break;end;o=g[a];break;end;else h=g[s];end end end f=f+1 end n=n+1;e=c[n];break;end;f=0;while f>-1 do if f>=3 then if f<5 then if 4>f then o=g[a];else h=g[s];end else if f>=3 then for e=16,63 do if 6>f then l(h,o);break;end;f=-2;break;end;else f=-2;end end else if 0<f then if 0~=f then repeat if f~=2 then s=d;break;end;a=t;until true;else a=t;end else g=e;end end f=f+1 end n=n+1;e=c[n];until true;else f=0;while f>-1 do if f>=3 then if f<5 then if 4>f then o=g[a];else h=g[s];end else if f>=3 then for e=16,63 do if 6>f then l(h,o);break;end;f=-2;break;end;else f=-2;end end else if 0<f then if 0~=f then repeat if f~=2 then s=d;break;end;a=t;until true;else a=t;end else g=e;end end f=f+1 end n=n+1;e=c[n];end else f=0;while f>-1 do if f<=2 then if f<1 then g=e;else if f~=2 then s=d;else a=t;end end else if f>4 then if 4~=f then for e=39,87 do if 6~=f then l(h,o);break;end;f=-2;break;end;else l(h,o);end else if 2<=f then for e=15,74 do if f~=3 then h=g[s];break;end;o=g[a];break;end;else o=g[a];end end end f=f+1 end n=n+1;e=c[n];end else if 4>=f then if 0<f then repeat if f<4 then f=0;while f>-1 do if 3<=f then if 4<f then if f>3 then repeat if 5~=f then f=-2;break;end;l(h,o);until true;else f=-2;end else if f>3 then h=g[s];else o=g[a];end end else if 1<=f then if 0~=f then for e=48,83 do if 2~=f then s=d;break;end;a=t;break;end;else s=d;end else g=e;end end f=f+1 end n=n+1;e=c[n];break;end;f=0;while f>-1 do if f>2 then if f<=4 then if f>0 then for e=30,68 do if f>3 then h=g[s];break;end;o=g[a];break;end;else h=g[s];end else if f<6 then l(h,o);else f=-2;end end else if 0<f then if-2<=f then for e=45,82 do if f>1 then a=t;break;end;s=d;break;end;else s=d;end else g=e;end end f=f+1 end n=n+1;e=c[n];until true;else f=0;while f>-1 do if 3<=f then if 4<f then if f>3 then repeat if 5~=f then f=-2;break;end;l(h,o);until true;else f=-2;end else if f>3 then h=g[s];else o=g[a];end end else if 1<=f then if 0~=f then for e=48,83 do if 2~=f then s=d;break;end;a=t;break;end;else s=d;end else g=e;end end f=f+1 end n=n+1;e=c[n];end else if f~=6 then u=e[d]l[u]=l[u](r(l,u+1,e[t]))n=n+1;e=c[n];else f=0;while f>-1 do if f<4 then if 2<=f then if 0<f then for e=21,77 do if f>2 then _=l;break;end;b=t;break;end;else b=t;end else if-2<=f then repeat if 1>f then g=e;break;end;z=d;until true;else z=d;end end else if 6<=f then if f>=5 then repeat if f>6 then f=-2;break;end;l[h]=k;until true;else f=-2;end else if 0~=f then for e=30,56 do if f~=5 then k=_[g[b]];break;end;h=g[z];break;end;else h=g[z];end end end f=f+1 end end end end end break;end;else local f,g,s;for r=0,6 do if 2>=r then if r<1 then l[e[d]]=o[e[t]];n=n+1;e=c[n];else if r==2 then l[e[d]]={};n=n+1;e=c[n];else l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];end end else if 4>=r then if 2~=r then for f=41,68 do if 4>r then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end else if r>=4 then repeat if 5<r then f=e[d];g=l[f]s=l[f+2];if(s>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else f=e[d];g=l[f]s=l[f+2];if(s>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end end end end end end end else if f<=59 then if 58<=f then if 56<f then for n=42,78 do if 58<f then l[e[d]]=l[e[t]]*e[h];break;end;local c,h,f,r,g;local n=0;while n>-1 do if 2<n then if n>=5 then if 2<=n then for e=26,63 do if n<6 then l(g,r);break;end;n=-2;break;end;else n=-2;end else if n~=0 then repeat if 4>n then r=c[f];break;end;g=c[h];until true;else g=c[h];end end else if n>0 then if-2<=n then repeat if n<2 then h=d;break;end;f=t;until true;else f=t;end else c=e;end end n=n+1 end break;end;else l[e[d]]=l[e[t]]*e[h];end else local e=e[d];a=e+m-1;for n=e,a do local e=u[n-e];l[n]=e;end;end else if f>60 then if f~=59 then repeat if f>61 then local g,f,u,r,s,o,a,z,b;local c=0;while c>-1 do if c<3 then if 0<c then if-3<c then for l=10,57 do if 2>c then f=e;u=n;break;end;r=f[d];s=f[h];o=t;break;end;else r=f[d];s=f[h];o=t;end else g=l;end else if c<5 then if 2<=c then for e=29,77 do if 4~=c then a=g[r];z=g[s];break;end;b=a==z and f[o]or 1+u;break;end;else a=g[r];z=g[s];end else if c>2 then repeat if 5<c then c=-2;break;end;n=b;until true;else c=-2;end end end c=c+1 end break;end;local f;l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f](l[f+1])n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;n=n+1;e=c[n];for e=e[d],e[t]do l[e]=nil;end;until true;else local g,f,u,r,s,o,a,z,b;local c=0;while c>-1 do if c<3 then if 0<c then if-3<c then for l=10,57 do if 2>c then f=e;u=n;break;end;r=f[d];s=f[h];o=t;break;end;else r=f[d];s=f[h];o=t;end else g=l;end else if c<5 then if 2<=c then for e=29,77 do if 4~=c then a=g[r];z=g[s];break;end;b=a==z and f[o]or 1+u;break;end;else a=g[r];z=g[s];end else if c>2 then repeat if 5<c then c=-2;break;end;n=b;until true;else c=-2;end end end c=c+1 end end else local e=e[d];local n=l[e];for e=e+1,a do g.GWagDGFb(n,l[e])end;end end end else if f>=47 then if 49>f then if 43<f then repeat if f~=47 then l[e[d]]=l[e[t]]%e[h];break;end;local c,h,s,r,f,g;local n=0;while n>-1 do if n<=3 then if n<2 then if-3<n then repeat if n<1 then c=e;break;end;h=d;until true;else c=e;end else if n==2 then s=t;else r=l;end end else if n>5 then if 2<n then for e=49,78 do if 6<n then n=-2;break;end;l[g]=f;break;end;else l[g]=f;end else if n~=5 then f=r[c[s]];else g=c[h];end end end n=n+1 end until true;else local c,r,h,s,f,g;local n=0;while n>-1 do if n<=3 then if n<2 then if-3<n then repeat if n<1 then c=e;break;end;r=d;until true;else c=e;end else if n==2 then h=t;else s=l;end end else if n>5 then if 2<n then for e=49,78 do if 6<n then n=-2;break;end;l[g]=f;break;end;else l[g]=f;end else if n~=5 then f=s[c[h]];else g=c[r];end end end n=n+1 end end else if f<50 then local f,a,h,s,f,f,z,g,_,k,u,b,o;for f=0,6 do if f>2 then if f>=5 then if 4~=f then repeat if f~=5 then f=0;while f>-1 do if f>=3 then if 5<=f then if 5<f then f=-2;else l(o,s);end else if f==3 then s=g[h];else o=g[a];end end else if 0<f then if-1<f then repeat if f>1 then h=t;break;end;a=d;until true;else h=t;end else g=e;end end f=f+1 end break;end;f=0;while f>-1 do if f>2 then if f<=4 then if 0~=f then repeat if 4>f then s=g[h];break;end;o=g[a];until true;else s=g[h];end else if 4<=f then repeat if f>5 then f=-2;break;end;l(o,s);until true;else l(o,s);end end else if 1<=f then if f~=-3 then repeat if 2>f then a=d;break;end;h=t;until true;else h=t;end else g=e;end end f=f+1 end n=n+1;e=c[n];until true;else f=0;while f>-1 do if f>2 then if f<=4 then if 0~=f then repeat if 4>f then s=g[h];break;end;o=g[a];until true;else s=g[h];end else if 4<=f then repeat if f>5 then f=-2;break;end;l(o,s);until true;else l(o,s);end end else if 1<=f then if f~=-3 then repeat if 2>f then a=d;break;end;h=t;until true;else h=t;end else g=e;end end f=f+1 end n=n+1;e=c[n];end else if 0~=f then for r=41,95 do if f~=3 then f=0;while f>-1 do if f>2 then if f<=4 then if 0<=f then repeat if f~=3 then o=g[a];break;end;s=g[h];until true;else s=g[h];end else if 4<f then repeat if 6>f then l(o,s);break;end;f=-2;until true;else f=-2;end end else if 0<f then if-2<f then for e=44,72 do if 1~=f then h=t;break;end;a=d;break;end;else h=t;end else g=e;end end f=f+1 end n=n+1;e=c[n];break;end;f=0;while f>-1 do if 4>f then if 1>=f then if f>-2 then for n=40,59 do if f~=0 then _=d;break;end;g=e;break;end;else g=e;end else if f~=-2 then repeat if f>2 then u=l;break;end;k=t;until true;else u=l;end end else if f>5 then if 4<f then repeat if 6~=f then f=-2;break;end;l[o]=b;until true;else l[o]=b;end else if 3~=f then repeat if 5>f then b=u[g[k]];break;end;o=g[_];until true;else b=u[g[k]];end end end f=f+1 end n=n+1;e=c[n];break;end;else f=0;while f>-1 do if f>2 then if f<=4 then if 0<=f then repeat if f~=3 then o=g[a];break;end;s=g[h];until true;else s=g[h];end else if 4<f then repeat if 6>f then l(o,s);break;end;f=-2;until true;else f=-2;end end else if 0<f then if-2<f then for e=44,72 do if 1~=f then h=t;break;end;a=d;break;end;else h=t;end else g=e;end end f=f+1 end n=n+1;e=c[n];end end else if 0>=f then f=0;while f>-1 do if 3<=f then if f<5 then if-1~=f then for e=31,79 do if f~=4 then s=g[h];break;end;o=g[a];break;end;else s=g[h];end else if 2~=f then for e=39,57 do if f<6 then l(o,s);break;end;f=-2;break;end;else f=-2;end end else if f<=0 then g=e;else if-3<f then for e=13,64 do if 2~=f then a=d;break;end;h=t;break;end;else h=t;end end end f=f+1 end n=n+1;e=c[n];else if 2>f then f=0;while f>-1 do if f>=3 then if 5>f then if 4~=f then s=g[h];else o=g[a];end else if f~=5 then f=-2;else l(o,s);end end else if 0>=f then g=e;else if f>-3 then for e=33,76 do if f~=1 then h=t;break;end;a=d;break;end;else a=d;end end end f=f+1 end n=n+1;e=c[n];else z=e[d]l[z]=l[z](r(l,z+1,e[t]))n=n+1;e=c[n];end end end end else if f>48 then for g=34,66 do if f~=50 then if(l[e[d]]~=e[h])then n=n+1;else n=e[t];end;break;end;local h,a,g,s,r,f;for f=0,1 do if-4<f then for z=15,95 do if 0~=f then l[e[d]]=o[e[t]];break;end;f=0;while f>-1 do if 2<f then if 5<=f then if 4~=f then for e=25,56 do if f<6 then l(r,s);break;end;f=-2;break;end;else f=-2;end else if f>3 then r=h[a];else s=h[g];end end else if f<=0 then h=e;else if 0<=f then repeat if f~=1 then g=t;break;end;a=d;until true;else g=t;end end end f=f+1 end n=n+1;e=c[n];break;end;else f=0;while f>-1 do if 2<f then if 5<=f then if 4~=f then for e=25,56 do if f<6 then l(r,s);break;end;f=-2;break;end;else f=-2;end else if f>3 then r=h[a];else s=h[g];end end else if f<=0 then h=e;else if 0<=f then repeat if f~=1 then g=t;break;end;a=d;until true;else g=t;end end end f=f+1 end n=n+1;e=c[n];end end break;end;else if(l[e[d]]~=e[h])then n=n+1;else n=e[t];end;end end end else if f>=44 then if 44>=f then l[e[d]]=l[e[t]]-e[h];else if f>=44 then repeat if 46>f then local g;for f=0,6 do if 2<f then if f>=5 then if f>1 then for s=33,75 do if 6~=f then g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]][l[e[h]]];break;end;else g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];end else if f>-1 then repeat if 3~=f then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end end else if f>0 then if 0~=f then for g=36,54 do if f>1 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end else l(e[d],e[t]);n=n+1;e=c[n];end end end break;end;local e=e[d]l[e]=l[e]()until true;else local e=e[d]l[e]=l[e]()end end else if 43>f then local f;l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);else local f,g,s;for r=0,4 do if 2>r then if-2<r then for f=40,73 do if r~=1 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end else if r<=2 then l[e[d]]=#l[e[t]];n=n+1;e=c[n];else if r~=1 then for h=29,93 do if r>3 then f=e[d];g=l[f]s=l[f+2];if(s>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else f=e[d];g=l[f]s=l[f+2];if(s>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end end end end end end end end end end else if 21<=f then if f<=30 then if f>25 then if 28>f then if f<27 then l[e[d]]();else l[e[d]]=k(_[e[t]],nil,o);end else if f<=28 then local d=e[d];local c=l[d]local f=l[d+2];if(f>0)then if(c>l[d+1])then n=e[t];else l[d+3]=c;end elseif(c<l[d+1])then n=e[t];else l[d+3]=c;end else if 29<f then l[e[d]]=s[e[t]];else if(l[e[d]]==e[h])then n=n+1;else n=e[t];end;end end end else if f<=22 then if f==22 then local g;for f=0,4 do if f>=2 then if 2<f then if-1~=f then for s=19,66 do if f~=4 then g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];break;end;if(l[e[d]]==e[h])then n=n+1;else n=e[t];end;break;end;else if(l[e[d]]==e[h])then n=n+1;else n=e[t];end;end else l(e[d],e[t]);n=n+1;e=c[n];end else if 1==f then l(e[d],e[t]);n=n+1;e=c[n];else l[e[d]]=l[e[t]];n=n+1;e=c[n];end end end else n=e[t];end else if f<=23 then local r,a,z,s,o,f,g,h,u;for f=0,2 do if 1>f then l[e[d]]=#l[e[t]];n=n+1;e=c[n];else if 1==f then f=0;while f>-1 do if 3<=f then if 5<=f then if f>=1 then repeat if f~=6 then l(o,s);break;end;f=-2;until true;else l(o,s);end else if 1<=f then repeat if 3~=f then o=r[a];break;end;s=r[z];until true;else s=r[z];end end else if 1>f then r=e;else if-2<f then for e=24,72 do if f<2 then a=d;break;end;z=t;break;end;else a=d;end end end f=f+1 end n=n+1;e=c[n];else g=e[d];h=l[g]u=l[g+2];if(u>0)then if(h>l[g+1])then n=e[t];else l[g+3]=h;end elseif(h<l[g+1])then n=e[t];else l[g+3]=h;end end end end else if 24==f then l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]={};else local g,f;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=l[e[t]]+l[e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]]%e[h];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];g=e[t];f=l[g]for e=g+1,e[h]do f=f..l[e];end;l[e[d]]=f;end end end end else if f<36 then if f<33 then if f==31 then local a,o,s,g,r,f;l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=c[n];do return l[e[d]]end n=n+1;e=c[n];a=e[d];o={};for e=1,#z do s=z[e];for e=0,#s do g=s[e];r=g[1];f=g[2];if r==l and f>=a then o[f]=r[f];g[1]=o;end;end;end;else local n=e[d]l[n]=l[n](r(l,n+1,e[t]))end else if 33<f then if 31<f then for n=20,63 do if f~=35 then l[e[d]]=l[e[t]]-l[e[h]];break;end;l[e[d]]=l[e[t]]%l[e[h]];break;end;else l[e[d]]=l[e[t]]-l[e[h]];end else local f,s;for g=0,5 do if 2<g then if g>=4 then if 5~=g then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];else l[e[d]]=l[e[t]]+l[e[h]];end else f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];end else if g>=1 then if-1<=g then for f=11,94 do if g~=1 then l[e[d]]=l[e[t]];n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]];n=n+1;e=c[n];break;end;else l[e[d]]=l[e[t]];n=n+1;e=c[n];end else f=e[d];s=l[e[t]];l[f+1]=s;l[f]=s[e[h]];n=n+1;e=c[n];end end end end end else if 39<=f then if f<40 then l[e[d]]=l[e[t]]-l[e[h]];else if 41>f then l[e[d]][e[t]]=l[e[h]];else local f;l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f]=l[f](l[f+1])n=n+1;e=c[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]][l[e[t]]]=l[e[h]];end end else if 37<=f then if 37~=f then l[e[d]]=l[e[t]]+e[h];else local e=e[d]local d,n=b(l[e](l[e+1]))a=n+e-1 local n=0;for e=e,a do n=n+1;l[e]=d[n];end;end else l[e[d]]=(e[t]~=0);end end end end else if 9>=f then if f<=4 then if f>1 then if f<=2 then if not l[e[d]]then n=n+1;else n=e[t];end;else if f~=-1 then repeat if f~=4 then local f,g;f=e[d];g=l[e[t]];l[f+1]=g;l[f]=g[e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=l[e[t]]*e[h];break;end;local g,h,r,t,s,f;for o=0,1 do if-2~=o then repeat if o~=0 then g=e[d];h={};for e=1,#z do r=z[e];for e=0,#r do t=r[e];s=t[1];f=t[2];if s==l and f>=g then h[f]=s[f];t[1]=h;end;end;end;break;end;g=e[d]l[g](l[g+1])n=n+1;e=c[n];until true;else g=e[d];h={};for e=1,#z do r=z[e];for e=0,#r do t=r[e];s=t[1];f=t[2];if s==l and f>=g then h[f]=s[f];t[1]=h;end;end;end;end end until true;else local g,r,h,t,s,f;for o=0,1 do if-2~=o then repeat if o~=0 then g=e[d];r={};for e=1,#z do h=z[e];for e=0,#h do t=h[e];s=t[1];f=t[2];if s==l and f>=g then r[f]=s[f];t[1]=r;end;end;end;break;end;g=e[d]l[g](l[g+1])n=n+1;e=c[n];until true;else g=e[d];r={};for e=1,#z do h=z[e];for e=0,#h do t=h[e];s=t[1];f=t[2];if s==l and f>=g then r[f]=s[f];t[1]=r;end;end;end;end end end end else if f>=-1 then for n=23,92 do if f>0 then do return l[e[d]]end break;end;l[e[d]]=l[e[t]]%e[h];break;end;else do return l[e[d]]end end end else if f<7 then if 4~=f then for g=30,81 do if f~=5 then local d=e[d];local f=l[d+2];local c=l[d]+f;l[d]=c;if(f>0)then if(c<=l[d+1])then n=e[t];l[d+3]=c;end elseif(c>=l[d+1])then n=e[t];l[d+3]=c;end break;end;local f,g;f=e[d];g=l[e[t]];l[f+1]=g;l[f]=g[e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=c[n];f=e[d];g=l[e[t]];l[f+1]=g;l[f]=g[e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]];break;end;else local f,g;f=e[d];g=l[e[t]];l[f+1]=g;l[f]=g[e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=c[n];f=e[d];g=l[e[t]];l[f+1]=g;l[f]=g[e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]];end else if f<8 then l[e[d]]=(e[t]~=0);else if f>6 then repeat if f~=8 then local b,k,g,u,z,r,a,o,f;l[e[d]]=#l[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]]%l[e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]]+e[h];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];b=e[d];k=l[e[t]];l[b+1]=k;l[b]=k[e[h]];n=n+1;e=c[n];f=0;while f>-1 do if 4<=f then if 5<f then if f>=2 then repeat if f>6 then f=-2;break;end;l[o]=a;until true;else f=-2;end else if f==5 then o=g[u];else a=r[g[z]];end end else if 1<f then if f~=3 then z=t;else r=l;end else if-4<f then for n=18,60 do if f~=1 then g=e;break;end;u=d;break;end;else g=e;end end end f=f+1 end n=n+1;e=c[n];f=0;while f>-1 do if f>3 then if 6<=f then if f>=4 then for e=26,85 do if f~=7 then l[o]=a;break;end;f=-2;break;end;else f=-2;end else if 5>f then a=r[g[z]];else o=g[u];end end else if 1>=f then if f==0 then g=e;else u=d;end else if f>=-1 then for e=32,52 do if f~=3 then z=t;break;end;r=l;break;end;else r=l;end end end f=f+1 end break;end;local n=e[d];local d=l[n];for e=n+1,e[t]do g.GWagDGFb(d,l[e])end;until true;else local n=e[d];local d=l[n];for e=n+1,e[t]do g.GWagDGFb(d,l[e])end;end end end end else if 15<=f then if 18<=f then if 18<f then if f~=16 then repeat if 20~=f then local g,a,r,s,o,f;for f=0,3 do if 2>f then if f<1 then f=0;while f>-1 do if f<=2 then if f<=0 then g=e;else if f<2 then a=d;else r=t;end end else if f<5 then if 3==f then s=g[r];else o=g[a];end else if f~=6 then l(o,s);else f=-2;end end end f=f+1 end n=n+1;e=c[n];else f=0;while f>-1 do if 3<=f then if f>=5 then if 1<=f then for e=10,71 do if 6~=f then l(o,s);break;end;f=-2;break;end;else l(o,s);end else if f~=-1 then repeat if f>3 then o=g[a];break;end;s=g[r];until true;else s=g[r];end end else if f<1 then g=e;else if f~=-1 then repeat if f>1 then r=t;break;end;a=d;until true;else r=t;end end end f=f+1 end n=n+1;e=c[n];end else if f>2 then if not l[e[d]]then n=n+1;else n=e[t];end;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end end break;end;local f;l[e[d]][e[t]]=l[e[h]];n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f](r(l,f+1,e[t]))until true;else local g,a,r,s,o,f;for f=0,3 do if 2>f then if f<1 then f=0;while f>-1 do if f<=2 then if f<=0 then g=e;else if f<2 then a=d;else r=t;end end else if f<5 then if 3==f then s=g[r];else o=g[a];end else if f~=6 then l(o,s);else f=-2;end end end f=f+1 end n=n+1;e=c[n];else f=0;while f>-1 do if 3<=f then if f>=5 then if 1<=f then for e=10,71 do if 6~=f then l(o,s);break;end;f=-2;break;end;else l(o,s);end else if f~=-1 then repeat if f>3 then o=g[a];break;end;s=g[r];until true;else s=g[r];end end else if f<1 then g=e;else if f~=-1 then repeat if f>1 then r=t;break;end;a=d;until true;else r=t;end end end f=f+1 end n=n+1;e=c[n];end else if f>2 then if not l[e[d]]then n=n+1;else n=e[t];end;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end end end else if(l[e[d]]==l[e[h]])then n=n+1;else n=e[t];end;end else if 16<=f then if 13<f then repeat if 16~=f then l[e[d]]=l[e[t]][l[e[h]]];break;end;local f,c,s,g,h,r;local n=0;while n>-1 do if n<4 then if n<2 then if-1<n then for l=14,63 do if n<1 then f=e;break;end;c=d;break;end;else c=d;end else if 3==n then g=l;else s=t;end end else if 5>=n then if 4<n then r=f[c];else h=g[f[s]];end else if 4~=n then for e=34,98 do if 7~=n then l[r]=h;break;end;n=-2;break;end;else n=-2;end end end n=n+1 end until true;else local f,c,s,h,r,g;local n=0;while n>-1 do if n<4 then if n<2 then if-1<n then for l=14,63 do if n<1 then f=e;break;end;c=d;break;end;else c=d;end else if 3==n then h=l;else s=t;end end else if 5>=n then if 4<n then g=f[c];else r=h[f[s]];end else if 4~=n then for e=34,98 do if 7~=n then l[g]=r;break;end;n=-2;break;end;else n=-2;end end end n=n+1 end end else local o,a,r,f,g,s,c;local n=0;while n>-1 do if n>=3 then if n<=4 then if n>1 then for e=48,63 do if n~=3 then c=l[g];for e=1+g,f[r]do c=c..l[e];end;break;end;s=f[o];break;end;else c=l[g];for e=1+g,f[r]do c=c..l[e];end;end else if n~=2 then repeat if n~=6 then l[s]=c;break;end;n=-2;until true;else l[s]=c;end end else if n>0 then if 2==n then g=f[a];else f=e;end else o=d;a=t;r=h;end end n=n+1 end end end else if 12<=f then if 12<f then if f>12 then repeat if f<14 then local f;l(e[d],e[t]);n=n+1;e=c[n];f=e[d]l[f](l[f+1])n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;n=n+1;e=c[n];for e=e[d],e[t]do l[e]=nil;end;break;end;for f=0,6 do if f<=2 then if f<=0 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];else if 2~=f then l(e[d],e[t]);n=n+1;e=c[n];else l(e[d],e[t]);n=n+1;e=c[n];end end else if 4<f then if 5~=f then l(e[d],e[t]);else l[e[d]]=l[e[t]]-l[e[h]];n=n+1;e=c[n];end else if 0~=f then for g=40,75 do if f~=4 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l[e[d]]=#l[e[t]];n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end end end end until true;else for f=0,6 do if f<=2 then if f<=0 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];else if 2~=f then l(e[d],e[t]);n=n+1;e=c[n];else l(e[d],e[t]);n=n+1;e=c[n];end end else if 4<f then if 5~=f then l(e[d],e[t]);else l[e[d]]=l[e[t]]-l[e[h]];n=n+1;e=c[n];end else if 0~=f then for g=40,75 do if f~=4 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l[e[d]]=#l[e[t]];n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end end end end end else local e=e[d]l[e]=l[e](r(l,e+1,a))end else if f~=10 then for f=0,6 do if 2>=f then if 0>=f then l[e[d]]=l[e[t]];n=n+1;e=c[n];else if 1==f then l[e[d]]=l[e[t]];n=n+1;e=c[n];else l(e[d],e[t]);n=n+1;e=c[n];end end else if f>4 then if f~=4 then repeat if f>5 then l(e[d],e[t]);break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end else if f==3 then l(e[d],e[t]);n=n+1;e=c[n];else l(e[d],e[t]);n=n+1;e=c[n];end end end end else local n=e[d]l[n]=l[n](r(l,n+1,e[t]))end end end end end end else if 125>=f then if 104<f then if f>=115 then if f<120 then if 117>f then if f~=111 then for g=11,57 do if f~=116 then local g;for f=0,6 do if f>=3 then if f>4 then if f~=3 then for h=26,89 do if f~=6 then g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]];break;end;else g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];end else if 1~=f then for g=10,59 do if 4>f then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end end else if f<1 then l(e[d],e[t]);n=n+1;e=c[n];else if-1~=f then repeat if f>1 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end end end end break;end;for f=0,6 do if 3<=f then if 5<=f then if 4<f then repeat if f>5 then l(e[d],e[t]);break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end else if 1<f then for g=36,75 do if f<4 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end end else if 1>f then l[e[d]]={};n=n+1;e=c[n];else if f>-2 then repeat if f>1 then l[e[d]]={};n=n+1;e=c[n];break;end;l[e[d]]={};n=n+1;e=c[n];until true;else l[e[d]]={};n=n+1;e=c[n];end end end end break;end;else local g;for f=0,6 do if f>=3 then if f>4 then if f~=3 then for h=26,89 do if f~=6 then g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]];break;end;else g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];end else if 1~=f then for g=10,59 do if 4>f then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else l(e[d],e[t]);n=n+1;e=c[n];end end else if f<1 then l(e[d],e[t]);n=n+1;e=c[n];else if-1~=f then repeat if f>1 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end end end end end else if f<118 then local e=e[d]l[e](l[e+1])else if f>118 then local d=e[d];local n=l[e[t]];l[d+1]=n;l[d]=n[e[h]];else local f,s,o,g,u,h;f=e[d];do return l[f](r(l,f+1,e[t]))end;n=n+1;e=c[n];f=e[d];do return r(l,f,a)end;n=n+1;e=c[n];f=e[d];s={};for e=1,#z do o=z[e];for e=0,#o do g=o[e];u=g[1];h=g[2];if u==l and h>=f then s[h]=u[h];g[1]=s;end;end;end;end end end else if 123>f then if 120<f then if 118<f then for g=13,53 do if 122~=f then local e=e[d]l[e](l[e+1])break;end;local f;l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,e[t]))break;end;else local e=e[d]l[e](l[e+1])end else if(l[e[d]]~=e[h])then n=n+1;else n=e[t];end;end else if f<124 then local f;l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];f=e[d];do return l[f](r(l,f+1,e[t]))end;n=n+1;e=c[n];f=e[d];do return r(l,f,a)end;n=n+1;e=c[n];do return end;else if f~=120 then repeat if f<125 then local f;for g=0,2 do if g<=0 then f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];else if g>=-2 then repeat if g~=1 then l[e[d]][l[e[t]]]=l[e[h]];break;end;l[e[d]]=l[e[t]]-e[h];n=n+1;e=c[n];until true;else l[e[d]]=l[e[t]]-e[h];n=n+1;e=c[n];end end end break;end;for f=0,6 do if 3<=f then if f>=5 then if 2<f then repeat if 6~=f then l[e[d]]=(e[t]~=0);n=n+1;e=c[n];break;end;o[e[t]]=l[e[d]];until true;else o[e[t]]=l[e[d]];end else if f>2 then for g=16,69 do if f<4 then l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];break;end;o[e[t]]=l[e[d]];n=n+1;e=c[n];break;end;else l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];end end else if f<=0 then l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];else if 2>f then o[e[t]]=l[e[d]];n=n+1;e=c[n];else l[e[d]]=o[e[t]];n=n+1;e=c[n];end end end end until true;else for f=0,6 do if 3<=f then if f>=5 then if 2<f then repeat if 6~=f then l[e[d]]=(e[t]~=0);n=n+1;e=c[n];break;end;o[e[t]]=l[e[d]];until true;else o[e[t]]=l[e[d]];end else if f>2 then for g=16,69 do if f<4 then l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];break;end;o[e[t]]=l[e[d]];n=n+1;e=c[n];break;end;else l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];end end else if f<=0 then l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];else if 2>f then o[e[t]]=l[e[d]];n=n+1;e=c[n];else l[e[d]]=o[e[t]];n=n+1;e=c[n];end end end end end end end end else if 110<=f then if 111>=f then if 107<f then repeat if 110~=f then local f,g,h;for r=0,2 do if r>=1 then if-2<=r then repeat if 2>r then l(e[d],e[t]);n=n+1;e=c[n];break;end;f=e[d];g=l[f]h=l[f+2];if(h>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end until true;else f=e[d];g=l[f]h=l[f+2];if(h>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end end else l[e[d]]=#l[e[t]];n=n+1;e=c[n];end end break;end;local a=_[e[t]];local r;local f={};r=g.GnvkSejE({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=f[e]e[1][e[2]]=n;end;});for d=1,e[h]do n=n+1;local e=c[n];if e[p]==47 then f[d-1]={l,e[t]};else f[d-1]={s,e[t]};end;z[#z+1]=f;end;l[e[d]]=k(a,r,o);until true;else local a=_[e[t]];local r;local f={};r=g.GnvkSejE({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=f[e]e[1][e[2]]=n;end;});for d=1,e[h]do n=n+1;local e=c[n];if e[p]==47 then f[d-1]={l,e[t]};else f[d-1]={s,e[t]};end;z[#z+1]=f;end;l[e[d]]=k(a,r,o);end else if f<113 then local f;for g=0,5 do if 3<=g then if g>=4 then if g>=1 then for h=40,85 do if 4<g then if l[e[d]]then n=n+1;else n=e[t];end;break;end;f=e[d]l[f]=l[f](l[f+1])n=n+1;e=c[n];break;end;else f=e[d]l[f]=l[f](l[f+1])n=n+1;e=c[n];end else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end else if g>=1 then if 2>g then l[e[d]]=s[e[t]];n=n+1;e=c[n];else l[e[d]]=s[e[t]];n=n+1;e=c[n];end else l[e[d]]=s[e[t]];n=n+1;e=c[n];end end end else if f~=112 then repeat if 114>f then local f,s;for h=0,2 do if h>=1 then if-1~=h then for o=27,84 do if h~=2 then f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];break;end;f=e[d];s=l[f];for e=f+1,e[t]do g.GWagDGFb(s,l[e])end;break;end;else f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];end else l(e[d],e[t]);n=n+1;e=c[n];end end break;end;l[e[d]]=l[e[t]]%l[e[h]];until true;else local f,s;for h=0,2 do if h>=1 then if-1~=h then for o=27,84 do if h~=2 then f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];break;end;f=e[d];s=l[f];for e=f+1,e[t]do g.GWagDGFb(s,l[e])end;break;end;else f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];end else l(e[d],e[t]);n=n+1;e=c[n];end end end end end else if f<=106 then if 106>f then if(e[d]<l[e[h]])then n=n+1;else n=e[t];end;else local e=e[d];local n=l[e];for e=e+1,a do g.GWagDGFb(n,l[e])end;end else if f>107 then if f>=105 then for g=47,69 do if f~=108 then local r,z,s,a,o,u,f,g;for f=0,3 do if f<2 then if-1~=f then repeat if 1~=f then f=0;while f>-1 do if f>=4 then if 5>=f then if 2<f then for e=34,70 do if f<5 then o=a[r[s]];break;end;u=r[z];break;end;else o=a[r[s]];end else if 2<=f then repeat if f<7 then l[u]=o;break;end;f=-2;until true;else f=-2;end end else if 2<=f then if-1~=f then for e=13,61 do if f~=3 then s=t;break;end;a=l;break;end;else s=t;end else if f~=-4 then for n=33,78 do if 1~=f then r=e;break;end;z=d;break;end;else z=d;end end end f=f+1 end n=n+1;e=c[n];break;end;g=e[d]l[g]=l[g](l[g+1])n=n+1;e=c[n];until true;else g=e[d]l[g]=l[g](l[g+1])n=n+1;e=c[n];end else if f>=0 then repeat if 3~=f then l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=c[n];break;end;l[e[d]][l[e[t]]]=l[e[h]];until true;else l[e[d]][l[e[t]]]=l[e[h]];end end end break;end;do return end;break;end;else local r,o,s,a,z,u,f,g;for f=0,3 do if f<2 then if-1~=f then repeat if 1~=f then f=0;while f>-1 do if f>=4 then if 5>=f then if 2<f then for e=34,70 do if f<5 then z=a[r[s]];break;end;u=r[o];break;end;else z=a[r[s]];end else if 2<=f then repeat if f<7 then l[u]=z;break;end;f=-2;until true;else f=-2;end end else if 2<=f then if-1~=f then for e=13,61 do if f~=3 then s=t;break;end;a=l;break;end;else s=t;end else if f~=-4 then for n=33,78 do if 1~=f then r=e;break;end;o=d;break;end;else o=d;end end end f=f+1 end n=n+1;e=c[n];break;end;g=e[d]l[g]=l[g](l[g+1])n=n+1;e=c[n];until true;else g=e[d]l[g]=l[g](l[g+1])n=n+1;e=c[n];end else if f>=0 then repeat if 3~=f then l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=c[n];break;end;l[e[d]][l[e[t]]]=l[e[h]];until true;else l[e[d]][l[e[t]]]=l[e[h]];end end end end else local c=e[d];local t={};for e=1,#z do local e=z[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==l and e>=c then t[e]=d[e];n[1]=t;end;end;end;end end end end else if f<=93 then if 88<f then if f<=90 then if f~=88 then repeat if 90~=f then for e=e[d],e[t]do l[e]=nil;end;break;end;local f;for g=0,3 do if g>=2 then if g>-1 then for h=23,78 do if 2~=g then if l[e[d]]then n=n+1;else n=e[t];end;break;end;f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];break;end;else if l[e[d]]then n=n+1;else n=e[t];end;end else if 1~=g then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end end until true;else for e=e[d],e[t]do l[e]=nil;end;end else if 92>f then l[e[d]][l[e[t]]]=l[e[h]];else if 92<f then local d=e[d];local n=l[e[t]];l[d+1]=n;l[d]=n[e[h]];else local f;l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];l[e[d]]={};n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);end end end else if 85<f then if f<=86 then local e=e[d];do return r(l,e,a)end;else if f~=87 then local n=e[d]l[n](r(l,n+1,e[t]))else local f,g,h;for r=0,2 do if 0<r then if-1~=r then repeat if 2>r then l(e[d],e[t]);n=n+1;e=c[n];break;end;f=e[d];g=l[f]h=l[f+2];if(h>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end until true;else f=e[d];g=l[f]h=l[f+2];if(h>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end end else l[e[d]]=#l[e[t]];n=n+1;e=c[n];end end end end else if 82<f then repeat if 84<f then local e=e[d];do return r(l,e,a)end;break;end;local g;for f=0,6 do if f<3 then if f>0 then if f>-3 then repeat if f<2 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];until true;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end else if f>=5 then if f~=1 then for g=40,82 do if 6>f then l[e[d]]=#l[e[t]];n=n+1;e=c[n];break;end;if(l[e[d]]~=e[h])then n=n+1;else n=e[t];end;break;end;else l[e[d]]=#l[e[t]];n=n+1;e=c[n];end else if f~=0 then repeat if 4~=f then g=e[d]l[g]=l[g](l[g+1])n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];until true;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end end end until true;else local g;for f=0,6 do if f<3 then if f>0 then if f>-3 then repeat if f<2 then l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];until true;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end else if f>=5 then if f~=1 then for g=40,82 do if 6>f then l[e[d]]=#l[e[t]];n=n+1;e=c[n];break;end;if(l[e[d]]~=e[h])then n=n+1;else n=e[t];end;break;end;else l[e[d]]=#l[e[t]];n=n+1;e=c[n];end else if f~=0 then repeat if 4~=f then g=e[d]l[g]=l[g](l[g+1])n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];until true;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end end end end end end else if f<=98 then if f<=95 then if 92<f then repeat if f~=95 then local u,b,a,g,o,z,r,f;for f=0,4 do if 2>f then if-1<=f then repeat if f<1 then l[e[d]]=s[e[t]];n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]]+l[e[h]];n=n+1;e=c[n];until true;else l[e[d]]=s[e[t]];n=n+1;e=c[n];end else if f<3 then l[e[d]]=l[e[t]]%e[h];n=n+1;e=c[n];else if f~=3 then f=0;while f>-1 do if f<3 then if 0<f then if f>-2 then repeat if 2~=f then g=e;break;end;o=g[b];until true;else g=e;end else u=d;b=t;a=h;end else if f>=5 then if f>1 then for e=10,60 do if 5<f then f=-2;break;end;l[z]=r;break;end;else f=-2;end else if f~=4 then z=g[u];else r=l[o];for e=1+o,g[a]do r=r..l[e];end;end end end f=f+1 end else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end end end break;end;local d=e[d];local f=l[d+2];local c=l[d]+f;l[d]=c;if(f>0)then if(c<=l[d+1])then n=e[t];l[d+3]=c;end elseif(c>=l[d+1])then n=e[t];l[d+3]=c;end until true;else local b,u,z,g,o,a,r,f;for f=0,4 do if 2>f then if-1<=f then repeat if f<1 then l[e[d]]=s[e[t]];n=n+1;e=c[n];break;end;l[e[d]]=l[e[t]]+l[e[h]];n=n+1;e=c[n];until true;else l[e[d]]=s[e[t]];n=n+1;e=c[n];end else if f<3 then l[e[d]]=l[e[t]]%e[h];n=n+1;e=c[n];else if f~=3 then f=0;while f>-1 do if f<3 then if 0<f then if f>-2 then repeat if 2~=f then g=e;break;end;o=g[u];until true;else g=e;end else b=d;u=t;z=h;end else if f>=5 then if f>1 then for e=10,60 do if 5<f then f=-2;break;end;l[a]=r;break;end;else f=-2;end else if f~=4 then a=g[b];else r=l[o];for e=1+o,g[z]do r=r..l[e];end;end end end f=f+1 end else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end end end end else if f>=97 then if 95<f then repeat if f>97 then local n=e[d]l[n](r(l,n+1,e[t]))break;end;for f=0,1 do if 0==f then l[e[d]]=o[e[t]];n=n+1;e=c[n];else if l[e[d]]then n=n+1;else n=e[t];end;end end until true;else local n=e[d]l[n](r(l,n+1,e[t]))end else n=e[t];end end else if f>=102 then if 102>=f then l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;else if f>99 then for c=23,76 do if 104>f then local c=l[e[h]];if not c then n=n+1;else l[e[d]]=c;n=e[t];end;break;end;if not l[e[d]]then n=n+1;else n=e[t];end;break;end;else if not l[e[d]]then n=n+1;else n=e[t];end;end end else if 99>=f then l[e[d]][l[e[t]]]=l[e[h]];else if 98~=f then for g=33,69 do if 100<f then for f=0,1 do if f~=-2 then for g=24,60 do if f>0 then if(l[e[d]]~=l[e[h]])then n=n+1;else n=e[t];end;break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];break;end;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end break;end;local e=e[d]l[e]=l[e](l[e+1])break;end;else local e=e[d]l[e]=l[e](l[e+1])end end end end end end else if 147<=f then if 158<=f then if f<=162 then if 160>f then if 156<f then repeat if 158<f then l[e[d]]=s[e[t]];break;end;l[e[d]]=l[e[t]][e[h]];until true;else l[e[d]]=s[e[t]];end else if f>160 then if f>160 then repeat if 162>f then if(l[e[d]]==e[h])then n=n+1;else n=e[t];end;break;end;l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=(e[t]~=0);n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][e[h]];until true;else l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];l[e[d]]=(e[t]~=0);n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][e[h]];end else local f;s[e[t]]=l[e[d]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];f=e[d]l[f](l[f+1])n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;end end else if 166>f then if f<164 then local e=e[d]l[e]=l[e]()else if 162<f then repeat if 164<f then local n=e[d];do return l[n](r(l,n+1,e[t]))end;break;end;local n=e[d];do return l[n](r(l,n+1,e[t]))end;until true;else local n=e[d];do return l[n](r(l,n+1,e[t]))end;end end else if 167>f then l[e[d]]=l[e[t]]+l[e[h]];else if f>164 then for r=12,55 do if f~=168 then l[e[d]]=l[e[t]][l[e[h]]];break;end;local t,r,f;for h=0,1 do if h>-2 then repeat if 1>h then t=e[d];a=t+m-1;for e=t,a do r=u[e-t];l[e]=r;end;n=n+1;e=c[n];break;end;t=e[d];f=l[t];for e=t+1,a do g.GWagDGFb(f,l[e])end;until true;else t=e[d];f=l[t];for e=t+1,a do g.GWagDGFb(f,l[e])end;end end break;end;else local t,r,f;for h=0,1 do if h>-2 then repeat if 1>h then t=e[d];a=t+m-1;for e=t,a do r=u[e-t];l[e]=r;end;n=n+1;e=c[n];break;end;t=e[d];f=l[t];for e=t+1,a do g.GWagDGFb(f,l[e])end;until true;else t=e[d];f=l[t];for e=t+1,a do g.GWagDGFb(f,l[e])end;end end end end end end else if 152>f then if 149<=f then if 150>f then local a=_[e[t]];local r;local f={};r=g.GnvkSejE({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=f[e]e[1][e[2]]=n;end;});for d=1,e[h]do n=n+1;local e=c[n];if e[p]==47 then f[d-1]={l,e[t]};else f[d-1]={s,e[t]};end;z[#z+1]=f;end;l[e[d]]=k(a,r,o);else if 149<=f then for g=43,83 do if 151>f then for f=0,6 do if 2>=f then if 0<f then if 0<=f then repeat if f>1 then l[e[d]]=l[e[t]];n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end else l[e[d]]={};n=n+1;e=c[n];end else if f<5 then if f>0 then repeat if f<4 then l(e[d],e[t]);n=n+1;e=c[n];break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);n=n+1;e=c[n];end else if 2~=f then repeat if f>5 then l(e[d],e[t]);break;end;l(e[d],e[t]);n=n+1;e=c[n];until true;else l(e[d],e[t]);end end end end break;end;local f;l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f]=l[f](l[f+1])n=n+1;e=c[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=c[n];do return end;break;end;else local f;l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f]=l[f](l[f+1])n=n+1;e=c[n];l[e[d]][l[e[t]]]=l[e[h]];n=n+1;e=c[n];do return end;end end else if f~=148 then l[e[d]]=l[e[t]]-e[h];else local f;l[e[d]]=l[e[t]];n=n+1;e=c[n];f=e[d]l[f](l[f+1])n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;end end else if 154>=f then if f<153 then l[e[d]]();else if 154>f then local s,r,o,z,a,g,f;l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];f=0;while f>-1 do if f>=4 then if f<=5 then if f>3 then for e=49,70 do if f>4 then g=s[r];break;end;a=z[s[o]];break;end;else g=s[r];end else if 4<f then for e=27,78 do if 6<f then f=-2;break;end;l[g]=a;break;end;else l[g]=a;end end else if f>=2 then if f>-1 then for e=46,78 do if 3>f then o=t;break;end;z=l;break;end;else o=t;end else if-3<=f then repeat if f>0 then r=d;break;end;s=e;until true;else r=d;end end end f=f+1 end n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;else local n=e[d];local d=l[n];for e=n+1,e[t]do g.GWagDGFb(d,l[e])end;end end else if f<=155 then local d=e[d];local c=l[d]local f=l[d+2];if(f>0)then if(c>l[d+1])then n=e[t];else l[d+3]=c;end elseif(c<l[d+1])then n=e[t];else l[d+3]=c;end else if f>=153 then repeat if f>156 then local f;l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];l[e[d]]=l[e[t]];break;end;local c=e[d];local d={};for e=1,#z do local e=z[e];for n=0,#e do local e=e[n];local t=e[1];local n=e[2];if t==l and n>=c then d[n]=t[n];e[1]=d;end;end;end;until true;else local c=e[d];local t={};for e=1,#z do local e=z[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==l and e>=c then t[e]=d[e];n[1]=t;end;end;end;end end end end end else if 135>=f then if 130<f then if f<=132 then if f>131 then l[e[d]]=k(_[e[t]],nil,o);else local f,g,h;for r=0,2 do if r<1 then l(e[d],e[t]);n=n+1;e=c[n];else if r~=-2 then for s=21,59 do if 1<r then f=e[d];g=l[f]h=l[f+2];if(h>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end break;end;l(e[d],e[t]);n=n+1;e=c[n];break;end;else f=e[d];g=l[f]h=l[f+2];if(h>0)then if(g>l[f+1])then n=e[t];else l[f+3]=g;end elseif(g<l[f+1])then n=e[t];else l[f+3]=g;end end end end end else if 134<=f then if f>133 then repeat if f<135 then l[e[d]]=#l[e[t]];break;end;local n=e[d]local d,e=b(l[n](r(l,n+1,e[t])))a=e+n-1 local e=0;for n=n,a do e=e+1;l[n]=d[e];end;until true;else l[e[d]]=#l[e[t]];end else l[e[d]]=l[e[t]]+l[e[h]];end end else if f<=127 then if 126==f then for f=0,1 do if-1<=f then repeat if 0<f then if l[e[d]]then n=n+1;else n=e[t];end;break;end;l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];until true;else l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];end end else l[e[d]]={};end else if f<=128 then if(l[e[d]]==l[e[h]])then n=n+1;else n=e[t];end;else if f>128 then for g=42,86 do if 130~=f then local f;for g=0,1 do if g~=0 then if l[e[d]]then n=n+1;else n=e[t];end;else f=e[d]l[f]=l[f]()n=n+1;e=c[n];end end break;end;local f;f=e[d]l[f]=l[f](r(l,f+1,e[t]))n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l(e[d],e[t]);break;end;else local f;for g=0,1 do if g~=0 then if l[e[d]]then n=n+1;else n=e[t];end;else f=e[d]l[f]=l[f]()n=n+1;e=c[n];end end end end end end else if f>=141 then if f<144 then if 142<=f then if 143>f then local f,h,r,g,c;local n=0;while n>-1 do if 3>n then if n<=0 then f=e;else if n>=-3 then repeat if 1<n then r=t;break;end;h=d;until true;else h=d;end end else if n>4 then if n>=4 then for e=18,96 do if 6>n then l(c,g);break;end;n=-2;break;end;else l(c,g);end else if 4>n then g=f[r];else c=f[h];end end end n=n+1 end else local f,s,h,g;f=e[d]l[f]=l[f](l[f+1])n=n+1;e=c[n];f=e[d]l[f]=l[f]()n=n+1;e=c[n];l(e[d],e[t]);n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];f=e[d]s,h=b(l[f](r(l,f+1,e[t])))a=h+f-1 g=0;for e=f,a do g=g+1;l[e]=s[g];end;n=n+1;e=c[n];f=e[d]l[f]=l[f](r(l,f+1,a))end else l[e[d]]=o[e[t]];end else if f<145 then local e=e[d];a=e+m-1;for n=e,a do local e=u[n-e];l[n]=e;end;else if f>=141 then repeat if f>145 then l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;break;end;local g,h,u,z,a,r,f,s;f=0;while f>-1 do if f>3 then if 5>=f then if 1~=f then repeat if f~=5 then a=z[g[u]];break;end;r=g[h];until true;else r=g[h];end else if f~=4 then repeat if f~=7 then l[r]=a;break;end;f=-2;until true;else f=-2;end end else if f>=2 then if f==3 then z=l;else u=t;end else if 1~=f then g=e;else h=d;end end end f=f+1 end n=n+1;e=c[n];s=e[d]l[s](l[s+1])n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;n=n+1;e=c[n];for e=e[d],e[t]do l[e]=nil;end;until true;else l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];l[e[d]]=l[e[t]];n=n+1;e=c[n];l[e[d]]();n=n+1;e=c[n];do return end;end end end else if f>137 then if 138>=f then l[e[d]]={};else if 139==f then local f;f=e[d]l[f](l[f+1])n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][e[h]];n=n+1;e=c[n];l[e[d]]=o[e[t]];else local g;for f=0,6 do if f>2 then if f>4 then if f>3 then for g=27,57 do if 5<f then l(e[d],e[t]);break;end;l[e[d]]=l[e[t]];n=n+1;e=c[n];break;end;else l[e[d]]=l[e[t]];n=n+1;e=c[n];end else if f==4 then g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];else l(e[d],e[t]);n=n+1;e=c[n];end end else if f<=0 then l(e[d],e[t]);n=n+1;e=c[n];else if 2==f then l(e[d],e[t]);n=n+1;e=c[n];else l(e[d],e[t]);n=n+1;e=c[n];end end end end end end else if 132<f then for g=23,73 do if f>136 then o[e[t]]=l[e[d]];break;end;local g,a,k,_,u,z,b,f;l[e[d]][e[t]]=l[e[h]];n=n+1;e=c[n];g=e[d]l[g]=l[g](r(l,g+1,e[t]))n=n+1;e=c[n];l[e[d]]=o[e[t]];n=n+1;e=c[n];l[e[d]]=s[e[t]];n=n+1;e=c[n];l[e[d]]=l[e[t]][l[e[h]]];n=n+1;e=c[n];f=0;while f>-1 do if 4<=f then if f>=6 then if f>4 then repeat if 7~=f then l[b]=z;break;end;f=-2;until true;else l[b]=z;end else if f>=1 then for e=32,58 do if f<5 then z=u[a[_]];break;end;b=a[k];break;end;else z=u[a[_]];end end else if 1>=f then if-2<=f then repeat if 1>f then a=e;break;end;k=d;until true;else k=d;end else if-2<=f then for e=24,82 do if 2<f then u=l;break;end;_=t;break;end;else u=l;end end end f=f+1 end n=n+1;e=c[n];g=e[d]l[g](r(l,g+1,e[t]))break;end;else o[e[t]]=l[e[d]];end end end end end end end n=1+n;end;end;return ne end;local d=0xff;local c={};local f=(1);local t='';(function(n)local l=n local h=0x00 local e=0x00 l={(function(r)if h>0x1e then return r end h=h+1 e=(e+0xd95-r)%0xa return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xdb);t='\37';d={function()d()end};t=t..'\100\43';end return true end)'ZpkrZ'and l[0x1](0x269+r))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x61);end return true end)'ZhiJQ'and l[0x3](r+0xf4))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xf2);t={t..'\58 a',t};c[f]=le();f=f+((not g.dXPvxSrS)and 1 or 0);t[1]='\58'..t[1];d[2]=0xff;end return true end)'YapdU'and l[0x2](r+0x275))or r end),(function(g)if h>0x1f then return g end h=h+1 e=(e+0x897-g)%0xd return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x98);end return true end)'qfGwx'and l[0x3](0x187+g))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x9e);d[2]=(d[2]*(ne(function()c()end,r(t))-ne(d[1],r(t))))+1;c[f]={};d=d[2];f=f+d;end return true end)'TgeFh'and l[0x2](g+0x91))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x2e);c[f]=te();f=f+d;end return true end)'yTZzG'and l[0x1](g+0x2d7))or g end),(function(d)if h>0x25 then return d end h=h+1 e=(e+0x42a-d)%0x3a return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x8e);end return true end)'nIdrE'and l[0x3](0xbc+d))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xe5);end return true end)'LWyAx'and l[0x1](d+0x146))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x7a);end return true end)'kaTyX'and l[0x2](d+0x143))or d end)}l[0x1](0x24ab)end){};local e=k(r(c));c[2]={};c[1]=e(c[1])uUwWJaQGLDMtbFQ=nil;e=k(r(c))return e(...);end return le((function()local n={}local e=0x01;local l;if g.dXPvxSrS then l=g.dXPvxSrS(le)else l=''end if g.LzSbsmGZ(l,g.LpEpdoaP)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,n,l,d,t,c)local c;if e<=3 then if 2>e then if e>=-2 then for c=41,57 do if e~=0 then do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return n(1),n(4,t,d,l,n),n(5,t,d,l)end;break;end;else do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;end else if e<3 then do return 16777216,65536,256 end;else do return n(1),n(4,t,d,l,n),n(5,t,d,l)end;end end else if 5>=e then if 3<=e then repeat if 4~=e then local e=d;do return function()local n=n(l,e(e,e),e(e,e));e(1);return n;end;end;break;end;local e=d;local f,c,t=t(2);do return function()local g,d,n,l=n(l,e(e,e),e(e,e)+3);e(4);return(l*f)+(n*c)+(d*t)+g;end;end;until true;else local e=d;do return function()local n=n(l,e(e,e),e(e,e));e(1);return n;end;end;end else if 6<e then if e>=5 then for n=14,78 do if 7<e then do return l(e,nil,l);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,t,l,d,n)if n then return e[n]elseif d then return e else e[t]=l end end})end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(e,l,d,t,n)if n then return e[n]elseif t then return e else e[l]=d end end})end end else do return t[l]end;end end end end),...)
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local CoreGui = game:GetService("CoreGui")
+local StarterGui = game:GetService("StarterGui")
+local RunService = game:GetService("RunService")
+local lp = Players.LocalPlayer
+
+-- Função que cria a tela de loading e retorna uma promise
+local function createLoadingScreen()
+    local promise = {}
+    promise.completed = false
+    promise.connection = nil
+    
+    -- Remove GUI antiga se existir
+    pcall(function()
+        if CoreGui:FindFirstChild("LoadingScreen") then
+            CoreGui.LoadingScreen:Destroy()
+        end
+    end)
+
+    -- Cria a UI de carregamento
+    local gui = Instance.new("ScreenGui")
+    gui.Name = "LoadingScreen"
+    gui.IgnoreGuiInset = true
+    gui.ResetOnSpawn = false
+    gui.Parent = CoreGui
+    pcall(function() syn.protect_gui(gui) end)
+
+    -- Frame principal com gradiente azul
+    local frame = Instance.new("Frame")
+    frame.BackgroundColor3 = Color3.new(0, 0, 0)
+    frame.Size = UDim2.new(1, 0, 1, 0)
+    frame.Parent = gui
+
+    -- Gradiente azul escuro para o fundo
+    local gradient = Instance.new("UIGradient")
+    gradient.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(10, 20, 40)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(5, 10, 25))
+    })
+    gradient.Rotation = 45
+    gradient.Parent = frame
+
+    -- Container central para o conteúdo
+    local container = Instance.new("Frame")
+    container.Size = UDim2.new(0.8, 0, 0.6, 0)
+    container.Position = UDim2.new(0.1, 0, 0.2, 0)
+    container.BackgroundTransparency = 1
+    container.Parent = frame
+
+    -- Título "Demon Hub" com efeito brilhante
+    local titleText = Instance.new("TextLabel")
+    titleText.Size = UDim2.new(1, 0, 0.3, 0)
+    titleText.Position = UDim2.new(0, 0, 0.1, 0)
+    titleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+    titleText.TextStrokeTransparency = 0.3
+    titleText.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+    titleText.BackgroundTransparency = 1
+    titleText.Font = Enum.Font.GothamBold
+    titleText.TextScaled = true
+    titleText.Text = "Demon Hub"
+    titleText.TextSize = 32
+    titleText.ZIndex = 3
+    titleText.Parent = container
+
+    -- Efeito de brilho no título
+    spawn(function()
+        while titleText and titleText.Parent do
+            local tween = TweenService:Create(
+                titleText,
+                TweenInfo.new(1.5, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut, 0, true),
+                {TextColor3 = Color3.fromRGB(100, 200, 255)}
+            )
+            tween:Play()
+            task.wait(1.5)
+        end
+    end)
+
+    -- Porcentagem
+    local percentText = Instance.new("TextLabel")
+    percentText.Size = UDim2.new(1, 0, 0.2, 0)
+    percentText.Position = UDim2.new(0, 0, 0.4, 0)
+    percentText.TextColor3 = Color3.fromRGB(255, 255, 255)
+    percentText.TextStrokeTransparency = 0.5
+    percentText.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+    percentText.BackgroundTransparency = 1
+    percentText.Font = Enum.Font.GothamBold
+    percentText.TextScaled = true
+    percentText.Text = "0%"
+    percentText.TextSize = 24
+    percentText.ZIndex = 3
+    percentText.Parent = container
+
+    -- Barra de progresso background (com cantos arredondados)
+    local barBG = Instance.new("Frame")
+    barBG.Size = UDim2.new(1, 0, 0.08, 0)
+    barBG.Position = UDim2.new(0, 0, 0.65, 0)
+    barBG.BackgroundColor3 = Color3.new(0.1, 0.1, 0.1)
+    barBG.BorderSizePixel = 0
+    barBG.BackgroundTransparency = 0.3
+    barBG.ZIndex = 2
+    
+    -- Corner para arredondar o fundo
+    local bgCorner = Instance.new("UICorner")
+    bgCorner.CornerRadius = UDim.new(0.5, 0)
+    bgCorner.Parent = barBG
+    
+    barBG.Parent = container
+
+    -- Barra de progresso (com cantos arredondados)
+    local bar = Instance.new("Frame")
+    bar.Size = UDim2.new(0, 0, 1, 0) -- Começa em 0%
+    bar.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+    bar.BorderSizePixel = 0
+    bar.ZIndex = 3
+    
+    -- Corner para arredondar a barra
+    local barCorner = Instance.new("UICorner")
+    barCorner.CornerRadius = UDim.new(0.5, 0)
+    barCorner.Parent = bar
+    
+    -- Gradiente na barra
+    local barGradient = Instance.new("UIGradient")
+    barGradient.Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(0, 150, 255)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(100, 200, 255))
+    })
+    barGradient.Parent = bar
+    
+    bar.Parent = barBG
+
+    -- Texto do usuário
+    local userText = Instance.new("TextLabel")
+    userText.Size = UDim2.new(1, 0, 0.15, 0)
+    userText.Position = UDim2.new(0, 0, 0.8, 0)
+    userText.TextColor3 = Color3.fromRGB(200, 200, 200)
+    userText.BackgroundTransparency = 1
+    userText.Font = Enum.Font.Gotham
+    userText.TextScaled = true
+    userText.Text = "Carregando: "..lp.Name.." ("..tostring(lp.AccountAge).." dias)"
+    userText.TextSize = 14
+    userText.ZIndex = 3
+    userText.Parent = container
+
+    -- Sistema de Partículas Azuis Melhorado
+    local function createParticles()
+        local particlesFolder = Instance.new("Folder")
+        particlesFolder.Name = "Particles"
+        particlesFolder.Parent = frame
+
+        -- Partículas pequenas
+        for i = 1, 20 do
+            local particle = Instance.new("Frame")
+            particle.Size = UDim2.new(0, math.random(3, 8), 0, math.random(3, 8))
+            particle.Position = UDim2.new(math.random(), 0, math.random(), 0)
+            particle.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+            particle.BackgroundTransparency = 0.8
+            particle.BorderSizePixel = 0
+            particle.ZIndex = 1
+            
+            local corner = Instance.new("UICorner")
+            corner.CornerRadius = UDim.new(1, 0)
+            corner.Parent = particle
+            
+            particle.Parent = particlesFolder
+
+            -- Animação da partícula
+            spawn(function()
+                while particle and particle.Parent do
+                    local targetPos = UDim2.new(math.random(), 0, math.random(), 0)
+                    local tweenInfo = TweenInfo.new(
+                        math.random(3, 6),
+                        Enum.EasingStyle.Quad,
+                        Enum.EasingDirection.InOut
+                    )
+                    
+                    local tween = TweenService:Create(particle, tweenInfo, {
+                        Position = targetPos,
+                        BackgroundTransparency = math.random(0.5, 0.9),
+                        Size = UDim2.new(0, math.random(2, 10), 0, math.random(2, 10))
+                    })
+                    tween:Play()
+                    
+                    task.wait(math.random(2, 4))
+                end
+            end)
+        end
+
+        -- Partículas médias
+        for i = 1, 10 do
+            local mediumParticle = Instance.new("Frame")
+            mediumParticle.Size = UDim2.new(0, math.random(10, 20), 0, math.random(10, 20))
+            mediumParticle.Position = UDim2.new(math.random(), 0, math.random(), 0)
+            mediumParticle.BackgroundColor3 = Color3.fromRGB(50, 180, 255)
+            mediumParticle.BackgroundTransparency = 0.6
+            mediumParticle.BorderSizePixel = 0
+            mediumParticle.ZIndex = 1
+            
+            local corner = Instance.new("UICorner")
+            corner.CornerRadius = UDim.new(1, 0)
+            corner.Parent = mediumParticle
+            
+            mediumParticle.Parent = particlesFolder
+
+            -- Animação da partícula média
+            spawn(function()
+                while mediumParticle and mediumParticle.Parent do
+                    local targetPos = UDim2.new(math.random(), 0, math.random(), 0)
+                    local tweenInfo = TweenInfo.new(
+                        math.random(4, 8),
+                        Enum.EasingStyle.Circular,
+                        Enum.EasingDirection.InOut
+                    )
+                    
+                    local tween = TweenService:Create(mediumParticle, tweenInfo, {
+                        Position = targetPos,
+                        BackgroundTransparency = math.random(0.3, 0.7),
+                        Rotation = math.random(-360, 360)
+                    })
+                    tween:Play()
+                    
+                    task.wait(math.random(3, 6))
+                end
+            end)
+        end
+
+        -- Partículas especiais (estrelas)
+        for i = 1, 5 do
+            local star = Instance.new("Frame")
+            star.Size = UDim2.new(0, 4, 0, 4)
+            star.Position = UDim2.new(math.random(), 0, math.random(), 0)
+            star.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            star.BackgroundTransparency = 0.9
+            star.BorderSizePixel = 0
+            star.ZIndex = 2
+            
+            local corner = Instance.new("UICorner")
+            corner.CornerRadius = UDim.new(1, 0)
+            corner.Parent = star
+            
+            star.Parent = particlesFolder
+
+            -- Animação de brilho da estrela
+            spawn(function()
+                while star and star.Parent do
+                    local tweenInfo = TweenInfo.new(
+                        0.8,
+                        Enum.EasingStyle.Quad,
+                        Enum.EasingDirection.InOut,
+                        0,
+                        true
+                    )
+                    
+                    local tween = TweenService:Create(star, tweenInfo, {
+                        BackgroundTransparency = 0.4,
+                        Size = UDim2.new(0, 6, 0, 6)
+                    })
+                    tween:Play()
+                    
+                    task.wait(1.6)
+                end
+            end)
+        end
+    end
+
+    -- Criar partículas
+    createParticles()
+
+    -- Variáveis para controle do loading
+    local currentPercent = 0
+    local targetPercent = 100
+    local loadingTime = 4 -- 4 segundos para carregar até 100%
+    local startTime = tick()
+    
+    -- Função para atualizar o loading
+    local function updateLoading()
+        local elapsed = tick() - startTime
+        local progress = math.min(elapsed / loadingTime, 1)
+        
+        currentPercent = math.floor(progress * 100)
+        percentText.Text = currentPercent .. "%"
+        bar.Size = UDim2.new(progress, 0, 1, 0)
+        
+        return progress >= 1
+    end
+
+    -- Conexão para atualizar o loading
+    local heartbeatConnection
+    heartbeatConnection = RunService.Heartbeat:Connect(function()
+        local finished = updateLoading()
+        
+        if finished then
+            heartbeatConnection:Disconnect()
+            
+            -- Fade out suave de toda a UI
+            local fadeTween = TweenService:Create(frame, TweenInfo.new(1.5, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+                BackgroundTransparency = 1
+            })
+            fadeTween:Play()
+            
+            -- Aguarda o fade out terminar e executa as ações finais
+            fadeTween.Completed:Connect(function()
+                percentText.Text = "100%"
+                wait(0.4)
+                
+                -- Toca som de conclusão
+                local sound = Instance.new("Sound")
+                sound.SoundId = "rbxassetid://8486683243"
+                sound.Volume = 0.5
+                sound.PlayOnRemove = true
+                sound.Parent = workspace
+                sound:Destroy()
+                
+                game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer(table.unpack({
+                [1] = "RolePlayName",
+                [2] = "[ Demon User ]"
+                }))
+                
+                -- Define a bio do jogador
+                game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer(table.unpack({
+                    [1] = "RolePlayBio",
+                    [2] = "Criador:Hiro",
+                }))
+                
+                -- Exibe a notificação de boas-vindas
+                StarterGui:SetCore("SendNotification", {
+                    Title = "Demon Hub",
+                    Text = "Bem-vindo ao Demon Hub!",
+                    Duration = 4
+                })
+                
+                -- Marca como concluído e limpa
+                promise.completed = true
+                if gui then
+                    gui:Destroy()
+                end
+            end)
+        end
+    end)
+
+    -- Função para limpar a UI
+    local function cleanup()
+        if heartbeatConnection then
+            heartbeatConnection:Disconnect()
+        end
+        if gui then
+            gui:Destroy()
+        end
+        if promise.connection then
+            promise.connection:Disconnect()
+        end
+    end
+
+    -- Configura a promise para limpeza
+    promise.cleanup = cleanup
+    
+    return promise
+end
+
+-- Função para esperar até que a promise seja resolvida
+local function waitForPromise(promise)
+    while not promise.completed do
+        task.wait()
+    end
+end
+
+-- Uso:
+local loadingPromise = createLoadingScreen()
+
+-- Aqui você coloca o código que deve esperar até que o loading termine
+waitForPromise(loadingPromise)
+
+print("Loading completo! Agora executando o resto do script...")
+
+local Libary = loadstring(game:HttpGet("https://pastefy.app/QrJLAr8A/raw"))()
+workspace.FallenPartsDestroyHeight = -math.huge
+
+local Window = Libary:MakeWindow({
+    Title = "Demon Hub | Brookhaven RP ",
+    SubTitle = "by Hiro",
+    LoadText = "Loading Demon Hub",
+    Flags = "Demon_Broookhaven"
+})
+Window:AddMinimizeButton({
+    Button = { Image = "rbxassetid://122697101352012", BackgroundTransparency = 0 },
+    Corner = { CornerRadius = UDim.new(35, 1) },
+})
+
+local InfoTab = Window:MakeTab({ Title = "Info", Icon = "rbxassetid://15309138473" })
+
+
+InfoTab:AddSection({ "Script Information" })
+InfoTab:AddParagraph({ "Owner / Developer:", "Hiro" })
+InfoTab:AddParagraph({ "Collaborations:", "Hiro" })
+InfoTab:AddParagraph({ "You are using:", "Demon Hub Brookhaven " })
+InfoTab:AddParagraph({"Your executor:", executor})
+
+InfoTab:AddSection({"Créditos do Hub"})
+
+InfoTab:AddDiscordInvite({
+    Name = "Demon Hub",
+    Description = "",
+    Logo = "rbxassetid://122697101352012",
+    Invite = "https://discord.gg/EuwYm9asy",
+})
+
+InfoTab:AddSection({ "Rejoin" })
+InfoTab:AddButton({
+    Name = "Rejoin",
+    Callback = function()
+        local TeleportService = game:GetService("TeleportService")
+        TeleportService:TeleportToPlaceInstance(game.PlaceId, game.JobId, game.Players.LocalPlayer)
+    end
+})
+
+
+local TrollTab = Window:MakeTab({ Title = "Troll Scripts", Icon = "rbxassetid://13364900349" })
+
+
+TrollTab:AddSection({ "Black Hole" })
+TrollTab:AddButton({
+    Name = "Black Hole",
+    Description = "Activating this will pull parts towards your character",
+    Callback = function()
+        local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local LocalPlayer = Players.LocalPlayer
+local Workspace = game:GetService("Workspace")
+
+local angle = 1
+local radius = 10
+local blackHoleActive = false
+
+local function setupPlayer()
+    local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+    local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+    local Folder = Instance.new("Folder", Workspace)
+    local Part = Instance.new("Part", Folder)
+    local Attachment1 = Instance.new("Attachment", Part)
+    Part.Anchored = true
+    Part.CanCollide = false
+    Part.Transparency = 1
+
+    return humanoidRootPart, Attachment1
+end
+
+local humanoidRootPart, Attachment1 = setupPlayer()
+
+if not getgenv().Network then
+    getgenv().Network = {
+        BaseParts = {},
+        Velocity = Vector3.new(14.46262424, 14.46262424, 14.46262424)
+    }
+
+    Network.RetainPart = function(part)
+        if typeof(part) == "Instance" and part:IsA("BasePart") and part:IsDescendantOf(Workspace) then
+            table.insert(Network.BaseParts, part)
+            part.CustomPhysicalProperties = PhysicalProperties.new(0, 0, 0, 0, 0)
+            part.CanCollide = false
+        end
+    end
+
+    local function EnablePartControl()
+        LocalPlayer.ReplicationFocus = Workspace
+        RunService.Heartbeat:Connect(function()
+            sethiddenproperty(LocalPlayer, "SimulationRadius", math.huge)
+            for _, part in pairs(Network.BaseParts) do
+                if part:IsDescendantOf(Workspace) then
+                    part.Velocity = Network.Velocity
+                end
+            end
+        end)
+    end
+
+    EnablePartControl()
+end
+
+local function ForcePart(v)
+    if v:IsA("Part") and not v.Anchored and not v.Parent:FindFirstChild("Humanoid") and not v.Parent:FindFirstChild("Head") and v.Name ~= "Handle" then
+        for _, x in next, v:GetChildren() do
+            if x:IsA("BodyAngularVelocity") or x:IsA("BodyForce") or x:IsA("BodyGyro") or x:IsA("BodyPosition") or x:IsA("BodyThrust") or x:IsA("BodyVelocity") or x:IsA("RocketPropulsion") then
+                x:Destroy()
+            end
+        end
+        if v:FindFirstChild("Attachment") then
+            v:FindFirstChild("Attachment"):Destroy()
+        end
+        if v:FindFirstChild("AlignPosition") then
+            v:FindFirstChild("AlignPosition"):Destroy()
+        end
+        if v:FindFirstChild("Torque") then
+            v:FindFirstChild("Torque"):Destroy()
+        end
+        v.CanCollide = false
+        
+        local Torque = Instance.new("Torque", v)
+        Torque.Torque = Vector3.new(1000000, 1000000, 1000000)
+        local AlignPosition = Instance.new("AlignPosition", v)
+        local Attachment2 = Instance.new("Attachment", v)
+        Torque.Attachment0 = Attachment2
+        AlignPosition.MaxForce = math.huge
+        AlignPosition.MaxVelocity = math.huge
+        AlignPosition.Responsiveness = 500
+        AlignPosition.Attachment0 = Attachment2
+        AlignPosition.Attachment1 = Attachment1
+    end
+end
+
+local function toggleBlackHole()
+    blackHoleActive = not blackHoleActive
+    if blackHoleActive then
+        for _, v in next, Workspace:GetDescendants() do
+            ForcePart(v)
+        end
+
+        Workspace.DescendantAdded:Connect(function(v)
+            if blackHoleActive then
+                ForcePart(v)
+            end
+        end)
+
+        spawn(function()
+            while blackHoleActive and RunService.RenderStepped:Wait() do
+                angle = angle + math.rad(2)
+
+                local offsetX = math.cos(angle) * radius
+                local offsetZ = math.sin(angle) * radius
+
+                Attachment1.WorldCFrame = humanoidRootPart.CFrame * CFrame.new(offsetX, 0, offsetZ)
+            end
+        end)
+    else
+        Attachment1.WorldCFrame = CFrame.new(0, -1000, 0)
+    end
+end
+
+LocalPlayer.CharacterAdded:Connect(function()
+    humanoidRootPart, Attachment1 = setupPlayer()
+    if blackHoleActive then
+        toggleBlackHole() -- Re-toggle to apply to new character
+    end
+end)
+
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/miroeramaa/TurtleLib/main/TurtleUiLib.lua"))()
+local window = library:Window("Project LKB")
+
+window:Slider("Blackhole Radius",1,100,10, function(Value)
+   radius = Value
+end)
+
+window:Toggle("Blackhole", true, function(Value)
+       if Value then
+            toggleBlackHole()
+        else
+            blackHoleActive = false
+        end
+end)
+
+spawn(function()
+    while true do
+        RunService.RenderStepped:Wait()
+        if blackHoleActive then
+            angle = angle + math.rad(angleSpeed)
+        end
+    end
+end)
+
+toggleBlackHole()
+    end
+})
+
+
+TrollTab:AddSection({ "Pull Parts" })
+TrollTab:AddButton({
+    Name = "Pull Parts",
+    Description = "To use, get close to the selected player",
+    Callback = function()
+        -- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local Gui = Instance.new("ScreenGui")
+local Main = Instance.new("Frame")
+local Box = Instance.new("TextBox")
+local UITextSizeConstraint = Instance.new("UITextSizeConstraint")
+local Label = Instance.new("TextLabel")
+local UITextSizeConstraint_2 = Instance.new("UITextSizeConstraint")
+local Button = Instance.new("TextButton")
+local UITextSizeConstraint_3 = Instance.new("UITextSizeConstraint")
+
+--Properties:
+
+Gui.Name = "PullPartsGUI"
+Gui.Parent = gethui()
+Gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Main.Name = "MainFrame"
+Main.Parent = Gui
+Main.BackgroundColor3 = Color3.fromRGB(75, 75, 75)
+Main.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Main.BorderSizePixel = 0
+Main.Position = UDim2.new(0.335954279, 0, 0.542361975, 0)
+Main.Size = UDim2.new(0.240350261, 0, 0.166880623, 0)
+Main.Active = true
+Main.Draggable = true
+
+Box.Name = "Box"
+Box.Parent = Main
+Box.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Box.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Box.BorderSizePixel = 0
+Box.Position = UDim2.new(0.0980926454, 0, 0.218712583, 0)
+Box.Size = UDim2.new(0.801089942, 0, 0.364963502, 0)
+Box.FontFace = Font.new("rbxasset://fonts/families/SourceSansSemibold.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+Box.PlaceholderText = "Player here"
+Box.Text = ""
+Box.TextColor3 = Color3.fromRGB(255, 255, 255)
+Box.TextScaled = true
+Box.TextSize = 31.000
+Box.TextWrapped = true
+
+UITextSizeConstraint.Parent = Box
+UITextSizeConstraint.MaxTextSize = 31
+
+Label.Name = "Label"
+Label.Parent = Main
+Label.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Label.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Label.BorderSizePixel = 0
+Label.Size = UDim2.new(1, 0, 0.160583943, 0)
+Label.FontFace = Font.new("rbxasset://fonts/families/Nunito.json", Enum.FontWeight.Bold, Enum.FontStyle.Normal)
+Label.Text = "Bring Parts | Made by: Lusquinha_067"
+Label.TextColor3 = Color3.fromRGB(255, 255, 255)
+Label.TextScaled = true
+Label.TextSize = 14.000
+Label.TextWrapped = true
+
+UITextSizeConstraint_2.Parent = Label
+UITextSizeConstraint_2.MaxTextSize = 21
+
+Button.Name = "Button"
+Button.Parent = Main
+Button.BackgroundColor3 = Color3.fromRGB(95, 95, 95)
+Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Button.BorderSizePixel = 0
+Button.Position = UDim2.new(0.183284417, 0, 0.656760991, 0)
+Button.Size = UDim2.new(0.629427791, 0, 0.277372271, 0)
+Button.Font = Enum.Font.Nunito
+Button.Text = "Bring | Off"
+Button.TextColor3 = Color3.fromRGB(255, 255, 255)
+Button.TextScaled = true
+Button.TextSize = 28.000
+Button.TextWrapped = true
+
+UITextSizeConstraint_3.Parent = Button
+UITextSizeConstraint_3.MaxTextSize = 28
+
+-- Scripts:
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local LocalPlayer = Players.LocalPlayer
+local UserInputService = game:GetService("UserInputService")
+local Workspace = game:GetService("Workspace")
+
+local character
+local humanoidRootPart
+
+mainStatus = true
+UserInputService.InputBegan:Connect(function(input, gameProcessedEvent)
+	if input.KeyCode == Enum.KeyCode.RightControl and not gameProcessedEvent then
+		mainStatus = not mainStatus
+		Main.Visible = mainStatus
+	end
+end)
+
+local Folder = Instance.new("Folder", Workspace)
+local Part = Instance.new("Part", Folder)
+local Attachment1 = Instance.new("Attachment", Part)
+Part.Anchored = true
+Part.CanCollide = false
+Part.Transparency = 1
+
+if not getgenv().Network then
+	getgenv().Network = {
+		BaseParts = {},
+		Velocity = Vector3.new(14.46262424, 14.46262424, 14.46262424)
+	}
+
+	Network.RetainPart = function(Part)
+		if Part:IsA("BasePart") and Part:IsDescendantOf(Workspace) then
+			table.insert(Network.BaseParts, Part)
+			Part.CustomPhysicalProperties = PhysicalProperties.new(0, 0, 0, 0, 0)
+			Part.CanCollide = false
+		end
+	end
+
+	local function EnablePartControl()
+		LocalPlayer.ReplicationFocus = Workspace
+		RunService.Heartbeat:Connect(function()
+			sethiddenproperty(LocalPlayer, "SimulationRadius", math.huge)
+			for _, Part in pairs(Network.BaseParts) do
+				if Part:IsDescendantOf(Workspace) then
+					Part.Velocity = Network.Velocity
+				end
+			end
+		end)
+	end
+
+	EnablePartControl()
+end
+
+local function ForcePart(v)
+	if v:IsA("BasePart") and not v.Anchored and not v.Parent:FindFirstChildOfClass("Humanoid") and not v.Parent:FindFirstChild("Head") and v.Name ~= "Handle" then
+		for _, x in ipairs(v:GetChildren()) do
+			if x:IsA("BodyMover") or x:IsA("RocketPropulsion") then
+				x:Destroy()
+			end
+		end
+		if v:FindFirstChild("Attachment") then
+			v:FindFirstChild("Attachment"):Destroy()
+		end
+		if v:FindFirstChild("AlignPosition") then
+			v:FindFirstChild("AlignPosition"):Destroy()
+		end
+		if v:FindFirstChild("Torque") then
+			v:FindFirstChild("Torque"):Destroy()
+		end
+		v.CanCollide = false
+		local Torque = Instance.new("Torque", v)
+		Torque.Torque = Vector3.new(100000, 100000, 100000)
+		local AlignPosition = Instance.new("AlignPosition", v)
+		local Attachment2 = Instance.new("Attachment", v)
+		Torque.Attachment0 = Attachment2
+		AlignPosition.MaxForce = math.huge
+		AlignPosition.MaxVelocity = math.huge
+		AlignPosition.Responsiveness = 200
+		AlignPosition.Attachment0 = Attachment2
+		AlignPosition.Attachment1 = Attachment1
+	end
+end
+
+local blackHoleActive = false
+local DescendantAddedConnection
+
+local function toggleBlackHole()
+	blackHoleActive = not blackHoleActive
+	if blackHoleActive then
+		Button.Text = "Bring Parts | On"
+		for _, v in ipairs(Workspace:GetDescendants()) do
+			ForcePart(v)
+		end
+
+		DescendantAddedConnection = Workspace.DescendantAdded:Connect(function(v)
+			if blackHoleActive then
+				ForcePart(v)
+			end
+		end)
+
+		spawn(function()
+			while blackHoleActive and RunService.RenderStepped:Wait() do
+				Attachment1.WorldCFrame = humanoidRootPart.CFrame
+			end
+		end)
+	else
+		Button.Text = "Bring Parts | Off"
+		if DescendantAddedConnection then
+			DescendantAddedConnection:Disconnect()
+		end
+	end
+end
+
+local function getPlayer(name)
+	local lowerName = string.lower(name)
+	for _, p in pairs(Players:GetPlayers()) do
+		local lowerPlayer = string.lower(p.Name)
+		if string.find(lowerPlayer, lowerName) then
+			return p
+		elseif string.find(string.lower(p.DisplayName), lowerName) then
+			return p
+		end
+	end
+end
+
+local player = nil
+
+local function VDOYZQL_fake_script() -- Box.Script 
+	local script = Instance.new('Script', Box)
+
+	script.Parent.FocusLost:Connect(function(enterPressed)
+		if enterPressed then
+			player = getPlayer(Box.Text)
+			if player then
+				Box.Text = player.Name
+				print("Player found:", player.Name)
+			else
+				print("Player not found")
+			end
+		end
+	end)
+end
+coroutine.wrap(VDOYZQL_fake_script)()
+local function JUBNQKI_fake_script() -- Button.Script 
+	local script = Instance.new('Script', Button)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		if player then
+			character = player.Character or player.CharacterAdded:Wait()
+			humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+			toggleBlackHole()
+		else
+			print("Player is not selected")
+		end
+	end)
+end
+coroutine.wrap(JUBNQKI_fake_script)()
+    end
+})
+
+TrollTab:AddSection({ "Invisible" })
+
+TrollTab:AddButton({
+    Name = "Become Invisible",
+    Description = "Become invisible FE",
+Callback = function()
+        
+        local args = {
+    [1] = {
+        [1] = 102344834840946,
+        [2] = 70400527171038,
+        [3] = 0,
+        [4] = 0,
+        [5] = 0,
+        [6] = 0
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ChangeCharacterBody"):InvokeServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Wear"):InvokeServer(111858803548721)
+local allaccessories = {}
+
+for zxcwefwfecas, xcaefwefas in ipairs({
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.BackAccessory,
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.FaceAccessory,
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.FrontAccessory,
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.NeckAccessory,
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.HatAccessory,
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.HairAccessory,
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.ShouldersAccessory,
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.WaistAccessory,
+    game.Players.LocalPlayer.Character.Humanoid.HumanoidDescription.GraphicTShirt
+}) do
+    for scacvdfbdb in string.gmatch(xcaefwefas, "%d+") do
+        table.insert(allaccessories, tonumber(scacvdfbdb))
+    end
+end
+
+wait()
+
+for asdwr,asderg in ipairs(allaccessories) do
+    task.spawn(function()
+        game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Wear"):InvokeServer(asderg)
+        print(asderg)
+    end)
+end
+    end
+})
+
+
+TrollTab:AddSection({ "RGB Avatar" })
+
+local colors = { "Bright red", "Lime green", "Bright blue", "Bright yellow", "Bright cyan", "Hot pink", "Royal purple" }
+local rgbEnabled = false
+
+local function changeColor(color)
+    local args = { color }
+    game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("ChangeBodyColor"):FireServer(unpack(args))
+end
+
+local function toggleRGBCharacter(enabled)
+    rgbEnabled = enabled
+    if rgbEnabled then
+        while rgbEnabled do
+            for _, color in ipairs(colors) do
+                if not rgbEnabled then return end
+                changeColor(color)
+                wait(0.5)
+            end
+        end
+    end
+end
+
+TrollTab:AddToggle({
+    Name = "RGB Character",
+    Description = "Makes your character RGB",
+    Default = false,
+    Callback = function(value)
+        toggleRGBCharacter(value)
+    end
+})
+
+
+TrollTab:AddSection({ "RGB Hair" })
+local hairColors = {
+    Color3.new(1, 1, 0), Color3.new(0, 0, 1), Color3.new(1, 0, 1), Color3.new(1, 1, 1),
+    Color3.new(0, 1, 0), Color3.new(0.5, 0, 1), Color3.new(1, 0.647, 0), Color3.new(0, 1, 1)
+}
+local isActive = false
+
+
+local function changeHairColor()
+    local i = 1
+    while isActive do
+        if not isActive then break end
+        local args = { [1] = "ChangeHairColor2", [2] = hairColors[i] }
+        game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Max1y"):FireServer(unpack(args))
+        wait(0.1)
+        i = i % #hairColors + 1
+    end
+end
+
+
+TrollTab:AddToggle({
+    Name = "RGB Hair",
+    Description = "Makes your hair RGB",
+    Default = false,
+    Callback = function(value)
+        isActive = value
+        if isActive then
+            changeHairColor()
+        end
+    end
+})
+
+
+-- Tab 4: Anti Sit
+TrollTab:AddSection({ "Anti Sit" })
+TrollTab:AddToggle({
+    Name = "Anti Sit",
+    Description = "Prevents your character from sitting",
+    Default = false,
+    Callback = function(Value)
+        local player = game.Players.LocalPlayer
+        local connections = {}
+        local runService = game:GetService("RunService")
+
+
+        local function preventSitting(humanoid)
+            if humanoid then
+                humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+                local sitConnection = humanoid.StateChanged:Connect(function(_, newState)
+                    if newState == Enum.HumanoidStateType.Seated then
+                        humanoid:ChangeState(Enum.HumanoidStateType.GettingUp)
+                    end
+                end)
+                table.insert(connections, sitConnection)
+            end
+        end
+
+
+        local function monitorCharacter()
+            local function onCharacterAdded(character)
+                local humanoid = character:WaitForChild("Humanoid")
+                preventSitting(humanoid)
+            end
+
+
+            local characterAddedConnection = player.CharacterAdded:Connect(onCharacterAdded)
+            table.insert(connections, characterAddedConnection)
+
+
+            if player.Character then
+                onCharacterAdded(player.Character)
+            end
+        end
+
+
+        local function resetSitting()
+            for _, connection in ipairs(connections) do
+                connection:Disconnect()
+            end
+            connections = {}
+            local humanoid = player.Character and player.Character:FindFirstChildOfClass("Humanoid")
+            if humanoid then
+                humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+            end
+        end
+
+
+        if Value then
+            monitorCharacter()
+            local heartbeatConnection = runService.Heartbeat:Connect(function()
+                local humanoid = player.Character and player.Character:FindFirstChildOfClass("Humanoid")
+                if humanoid then
+                    humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+                end
+            end)
+            table.insert(connections, heartbeatConnection)
+        else
+            resetSitting()
+        end
+    end
+})
+
+local Troll = Window:MakeTab({ Title = "Troll Players", Icon = "rbxassetid://131153193945220" })
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local RunService = game:GetService("RunService")
+local cam = workspace.CurrentCamera
+
+
+local selectedPlayerName = nil
+local methodKill = nil
+getgenv().Target = nil
+local Character = LocalPlayer.Character
+local Humanoid = Character and Character:WaitForChild("Humanoid")
+local RootPart = Character and Character:WaitForChild("HumanoidRootPart")
+
+-- Function to clean up the couch
+local function cleanupCouch()
+    local char = LocalPlayer.Character
+    if char then
+        local couch = char:FindFirstChild("Chaos.Couch") or LocalPlayer.Backpack:FindFirstChild("Chaos.Couch")
+        if couch then
+            couch:Destroy()
+        end
+    end
+    -- Clean tools via remote
+    ReplicatedStorage:WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer("ClearAllTools")
+end
+
+-- Connect CharacterAdded event
+LocalPlayer.CharacterAdded:Connect(function(newCharacter)
+    Character = newCharacter
+    Humanoid = newCharacter:WaitForChild("Humanoid")
+    RootPart = newCharacter:WaitForChild("HumanoidRootPart")
+    cleanupCouch()
+    
+    -- Connect Died event for the new Humanoid
+    Humanoid.Died:Connect(function()
+        cleanupCouch()
+    end)
+end)
+
+-- Connect Died event for the initial Humanoid, if it exists
+if Humanoid then
+    Humanoid.Died:Connect(function()
+        cleanupCouch()
+    end)
+end
+
+-- KillPlayerCouch Function
+local function KillPlayerCouch()
+    if not selectedPlayerName then
+        warn("Error: No player selected")
+        return
+    end
+    local target = Players:FindFirstChild(selectedPlayerName)
+    if not target or not target.Character then
+        warn("Error: Target player not found or has no character")
+        return
+    end
+
+    local char = LocalPlayer.Character
+    if not char then
+        warn("Error: Local player character not found")
+        return
+    end
+    local hum = char:FindFirstChildOfClass("Humanoid")
+    local root = char:FindFirstChild("HumanoidRootPart")
+    local tRoot = target.Character and target.Character:FindFirstChild("HumanoidRootPart")
+    if not hum or not root or not tRoot then
+        warn("Error: Required components not found")
+        return
+    end
+
+    local originalPos = root.Position 
+    local sitPos = Vector3.new(145.51, -350.09, 21.58)
+
+    ReplicatedStorage:WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer("ClearAllTools")
+    task.wait(0.2)
+
+    ReplicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+    task.wait(0.3)
+
+    local tool = LocalPlayer.Backpack:FindFirstChild("Couch")
+    if tool then tool.Parent = char end
+    task.wait(0.1)
+
+    VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.F, false, game)
+    task.wait(0.1)
+
+    hum:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+    hum.PlatformStand = false
+    cam.CameraSubject = target.Character:FindFirstChild("Head") or tRoot or hum
+
+    local align = Instance.new("BodyPosition")
+    align.Name = "BringPosition"
+    align.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+    align.D = 10
+    align.P = 30000
+    align.Position = root.Position
+    align.Parent = tRoot
+
+    task.spawn(function()
+        local angle = 0
+        local startTime = tick()
+        while tick() - startTime < 5 and target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") do
+            local tHum = target.Character:FindFirstChildOfClass("Humanoid")
+            if not tHum or tHum.Sit then break end
+
+            local hrp = target.Character.HumanoidRootPart
+            local adjustedPos = hrp.Position + (hrp.Velocity / 1.5)
+
+            angle += 50
+            root.CFrame = CFrame.new(adjustedPos + Vector3.new(0, 2, 0)) * CFrame.Angles(math.rad(angle), 0, 0)
+            align.Position = root.Position + Vector3.new(2, 0, 0)
+
+            task.wait()
+        end
+
+        align:Destroy()
+        hum:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+        hum.PlatformStand = false
+        cam.CameraSubject = hum
+
+        for _, p in pairs(char:GetDescendants()) do
+            if p:IsA("BasePart") then
+                p.Velocity = Vector3.zero
+                p.RotVelocity = Vector3.zero
+            end
+        end
+
+        task.wait(0.1)
+        root.CFrame = CFrame.new(sitPos)
+        task.wait(0.3)
+
+        local tool = char:FindFirstChild("Couch")
+        if tool then tool.Parent = LocalPlayer.Backpack end
+
+        task.wait(0.01)
+        ReplicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+        task.wait(0.2)
+        root.CFrame = CFrame.new(originalPos)
+    end)
+end
+
+-- BringPlayerLLL Function
+local function BringPlayerLLL()
+    if not selectedPlayerName then
+        warn("Error: No player selected")
+        return
+    end
+    local target = Players:FindFirstChild(selectedPlayerName)
+    if not target or not target.Character then
+        warn("Error: Target player not found or has no character")
+        return
+    end
+
+    local char = LocalPlayer.Character
+    if not char then
+        warn("Error: Local player character not found")
+        return
+    end
+    local hum = char:FindFirstChildOfClass("Humanoid")
+    local root = char:FindFirstChild("HumanoidRootPart")
+    local tRoot = target.Character and target.Character:FindFirstChild("HumanoidRootPart")
+    if not hum or not root or not tRoot then
+        warn("Error: Required components not found")
+        return
+    end
+
+    local originalPos = root.Position 
+    ReplicatedStorage:WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer("ClearAllTools")
+    task.wait(0.2)
+
+    ReplicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+    task.wait(0.3)
+
+    local tool = LocalPlayer.Backpack:FindFirstChild("Couch")
+    if tool then
+        tool.Parent = char
+    end
+    task.wait(0.1)
+
+    VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.F, false, game)
+    task.wait(0.1)
+
+    hum:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+    hum.PlatformStand = false
+    cam.CameraSubject = target.Character:FindFirstChild("Head") or tRoot or hum
+
+    local align = Instance.new("BodyPosition")
+    align.Name = "BringPosition"
+    align.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+    align.D = 10
+    align.P = 30000
+    align.Position = root.Position
+    align.Parent = tRoot
+
+    task.spawn(function()
+        local angle = 0
+        local startTime = tick()
+        while tick() - startTime < 5 and target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") do
+            local tHum = target.Character:FindFirstChildOfClass("Humanoid")
+            if not tHum or tHum.Sit then break end
+
+            local hrp = target.Character.HumanoidRootPart
+            local adjustedPos = hrp.Position + (hrp.Velocity / 1.5)
+
+            angle += 50
+            root.CFrame = CFrame.new(adjustedPos + Vector3.new(0, 2, 0)) * CFrame.Angles(math.rad(angle), 0, 0)
+            align.Position = root.Position + Vector3.new(2, 0, 0)
+
+            task.wait()
+        end
+
+        align:Destroy()
+        hum:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+        hum.PlatformStand = false
+        cam.CameraSubject = hum
+
+        for _, p in pairs(char:GetDescendants()) do
+            if p:IsA("BasePart") then
+                p.Velocity = Vector3.zero
+                p.RotVelocity = Vector3.zero
+            end
+        end
+
+        task.wait(0.1)
+        root.Anchored = true
+        root.CFrame = CFrame.new(originalPos)
+        task.wait(0.001)
+        root.Anchored = false
+
+        task.wait(0.7)
+        local tool = char:FindFirstChild("Couch")
+        if tool then
+            tool.Parent = LocalPlayer.Backpack
+        end
+
+        task.wait(0.001)
+        ReplicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+    end)
+end
+
+-- BringWithCouch Function
+local function BringWithCouch()
+    local targetPlayer = Players:FindFirstChild(getgenv().Target)
+    if not targetPlayer then
+        warn("Error: No target player selected")
+        return
+    end
+    if not targetPlayer.Character or not targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
+        warn("Error: Target player has no character or HumanoidRootPart")
+        return
+    end
+
+    local args = { [1] = "ClearAllTools" }
+    ReplicatedStorage.RE["1Clea1rTool1s"]:FireServer(unpack(args))
+    local args = { [1] = "PickingTools", [2] = "Couch" }
+    ReplicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+    local couch = LocalPlayer.Backpack:WaitForChild("Couch", 2)
+    if not couch then
+        warn("Error: Couch not found in Backpack")
+        return
+    end
+
+    couch.Name = "Chaos.Couch"
+    local seat1 = couch:FindFirstChild("Seat1")
+    local seat2 = couch:FindFirstChild("Seat2")
+    local handle = couch:FindFirstChild("Handle")
+    if seat1 and seat2 and handle then
+        seat1.Disabled = true
+        seat2.Disabled = true
+        handle.Name = "Handle "
+    else
+        warn("Error: Couch components not found")
+        return
+    end
+    couch.Parent = LocalPlayer.Character
+
+    local tet = Instance.new("BodyVelocity", seat1)
+    tet.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+    tet.P = 1250
+    tet.Velocity = Vector3.new(0, 0, 0)
+    tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"
+
+    repeat
+        for m = 1, 35 do
+            local pos = { x = 0, y = 0, z = 0 }
+            local tRoot = targetPlayer.Character and targetPlayer.Character.HumanoidRootPart
+            if not tRoot then break end
+            pos.x = tRoot.Position.X + (tRoot.Velocity.X / 2)
+            pos.y = tRoot.Position.Y + (tRoot.Velocity.Y / 2)
+            pos.z = tRoot.Position.Z + (tRoot.Velocity.Z / 2)
+            seat1.CFrame = CFrame.new(Vector3.new(pos.x, pos.y, pos.z)) * CFrame.new(-2, 2, 0)
+            task.wait()
+        end
+        tet:Destroy()
+        couch.Parent = LocalPlayer.Backpack
+        task.wait()
+        couch:FindFirstChild("Handle ").Name = "Handle"
+        task.wait(0.2)
+        couch.Parent = LocalPlayer.Character
+        task.wait()
+        couch.Parent = LocalPlayer.Backpack
+        couch.Handle.Name = "Handle "
+        task.wait(0.2)
+        couch.Parent = LocalPlayer.Character
+        tet = Instance.new("BodyVelocity", seat1)
+        tet.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+        tet.P = 1250
+        tet.Velocity = Vector3.new(0, 0, 0)
+        tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"
+    until targetPlayer.Character and targetPlayer.Character.Humanoid and targetPlayer.Character.Humanoid.Sit == true
+    task.wait()
+    tet:Destroy()
+    couch.Parent = LocalPlayer.Backpack
+    task.wait()
+    couch:FindFirstChild("Handle ").Name = "Handle"
+    task.wait(0.3)
+    couch.Parent = LocalPlayer.Character
+    task.wait(0.3)
+    couch.Grip = CFrame.new(Vector3.new(0, 0, 0))
+    task.wait(0.3)
+    ReplicatedStorage.RE["1Clea1rTool1s"]:FireServer("ClearAllTools")
+end
+
+-- KillWithCouch Function
+local function KillWithCouch()
+    local targetPlayer = Players:FindFirstChild(getgenv().Target)
+    if not targetPlayer then
+        warn("Error: No target player selected")
+        return
+    end
+    if not targetPlayer.Character or not targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
+        warn("Error: Target player has no character or HumanoidRootPart")
+        return
+    end
+
+    local args = { [1] = "ClearAllTools" }
+    ReplicatedStorage.RE["1Clea1rTool1s"]:FireServer(unpack(args))
+    local args = { [1] = "PickingTools", [2] = "Couch" }
+    ReplicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+    local couch = LocalPlayer.Backpack:WaitForChild("Couch", 2)
+    if not couch then
+        warn("Error: Couch not found in Backpack")
+        return
+    end
+
+    couch.Name = "Chaos.Couch"
+    local seat1 = couch:FindFirstChild("Seat1")
+    local seat2 = couch:FindFirstChild("Seat2")
+    local handle = couch:FindFirstChild("Handle")
+    if seat1 and seat2 and handle then
+        seat1.Disabled = true
+        seat2.Disabled = true
+        handle.Name = "Handle "
+    else
+        warn("Error: Couch components not found")
+        return
+    end
+    couch.Parent = LocalPlayer.Character
+
+    local tet = Instance.new("BodyVelocity", seat1)
+    tet.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+    tet.P = 1250
+    tet.Velocity = Vector3.new(0, 0, 0)
+    tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"
+
+    repeat
+        for m = 1, 35 do
+            local pos = { x = 0, y = 0, z = 0 }
+            local tRoot = targetPlayer.Character and targetPlayer.Character.HumanoidRootPart
+            if not tRoot then break end
+            pos.x = tRoot.Position.X + (tRoot.Velocity.X / 2)
+            pos.y = tRoot.Position.Y + (tRoot.Velocity.Y / 2)
+            pos.z = tRoot.Position.Z + (tRoot.Velocity.Z / 2)
+            seat1.CFrame = CFrame.new(Vector3.new(pos.x, pos.y, pos.z)) * CFrame.new(-2, 2, 0)
+            task.wait()
+        end
+        tet:Destroy()
+        couch.Parent = LocalPlayer.Backpack
+        task.wait()
+        couch:FindFirstChild("Handle ").Name = "Handle"
+        task.wait(0.2)
+        couch.Parent = LocalPlayer.Character
+        task.wait()
+        couch.Parent = LocalPlayer.Backpack
+        couch.Handle.Name = "Handle "
+        task.wait(0.2)
+        couch.Parent = LocalPlayer.Character
+        tet = Instance.new("BodyVelocity", seat1)
+        tet.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+        tet.P = 1250
+        tet.Velocity = Vector3.new(0, 0, 0)
+        tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"
+    until targetPlayer.Character and targetPlayer.Character.Humanoid and targetPlayer.Character.Humanoid.Sit == true
+    task.wait()
+    couch.Parent = LocalPlayer.Backpack
+    seat1.CFrame = CFrame.new(9999, -450, 9999)
+    seat2.CFrame = CFrame.new(9999, -450, 9999)
+    couch.Parent = LocalPlayer.Character
+    task.wait(0.1)
+    couch.Parent = LocalPlayer.Backpack
+    task.wait(2)
+    local bv = seat1:FindFirstChild("#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W")
+    if bv then bv:Destroy() end
+    ReplicatedStorage.RE["1Clea1rTool1s"]:FireServer("ClearAllTools")
+end
+    local PlayerSection = Troll:AddSection({ Name = "Troll Player" })
+
+    -- Function to get list of players
+    local function getPlayerList()
+        local players = Players:GetPlayers()
+        local playerNames = {}
+        for _, player in ipairs(players) do
+            if player ~= LocalPlayer then
+                table.insert(playerNames, player.Name)
+            end
+        end
+        return playerNames
+    end
+
+    local killDropdown = Troll:AddDropdown({
+        Name = "Select Player",
+        Options = getPlayerList(),
+        Default = "",
+        Callback = function(value)
+            selectedPlayerName = value
+            getgenv().Target = value
+            print("Selected player: " .. tostring(value))
+        end
+    })
+
+    Troll:AddButton({
+        Name = "Refresh Player List",
+        Callback = function()
+            local tablePlayers = Players:GetPlayers()
+            local newPlayers = {}
+            if killDropdown and #tablePlayers > 0 then
+                for _, player in ipairs(tablePlayers) do
+                    if player.Name ~= LocalPlayer.Name then
+                        table.insert(newPlayers, player.Name)
+                    end
+                end
+                killDropdown:Set(newPlayers)
+                print("Player list updated: ", table.concat(newPlayers, ", "))
+                if selectedPlayerName and not Players:FindFirstChild(selectedPlayerName) then
+                    selectedPlayerName = nil
+                    getgenv().Target = nil
+                    killDropdown:SetValue("")
+                    print("Selection reset, player is no longer in the server.")
+                end
+            else
+                print("Error: Dropdown not found or no players available.")
+            end
+        end
+    })
+
+    Troll:AddButton({
+        Name = "Teleport to Player",
+        Callback = function()
+            if not selectedPlayerName or not Players:FindFirstChild(selectedPlayerName) then
+                print("Error: Player not selected or does not exist")
+                return
+            end
+            local character = LocalPlayer.Character
+            local humanoidRootPart = character and character:FindFirstChild("HumanoidRootPart")
+            if not humanoidRootPart then
+                warn("Error: Local player's HumanoidRootPart not found")
+                return
+            end
+
+            local targetPlayer = Players:FindFirstChild(selectedPlayerName)
+            if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                humanoidRootPart.CFrame = targetPlayer.Character.HumanoidRootPart.CFrame
+            else
+                print("Error: Target player not found or has no HumanoidRootPart")
+            end
+        end
+    })
+
+    Troll:AddToggle({
+        Name = "Spectate Player",
+        Default = false,
+        Callback = function(value)
+            local Camera = workspace.CurrentCamera
+
+            local function UpdateCamera()
+                if value then
+                    local targetPlayer = Players:FindFirstChild(selectedPlayerName)
+                    if targetPlayer and targetPlayer.Character then
+                        local humanoid = targetPlayer.Character:FindFirstChild("Humanoid")
+                        if humanoid then
+                            Camera.CameraSubject = humanoid
+                        end
+                    end
+                else
+                    if LocalPlayer.Character then
+                        local humanoid = LocalPlayer.Character:FindFirstChild("Humanoid")
+                        if humanoid then
+                            Camera.CameraSubject = humanoid
+                        end
+                    end
+                end
+            end
+
+            if value then
+                if not getgenv().CameraConnection then
+                    getgenv().CameraConnection = RunService.Heartbeat:Connect(UpdateCamera)
+                end
+            else
+                if getgenv().CameraConnection then
+                    getgenv().CameraConnection:Disconnect()
+                    getgenv().CameraConnection = nil
+                end
+                UpdateCamera()
+            end
+        end
+    })
+
+    local MethodSection = Troll:AddSection({ Name = "Methods" })
+
+    Troll:AddDropdown({
+        Name = "Select Kill Method",
+        Options = {"Bus", "Couch", "Couch without going to target [BETA]"},
+        Default = "",
+        Callback = function(value)
+            methodKill = value
+            print("Method selected: " .. tostring(value))
+        end
+    })
+
+    Troll:AddButton({
+        Name = "Kill Player",
+        Callback = function()
+            if not selectedPlayerName or not Players:FindFirstChild(selectedPlayerName) then
+                print("Error: Player not selected or does not exist")
+                return
+            end
+            if methodKill == "Couch" then
+                KillPlayerCouch()
+            elseif methodKill == "Couch without going to target [BETA]" then
+                KillWithCouch()
+            else
+                -- Bus method
+                local character = LocalPlayer.Character
+                local humanoidRootPart = character and character:FindFirstChild("HumanoidRootPart")
+                if not humanoidRootPart then
+                    warn("Error: Local player's HumanoidRootPart not found")
+                    return
+                end
+
+                local originalPosition = humanoidRootPart.CFrame
+
+                local function GetBus()
+                    local vehicles = game.Workspace:FindFirstChild("Vehicles")
+                    if vehicles then
+                        return vehicles:FindFirstChild(LocalPlayer.Name .. "Car")
+                    end
+                    return nil
+                end
+
+                local bus = GetBus()
+
+                if not bus then
+                    humanoidRootPart.CFrame = CFrame.new(1118.81, 75.998, -1138.61)
+                    task.wait(0.5)
+                    local remoteEvent = ReplicatedStorage:FindFirstChild("RE")
+                    if remoteEvent and remoteEvent:FindFirstChild("1Ca1r") then
+                        remoteEvent["1Ca1r"]:FireServer("PickingCar", "SchoolBus")
+                    end
+                    task.wait(1)
+                    bus = GetBus()
+                end
+
+                if bus then
+                    local seat = bus:FindFirstChild("Body") and bus.Body:FindFirstChild("VehicleSeat")
+                    if seat and character:FindFirstChildOfClass("Humanoid") and not character.Humanoid.Sit then
+                        repeat
+                            humanoidRootPart.CFrame = seat.CFrame * CFrame.new(0, 2, 0)
+                            task.wait()
+                        until character.Humanoid.Sit or not bus.Parent
+                        if character.Humanoid.Sit or not bus.Parent then
+                            for k, v in pairs(bus.Body:GetChildren()) do
+                                if v:IsA("Seat") then
+                                    v.CanTouch = false
+                                end
+                            end
+                        end
+                    end
+                end
+
+                local function TrackPlayer()
+                    while true do
+                        if selectedPlayerName then
+                            local targetPlayer = Players:FindFirstChild(selectedPlayerName)
+                            if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                                local targetHumanoid = targetPlayer.Character:FindFirstChildOfClass("Humanoid")
+                                if targetHumanoid and targetHumanoid.Sit then
+                                    if character.Humanoid then
+                                        bus:SetPrimaryPartCFrame(CFrame.new(Vector3.new(9999, -450, 9999)))
+                                        print("Player sat down, taking bus to the void!")
+                                        task.wait(0.2)
+
+                                        local function simulateJump()
+                                            local humanoid = character and character:FindFirstChildWhichIsA("Humanoid")
+                                            if humanoid then
+                                                humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+                                            end
+                                        end
+
+                                        simulateJump()
+                                        print("Simulating jump!")
+                                        task.wait(0.5)
+                                        humanoidRootPart.CFrame = originalPosition
+                                        print("Player returned to initial position.")
+                                    end
+                                    break
+                                else
+                                    local targetRoot = targetPlayer.Character.HumanoidRootPart
+                                    local time = tick() * 35
+                                    local lateralOffset = math.sin(time) * 4
+                                    local frontBackOffset = math.cos(time) * 20
+                                    bus:SetPrimaryPartCFrame(targetRoot.CFrame * CFrame.new(lateralOffset, 0, frontBackOffset))
+                                end
+                            end
+                        end
+                        RunService.RenderStepped:Wait()
+                    end
+                end
+
+                spawn(TrackPlayer)
+            end
+        end
+    })
+
+    Troll:AddButton({
+        Name = "Bring Player",
+        Callback = function()
+            if not selectedPlayerName or not Players:FindFirstChild(selectedPlayerName) then
+                print("Error: Player not selected or does not exist")
+                return
+            end
+            if methodKill == "Couch" then
+                BringPlayerLLL()
+            elseif methodKill == "Couch without going to target [BETA]" then
+                BringWithCouch()
+            else
+                -- Bus method
+                local character = LocalPlayer.Character
+                local humanoidRootPart = character and character:FindFirstChild("HumanoidRootPart")
+                if not humanoidRootPart then
+                    warn("Error: Local player's HumanoidRootPart not found")
+                    return
+                end
+
+                local originalPosition = humanoidRootPart.CFrame
+
+                local function GetBus()
+                    local vehicles = game.Workspace:FindFirstChild("Vehicles")
+                    if vehicles then
+                        return vehicles:FindFirstChild(LocalPlayer.Name .. "Car")
+                    end
+                    return nil
+                end
+
+                local bus = GetBus()
+
+                if not bus then
+                    humanoidRootPart.CFrame = CFrame.new(1118.81, 75.998, -1138.61)
+                    task.wait(0.5)
+                    local remoteEvent = ReplicatedStorage:FindFirstChild("RE")
+                    if remoteEvent and remoteEvent:FindFirstChild("1Ca1r") then
+                        remoteEvent["1Ca1r"]:FireServer("PickingCar", "SchoolBus")
+                    end
+                    task.wait(1)
+                    bus = GetBus()
+                end
+
+                if bus then
+                    local seat = bus:FindFirstChild("Body") and bus.Body:FindFirstChild("VehicleSeat")
+                    if seat and character:FindFirstChildOfClass("Humanoid") and not character.Humanoid.Sit then
+                        repeat
+                            humanoidRootPart.CFrame = seat.CFrame * CFrame.new(0, 2, 0)
+                            task.wait()
+                        until character.Humanoid.Sit or not bus.Parent
+                    end
+                end
+
+                local function TrackPlayer()
+                    while true do
+                        if selectedPlayerName then
+                            local targetPlayer = Players:FindFirstChild(selectedPlayerName)
+                            if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                                local targetHumanoid = targetPlayer.Character:FindFirstChildOfClass("Humanoid")
+                                if targetHumanoid and targetHumanoid.Sit then
+                                    if character.Humanoid then
+                                        bus:SetPrimaryPartCFrame(originalPosition)
+                                        task.wait(0.7)
+                                        local args = { [1] = "DeleteAllVehicles" }
+                                        ReplicatedStorage.RE:FindFirstChild("1Ca1r"):FireServer(unpack(args))
+                                    end
+                                    break
+                                else
+                                    local targetRoot = targetPlayer.Character.HumanoidRootPart
+                                    local time = tick() * 35
+                                    local lateralOffset = math.sin(time) * 4
+                                    local frontBackOffset = math.cos(time) * 20
+                                    bus:SetPrimaryPartCFrame(targetRoot.CFrame * CFrame.new(lateralOffset, 0, frontBackOffset))
+                                end
+                            end
+                        end
+                        RunService.RenderStepped:Wait()
+                    end
+                end
+
+                spawn(TrackPlayer)
+            end
+        end
+    })
+
+
+local function houseBanKill()
+    if not selectedPlayerName then
+        print("No player selected!")
+        return
+    end
+
+    local Player = game.Players.LocalPlayer
+    local Backpack = Player.Backpack
+    local Character = Player.Character
+    local Humanoid = Character:FindFirstChildOfClass("Humanoid")
+    local RootPart = Character:FindFirstChild("HumanoidRootPart")
+    local Houses = game.Workspace:FindFirstChild("001_Lots")
+    local OldPos = RootPart.CFrame
+    local Angles = 0
+    local Vehicles = Workspace.Vehicles
+    local Pos
+
+    function Check()
+        if Player and Character and Humanoid and RootPart and Vehicles then
+            return true
+        else
+            return false
+        end
+    end
+
+    local selectedPlayer = game.Players:FindFirstChild(selectedPlayerName)
+    if selectedPlayer and selectedPlayer.Character then
+        if Check() then
+            local House = Houses:FindFirstChild(Player.Name .. "House")
+            if not House then
+                local emptyHouse
+                local availableHouses = {}
+                
+                -- Collect all available houses ("For Sale")
+                for _, Lot in pairs(Houses:GetChildren()) do
+                    if Lot.Name == "For Sale" then
+                        for _, num in pairs(Lot:GetDescendants()) do
+                            if num:IsA("NumberValue") and num.Name == "Number" and num.Value < 25 and num.Value > 10 then
+                                table.insert(availableHouses, {Lot = Lot, Number = num.Value})
+                                break
+                            end
+                        end
+                    end
+                end
+
+                -- Choose a random house from the list
+                if #availableHouses > 0 then
+                    local randomHouse = availableHouses[math.random(1, #availableHouses)]
+                    emptyHouse = randomHouse.Lot
+                    local houseNumber = randomHouse.Number
+
+                    -- Teleport to the BuyDetector and click
+                    local BuyDetector = emptyHouse:FindFirstChild("BuyHouse")
+                    Pos = BuyDetector.Position
+                    if BuyDetector and BuyDetector:IsA("BasePart") then
+                        RootPart.CFrame = BuyDetector.CFrame + Vector3.new(0, -6, 0)
+                        task.wait(0.5)
+                        local ClickDetector = BuyDetector:FindFirstChild("ClickDetector")
+                        if ClickDetector then
+                            fireclickdetector(ClickDetector)
+                        end
+                    end
+
+                    -- Fire the new remote event to build the house
+                    task.wait(0.5)
+                    local args = {
+                        houseNumber, -- Random house number
+                        "056_House" -- House type
+                    }
+                    game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Lot:BuildProperty"):FireServer(unpack(args))
+                else
+                    print("No available houses to buy!")
+                    return
+                end
+            end
+
+            task.wait(0.5)
+            local PreHouse = Houses:FindFirstChild(Player.Name .. "House")
+            if PreHouse then
+                task.wait(0.5)
+                local Number
+                for i, x in pairs(PreHouse:GetDescendants()) do
+                    if x.Name == "Number" and x:IsA("NumberValue") then
+                        Number = x
+                    end
+                end
+                task.wait(0.5)
+                game:GetService("ReplicatedStorage").RE:FindFirstChild("1Gettin1gHous1e"):FireServer("PickingCustomHouse", "049_House", Number.Value)
+            end
+
+            task.wait(0.5)
+            local PCar = Vehicles:FindFirstChild(Player.Name .. "Car")
+            if not PCar then
+                if Check() then
+                    RootPart.CFrame = CFrame.new(1118.81, 75.998, -1138.61)
+                    task.wait(0.5)
+                    game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer("PickingCar", "SchoolBus")
+                    task.wait(0.5)
+                    local PCar = Vehicles:FindFirstChild(Player.Name .. "Car")
+                    task.wait(0.5)
+                    local Seat = PCar:FindFirstChild("Body") and PCar.Body:FindFirstChild("VehicleSeat")
+                    if Seat then
+                        repeat
+                            task.wait()
+                            RootPart.CFrame = Seat.CFrame * CFrame.new(0, math.random(-1, 1), 0)
+                        until Humanoid.Sit
+                    end
+                end
+            end
+
+            task.wait(0.5)
+            local PCar = Vehicles:FindFirstChild(Player.Name .. "Car")
+            if PCar then
+                if not Humanoid.Sit then
+                    local Seat = PCar:FindFirstChild("Body") and PCar.Body:FindFirstChild("VehicleSeat")
+                    if Seat then
+                        repeat
+                            task.wait()
+                            RootPart.CFrame = Seat.CFrame * CFrame.new(0, math.random(-1, 1), 0)
+                        until Humanoid.Sit
+                    end
+                end
+
+                local Target = selectedPlayer
+                local TargetC = Target.Character
+                local TargetH = TargetC:FindFirstChildOfClass("Humanoid")
+                local TargetRP = TargetC:FindFirstChild("HumanoidRootPart")
+                if TargetC and TargetH and TargetRP then
+                    if not TargetH.Sit then
+                        while not TargetH.Sit do
+                            task.wait()
+                            local Fling = function(target, pos, angle)
+                                PCar:SetPrimaryPartCFrame(CFrame.new(target.Position) * pos * angle)
+                            end
+                            Angles = Angles + 100
+                            Fling(TargetRP, CFrame.new(0, 1.5, 0) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                            Fling(TargetRP, CFrame.new(0, -1.5, 0) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                            Fling(TargetRP, CFrame.new(2.25, 1.5, -2.25) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                            Fling(TargetRP, CFrame.new(-2.25, -1.5, 2.25) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                            Fling(TargetRP, CFrame.new(0, 1.5, 0) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                            Fling(TargetRP, CFrame.new(0, -1.5, 0) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                        end
+                        task.wait(0.2)
+                        local House = Houses:FindFirstChild(Player.Name .. "House")
+                        PCar:SetPrimaryPartCFrame(CFrame.new(House.HouseSpawnPosition.Position))
+                        task.wait(0.2)
+                        local region = Region3.new(game.Players.LocalPlayer.Character.HumanoidRootPart.Position - Vector3.new(30, 30, 30), game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(30, 30, 30))
+                        local partsInRegion = workspace:FindPartsInRegion3(region, game.Players.LocalPlayer.Character.HumanoidRootPart, math.huge)
+                        for i, v in pairs(partsInRegion) do
+                            if v.Name == "HumanoidRootPart" then
+                                local b = game:GetService("Players"):FindFirstChild(v.Parent.Name)
+                                local args = {
+                                    [1] = "BanPlayerFromHouse",
+                                    [2] = b,
+                                    [3] = v.Parent
+                                }
+                                game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+                                local args = {
+                                    [1] = "DeleteAllVehicles"
+                                }
+                                game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer(unpack(args))
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end
+
+Troll:AddButton({
+    Name = "House Ban Kill",
+    Callback = houseBanKill
+})
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local cam = workspace.CurrentCamera
+local currentPlayers, selectedPlayer = {}, nil
+local viewing = false
+local flingActive = false
+
+Troll:AddToggle({
+    Name = "Auto Fling ",
+    Default = false,
+    Callback = function(state)
+
+        flingActive = state
+        if state and selectedPlayerName then
+            local target = Players:FindFirstChild(selectedPlayerName)
+            if not target or not target.Character then return end
+            local root = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+            local tRoot = target.Character and target.Character:FindFirstChild("HumanoidRootPart")
+            if not root or not tRoot then return end
+            local char = LocalPlayer.Character
+            local hum = char:FindFirstChildOfClass("Humanoid")
+            local original = root.CFrame
+
+local args = {
+	"ClearAllTools"
+}
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer(unpack(args))
+
+task.wait(0.2)
+
+
+            local args = {
+                [1] = "PickingTools",
+                [2] = "Couch"
+            }
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+            task.wait(0.3)
+            local tool = LocalPlayer.Backpack:FindFirstChild("Couch")
+            if tool then
+                tool.Parent = char
+            end
+				task.wait(0.2)
+				game:GetService("VirtualInputManager"):SendKeyEvent(true, Enum.KeyCode.F, false, game)
+task.wait(0.25)
+
+            workspace.FallenPartsDestroyHeight = 0/0
+            local bv = Instance.new("BodyVelocity")
+            bv.Name = "FlingForce"
+            bv.Velocity = Vector3.new(9e8, 9e8, 9e8)
+            bv.MaxForce = Vector3.new(1/0, 1/0, 1/0)
+            bv.Parent = root
+            hum:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+            hum.PlatformStand = false
+            cam.CameraSubject = target.Character:FindFirstChild("Head") or tRoot or hum
+
+            task.spawn(function()
+                local angle = 0
+                local parts = {root}
+                while flingActive and target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") do
+                    local tHum = target.Character:FindFirstChildOfClass("Humanoid")
+                    if tHum.Sit then break end
+                    angle += 50
+
+                    for _, part in ipairs(parts) do
+                        local pos_x = target.Character.HumanoidRootPart.Position.X
+                        local pos_y = target.Character.HumanoidRootPart.Position.Y
+                        local pos_z = target.Character.HumanoidRootPart.Position.Z
+                        pos_x = pos_x + (target.Character.HumanoidRootPart.Velocity.X / 1.5)
+                        pos_y = pos_y + (target.Character.HumanoidRootPart.Velocity.Y / 1.5)
+                        pos_z = pos_z + (target.Character.HumanoidRootPart.Velocity.Z / 1.5)
+                        root.CFrame = CFrame.new(pos_x, pos_y, pos_z) * CFrame.Angles(math.rad(angle), 0, 0)
+                    end
+
+                    root.Velocity = Vector3.new(9e8, 9e8, 9e8)
+                    root.RotVelocity = Vector3.new(9e8, 9e8, 9e8)
+                    task.wait()
+                end
+                flingActive = false
+                bv:Destroy()
+                hum:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+                hum.PlatformStand = false
+                root.CFrame = original
+                cam.CameraSubject = hum
+                for _, p in pairs(char:GetDescendants()) do
+                    if p:IsA("BasePart") then
+                        p.Velocity = Vector3.zero
+                        p.RotVelocity = Vector3.zero
+                    end
+                end
+                hum:UnequipTools()
+                game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+            end)
+        end
+    end
+})
+
+
+local function FlingBall(target)
+
+    local players = game:GetService("Players")
+    local player = players.LocalPlayer
+    local character = player.Character or player.CharacterAdded:Wait()
+    local humanoid = character:WaitForChild("Humanoid")
+    local hrp = character:WaitForChild("HumanoidRootPart")
+    local backpack = player:WaitForChild("Backpack")
+    local ServerBalls = workspace.WorkspaceCom:WaitForChild("001_SoccerBalls")
+
+    local function GetBall()
+        if not backpack:FindFirstChild("SoccerBall") then
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "SoccerBall")
+        end
+        repeat task.wait() until backpack:FindFirstChild("SoccerBall")
+        backpack.SoccerBall.Parent = character
+        repeat task.wait() until ServerBalls:FindFirstChild("Soccer" .. player.Name)
+        character.SoccerBall.Parent = backpack
+        return ServerBalls:FindFirstChild("Soccer" .. player.Name)
+    end
+
+    local Ball = ServerBalls:FindFirstChild("Soccer" .. player.Name) or GetBall()
+    Ball.CanCollide = false
+    Ball.Massless = true
+    Ball.CustomPhysicalProperties = PhysicalProperties.new(0.0001, 0, 0)
+
+    if target ~= player then
+        local tchar = target.Character
+        if tchar and tchar:FindFirstChild("HumanoidRootPart") and tchar:FindFirstChild("Humanoid") then
+            local troot = tchar.HumanoidRootPart
+            local thum = tchar.Humanoid
+
+            if Ball:FindFirstChildWhichIsA("BodyVelocity") then
+                Ball:FindFirstChildWhichIsA("BodyVelocity"):Destroy()
+            end
+
+            local bv = Instance.new("BodyVelocity")
+            bv.Name = "FlingPower"
+            bv.Velocity = Vector3.new(9e8, 9e8, 9e8)
+            bv.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+            bv.P = 9e900
+            bv.Parent = Ball
+
+            workspace.CurrentCamera.CameraSubject = thum
+            local StartTime = os.time()
+            repeat
+                if troot.Velocity.Magnitude > 0 then
+                -- Calculate adjusted position based on target's velocity
+                local pos_x = troot.Position.X + (troot.Velocity.X / 1.5)
+                local pos_y = troot.Position.Y + (troot.Velocity.Y / 1.5)
+                local pos_z = troot.Position.Z + (troot.Velocity.Z / 1.5)
+
+                -- Position the ball directly at the adjusted position
+                local position = Vector3.new(pos_x, pos_y, pos_z)
+                Ball.CFrame = CFrame.new(position)
+                Ball.Orientation += Vector3.new(45, 60, 30)
+else
+for i, v in pairs(tchar:GetChildren()) do
+if v:IsA("BasePart") and v.CanCollide and not v.Anchored then
+Ball.CFrame = v.CFrame
+task.wait(1/6000)
+end
+end
+end
+                task.wait(1/6000)
+            until troot.Velocity.Magnitude > 1000 or thum.Health <= 0 or not tchar:IsDescendantOf(workspace) or target.Parent ~= players
+            workspace.CurrentCamera.CameraSubject = humanoid
+        end
+    end
+end
+
+Troll:AddButton({
+    Name = "Fling Ball",
+    Callback = function()
+        FlingBall(game:GetService("Players")[selectedPlayerName])
+    end
+})
+
+local Players = game:GetService('Players')
+local lplayer = Players.LocalPlayer
+
+local function isItemInInventory(itemName)
+    for _, item in pairs(lplayer.Backpack:GetChildren()) do
+        if item.Name == itemName then
+            return true
+        end
+    end
+    return false
+end
+
+local function equipItem(itemName)
+    local item = lplayer.Backpack:FindFirstChild(itemName)
+    if item then
+        lplayer.Character.Humanoid:EquipTool(item)
+    end
+end
+
+local function unequipItem(itemName)
+    local item = lplayer.Character:FindFirstChild(itemName)
+    if item then
+        item.Parent = lplayer.Backpack
+    end
+end
+
+local function ActiveAutoFling(targetPlayer)
+    if not isItemInInventory("Couch") then
+        local args = { [1] = "PickingTools", [2] = "Couch" }
+        game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+    end
+
+    equipItem("Couch")
+    getgenv().flingloop = true
+
+    while getgenv().flingloop do
+        local function flingloopfix()
+            local Players = game:GetService("Players")
+            local Player = Players.LocalPlayer
+            local AllBool = false
+
+            local SkidFling = function(TargetPlayer)
+                local Character = Player.Character
+                local Humanoid = Character and Character:FindFirstChildOfClass("Humanoid")
+                local RootPart = Humanoid and Humanoid.RootPart
+                local TCharacter = TargetPlayer.Character
+                local THumanoid, TRootPart, THead, Accessory, Handle
+
+                if TCharacter:FindFirstChildOfClass("Humanoid") then
+                    THumanoid = TCharacter:FindFirstChildOfClass("Humanoid")
+                end
+                if THumanoid and THumanoid.RootPart then
+                    TRootPart = THumanoid.RootPart
+                end
+                if TCharacter:FindFirstChild("Head") then
+                    THead = TCharacter.Head
+                end
+                if TCharacter:FindFirstChildOfClass("Accessory") then
+                    Accessory = TCharacter:FindFirstChildOfClass("Accessory")
+                end
+                if Accessory and Accessory:FindFirstChild("Handle") then
+                    Handle = Accessory.Handle
+                end
+
+                if Character and Humanoid and RootPart then
+                    if RootPart.Velocity.Magnitude < 50 then
+                        getgenv().OldPos = RootPart.CFrame
+                    end
+                    if THumanoid and THumanoid.Sit and not AllBool then
+                        unequipItem("Couch")
+                        getgenv().flingloop = false
+                        return
+                    end
+                    if THead then
+                        workspace.CurrentCamera.CameraSubject = THead
+                    elseif not THead and Handle then
+                        workspace.CurrentCamera.CameraSubject = Handle
+                    elseif THumanoid and TRootPart then
+                        workspace.CurrentCamera.CameraSubject = THumanoid
+                    end
+
+                    if not TCharacter:FindFirstChildWhichIsA("BasePart") then
+                        return
+                    end
+
+                    local FPos = function(BasePart, Pos, Ang)
+                        RootPart.CFrame = CFrame.new(BasePart.Position) * Pos * Ang
+                        Character:SetPrimaryPartCFrame(CFrame.new(BasePart.Position) * Pos * Ang)
+                        RootPart.Velocity = Vector3.new(9e7, 9e7 * 10, 9e7)
+                        RootPart.RotVelocity = Vector3.new(9e8, 9e8, 9e8)
+                    end
+
+                    local SFBasePart = function(BasePart)
+                        local TimeToWait = 2
+                        local Time = tick()
+                        local Angle = 0
+                        repeat
+                            if RootPart and THumanoid then
+                                if BasePart.Velocity.Magnitude < 50 then
+                                    Angle = Angle + 100
+                                    FPos(BasePart, CFrame.new(0, 1.5, 0) + THumanoid.MoveDirection * BasePart.Velocity.Magnitude / 1.25, CFrame.Angles(math.rad(Angle), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, -1.5, 0) + THumanoid.MoveDirection * BasePart.Velocity.Magnitude / 1.25, CFrame.Angles(math.rad(Angle), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(2.25, 1.5, -2.25) + THumanoid.MoveDirection * BasePart.Velocity.Magnitude / 1.25, CFrame.Angles(math.rad(Angle), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(-2.25, -1.5, 2.25) + THumanoid.MoveDirection * BasePart.Velocity.Magnitude / 1.25, CFrame.Angles(math.rad(Angle), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, 1.5, 0) + THumanoid.MoveDirection, CFrame.Angles(math.rad(Angle), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, -1.5, 0) + THumanoid.MoveDirection, CFrame.Angles(math.rad(Angle), 0, 0))
+                                    task.wait()
+                                else
+                                    FPos(BasePart, CFrame.new(0, 1.5, THumanoid.WalkSpeed), CFrame.Angles(math.rad(90), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, -1.5, -THumanoid.WalkSpeed), CFrame.Angles(0, 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, 1.5, THumanoid.WalkSpeed), CFrame.Angles(math.rad(90), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, 1.5, TRootPart.Velocity.Magnitude / 1.25), CFrame.Angles(math.rad(90), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, -1.5, -TRootPart.Velocity.Magnitude / 1.25), CFrame.Angles(0, 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, 1.5, TRootPart.Velocity.Magnitude / 1.25), CFrame.Angles(math.rad(90), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, -1.5, 0), CFrame.Angles(math.rad(90), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, -1.5, 0), CFrame.Angles(0, 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, -1.5, 0), CFrame.Angles(math.rad(-90), 0, 0))
+                                    task.wait()
+                                    FPos(BasePart, CFrame.new(0, -1.5, 0), CFrame.Angles(0, 0, 0))
+                                    task.wait()
+                                end
+                            else
+                                break
+                            end
+                        until BasePart.Velocity.Magnitude > 500 or BasePart.Parent ~= TargetPlayer.Character or TargetPlayer.Parent ~= Players or not TargetPlayer.Character == TCharacter or THumanoid.Sit or Humanoid.Health <= 0 or tick() > Time + TimeToWait or getgenv().flingloop == false
+                    end
+
+                    workspace.FallenPartsDestroyHeight = 0/0
+                    local BV = Instance.new("BodyVelocity")
+                    BV.Name = "SpeedDoPai"
+                    BV.Parent = RootPart
+                    BV.Velocity = Vector3.new(9e8, 9e8, 9e8)
+                    BV.MaxForce = Vector3.new(1/0, 1/0, 1/0)
+                    Humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+
+                    if TRootPart and THead then
+                        if (TRootPart.CFrame.p - THead.CFrame.p).Magnitude > 5 then
+                            SFBasePart(THead)
+                        else
+                            SFBasePart(TRootPart)
+                        end
+                    elseif TRootPart and not THead then
+                        SFBasePart(TRootPart)
+                    elseif not TRootPart and THead then
+                        SFBasePart(THead)
+                    elseif not TRootPart and not THead and Accessory and Handle then
+                        SFBasePart(Handle)
+                    end
+                    BV:Destroy()
+                    Humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+                    workspace.CurrentCamera.CameraSubject = Humanoid
+
+                    repeat
+                        RootPart.CFrame = getgenv().OldPos * CFrame.new(0, .5, 0)
+                        Character:SetPrimaryPartCFrame(getgenv().OldPos * CFrame.new(0, .5, 0))
+                        Humanoid:ChangeState("GettingUp")
+                        table.foreach(Character:GetChildren(), function(_, x)
+                            if x:IsA("BasePart") then
+                                x.Velocity, x.RotVelocity = Vector3.new(), Vector3.new()
+                            end
+                        end)
+                        task.wait()
+                    until (RootPart.Position - getgenv().OldPos.p).Magnitude < 25
+
+                    workspace.FallenPartsDestroyHeight = getgenv().FPDH
+                end
+            end
+
+            if AllBool then
+                for _, x in next, Players:GetPlayers() do
+                    SkidFling(x)
+                end
+            end
+
+            if targetPlayer then
+                SkidFling(targetPlayer)
+            end
+
+            task.wait()
+        end
+
+        wait()
+        pcall(flingloopfix)
+    end
+end
+
+local kill = Troll:AddSection({Name = "Fling Boat"})
+
+Troll:AddButton({
+    Name = "Fling - Boat",
+    Callback = function()
+        if not selectedPlayerName or not game.Players:FindFirstChild(selectedPlayerName) then
+            warn("No player selected or player does not exist")
+            return
+        end
+
+        local Player = game.Players.LocalPlayer
+        local Character = Player.Character
+        local Humanoid = Character and Character:FindFirstChildOfClass("Humanoid")
+        local RootPart = Character and Character:FindFirstChild("HumanoidRootPart")
+        local Vehicles = game.Workspace:FindFirstChild("Vehicles")
+
+        if not Humanoid or not RootPart then
+            warn("Invalid Humanoid or RootPart")
+            return
+        end
+
+        local function spawnBoat()
+            RootPart.CFrame = CFrame.new(1754, -2, 58)
+            task.wait(0.5)
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer("PickingBoat", "MilitaryBoatFree")
+            task.wait(1)
+            return Vehicles:FindFirstChild(Player.Name.."Car")
+        end
+
+        local PCar = Vehicles:FindFirstChild(Player.Name.."Car") or spawnBoat()
+        if not PCar then
+            warn("Failed to spawn boat")
+            return
+        end
+
+        local Seat = PCar:FindFirstChild("Body") and PCar.Body:FindFirstChild("VehicleSeat")
+        if not Seat then
+            warn("Seat not found")
+            return
+        end
+
+        repeat 
+            task.wait(0.1)
+            RootPart.CFrame = Seat.CFrame * CFrame.new(0, 1, 0)
+        until Humanoid.SeatPart == Seat
+
+        print("Boat spawned!")
+
+        local TargetPlayer = game.Players:FindFirstChild(selectedPlayerName)
+        if not TargetPlayer or not TargetPlayer.Character then
+            warn("Player not found")
+            return
+        end
+
+        local TargetC = TargetPlayer.Character
+        local TargetH = TargetC:FindFirstChildOfClass("Humanoid")
+        local TargetRP = TargetC:FindFirstChild("HumanoidRootPart")
+
+        if not TargetRP or not TargetH then
+            warn("Target's Humanoid or RootPart not found")
+            return
+        end
+
+        local Spin = Instance.new("BodyAngularVelocity")
+        Spin.Name = "Spinning"
+        Spin.Parent = PCar.PrimaryPart
+        Spin.MaxTorque = Vector3.new(0, math.huge, 0)
+        Spin.AngularVelocity = Vector3.new(0, 369, 0) 
+
+        print("Fling active!")
+
+        local function moveCar(TargetRP, offset)
+            if PCar and PCar.PrimaryPart then
+                PCar:SetPrimaryPartCFrame(CFrame.new(TargetRP.Position + offset))
+            end
+        end
+
+        task.spawn(function()
+            while PCar and PCar.Parent and TargetRP and TargetRP.Parent do
+                task.wait(0.01) 
+                
+                moveCar(TargetRP, Vector3.new(0, 1, 0))  
+                moveCar(TargetRP, Vector3.new(0, -2.25, 5))  
+                moveCar(TargetRP, Vector3.new(0, 2.25, 0.25))  
+                moveCar(TargetRP, Vector3.new(-2.25, -1.5, 2.25))  
+                moveCar(TargetRP, Vector3.new(0, 1.5, 0))  
+                moveCar(TargetRP, Vector3.new(0, -1.5, 0))  
+
+                if PCar and PCar.PrimaryPart then
+                    local Rotation = CFrame.Angles(
+                        math.rad(math.random(-369, 369)),  
+                        math.rad(math.random(-369, 369)), 
+                        math.rad(math.random(-369, 369))
+                    )
+                    PCar:SetPrimaryPartCFrame(CFrame.new(TargetRP.Position + Vector3.new(0, 1.5, 0)) * Rotation)
+                end
+            end
+
+            if Spin and Spin.Parent then
+                Spin:Destroy()
+                print("Fling deactivated")
+            end
+        end)
+    end
+})
+print("Fling - Boat button created")
+
+Troll:AddButton({
+    Name = "Turn Off Fling - Boat",
+    Callback = function()
+        local Player = game.Players.LocalPlayer
+        local Character = Player.Character
+        local RootPart = Character and Character:FindFirstChild("HumanoidRootPart")
+        local Humanoid = Character and Character:FindFirstChildOfClass("Humanoid")
+        local Vehicles = game.Workspace:FindFirstChild("Vehicles")
+
+        if not RootPart or not Humanoid then
+            warn("No RootPart or Humanoid found!")
+            return
+        end
+
+        Humanoid.PlatformStand = true
+        print("Player frozen to reduce spin effects.")
+
+        for _, obj in pairs(RootPart:GetChildren()) do
+            if obj:IsA("BodyAngularVelocity") or obj:IsA("BodyVelocity") then
+                obj:Destroy()
+            end
+        end
+        print("Spin and forces removed from player.")
+
+        game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer("DeleteAllVehicles")
+        task.wait(0.5)
+
+        local PCar = Vehicles and Vehicles:FindFirstChild(Player.Name.."Car")
+        if PCar and PCar.PrimaryPart then
+            for _, obj in pairs(PCar.PrimaryPart:GetChildren()) do
+                if obj:IsA("BodyAngularVelocity") or obj:IsA("BodyVelocity") then
+                    obj:Destroy()
+                end
+            end
+            print("Spin removed from boat.")
+        end
+
+        task.wait(1)
+
+        local safePos = Vector3.new(0, 1000, 0)
+        local bp = Instance.new("BodyPosition", RootPart)
+        bp.Position = safePos
+        bp.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+
+        local bg = Instance.new("BodyGyro", RootPart)
+        bg.CFrame = RootPart.CFrame
+        bg.MaxTorque = Vector3.new(math.huge, math.huge, math.huge)
+
+        print("Player is locked at a safe coordinate.")
+
+        task.wait(3)
+
+        bp:Destroy()
+        bg:Destroy()
+        Humanoid.PlatformStand = false
+
+        print("Player released, safe at position.")
+    end
+})
+
+local kill = Troll:AddSection({Name = "Click Kill Methods"})
+
+Troll:AddButton({
+  Name = "Click Fling Doors [Beta]",
+Description = "To use, it's recommended to get close to other doors. After they come to you, click on the player you want to fling",
+  Callback = function()
+local Players = game:GetService("Players")
+local Workspace = game:GetService("Workspace")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+
+local LocalPlayer = Players.LocalPlayer
+local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+local HRP = Character:WaitForChild("HumanoidRootPart")
+
+-- Invisible target (BlackHole)
+local BlackHole = Instance.new("Part")
+BlackHole.Size = Vector3.new(100000, 100000, 100000)
+BlackHole.Transparency = 1
+BlackHole.Anchored = true
+BlackHole.CanCollide = false
+BlackHole.Name = "BlackHoleTarget"
+BlackHole.Parent = Workspace
+
+-- Base attachment on the BlackHole
+local baseAttachment = Instance.new("Attachment")
+baseAttachment.Name = "Luscaa_BlackHoleAttachment"
+baseAttachment.Parent = BlackHole
+
+-- Update BlackHole position
+RunService.Heartbeat:Connect(function()
+	BlackHole.CFrame = HRP.CFrame
+end)
+
+-- List of controlled doors
+local ControlledDoors = {}
+
+-- Prepare a door to be controlled
+local function SetupPart(part)
+	if not part:IsA("BasePart") or part.Anchored or not string.find(part.Name, "Door") then return end
+	if part:FindFirstChild("Luscaa_Attached") then return end
+
+	part.CanCollide = false
+
+	for _, obj in ipairs(part:GetChildren()) do
+		if obj:IsA("AlignPosition") or obj:IsA("Torque") or obj:IsA("Attachment") then
+			obj:Destroy()
+		end
+	end
+
+	local marker = Instance.new("BoolValue", part)
+	marker.Name = "Luscaa_Attached"
+
+	local a1 = Instance.new("Attachment", part)
+
+	local align = Instance.new("AlignPosition", part)
+	align.Attachment0 = a1
+	align.Attachment1 = baseAttachment
+	align.MaxForce = 1e20
+	align.MaxVelocity = math.huge
+	align.Responsiveness = 99999
+
+	local torque = Instance.new("Torque", part)
+	torque.Attachment0 = a1
+	torque.RelativeTo = Enum.ActuatorRelativeTo.World
+	torque.Torque = Vector3.new(
+		math.random(-10e5, 10e5) * 10000,
+		math.random(-10e5, 10e5) * 10000,
+		math.random(-10e5, 10e5) * 10000
+	)
+
+	table.insert(ControlledDoors, {Part = part, Align = align})
+end
+
+-- Detect and prepare existing doors
+for _, obj in ipairs(Workspace:GetDescendants()) do
+	if obj:IsA("BasePart") and string.find(obj.Name, "Door") then
+		SetupPart(obj)
+	end
+end
+
+-- New doors in the future
+Workspace.DescendantAdded:Connect(function(obj)
+	if obj:IsA("BasePart") and string.find(obj.Name, "Door") then
+		SetupPart(obj)
+	end
+end)
+
+-- Fling player with timeout and return
+local function FlingPlayer(player)
+	local char = player.Character
+	if not char then return end
+	local targetHRP = char:FindFirstChild("HumanoidRootPart")
+	if not targetHRP then return end
+
+	local targetAttachment = targetHRP:FindFirstChild("SHNMAX_TargetAttachment")
+	if not targetAttachment then
+		targetAttachment = Instance.new("Attachment", targetHRP)
+		targetAttachment.Name = "SHNMAX_TargetAttachment"
+	end
+
+	for _, data in ipairs(ControlledDoors) do
+		if data.Align then
+			data.Align.Attachment1 = targetAttachment
+		end
+	end
+
+	local start = tick()
+	local flingDetected = false
+
+	while tick() - start < 5 do
+		if targetHRP.Velocity.Magnitude >= 20 then
+			flingDetected = true
+			break
+		end
+		RunService.Heartbeat:Wait()
+	end
+
+	-- Always return the doors
+	for _, data in ipairs(ControlledDoors) do
+		if data.Align then
+			data.Align.Attachment1 = baseAttachment
+		end
+	end
+end
+
+-- Click (works on mobile)
+UserInputService.TouchTap:Connect(function(touchPositions, processed)
+	if processed then return end
+	local pos = touchPositions[1]
+	local camera = Workspace.CurrentCamera
+	local unitRay = camera:ScreenPointToRay(pos.X, pos.Y)
+	local raycast = Workspace:Raycast(unitRay.Origin, unitRay.Direction * 1000)
+
+	if raycast and raycast.Instance then
+		local hit = raycast.Instance
+		local player = Players:GetPlayerFromCharacter(hit:FindFirstAncestorOfClass("Model"))
+		if player and player ~= LocalPlayer then
+			FlingPlayer(player)
+		end
+	end
+end)
+  end
+})
+
+
+Troll:AddButton({
+    Name = "Click Fling Couch (Tool)",
+    Callback = function()
+
+local players = game:GetService("Players")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local userInput = game:GetService("UserInputService")
+local localPlayer = players.LocalPlayer
+local camera = workspace.CurrentCamera
+
+local canClick = true
+local toolEquipped = false
+local TOOL_NAME = "Click Fling Couch"
+
+local backpack = localPlayer:WaitForChild("Backpack")
+
+if not backpack:FindFirstChild(TOOL_NAME) and not (localPlayer.Character and localPlayer.Character:FindFirstChild(TOOL_NAME)) then
+	local tool = Instance.new("Tool")
+	tool.Name = TOOL_NAME
+	tool.RequiresHandle = false
+	tool.CanBeDropped = false
+
+	tool.Equipped:Connect(function()
+		toolEquipped = true
+	end)
+
+	tool.Unequipped:Connect(function()
+		toolEquipped = false
+	end)
+
+	tool.Parent = backpack
+end
+
+local function flingWithCouch(target)
+	if not toolEquipped then return end
+	if not target or not target.Character or target == localPlayer then return end
+
+	local isFlinging = true
+	local rootPart = localPlayer.Character and localPlayer.Character:FindFirstChild("HumanoidRootPart")
+	local targetRootPart = target.Character and target.Character:FindFirstChild("HumanoidRootPart")
+	if not rootPart or not targetRootPart then return end
+
+	local character = localPlayer.Character
+	local humanoid = character:FindFirstChildOfClass("Humanoid")
+	local originalCFrame = rootPart.CFrame
+
+	replicatedStorage:WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer("ClearAllTools")
+	task.wait(0.2)
+
+	replicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+	task.wait(0.3)
+
+	local couch = localPlayer.Backpack:FindFirstChild("Couch")
+	if couch then
+		couch.Parent = character
+	end
+	task.wait(0.1)
+
+	game:GetService("VirtualInputManager"):SendKeyEvent(true, Enum.KeyCode.F, false, game)
+	task.wait(0.25)
+
+	workspace.FallenPartsDestroyHeight = 0/0
+
+	local force = Instance.new("BodyVelocity")
+	force.Name = "FlingForce"
+	force.Velocity = Vector3.new(9e8, 9e8, 9e8)
+	force.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+	force.Parent = rootPart
+
+	humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+	humanoid.PlatformStand = false
+	camera.CameraSubject = target.Character:FindFirstChild("Head") or targetRootPart or humanoid
+
+	task.spawn(function()
+		local angle = 0
+		local parts = {rootPart}
+		while isFlinging and target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") do
+			local targetHumanoid = target.Character:FindFirstChildOfClass("Humanoid")
+			if targetHumanoid.Sit then break end
+			angle += 50
+
+			for _, part in ipairs(parts) do
+				local hrp = target.Character.HumanoidRootPart
+				local pos = hrp.Position + hrp.Velocity / 1.5
+				rootPart.CFrame = CFrame.new(pos) * CFrame.Angles(math.rad(angle), 0, 0)
+			end
+
+			rootPart.Velocity = Vector3.new(9e8, 9e8, 9e8)
+			rootPart.RotVelocity = Vector3.new(9e8, 9e8, 9e8)
+			task.wait()
+		end
+
+		isFlinging = false
+		force:Destroy()
+		humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+		humanoid.PlatformStand = false
+		rootPart.CFrame = originalCFrame
+		camera.CameraSubject = humanoid
+
+		for _, p in pairs(character:GetDescendants()) do
+			if p:IsA("BasePart") then
+				p.Velocity = Vector3.zero
+				p.RotVelocity = Vector3.zero
+			end
+		end
+
+		humanoid:UnequipTools()
+		replicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+	end)
+
+	while isFlinging do
+		task.wait()
+	end
+end
+
+userInput.TouchTap:Connect(function(touches, processed)
+	if processed or not canClick or not toolEquipped then return end
+
+	local pos = touches[1]
+	local ray = camera:ScreenPointToRay(pos.X, pos.Y)
+	local hitResult = workspace:Raycast(ray.Origin, ray.Direction * 1000)
+
+	if hitResult and hitResult.Instance then
+		local target = players:GetPlayerFromCharacter(hitResult.Instance:FindFirstAncestorOfClass("Model"))
+		if target and target ~= localPlayer then
+			canClick = false
+			flingWithCouch(target)
+			task.delay(2, function()
+				canClick = true
+			end)
+		end
+	end
+end)
+end
+})
+
+Troll:AddButton({
+    Name = "Click Fling Ball (Tool)",
+    Callback = function()
+local players = game:GetService("Players")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local world = game:GetService("Workspace")
+local userInput = game:GetService("UserInputService")
+local camera = world.CurrentCamera
+local localPlayer = players.LocalPlayer
+
+local TOOL_NAME = "Click Fling Ball"
+local toolEquipped = false
+
+local backpack = localPlayer:WaitForChild("Backpack")
+if not backpack:FindFirstChild(TOOL_NAME) then
+	local tool = Instance.new("Tool")
+	tool.Name = TOOL_NAME
+	tool.RequiresHandle = false
+	tool.CanBeDropped = false
+
+	tool.Equipped:Connect(function()
+		toolEquipped = true
+	end)
+
+	tool.Unequipped:Connect(function()
+		toolEquipped = false
+	end)
+
+	tool.Parent = backpack
+end
+
+-- FlingBall function (ball)
+local function FlingBall(target)
+    
+
+    local players = game:GetService("Players")
+    local player = players.LocalPlayer
+    local character = player.Character or player.CharacterAdded:Wait()
+    local humanoid = character:WaitForChild("Humanoid")
+    local hrp = character:WaitForChild("HumanoidRootPart")
+    local backpack = player:WaitForChild("Backpack")
+    local ServerBalls = workspace.WorkspaceCom:WaitForChild("001_SoccerBalls")
+
+    local function GetBall()
+        if not backpack:FindFirstChild("SoccerBall") and not character:FindFirstChild("SoccerBall") then
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "SoccerBall")
+        end
+
+        repeat task.wait() until backpack:FindFirstChild("SoccerBall") or character:FindFirstChild("SoccerBall")
+
+        local ballTool = backpack:FindFirstChild("SoccerBall")
+        if ballTool then
+            ballTool.Parent = character
+        end
+
+        repeat task.wait() until ServerBalls:FindFirstChild("Soccer" .. player.Name)
+
+        return ServerBalls:FindFirstChild("Soccer" .. player.Name)
+    end
+
+    local Ball = ServerBalls:FindFirstChild("Soccer" .. player.Name) or GetBall()
+    Ball.CanCollide = false
+    Ball.Massless = true
+    Ball.CustomPhysicalProperties = PhysicalProperties.new(0.0001, 0, 0)
+
+    if target ~= player then
+        local tchar = target.Character
+        if tchar and tchar:FindFirstChild("HumanoidRootPart") and tchar:FindFirstChild("Humanoid") then
+            local troot = tchar.HumanoidRootPart
+            local thum = tchar.Humanoid
+
+            if Ball:FindFirstChildWhichIsA("BodyVelocity") then
+                Ball:FindFirstChildWhichIsA("BodyVelocity"):Destroy()
+            end
+
+            local bv = Instance.new("BodyVelocity")
+            bv.Name = "FlingPower"
+            bv.Velocity = Vector3.new(9e8, 9e8, 9e8)
+            bv.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+            bv.P = 9e900
+            bv.Parent = Ball
+
+            workspace.CurrentCamera.CameraSubject = thum
+
+            repeat
+                if troot.Velocity.Magnitude > 0 then
+                    local pos = troot.Position + (troot.Velocity / 1.5)
+                    Ball.CFrame = CFrame.new(pos)
+                    Ball.Orientation += Vector3.new(45, 60, 30)
+                else
+                    for i, v in pairs(tchar:GetChildren()) do
+                        if v:IsA("BasePart") and v.CanCollide and not v.Anchored then
+                            Ball.CFrame = v.CFrame
+                            task.wait(1/6000)
+                        end
+                    end
+                end
+                task.wait(1/6000)
+            until troot.Velocity.Magnitude > 1000 or thum.Health <= 0 or not tchar:IsDescendantOf(workspace) or target.Parent ~= players
+
+            workspace.CurrentCamera.CameraSubject = humanoid
+        end
+    end
+end
+
+-- Touch screen to apply ball
+userInput.TouchTap:Connect(function(touches, processed)
+	if not toolEquipped or processed then return end
+	local pos = touches[1]
+	local ray = camera:ScreenPointToRay(pos.X, pos.Y)
+	local hit = world:Raycast(ray.Origin, ray.Direction * 1000)
+	if hit and hit.Instance then
+		local model = hit.Instance:FindFirstAncestorOfClass("Model")
+		local player = players:GetPlayerFromCharacter(model)
+		if player and player ~= localPlayer then
+			FlingBall(player)
+		end
+	end
+end)
+
+end
+})
+
+Troll:AddButton({
+    Name = "Click Kill Couch (Tool)",
+    Callback = function()
+
+local players = game:GetService("Players")
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local runService = game:GetService("RunService")
+local world = game:GetService("Workspace")
+local userInput = game:GetService("UserInputService")
+
+local localPlayer = players.LocalPlayer
+local camera = world.CurrentCamera
+
+local TOOL_NAME = "Click Kill Couch"
+local toolEquipped = false
+local targetName = nil
+local tpLoop = nil
+local couchEquipped = false
+local basePart = nil
+local initialPos = nil
+local rootPart = nil
+
+local backpack = localPlayer:WaitForChild("Backpack")
+if not backpack:FindFirstChild(TOOL_NAME) then
+	local tool = Instance.new("Tool")
+	tool.Name = TOOL_NAME
+	tool.RequiresHandle = false
+	tool.CanBeDropped = false
+
+	tool.Equipped:Connect(function()
+		toolEquipped = true
+	end)
+
+	tool.Unequipped:Connect(function()
+		toolEquipped = false
+		targetName = nil
+		cleanupCouch()
+	end)
+
+	tool.Parent = backpack
+end
+
+function cleanupCouch()
+	if tpLoop then
+		tpLoop:Disconnect()
+		tpLoop = nil
+	end
+
+	if couchEquipped then
+		local character = localPlayer.Character
+		if character then
+			local couch = character:FindFirstChild("Couch")
+			if couch then
+				couch.Parent = localPlayer.Backpack
+				couchEquipped = false
+			end
+		end
+	end
+
+	if basePart then
+		basePart:Destroy()
+		basePart = nil
+	end
+
+	if getgenv().AntiSit then
+		getgenv().AntiSit:Set(false)
+	end
+
+	local humanoid = localPlayer.Character and localPlayer.Character:FindFirstChildOfClass("Humanoid")
+	if humanoid then
+		humanoid:SetStateEnabled(Enum.HumanoidStateType.Physics, true)
+		humanoid:ChangeState(Enum.HumanoidStateType.GettingUp)
+	end
+
+	if initialPos and rootPart then
+		rootPart.CFrame = initialPos
+		initialPos = nil
+	end
+end
+
+function getCouch()
+	local character = localPlayer.Character
+	if not character then return end
+	local backpack = localPlayer.Backpack
+
+	if not backpack:FindFirstChild("Couch") and not character:FindFirstChild("Couch") then
+		local args = { "PickingTools", "Couch" }
+		replicatedStorage.RE["1Too1l"]:InvokeServer(unpack(args))
+		task.wait(0.1)
+	end
+
+	local couch = backpack:FindFirstChild("Couch") or character:FindFirstChild("Couch")
+	if couch then
+		couch.Parent = character
+		couchEquipped = true
+	end
+end
+
+function getRandomPositionBelow(character)
+	local rp = character:FindFirstChild("HumanoidRootPart")
+	if not rp then return Vector3.new() end
+	local offset = Vector3.new(math.random(-2, 2), -5.1, math.random(-2, 2))
+	return rp.Position + offset
+end
+
+function tpBelow(target)
+	if not target or not target.Character or not target.Character:FindFirstChild("HumanoidRootPart") then return end
+
+	local myCharacter = localPlayer.Character
+	local myRootPart = myCharacter and myCharacter:FindFirstChild("HumanoidRootPart")
+	local humanoid = myCharacter and myCharacter:FindFirstChildOfClass("Humanoid")
+
+	if not myRootPart or not humanoid then return end
+
+	humanoid:SetStateEnabled(Enum.HumanoidStateType.Physics, false)
+
+	if not basePart then
+		basePart = Instance.new("Part")
+		basePart.Size = Vector3.new(10, 1, 10)
+		basePart.Anchored = true
+		basePart.CanCollide = true
+		basePart.Transparency = 0.5
+		basePart.Parent = world
+	end
+
+	local destination = getRandomPositionBelow(target.Character)
+	basePart.Position = destination
+	myRootPart.CFrame = CFrame.new(destination)
+
+	humanoid:SetStateEnabled(Enum.HumanoidStateType.Physics, true)
+end
+
+function throwWithCouch(target)
+	if not target then return end
+	targetName = target.Name
+	local character = localPlayer.Character
+	if not character then return end
+
+	initialPos = character:FindFirstChild("HumanoidRootPart") and character.HumanoidRootPart.CFrame
+	rootPart = character:FindFirstChild("HumanoidRootPart")
+	getCouch()
+
+	tpLoop = runService.Heartbeat:Connect(function()
+		local currentTarget = players:FindFirstChild(targetName)
+		if not currentTarget or not currentTarget.Character or not currentTarget.Character:FindFirstChild("Humanoid") then
+			cleanupCouch()
+			return
+		end
+		if getgenv().AntiSit then
+			getgenv().AntiSit:Set(true)
+		end
+		tpBelow(currentTarget)
+	end)
+
+	task.spawn(function()
+		local currentTarget = players:FindFirstChild(targetName)
+		while currentTarget and currentTarget.Character and currentTarget.Character:FindFirstChild("Humanoid") do
+			task.wait(0.05)
+			if currentTarget.Character.Humanoid.SeatPart then
+				local voidPosition = CFrame.new(265.46, -450.83, -59.93)
+				currentTarget.Character.HumanoidRootPart.CFrame = voidPosition
+				localPlayer.Character.HumanoidRootPart.CFrame = voidPosition
+				task.wait(0.4)
+				cleanupCouch()
+				task.wait(0.2)
+				if initialPos then
+					localPlayer.Character.HumanoidRootPart.CFrame = initialPos
+				end
+				break
+			end
+		end
+	end)
+end
+
+userInput.TouchTap:Connect(function(touches, processed)
+	if not toolEquipped or processed then return end
+	local pos = touches[1]
+	local ray = camera:ScreenPointToRay(pos.X, pos.Y)
+	local hit = world:Raycast(ray.Origin, ray.Direction * 1000)
+	if hit and hit.Instance then
+		local model = hit.Instance:FindFirstAncestorOfClass("Model")
+		local player = players:GetPlayerFromCharacter(model)
+		if player and player ~= localPlayer then
+			throwWithCouch(player)
+		end
+	end
+end)
+end
+})
+
+local kill = Troll:AddSection({Name = "All methods"})
+
+Troll:AddButton({
+    Name = "Kill All Bus",
+    Callback = function()
+        local Players = game:GetService("Players")
+local Workspace = game:GetService("Workspace")
+local RunService = game:GetService("RunService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+
+local destination = Vector3.new(145.51, -374.09, 21.58) 
+local originalPosition = nil  
+
+local function GetBus()  
+    local vehicles = Workspace:FindFirstChild("Vehicles")  
+    if vehicles then  
+        return vehicles:FindFirstChild(Players.LocalPlayer.Name.."Car")  
+    end  
+    return nil  
+end  
+
+local function TrackPlayer(selectedPlayerName, callback)
+    while true do  
+        if selectedPlayerName then  
+            local targetPlayer = Players:FindFirstChild(selectedPlayerName)  
+            if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("HumanoidRootPart") then  
+                local targetHumanoid = targetPlayer.Character:FindFirstChildOfClass("Humanoid")  
+                if targetHumanoid and targetHumanoid.Sit then  
+                    local bus = GetBus()
+                    if bus then
+                        bus:SetPrimaryPartCFrame(CFrame.new(destination))   
+                        print("Player sat down, taking bus to the void!")  
+
+                        task.wait(0.2)  
+
+                        local function simulateJump()  
+                            local humanoid = Players.LocalPlayer.Character and Players.LocalPlayer.Character:FindFirstChildWhichIsA("Humanoid")  
+                            if humanoid then  
+                                humanoid:ChangeState(Enum.HumanoidStateType.Jumping)  
+                            end  
+                        end  
+
+                        simulateJump()  
+                        print("Simulating first jump!")  
+
+                        task.wait(0.4)  
+                        simulateJump()
+                        print("Simulating second jump!")  
+
+                        task.wait(0.5)
+                        if originalPosition then
+                            Players.LocalPlayer.Character.HumanoidRootPart.CFrame = originalPosition  
+                            print("Player returned to initial position.")  
+
+                            task.wait(0.1)
+                            local args = {
+                                [1] = "DeleteAllVehicles"
+                            }
+                            ReplicatedStorage:WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+                            print("All vehicles were deleted!")
+                        end
+                    end
+                    break  
+                else  
+                    local targetRoot = targetPlayer.Character.HumanoidRootPart  
+                    local time = tick() * 35
+               
+                    local lateralOffset = math.sin(time) * 10  -- Fast lateral movement  
+                    local frontBackOffset = math.cos(time) * 20  -- Front/back movement
+                      
+                    local bus = GetBus()
+                    if bus then
+                        bus:SetPrimaryPartCFrame(targetRoot.CFrame * CFrame.new(0, 0, frontBackOffset))  
+                    end
+                end  
+            end  
+        end  
+        RunService.RenderStepped:Wait()  
+    end
+    
+    if callback then
+        callback()
+    end
+end  
+
+local function StartKillBus(playerName, callback)
+    local selectedPlayerName = playerName
+
+    local player = Players.LocalPlayer  
+    local character = player.Character or player.CharacterAdded:Wait()  
+    local humanoidRootPart = character:WaitForChild("HumanoidRootPart")  
+
+    originalPosition = humanoidRootPart.CFrame  
+
+    local bus = GetBus()  
+
+    if not bus then  
+        humanoidRootPart.CFrame = CFrame.new(1118.81, 75.998, -1138.61)  
+        task.wait(0.5)  
+        local remoteEvent = ReplicatedStorage:FindFirstChild("RE")  
+        if remoteEvent and remoteEvent:FindFirstChild("1Ca1r") then  
+            remoteEvent["1Ca1r"]:FireServer("PickingCar", "SchoolBus")  
+        end  
+        task.wait(1)  
+        bus = GetBus()  
+    end  
+
+    if bus then  
+        local seat = bus:FindFirstChild("Body") and bus.Body:FindFirstChild("VehicleSeat")  
+        if seat and character:FindFirstChildOfClass("Humanoid") and not character.Humanoid.Sit then  
+            repeat  
+                humanoidRootPart.CFrame = seat.CFrame * CFrame.new(0, 2, 0)  
+                task.wait()  
+            until character.Humanoid.Sit or not bus.Parent  
+        end  
+    end  
+
+    spawn(function()
+        TrackPlayer(selectedPlayerName, callback)
+    end)
+end
+
+local function PerformActionForAllPlayers(players)
+    if #players == 0 then
+        return
+    end
+
+    local player = table.remove(players, 1)
+    if player ~= Players.LocalPlayer then
+        StartKillBus(player.Name, function()
+            task.wait(0.5)
+            PerformActionForAllPlayers(players)
+        end)
+    else
+        PerformActionForAllPlayers(players) -- Skip self and move to the next
+    end
+end
+
+PerformActionForAllPlayers(Players:GetPlayers())
+    end
+})
+print("Kill All Bus button created")
+
+Troll:AddButton({
+    Name = "House Ban Kill All",
+    Callback = function()
+        local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local Workspace = game:GetService("Workspace")
+
+
+local function executeScriptForPlayer(targetPlayer)
+    local Player = game.Players.LocalPlayer
+    local Backpack = Player.Backpack
+    local Character = Player.Character
+    local Humanoid = Character:FindFirstChildOfClass("Humanoid")
+    local RootPart = Character:FindFirstChild("HumanoidRootPart")
+    local Houses = game.Workspace:FindFirstChild("001_Lots")
+    local OldPos = RootPart.CFrame
+    local Angles = 0
+    local Vehicles = Workspace.Vehicles
+    local Pos
+
+
+    function Check()
+        if Player and Character and Humanoid and RootPart and Vehicles then
+            return true
+        else
+            return false
+        end
+    end
+
+
+    if Check() then
+        local House = Houses:FindFirstChild(Player.Name.."House")
+        if not House then
+            local emptyHouse
+            for _, Lot in pairs(Houses:GetChildren()) do
+                if Lot.Name == "For Sale" then
+                    for _, num in pairs(Lot:GetDescendants()) do
+                        if num:IsA("NumberValue") and num.Name == "Number" and num.Value < 25 and num.Value > 10 then
+                            emptyHouse = Lot
+                            break
+                        end
+                    end
+                end
+            end
+
+
+            local BuyDetector = emptyHouse:FindFirstChild("BuyHouse")
+            Pos = BuyDetector.Position
+            if BuyDetector and BuyDetector:IsA("BasePart") then
+                RootPart.CFrame = BuyDetector.CFrame + Vector3.new(0, -6, 0)
+                task.wait(0.5)
+                local ClickDetector = BuyDetector:FindFirstChild("ClickDetector")
+                if ClickDetector then
+                    fireclickdetector(ClickDetector)
+                end
+            end
+        end
+
+
+        task.wait(0.5)
+        local PreHouse = Houses:FindFirstChild(Player.Name .. "House")
+        if PreHouse then
+            task.wait(0.5)
+            local Number
+            for i, x in pairs(PreHouse:GetDescendants()) do
+                if x.Name == "Number" and x:IsA("NumberValue") then
+                    Number = x
+                end
+            end
+            task.wait(0.5)
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Gettin1gHous1e"):FireServer("PickingCustomHouse", "049_House", Number.Value)
+        end
+
+
+        task.wait(0.5)
+        local PCar = Vehicles:FindFirstChild(Player.Name.."Car")
+        if not PCar then
+            if Check() then
+                RootPart.CFrame = CFrame.new(1118.81, 75.998, -1138.61)
+                task.wait(0.5)
+                game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer("PickingCar", "SchoolBus")
+                task.wait(0.5)
+                local PCar = Vehicles:FindFirstChild(Player.Name.."Car")
+                task.wait(0.5)
+                local Seat = PCar:FindFirstChild("Body") and PCar.Body:FindFirstChild("VehicleSeat")
+                if Seat then
+                    repeat
+                        task.wait()
+                        RootPart.CFrame = Seat.CFrame * CFrame.new(0, math.random(-1, 1), 0)
+                    until Humanoid.Sit
+                end
+            end
+        end
+
+
+        task.wait(0.5)
+        local PCar = Vehicles:FindFirstChild(Player.Name.."Car")
+        if PCar then
+            if not Humanoid.Sit then
+                local Seat = PCar:FindFirstChild("Body") and PCar.Body:FindFirstChild("VehicleSeat")
+                if Seat then
+                    repeat
+                        task.wait()
+                        RootPart.CFrame = Seat.CFrame * CFrame.new(0, math.random(-1, 1), 0)
+                    until Humanoid.Sit
+                end
+            end
+
+
+            local Target = targetPlayer
+            local TargetC = Target.Character
+            local TargetH = TargetC:FindFirstChildOfClass("Humanoid")
+            local TargetRP = TargetC:FindFirstChild("HumanoidRootPart")
+            if TargetC and TargetH and TargetRP then
+                if not TargetH.Sit then
+                    while not TargetH.Sit do
+                        task.wait()
+                        local Fling = function(target, pos, angle)
+                            PCar:SetPrimaryPartCFrame(CFrame.new(target.Position) * pos * angle)
+                        end
+                        Angles = Angles + 100
+                        Fling(TargetRP, CFrame.new(0, 1.5, 0) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                        Fling(TargetRP, CFrame.new(0, -1.5, 0) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                        Fling(TargetRP, CFrame.new(2.25, 1.5, -2.25) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                        Fling(TargetRP, CFrame.new(-2.25, -1.5, 2.25) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                        Fling(TargetRP, CFrame.new(0, 1.5, 0) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                        Fling(TargetRP, CFrame.new(0, -1.5, 0) + TargetH.MoveDirection * TargetRP.Velocity.Magnitude / 1.10, CFrame.Angles(math.rad(Angles), 0, 0))
+                    end
+                    task.wait(0.2)
+                    local House = Houses:FindFirstChild(Player.Name.."House")
+                    PCar:SetPrimaryPartCFrame(CFrame.new(House.HouseSpawnPosition.Position))
+                    task.wait(0.2)
+                    local region = Region3.new(game.Players.LocalPlayer.Character.HumanoidRootPart.Position - Vector3.new(30,30,30), game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(30,30,30))
+                    local partsInRegion = workspace:FindPartsInRegion3(region, game.Players.LocalPlayer.Character.HumanoidRootPart, math.huge)
+                    for i, v in pairs(partsInRegion) do
+                        if v.Name == "HumanoidRootPart" then
+                            local b = game:GetService("Players"):FindFirstChild(v.Parent.Name)
+                            local args = {
+                                [1] = "BanPlayerFromHouse",
+                                [2] = b,
+                                [3] = v.Parent
+                            }
+                            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Playe1rTrigge1rEven1t"):FireServer(unpack(args))
+                        end
+                    end
+                end
+            end
+        end
+    end
+
+
+    -- Delete vehicle
+    local deleteArgs = {
+        [1] = "DeleteAllVehicles"
+    }
+    ReplicatedStorage:WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(deleteArgs))
+end
+
+
+-- Iterate over all players on the map
+for _, player in pairs(Players:GetPlayers()) do
+    if player ~= Players.LocalPlayer then
+        executeScriptForPlayer(player)
+       task.wait(2)
+    end
+end
+    end
+})
+print("House Ban kill All button created")
+
+Troll:AddButton({
+    Name = "Fling Boat All",
+    Callback = function()
+        local Player = game.Players.LocalPlayer
+    local Character = Player.Character
+    local Humanoid = Character:FindFirstChildOfClass("Humanoid")
+    local RootPart = Character:FindFirstChild("HumanoidRootPart")
+    local Vehicles = game.Workspace:FindFirstChild("Vehicles")
+    local OldPos = RootPart.CFrame
+    local Angles = 0
+    local PCar = Vehicles:FindFirstChild(Player.Name.."Car")
+    
+    -- If no car, create one
+            if not PCar then  
+                if RootPart then  
+                    RootPart.CFrame = CFrame.new(1754, -2, 58)  
+                    task.wait(0.5)  
+                    game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer("PickingBoat", "MilitaryBoatFree")  
+                    task.wait(0.5)  
+                    PCar = Vehicles:FindFirstChild(Player.Name.."Car")  
+                    task.wait(0.5)  
+                    local Seat = PCar:FindFirstChild("Body") and PCar.Body:FindFirstChild("VehicleSeat")  
+                    if Seat then  
+                        repeat  
+                            task.wait()  
+                            RootPart.CFrame = Seat.CFrame * CFrame.new(0, math.random(-1, 1), 0)  
+                        until Humanoid.Sit  
+                    end  
+                end  
+            end  
+      
+            task.wait(0.5)  
+            PCar = Vehicles:FindFirstChild(Player.Name.."Car")  
+      
+            -- If the car exists, teleport to the seat if necessary
+            if PCar then  
+                if not Humanoid.Sit then  
+                    local Seat = PCar:FindFirstChild("Body") and PCar.Body:FindFirstChild("VehicleSeat")  
+                    if Seat then  
+                        repeat  
+                            task.wait()  
+                            RootPart.CFrame = Seat.CFrame * CFrame.new(0, math.random(-1, 1), 0)  
+                        until Humanoid.Sit  
+                    end  
+                end  
+            end  
+      
+            -- Add BodyGyro to the car for movement control
+            local SpinGyro = Instance.new("BodyGyro")  
+            SpinGyro.Parent = PCar.PrimaryPart  
+            SpinGyro.MaxTorque = Vector3.new(1e7, 1e7, 1e7)  
+            SpinGyro.P = 1e7  
+            SpinGyro.CFrame = PCar.PrimaryPart.CFrame * CFrame.Angles(0, math.rad(90), 0)  
+      
+            -- Fling function for each player for 3 seconds
+            local function flingPlayer(TargetC, TargetRP, TargetH)
+    Angles = 0  
+                local endTime = tick() + 1  -- Set end time to 2 seconds from now
+                while tick() < endTime do  
+                    Angles = Angles + 100  
+                    task.wait()  
+      
+                    -- Movements and angles for the Fling
+                    local kill = function(target, pos, angle)  
+                        PCar:SetPrimaryPartCFrame(CFrame.new(target.Position) * pos * angle)  
+                    end  
+      
+                    -- Fling to various positions around the TargetRP
+                    kill(TargetRP, CFrame.new(0, 3, 0), CFrame.Angles(math.rad(Angles), 0, 0))  
+                    kill(TargetRP, CFrame.new(0, -1.5, 2), CFrame.Angles(math.rad(Angles), 0, 0))  
+                    kill(TargetRP, CFrame.new(2, 1.5, 2.25), CFrame.Angles(math.rad(50), 0, 0))  
+                    kill(TargetRP, CFrame.new(-2.25, -1.5, 2.25), CFrame.Angles(math.rad(30), 0, 0))  
+                    kill(TargetRP, CFrame.new(0, 1.5, 0), CFrame.Angles(math.rad(Angles), 0, 0))  
+                    kill(TargetRP, CFrame.new(0, -1.5, 0), CFrame.Angles(math.rad(Angles), 0, 0))  
+                end  
+            end  
+      
+            -- Iterate over all players
+            for _, Target in pairs(game.Players:GetPlayers()) do  
+                -- Skip the local player
+                if Target ~= Player then  
+                    local TargetC = Target.Character  
+                    local TargetH = TargetC and TargetC:FindFirstChildOfClass("Humanoid")  
+                    local TargetRP = TargetC and TargetC:FindFirstChild("HumanoidRootPart")  
+      
+                    -- If the target and its components are found, execute the fling
+                    if TargetC and TargetH and TargetRP then  
+                        flingPlayer(TargetC, TargetRP, TargetH)  -- Fling the current player
+                    end  
+                end  
+            end  
+      
+            -- Return the player to their original position
+            task.wait(0.5)  
+            PCar:SetPrimaryPartCFrame(CFrame.new(0, 0, 0))  
+            task.wait(0.5)  
+            Humanoid.Sit = false  
+            task.wait(0.5)  
+            RootPart.CFrame = OldPos  
+      
+            -- Remove the BodyGyro after the effect
+            SpinGyro:Destroy()  
+    end
+})
+print("Fling Boat All button created")
+
+Troll:AddButton({
+    Name = "Auto Fling All",
+    Callback = function()
+    local Players = game:GetService("Players")
+    local ReplicatedStorage = game:GetService("ReplicatedStorage")
+    local LocalPlayer = Players.LocalPlayer
+    local cam = workspace.CurrentCamera
+
+
+    local function ProcessPlayer(target)
+        if not target or not target.Character or target == LocalPlayer then return end
+        
+        local flingActive = true
+        local root = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+        local tRoot = target.Character and target.Character:FindFirstChild("HumanoidRootPart")
+        if not root or not tRoot then return end
+        
+        local char = LocalPlayer.Character
+        local hum = char:FindFirstChildOfClass("Humanoid")
+        local original = root.CFrame
+
+    
+        ReplicatedStorage:WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer("ClearAllTools")
+        task.wait(0.2)
+
+  
+        ReplicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+        task.wait(0.3)
+
+        local tool = LocalPlayer.Backpack:FindFirstChild("Couch")
+        if tool then
+            tool.Parent = char
+        end
+task.wait(0.1)
+
+game:GetService("VirtualInputManager"):SendKeyEvent(true, Enum.KeyCode.F, false, game)
+task.wait(0.25)
+
+        workspace.FallenPartsDestroyHeight = 0/0
+
+        local bv = Instance.new("BodyVelocity")
+        bv.Name = "FlingForce"
+        bv.Velocity = Vector3.new(9e8, 9e8, 9e8)
+        bv.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+        bv.Parent = root
+
+        hum:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+        hum.PlatformStand = false
+        cam.CameraSubject = target.Character:FindFirstChild("Head") or tRoot or hum
+
+ 
+        task.spawn(function()
+            local angle = 0
+            local parts = {root}
+            while flingActive and target and target.Character and target.Character:FindFirstChildOfClass("Humanoid") do
+                local tHum = target.Character:FindFirstChildOfClass("Humanoid")
+                if tHum.Sit then break end
+                angle += 50
+
+                for _, part in ipairs(parts) do
+                    local hrp = target.Character.HumanoidRootPart
+                    local pos = hrp.Position + hrp.Velocity / 1.5
+                    root.CFrame = CFrame.new(pos) * CFrame.Angles(math.rad(angle), 0, 0)
+                end
+
+                root.Velocity = Vector3.new(9e8, 9e8, 9e8)
+                root.RotVelocity = Vector3.new(9e8, 9e8, 9e8)
+                task.wait()
+            end
+
+         
+            flingActive = false
+            bv:Destroy()
+            hum:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+            hum.PlatformStand = false
+            root.CFrame = original
+            cam.CameraSubject = hum
+
+            for _, p in pairs(char:GetDescendants()) do
+                if p:IsA("BasePart") then
+                    p.Velocity = Vector3.zero
+                    p.RotVelocity = Vector3.zero
+                end
+            end
+
+            hum:UnequipTools()
+            ReplicatedStorage.RE:FindFirstChild("1Too1l"):InvokeServer("PickingTools", "Couch")
+        end)
+       
+        while flingActive do
+            task.wait()
+        end
+    end
+
+
+    for _, player in ipairs(Players:GetPlayers()) do
+        ProcessPlayer(player)
+			end
+    end
+})
+
+Troll:AddButton({
+    Name = "Bring All Couch [Best]",
+    Callback = function()
+        local args = {
+    [1] = "ClearAllTools"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer(unpack(args))
+
+wait(0.2)
+
+toolselcted = "Couch"
+dupeamot = 25 --Put amount to dupe
+picktoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l")
+cleartoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clea1rTool1s")
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Duping",Text="Do not click anything while duping. ", Button1 = "I understand" ,Duration=5})
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Because It will break the script and you will need to rejoin.", Button1 = "I understand" ,Duration=5}) 
+duping = true
+oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+    task.wait()
+    game.Players.LocalPlayer.Character.Humanoid.Sit = false
+end
+wait(0.1)
+if game:GetService("Workspace"):FindFirstChild("Camera") then
+    game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() 
+end
+for m=1,2 do 
+    task.wait()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+end
+task.wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+wait(0.5)
+for aidj,afh in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+    if afh.Name == toolselcted == false then
+        if afh:IsA("Tool") then
+            afh.Parent = game.Players.LocalPlayer.Backpack
+        end
+    end
+end
+for aiefhiewhwf,dvjbvj in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+    if dvjbvj:IsA("Tool") then
+        if dvjbvj.Name == toolselcted == false then
+            dvjbvj:Destroy()
+        end
+    end
+end
+for ttjtjutjutjjtj,ddvdvdsvdfbrnytytmvdv in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+    if ddvdvdsvdfbrnytytmvdv:IsA("Tool") then
+        if ddvdvdsvdfbrnytytmvdv.name == toolselcted == false then
+            ddvdvdsvdfbrnytytmvdv:Destroy()
+        end
+    end
+end
+for findin,toollel in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+    if toollel:IsA("Tool") then
+        if toollel.Name == toolselcted then
+            toollllfoun2 = true
+            for basc,aijfw in pairs(toollel:GetDescendants()) do
+                if aijfw.Name == "Handle" then
+                    aijfw.Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                    toollel.Parent = game.Players.LocalPlayer.Backpack
+                    toollel.Parent = game.Players.LocalPlayer.Character
+                    tollllahhhh = toollel
+                    task.wait()
+                end
+            end
+        else 
+            toollllfoun2 = false
+        end
+    end
+end
+for fiifi,toollll in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+    if toollll:IsA("Tool") then
+        if toollll.Name == toolselcted then
+            toollllfoun = true
+            for nana,jjsjsj in pairs(toollll:GetDescendants()) do
+                if jjsjsj.Name == "Handle" then
+                    toollll.Parent = game.Players.LocalPlayer.Character
+                    wait()
+                    jjsjsj.Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                    toollll.Parent = game.Players.LocalPlayer.Backpack
+                    toollll.Parent = game.Players.LocalPlayer.Character
+                    toolllffel = toollll
+                end
+            end
+        else 
+            toollllfoun = false
+        end
+    end
+end
+if toollllfoun == true then
+    if game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil then  
+        toollllfoun = false 
+    end
+    repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil
+    toollllfoun = false
+end
+if toollllfoun2 == true then
+    if game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil then 
+        toollllfoun2 = false 
+    end
+    repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil
+    toollllfoun2 = false
+end
+wait(0.1)
+for m=1, dupeamot do
+    if duping == false then 
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false 
+        return 
+    end
+    if game:GetService("Workspace"):FindFirstChild("Camera") then
+        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() 
+    end
+    if m <= dupeamot then
+        game:GetService("StarterGui"):SetCore("SendNotification",{Title="Duping",Text="You have".." "..m.." ".."Duped".." "..toolselcted.."!",Duration=0.5})
+    elseif m == dupeamot or m >= dupeamot - 1 then
+        game:GetService("StarterGui"):SetCore("SendNotification",{Title="Duping",Text="You have".." "..m.." ".."Duped".." "..toolselcted.."!".." ".."Duping tools is done now, Please wait a little bit to respawn.",Duration=4})
+    end
+    local args = {
+        [1] = "PickingTools",
+        [2] = toolselcted
+    }
+    
+    picktoolremote:InvokeServer(unpack(args))
+    game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolselcted).Parent = game.Players.LocalPlayer.Character
+    if duping == false then 
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false 
+        return 
+    end
+    wait()
+    game:GetService("Players").LocalPlayer.Character[toolselcted]:FindFirstChild("Handle").Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+    game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselcted).Parent = game.Players.LocalPlayer.Backpack
+    game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolselcted).Parent = game.Players.LocalPlayer.Character
+    repeat  
+        if game:GetService("Workspace"):FindFirstChild("Camera") then
+            game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() 
+        end
+        task.wait() 
+    until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselcted) == nil
+end
+game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf
+wait()
+duping = false
+
+for wwefef,weifwwe in pairs(game.Players:GetPlayers()) do
+    if weifwwe.Name == game.Players.LocalPlayer.Name == false then
+        ewoifjwoifjiwo = wwefef
+    end
+end
+for m=1,ewoifjwoifjiwo do
+    game.Players.LocalPlayer.Backpack.Couch.Name = "couch"..m
+end
+wait()
+for weofefawd,iwiejguiwg in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+    if iwiejguiwg.Name == "couch"..weofefawd then
+        iwiejguiwg.Handle.Name = "Handle "
+    end
+end
+wait(0.2)
+local function bring(skjdfuwiruwg,woiejewg)
+    if woiejewg == nil == false then
+        game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg]:FindFirstChild("Seat1").Disabled = true
+        game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg]:FindFirstChild("Seat2").Disabled = true
+        game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Character
+        tet = Instance.new("BodyVelocity", game.Players.LocalPlayer.Character["couch"..skjdfuwiruwg]:FindFirstChild("Handle "))
+        tet.MaxForce = Vector3.new(math.huge,math.huge,math.huge)
+        tet.P = 1250
+        tet.Velocity = Vector3.new(0,0,0)
+        tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"
+        repeat
+            for m=1,35 do
+                local pos = {x=0, y=0, z=0}
+                pos.x = woiejewg.Character.HumanoidRootPart.Position.X
+                pos.y = woiejewg.Character.HumanoidRootPart.Position.Y
+                pos.z = woiejewg.Character.HumanoidRootPart.Position.Z
+                pos.x = pos.x + woiejewg.Character.HumanoidRootPart.Velocity.X / 2
+                pos.y = pos.y + woiejewg.Character.HumanoidRootPart.Velocity.Y / 2
+                pos.z = pos.z + woiejewg.Character.HumanoidRootPart.Velocity.Z / 2
+                game.Players.LocalPlayer.Character["couch"..skjdfuwiruwg]:FindFirstChild("Seat1").CFrame = CFrame.new(Vector3.new(pos.x,pos.y,pos.z)) * CFrame.new(-2,2,0)
+                task.wait()
+            end
+            game.Players.LocalPlayer.Character["couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Backpack
+            wait()
+            game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg]:FindFirstChild("Handle ").Name = "Handle"
+            wait(0.2)
+            game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Character
+            wait()
+            game.Players.LocalPlayer.Character["couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Backpack
+            game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg].Handle.Name = "Handle "
+            wait(0.2)
+            game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Character
+            tet = Instance.new("BodyVelocity", game.Players.LocalPlayer.Character["couch"..skjdfuwiruwg]:FindFirstChild("Seat1"))
+            tet.MaxForce = Vector3.new(math.huge,math.huge,math.huge)
+            tet.P = 1250
+            tet.Velocity = Vector3.new(0,0,0)
+            tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"
+        until woiejewg.Character.Humanoid.Sit == true
+        wait()
+        game.Players.LocalPlayer.Character["couch"..skjdfuwiruwg]:FindFirstChild("Handle "):FindFirstChild("#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"):Destroy()
+        game.Players.LocalPlayer.Character["couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Backpack
+        wait()
+        game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg]:FindFirstChild("Handle ").Name = "Handle"
+        wait(0.2)
+        game.Players.LocalPlayer.Backpack["couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Character
+        wait()
+        game.Players.LocalPlayer.Character["couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Backpack
+    end
+end
+for mwef,weuerg in pairs(game.Players:GetPlayers()) do
+    if weuerg.Name == game.Players.LocalPlayer.Name == false then
+        spawn(function()
+            bring(mwef,weuerg)
+        end)
+    end
+end
+    end
+})
+print("Bring All Couch button created")
+
+Troll:AddButton({
+    Name = "Kill All Couch [Best]",
+    Callback = function()
+        local args = {
+    [1] = "ClearAllTools"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer(unpack(args))
+
+wait(0.2)
+
+local initialPosition = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+
+local part = Instance.new("Part")
+part.Size = Vector3.new(5000, 10, 5000)
+part.Position = Vector3.new(0, -500, 0)
+part.Anchored = true
+part.CanCollide = true
+part.Parent = game.Workspace
+task.wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(0, -500, 0)
+wait(2)
+toolselcted = "Couch"
+dupeamot = 25 -- dupe amount
+picktoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l")
+cleartoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clea1rTool1s")
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Duping",Text="Don't click anything", Button1 = "I understand" ,Duration=5})
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Duping",Text="Wait", Button1 = "Got it" ,Duration=5})
+duping = true
+oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+    task.wait()
+    game.Players.LocalPlayer.Character.Humanoid.Sit = false
+end
+wait(0.1)
+if game:GetService("Workspace"):FindFirstChild("Camera") then
+    game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+end
+for m=1,2 do 
+    task.wait()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+end
+task.wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+wait(0.5)
+for aidj,afh in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+    if afh.Name == toolselcted == false then
+        if afh:IsA("Tool") then
+            afh.Parent = game.Players.LocalPlayer.Backpack
+        end
+    end
+end
+for aiefhiewhwf,dvjbvj in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+    if dvjbvj:IsA("Tool") then
+        if dvjbvj.Name == toolselcted == false then
+            dvjbvj:Destroy()
+        end
+    end
+end
+for ttjtjutjutjjtj,ddvdvdsvdfbrnytytmvdv in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+    if ddvdvdsvdfbrnytytmvdv:IsA("Tool") then
+        if ddvdvdsvdfbrnytytmvdv.Name == toolselcted == false then
+            ddvdvdsvdfbrnytytmvdv:Destroy()
+        end
+    end
+end
+for findin,toollel in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+    if toollel:IsA("Tool") then
+        if toollel.Name == toolselcted then
+            toollllfoun2 = true
+            for basc,aijfw in pairs(toollel:GetDescendants()) do
+                if aijfw.Name == "Handle" then
+                    aijfw.Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                    toollel.Parent = game.Players.LocalPlayer.Backpack
+                    toollel.Parent = game.Players.LocalPlayer.Character
+                    tollllahhhh = toollel
+                    task.wait()
+                end
+            end
+        else 
+            toollllfoun2 = false
+        end
+    end
+end
+for fiifi,toollll in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+    if toollll:IsA("Tool") then
+        if toollll.Name == toolselcted then
+            toollllfoun = true
+            for nana,jjsjsj in pairs(toollll:GetDescendants()) do
+                if jjsjsj.Name == "Handle" then
+                    toollll.Parent = game.Players.LocalPlayer.Character
+                    wait()
+                    jjsjsj.Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                    toollll.Parent = game.Players.LocalPlayer.Backpack
+                    toollll.Parent = game.Players.LocalPlayer.Character
+                    toolllffel = toollll
+                end
+            end
+        else 
+            toollllfoun = false
+        end
+    end
+end
+if toollllfoun == true then
+    if game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil then 
+        toollllfoun = false 
+    end
+    repeat 
+        wait() 
+    until game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil
+    toollllfoun = false
+end
+if toollllfoun2 == true then
+    if game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil then 
+        toollllfoun2 = false 
+    end
+    repeat 
+        wait() 
+    until game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil
+    toollllfoun2 = false
+end
+wait(0.1)
+for m=1, dupeamot do
+    if duping == false then 
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false 
+        return 
+    end
+    if game:GetService("Workspace"):FindFirstChild("Camera") then
+        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() 
+    end
+    if m <= dupeamot then
+        game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Now you have".." "..m.." ".."Duped".." "..toolselcted.."!",Duration=0.5})
+    elseif m == dupeamot or m >= dupeamot - 1 then
+        game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Now you have".." "..m.." ".."Duped".." "..toolselcted.."!".." ".."Tools are being duped, don't click anything.",Duration=4})
+    end
+    local args = {
+        [1] = "PickingTools",
+        [2] = toolselcted
+    }
+
+    picktoolremote:InvokeServer(unpack(args)) 
+    game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolselcted).Parent = game.Players.LocalPlayer.Character 
+    if duping == false then 
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false 
+        return 
+    end 
+    wait() 
+    game:GetService("Players").LocalPlayer.Character[toolselcted]:FindFirstChild("Handle").Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e" 
+    game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselcted).Parent = game.Players.LocalPlayer.Backpack 
+    game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolselcted).Parent = game.Players.LocalPlayer.Character 
+    repeat 
+        if game:GetService("Workspace"):FindFirstChild("Camera") then 
+            game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() 
+        end 
+        task.wait() 
+    until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselcted) == nil 
+end 
+game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false 
+repeat 
+    wait() 
+until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil 
+repeat 
+    wait() 
+until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") 
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf 
+wait() 
+duping = false 
+for wwefef,weifwwe in pairs(game.Players:GetPlayers()) do 
+    if weifwwe.Name == game.Players.LocalPlayer.Name == false then 
+        ewoifjwoifjiwo = wwefef 
+    end 
+end 
+for m=1,ewoifjwoifjiwo do 
+    game.Players.LocalPlayer.Backpack.Couch.Name = "Chaos Couch"..m 
+end 
+wait() 
+for weofefawd,iwiejguiwg in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do 
+    if iwiejguiwg.Name == "Chaos Couch"..weofefawd then 
+        iwiejguiwg.Handle.Name = "Handle " 
+    end 
+end 
+wait(0.2) 
+local function bring(skjdfuwiruwg,woiejewg) 
+    if woiejewg == nil == false then 
+        game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg]:FindFirstChild("Seat1").Disabled = true 
+        game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg]:FindFirstChild("Seat2").Disabled = true 
+        game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Character 
+        tet = Instance.new("BodyVelocity", game.Players.LocalPlayer.Character["Chaos Couch"..skjdfuwiruwg]:FindFirstChild("Handle ")) 
+        tet.MaxForce = Vector3.new(math.huge,math.huge,math.huge) 
+        tet.P = 1250 
+        tet.Velocity = Vector3.new(0,0,0) 
+        tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W" 
+        repeat 
+            for m=1,35 do 
+                local pos = {x=0, y=0, z=0} 
+                pos.x = woiejewg.Character.HumanoidRootPart.Position.X 
+                pos.y = woiejewg.Character.HumanoidRootPart.Position.Y 
+                pos.z = woiejewg.Character.HumanoidRootPart.Position.Z 
+                pos.x = pos.x + woiejewg.Character.HumanoidRootPart.Velocity.X / 2 
+                pos.y = pos.y + woiejewg.Character.HumanoidRootPart.Velocity.Y / 2 
+                pos.z = pos.z + woiejewg.Character.HumanoidRootPart.Velocity.Z / 2 
+                game.Players.LocalPlayer.Character["Chaos Couch"..skjdfuwiruwg]:FindFirstChild("Seat1").CFrame = CFrame.new(Vector3.new(pos.x,pos.y,pos.z)) * CFrame.new(-2,2,0) 
+                task.wait() 
+            end 
+            game.Players.LocalPlayer.Character["Chaos Couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Backpack 
+            wait() 
+            game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg]:FindFirstChild("Handle ").Name = "Handle" 
+            wait(0.2) 
+            game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Character 
+            wait() 
+            game.Players.LocalPlayer.Character["Chaos Couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Backpack 
+            game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg].Handle.Name = "Handle " 
+            wait(0.2) 
+            game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Character 
+            tet = Instance.new("BodyVelocity", game.Players.LocalPlayer.Character["Chaos Couch"..skjdfuwiruwg]:FindFirstChild("Seat1")) 
+            tet.MaxForce = Vector3.new(math.huge,math.huge,math.huge) 
+            tet.P = 1250 
+            tet.Velocity = Vector3.new(0,0,0) 
+            tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W" 
+        until woiejewg.Character.Humanoid.Sit == true 
+        wait() 
+        game.Players.LocalPlayer.Character["Chaos Couch"..skjdfuwiruwg]:FindFirstChild("Handle "):FindFirstChild("#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"):Destroy() 
+        game.Players.LocalPlayer.Character["Chaos Couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Backpack 
+        wait() 
+        game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg]:FindFirstChild("Handle ").Name = "Handle" 
+        wait(0.2) 
+        game.Players.LocalPlayer.Backpack["Chaos Couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Character 
+        wait() 
+        game.Players.LocalPlayer.Character["Chaos Couch"..skjdfuwiruwg].Parent = game.Players.LocalPlayer.Backpack 
+    end 
+end 
+for mwef,weuerg in pairs(game.Players:GetPlayers()) do 
+    if weuerg.Name == game.Players.LocalPlayer.Name == false then 
+        spawn(function() bring(mwef,weuerg) end) 
+    end 
+end 
+
+-- Function to teleport the player back to the initial position after 10 seconds
+task.delay(14, function()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(initialPosition)
+end)
+
+-- Function to clear all tools 0.5 seconds after teleporting to the initial position
+task.delay(14.1, function()
+    game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer(unpack(args))
+end)
+    end
+})
+print("Kill All Couch button created")  
+
+Troll:AddButton({
+    Name = "Fling Ball All",
+    Callback = function()
+local player=game:GetService("Players").LocalPlayer
+local SoccerBalls=workspace.WorkspaceCom["001_SoccerBalls"]
+local MyBall=SoccerBalls:FindFirstChild("Soccer"..player.Name)
+
+if not MyBall then
+if not player.Backpack:FindFirstChild("SoccerBall") then
+local args={[1]="PickingTools",[2]="SoccerBall"}
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+task.wait()
+player.Backpack.SoccerBall.Parent=player.Character
+repeat MyBall=SoccerBalls:FindFirstChild("Soccer"..player.Name) task.wait() until MyBall
+player.Character.SoccerBall.Parent=player.Backpack
+task.wait()
+else
+player.Backpack.SoccerBall.Parent=player.Character
+repeat MyBall=SoccerBalls:FindFirstChild("Soccer"..player.Name) task.wait() until MyBall
+player.Character.SoccerBall.Parent=player.Backpack
+end
+end
+
+
+for i,v in pairs(game.Players:GetPlayers()) do
+if v~=game.Players.LocalPlayer then
+local target=v
+local TCharacter=target.Character or target.CharacterAdded:Wait()
+local THumanoidRootPart=TCharacter:WaitForChild("HumanoidRootPart")
+if not MyBall or not THumanoidRootPart then return end
+
+for _,v in pairs(MyBall:GetChildren()) do
+if v:IsA("BodyMover") then v:Destroy() end
+end
+
+local bodyVelocity=Instance.new("BodyVelocity")
+bodyVelocity.Velocity=Vector3.new(9e8,9e8,9e8)
+bodyVelocity.MaxForce=Vector3.new(1/0,1/0,1/0)
+bodyVelocity.P=1e10
+bodyVelocity.Parent=MyBall
+
+local bv=Instance.new("BodyVelocity")
+bv.Velocity=Vector3.new(9e8,9e8,9e8)
+bv.MaxForce=Vector3.new(1/0,1/0,1/0)
+bv.P=1e9
+bv.Parent=THumanoidRootPart
+
+local oldPos=THumanoidRootPart.Position
+workspace.CurrentCamera.CameraSubject=THumanoidRootPart
+
+repeat
+local velocity=THumanoidRootPart.Velocity.Magnitude
+local parts={}
+for _,v in pairs(TCharacter:GetDescendants()) do
+if v:IsA("BasePart") and v.CanCollide and not v.Anchored then table.insert(parts,v) end
+end
+for _,part in ipairs(parts) do
+local pos_x=target.Character.HumanoidRootPart.Position.X
+local pos_y=target.Character.HumanoidRootPart.Position.Y
+local pos_z=target.Character.HumanoidRootPart.Position.Z
+pos_x=pos_x+(target.Character.HumanoidRootPart.Velocity.X/1.5)
+pos_y=pos_y+(target.Character.HumanoidRootPart.Velocity.Y/1.5)
+pos_z=pos_z+(target.Character.HumanoidRootPart.Velocity.Z/1.5)
+MyBall.CFrame=CFrame.new(pos_x,pos_y,pos_z)
+task.wait(1/6000)
+end
+task.wait(1/6000)
+until THumanoidRootPart.Velocity.Magnitude>5000 or TCharacter.Humanoid.Health==0 or target.Parent~=game.Players or THumanoidRootPart.Parent~=TCharacter or TCharacter~=target.Character
+
+end
+end
+
+workspace.CurrentCamera.CameraSubject=game.Players.LocalPlayer.Character:WaitForChild("HumanoidRootPart")
+  end
+})
+
+
+local Tab = Window:MakeTab({"Avatar", "rbxassetid://10734952036"})
+
+Tab:AddSection({ Name = "Copy Outfit" })
+
+
+
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Remotes = ReplicatedStorage:WaitForChild("Remotes")
+
+local Target = nil
+
+-- Function to get player names
+local function GetPlayerNames()
+    local PlayerNames = {}
+    for _, player in ipairs(Players:GetPlayers()) do
+        table.insert(PlayerNames, player.Name)
+    end
+    return PlayerNames
+end
+
+-- Player selection dropdown
+local Dropdown = Tab:AddDropdown({
+    Name = "Select Player",
+    Options = GetPlayerNames(),
+    Default = Target,
+    Callback = function(Value)
+        Target = Value
+    end
+})
+
+-- Update dropdown options when someone joins or leaves
+local function UpdateDropdown()
+    Dropdown:Refresh(GetPlayerNames(), true)
+end
+
+Players.PlayerAdded:Connect(UpdateDropdown)
+Players.PlayerRemoving:Connect(UpdateDropdown)
+
+Tab:AddButton({
+    Name = "Copy Avatar",
+    Callback = function()
+        if not Target then return end
+
+        local LP = Players.LocalPlayer
+        local LChar = LP.Character
+        local TPlayer = Players:FindFirstChild(Target)
+
+        if TPlayer and TPlayer.Character then
+            local LHumanoid = LChar and LChar:FindFirstChildOfClass("Humanoid")
+            local THumanoid = TPlayer.Character:FindFirstChildOfClass("Humanoid")
+
+            if LHumanoid and THumanoid then
+                -- RESET LOCALPLAYER
+                local LDesc = LHumanoid:GetAppliedDescription()
+
+                -- Remove current accessories, clothes, and face
+                for _, acc in ipairs(LDesc:GetAccessories(true)) do
+                    if acc.AssetId and tonumber(acc.AssetId) then
+                        Remotes.Wear:InvokeServer(tonumber(acc.AssetId))
+                        task.wait(0.2)
+                    end
+                end
+
+                if tonumber(LDesc.Shirt) then
+                    Remotes.Wear:InvokeServer(tonumber(LDesc.Shirt))
+                    task.wait(0.2)
+                end
+
+                if tonumber(LDesc.Pants) then
+                    Remotes.Wear:InvokeServer(tonumber(LDesc.Pants))
+                    task.wait(0.2)
+                end
+
+                if tonumber(LDesc.Face) then
+                    Remotes.Wear:InvokeServer(tonumber(LDesc.Face))
+                    task.wait(0.2)
+                end
+
+                -- COPY FROM TARGET PLAYER
+                local PDesc = THumanoid:GetAppliedDescription()
+
+                -- Send body parts
+                local argsBody = {
+                    [1] = {
+                        [1] = PDesc.Torso,
+                        [2] = PDesc.RightArm,
+                        [3] = PDesc.LeftArm,
+                        [4] = PDesc.RightLeg,
+                        [5] = PDesc.LeftLeg,
+                        [6] = PDesc.Head
+                    }
+                }
+                Remotes.ChangeCharacterBody:InvokeServer(unpack(argsBody))
+                task.wait(0.5)
+
+                if tonumber(PDesc.Shirt) then
+                    Remotes.Wear:InvokeServer(tonumber(PDesc.Shirt))
+                    task.wait(0.3)
+                end
+
+                if tonumber(PDesc.Pants) then
+                    Remotes.Wear:InvokeServer(tonumber(PDesc.Pants))
+                    task.wait(0.3)
+                end
+
+                if tonumber(PDesc.Face) then
+                    Remotes.Wear:InvokeServer(tonumber(PDesc.Face))
+                    task.wait(0.3)
+                end
+
+                for _, v in ipairs(PDesc:GetAccessories(true)) do
+                    if v.AssetId and tonumber(v.AssetId) then
+                        Remotes.Wear:InvokeServer(tonumber(v.AssetId))
+                        task.wait(0.3)
+                    end
+                end
+
+                local SkinColor = TPlayer.Character:FindFirstChild("Body Colors")
+                if SkinColor then
+                    Remotes.ChangeBodyColor:FireServer(tostring(SkinColor.HeadColor))
+                    task.wait(0.3)
+                end
+
+                if tonumber(PDesc.IdleAnimation) then
+                    Remotes.Wear:InvokeServer(tonumber(PDesc.IdleAnimation))
+                    task.wait(0.3)
+                end
+
+                -- Name, bio, and color
+                local Bag = TPlayer:FindFirstChild("PlayersBag")
+                if Bag then
+                    if Bag:FindFirstChild("RPName") and Bag.RPName.Value ~= "" then
+                        Remotes.RPNameText:FireServer("RolePlayName", Bag.RPName.Value)
+                        task.wait(0.3)
+                    end
+                    if Bag:FindFirstChild("RPBio") and Bag.RPBio.Value ~= "" then
+                        Remotes.RPNameText:FireServer("RolePlayBio", Bag.RPBio.Value)
+                        task.wait(0.3)
+                    end
+                    if Bag:FindFirstChild("RPNameColor") then
+                        Remotes.RPNameColor:FireServer("PickingRPNameColor", Bag.RPNameColor.Value)
+                        task.wait(0.3)
+                    end
+                    if Bag:FindFirstChild("RPBioColor") then
+                        Remotes.RPNameColor:FireServer("PickingRPBioColor", Bag.RPBioColor.Value)
+                        task.wait(0.3)
+                    end
+                end
+            end
+        end
+    end
+})
+
+-- Define colors for RGB effect
+local colors = {
+    Color3.new(1, 0, 0),       -- Red
+    Color3.new(0, 1, 0),       -- Green
+    Color3.new(0, 0, 1),       -- Blue
+    Color3.new(1, 1, 0),       -- Yellow
+    Color3.new(0, 1, 1),       -- Cyan
+    Color3.new(1, 0, 1)        -- Magenta
+}
+
+-- Variable to control the state of the House RGB toggle
+local isHouseRGBActive = false
+
+-- Function to change the house color
+local function changeColor()
+    local replicatedStorage = game:GetService("ReplicatedStorage")
+    local remoteEvent = replicatedStorage:FindFirstChild("RE") and replicatedStorage.RE:FindFirstChild("1Player1sHous1e")
+    
+    if not remoteEvent then
+        warn("RemoteEvent '1Player1sHous1e' not found.")
+        return
+    end
+
+    while isHouseRGBActive do
+        for _, color in ipairs(colors) do
+            if not isHouseRGBActive then return end
+            local args = {
+                [1] = "ColorPickHouse",
+                [2] = color
+            }
+            pcall(function()
+                remoteEvent:FireServer(unpack(args))
+            end)
+            task.wait(0.8)
+        end
+    end
+end
+
+local function toggleHouseRGB(state)
+    isHouseRGBActive = state
+    if isHouseRGBActive then
+        print("House RGB Activated")
+        spawn(changeColor)
+    else
+        print("House RGB Deactivated")
+    end
+end
+
+-- Global variables
+local isUnbanActive = false
+local HouseTab = Window:MakeTab({"Houses", "home"})
+local SelectHouse = nil
+local NoclipDoor = nil
+
+-- Function to get list of houses
+local function getHouseList()
+    local houseTable = {}
+    local lots = workspace:FindFirstChild("001_Lots")
+    if lots then
+        for _, House in ipairs(lots:GetChildren()) do
+            if House.Name ~= "For Sale" and House:IsA("Model") then
+                table.insert(houseTable, House.Name)
+            end
+        end
+    end
+    return houseTable
+end
+
+HouseTab:AddParagraph({
+    Title = "Funções para você usar em você",
+    Content = ""
+})
+
+-- Botão para remover ban de todas as casas
+HouseTab:AddButton({
+    Name = "Remover Ban de Todas as Casas",
+    Description = "Tenta remover o ban de todas as casas ",
+    Callback = function()
+        local successCount = 0
+        local failCount = 0
+        for i = 1, 37 do
+            local bannedBlockName = "BannedBlock" .. i
+            local bannedBlock = Workspace:FindFirstChild(bannedBlockName, true)
+            if bannedBlock then
+                local success, _ = pcall(function()
+                    bannedBlock:Destroy()
+                end)
+                if success then
+                    successCount = successCount + 1
+                else
+                    failCount = failCount + 1
+                end
+            end
+        end
+        for _, house in pairs(Workspace:GetDescendants()) do
+            if house.Name:match("BannedBlock") then
+                local success, _ = pcall(function()
+                    house:Destroy()
+                end)
+                if success then
+                    successCount = successCount + 1
+                else
+                    failCount = failCount + 1
+                end
+            end
+        end
+        if successCount > 0 then
+            game.StarterGui:SetCore("SendNotification", {
+                Title = "Sucesso",
+                Text = "Bans removidos de " .. successCount .. " casas!",
+                Duration = 5
+            })
+        end
+        if failCount > 0 then
+            game.StarterGui:SetCore("SendNotification", {
+                Title = "Aviso",
+                Text = "Falha ao remover bans de " .. failCount .. " casas.",
+                Duration = 5
+            })
+        end
+        if successCount == 0 and failCount == 0 then
+            game.StarterGui:SetCore("SendNotification", {
+                Title = "Aviso",
+                Text = "Nenhum ban encontrado para remover.",
+                Duration = 5
+            })
+        end
+    end
+})
+
+HouseTab:AddParagraph({
+    Title = "mais coisas em breve",
+    Content = ""
+})
+
+-- Dropdown to select houses
+pcall(function()
+    HouseTab:AddDropdown({
+        Name = "Select House",
+        Options = getHouseList(),
+        Default = "...",
+        Callback = function(Value)
+            SelectHouse = Value
+            if NoclipDoor then
+                NoclipDoor:Set(false)
+            end
+            print("House selected: " .. tostring(Value))
+        end
+    })
+end)
+
+-- Function to update the house list
+local function DropdownHouseUpdate()
+    local houseTable = getHouseList()
+    print("DropdownHouseUpdate called. Houses found:", #houseTable)
+    pcall(function()
+        HouseTab:ClearDropdown("Select House") -- Attempt to clear dropdown, if supported
+        HouseTab:AddDropdown({
+            Name = "Select House",
+            Options = houseTable,
+            Default = "...",
+            Callback = function(Value)
+                SelectHouse = Value
+                if NoclipDoor then
+                    NoclipDoor:Set(false)
+                end
+            end
+        })
+    end)
+end
+
+-- Initialize dropdown
+pcall(DropdownHouseUpdate)
+
+-- Button to refresh house list
+pcall(function()
+    HouseTab:AddButton({
+        Name = "Refresh House List",
+        Callback = function()
+            print("Refresh House List button clicked.")
+            pcall(DropdownHouseUpdate)
+        end
+    })
+end)
+
+-- Button to teleport to house
+pcall(function()
+    HouseTab:AddButton({
+        Name = "Teleport to House",
+        Callback = function()
+            local House = workspace["001_Lots"]:FindFirstChild(tostring(SelectHouse))
+            if House and game.Players.LocalPlayer.Character then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(House.WorldPivot.Position)
+            else
+                print("House not found: " .. tostring(SelectHouse))
+            end
+        end
+    })
+end)
+
+-- Button to teleport to safe
+pcall(function()
+    HouseTab:AddButton({
+        Name = "Teleport to Safe",
+        Callback = function()
+            local House = workspace["001_Lots"]:FindFirstChild(tostring(SelectHouse))
+            if House and House:FindFirstChild("HousePickedByPlayer") and game.Players.LocalPlayer.Character then
+                local safe = House.HousePickedByPlayer.HouseModel:FindFirstChild("001_Safe")
+                if safe then
+                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(safe.WorldPivot.Position)
+                else
+                    print("Safe not found in house: " .. tostring(SelectHouse))
+                end
+            else
+                print("House not found: " .. tostring(SelectHouse))
+            end
+        end
+    })
+end)
+
+-- Toggle to noclip through door
+pcall(function()
+    NoclipDoor = HouseTab:AddToggle({
+        Name = "Noclip House Door",
+        Description = "",
+        Default = false,
+        Callback = function(Value)
+            pcall(function()
+                local House = workspace["001_Lots"]:FindFirstChild(tostring(SelectHouse))
+                if House and House:FindFirstChild("HousePickedByPlayer") then
+                    local housepickedbyplayer = House.HousePickedByPlayer
+                    local doors = housepickedbyplayer.HouseModel:FindFirstChild("001_HouseDoors")
+                    if doors and doors:FindFirstChild("HouseDoorFront") then
+                        for _, Base in ipairs(doors.HouseDoorFront:GetChildren()) do
+                            if Base:IsA("BasePart") then
+                                Base.CanCollide = not Value
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    })
+end)
+
+-- Toggle to ring doorbell
+pcall(function()
+    HouseTab:AddToggle({
+        Name = "Ring Doorbell",
+        Description = "",
+        Default = false,
+        Callback = function(Value)
+            getgenv().ChaosHubAutoSpawnDoorbellValue = Value
+            spawn(function()
+                while getgenv().ChaosHubAutoSpawnDoorbellValue do
+                    local House = workspace["001_Lots"]:FindFirstChild(tostring(SelectHouse))
+                    if House and House:FindFirstChild("HousePickedByPlayer") then
+                        local doorbell = House.HousePickedByPlayer.HouseModel:FindFirstChild("001_DoorBell")
+                        if doorbell and doorbell:FindFirstChild("TouchBell") then
+                            pcall(function()
+                                fireclickdetector(doorbell.TouchBell.ClickDetector)
+                            end)
+                        end
+                    end
+                    task.wait(0.5)
+                end
+            end)
+        end
+    })
+end)
+
+-- Toggle to knock on door
+pcall(function()
+    HouseTab:AddToggle({
+        Name = "Knock on Door",
+        Description = "",
+        Default = false,
+        Callback = function(Value)
+            getgenv().ChaosHubAutoSpawnDoorValue = Value
+            spawn(function()
+                while getgenv().ChaosHubAutoSpawnDoorValue do
+                    local House = workspace["001_Lots"]:FindFirstChild(tostring(SelectHouse))
+                    if House and House:FindFirstChild("HousePickedByPlayer") then
+                        local doors = House.HousePickedByPlayer.HouseModel:FindFirstChild("001_HouseDoors")
+                        if doors and doors:FindFirstChild("HouseDoorFront") and doors.HouseDoorFront:FindFirstChild("Knock") then
+                            pcall(function()
+                                fireclickdetector(doors.HouseDoorFront.Knock.TouchBell.ClickDetector)
+                            end)
+                        end
+                    end
+                    task.wait(0.5)
+                end
+            end)
+        end
+    })
+end)
+pcall(function()
+    HouseTab:AddSection({ Name = "Teleport to Houses" })
+end)
+
+-- List of houses for teleportation
+local casas = {
+    ["House 1"] = Vector3.new(260.29, 4.37, 209.32),
+    ["House 2"] = Vector3.new(234.49, 4.37, 228.00),
+    ["House 3"] = Vector3.new(262.79, 21.37, 210.84),
+    ["House 4"] = Vector3.new(229.60, 21.37, 225.40),
+    ["House 5"] = Vector3.new(173.44, 21.37, 228.11),
+    ["House 6"] = Vector3.new(-43, 21, -137),
+    ["House 7"] = Vector3.new(-40, 36, -137),
+    ["House 11"] = Vector3.new(-21, 40, 436),
+    ["House 12"] = Vector3.new(155, 37, 433),
+    ["House 13"] = Vector3.new(255, 35, 431),
+    ["House 14"] = Vector3.new(254, 38, 394),
+    ["House 15"] = Vector3.new(148, 39, 387),
+    ["House 16"] = Vector3.new(-17, 42, 395),
+    ["House 17"] = Vector3.new(-189, 37, -247),
+    ["House 18"] = Vector3.new(-354, 37, -244),
+    ["House 19"] = Vector3.new(-456, 36, -245),
+    ["House 20"] = Vector3.new(-453, 38, -295),
+    ["House 21"] = Vector3.new(-356, 38, -294),
+    ["House 22"] = Vector3.new(-187, 37, -295),
+    ["House 23"] = Vector3.new(-410, 68, -447),
+    ["House 24"] = Vector3.new(-348, 69, -496),
+    ["House 28"] = Vector3.new(-103, 12, 1087),
+    ["House 29"] = Vector3.new(-730, 6, 808),
+    ["House 30"] = Vector3.new(-245, 7, 822),
+    ["House 31"] = Vector3.new(639, 76, -361),
+    ["House 32"] = Vector3.new(-908, 6, -361),
+    ["House 33"] = Vector3.new(-111, 70, -417),
+    ["House 34"] = Vector3.new(230, 38, 569),
+    ["House 35"] = Vector3.new(-30, 13, 2209)
+}
+
+-- Create sorted list of house names
+local houseNames = {}
+for name, _ in pairs(casas) do
+    table.insert(houseNames, name)
+end
+
+table.sort(houseNames, function(a, b)
+    local numA = tonumber(a:match("%d+")) or 0
+    local numB = tonumber(b:match("%d+")) or 0
+    return numA < numB
+end)
+
+-- Dropdown for teleportation
+pcall(function()
+    HouseTab:AddDropdown({
+        Name = "Select House",
+        Options = houseNames,
+        Callback = function(selectedHouse)
+            local player = game.Players.LocalPlayer
+            if player and player.Character then
+                player.Character.HumanoidRootPart.CFrame = CFrame.new(casas[selectedHouse])
+            end
+        end
+    })
+end)
+
+-- Label after dropdown
+pcall(function()
+    HouseTab:AddLabel("Teleport to any house you want")
+end)
+
+-- Section for Auto Unban
+pcall(function()
+    HouseTab:AddSection({ Name = "Auto Unban" })
+end)
+
+-- Toggle for Auto Unban
+pcall(function()
+    HouseTab:AddToggle({
+        Name = "Auto Unban",
+        Default = false,
+        Callback = function(state)
+            isUnbanActive = state
+            if isUnbanActive then
+                print("Auto Unban Activated")
+                spawn(startAutoUnban)
+            else
+                print("Auto Unban Deactivated")
+            end
+        end
+    })
+end)
+
+-- Label after Auto Unban
+pcall(function()
+    HouseTab:AddLabel("Automatically unbans you from houses")
+end)
+
+-- Section for House RGB
+pcall(function()
+    HouseTab:AddSection({ Name = "House RGB" })
+end)
+
+-- Toggle for House RGB
+pcall(function()
+    HouseTab:AddToggle({
+        Name = "House RGB",
+        Default = false,
+        Callback = function(state)
+            toggleHouseRGB(state)
+        end
+    })
+end)
+
+-- Label after House RGB
+pcall(function()
+    HouseTab:AddLabel("Makes your house RGB")
+end)
+
+-- Function for Auto Unban
+function startAutoUnban()
+    while isUnbanActive do
+        pcall(function()
+            for _, v in pairs(game:GetService("Workspace"):WaitForChild("001_Lots"):GetDescendants()) do
+                if v.Name:match("^BannedBlock%d+$") then
+                    v:Destroy()
+                end
+            end
+        end)
+        task.wait(1)
+    end
+end
+
+local Tab = Window:MakeTab({"Global Audio", "music"})
+
+-- Create a section
+Tab:AddSection({"Audio for All Players"})
+
+-- Audio list
+local audios = {
+    {Name = "Yamete Kudasai", ID = 108494476595033},
+    {Name = "Scream", ID = 5710016194},
+    {Name = "Horror Jumpscare", ID = 85435253347146},
+    {Name = "Loud Audio", ID = 6855150757},
+    {Name = "Noise", ID = 120034877160791},
+    {Name = "Jumpscare 2", ID = 110637995610528},
+    {Name = "Minecraft Witch Laugh", ID = 116214940486087},
+    {Name = "The Boiled One", ID = 137177653817621},
+    {Name = "Crazy Hail Mary", ID = 128669424001766},
+    {Name = "Mandrake Detected", ID = 9068077052},
+    {Name = "Aaaaaaaaa", ID = 80156405968805},
+    {Name = "AAAHHHH", ID = 9084006093},
+    {Name = "amongus", ID = 6651571134},
+    {Name = "Sus", ID = 6701126635},
+    {Name = "Big Scream AAAAAAAAA", ID = 5853668794},
+    {Name = "UHHHHH COFFCOFF", ID = 7056720271},
+    {Name = "SUS", ID = 7153419575},
+    {Name = "Sonic.exe", ID = 2496367477},
+    {Name = "Tubers93 1", ID = 270145703},
+    {Name = "Tubers93 2", ID = 18131809532},
+    {Name = "John's Laugh", ID = 130759239},
+    {Name = "No Idea LOL", ID = 6549021381},
+    {Name = "Screaming", ID = 80156405968805},
+    {Name = "Sus Audio", ID = 7705506391},
+    {Name = "AAAH", ID = 7772283448},
+    {Name = "Gay, gay", ID = 18786647417},
+    {Name = "Bat Hit", ID = 7129073354},
+    {Name = "Nuclear Siren", ID = 675587093},
+    {Name = "No idea for a name LOL", ID = 7520729342},
+    {Name = "Scream 2", ID = 91412024101709},
+    {Name = "Eardrum Buster", ID = 268116333},
+    {Name = "Annoying Moan", ID = 106835463235574},
+    {Name = "Meme Sound Clip", ID = 132603645477541},
+    {Name = "iFood Ad", ID = 133843750864059},
+    {Name = "I Ghost The down", ID = 84663543883498},
+    {Name = "Shop Online at Shopee", ID = 8747441609},
+    {Name = "Uh, So Gross", ID = 103440368630269},
+    {Name = "Get Out, Go Wash Dishes", ID = 101232400175829},
+    {Name = "Meme Quote", ID = 78442476709262},
+}
+
+local selectedAudioID
+
+-- Add a textbox to insert the audio ID
+Tab:AddTextBox({
+    Name = "Insert Audio or Music ID",
+    Description = "Type the audio ID",
+    PlaceholderText = "Audio ID",
+    Callback = function(value)
+        selectedAudioID = tonumber(value)
+    end
+})
+
+-- Add a dropdown to select the audio
+local audioNames = {}
+for _, audio in ipairs(audios) do
+    table.insert(audioNames, audio.Name)
+end
+
+Tab:AddDropdown({
+    Name = "Select Audio",
+    Description = "Choose an audio from the list",
+    Options = audioNames,
+    Default = audioNames[1],
+    Flag = "selected_audio",
+    Callback = function(value)
+        for _, audio in ipairs(audios) do
+            if audio.Name == value then
+                selectedAudioID = audio.ID
+                break
+            end
+        end
+    end
+})
+
+-- Loop control
+local audioLoop = false
+
+-- New section for audio loop
+Tab:AddSection({"Audio Loop"})
+
+-- Function to play audio repeatedly
+local function playLoopedAudio()
+    while audioLoop do
+        if selectedAudioID then
+            local args = {
+                [1] = game:GetService("Workspace"),
+                [2] = selectedAudioID,
+                [3] = 1,
+            }
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Gu1nSound1s"):FireServer(unpack(args))
+
+            -- Create and play the audio
+            local sound = Instance.new("Sound")
+            sound.SoundId = "rbxassetid://" .. selectedAudioID
+            sound.Parent = game.Players.LocalPlayer.Character.HumanoidRootPart
+            sound:Play()
+        else
+            warn("No audio selected!")
+        end
+
+        task.wait(0.5) -- Small delay to avoid overload
+    end
+end
+
+-- Toggle for audio loop
+Tab:AddToggle({
+    Name = "Loop Play Audio",
+    Description = "Activates the audio loop",
+    Default = false,
+    Flag = "audio_loop",
+    Callback = function(value)
+        audioLoop = value
+        if audioLoop then
+            task.spawn(playLoopedAudio) -- Start the loop in a new thread
+        end
+    end
+})
+
+-- Add a paragraph as a label
+Tab:AddParagraph({"Info", "Loop audio playback (All players in the server can hear)"})
+
+-- Function to play normal audio
+local function playAudio()
+    if selectedAudioID then
+        local args = {
+            [1] = game:GetService("Workspace"),
+            [2] = selectedAudioID,
+            [3] = 1,
+        }
+        game:GetService("ReplicatedStorage").RE:FindFirstChild("1Gu1nSound1s"):FireServer(unpack(args))
+
+        -- Create and play the audio
+        local sound = Instance.new("Sound")
+        sound.SoundId = "rbxassetid://" .. selectedAudioID
+        sound.Parent = game.Players.LocalPlayer.Character.HumanoidRootPart
+        sound:Play()
+    else
+        warn("No audio selected!")
+    end
+end
+
+-- New section for playing audio
+Tab:AddSection({"Play Audio"})
+
+-- Button to play the audio
+Tab:AddButton({"Play Audio", function()
+    playAudio()
+end})
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local audioID = 6314880174 -- Fixed audio ID
+
+local function Audio_All_ClientSide(ID)
+    local function CheckFolderAudioAll()
+        local FolderAudio = workspace:FindFirstChild("Audio all client")
+        if not FolderAudio then
+            FolderAudio = Instance.new("Folder")
+            FolderAudio.Name = "Audio all client"
+            FolderAudio.Parent = workspace
+        end
+        return FolderAudio
+    end
+
+    local function CreateSound(ID)
+        if type(ID) ~= "number" then
+            print("Insert a valid number!")
+            return nil
+        end
+
+        local Folder_Audio = CheckFolderAudioAll()
+        if Folder_Audio then
+            local Sound = Instance.new("Sound")
+            Sound.SoundId = "rbxassetid://" .. ID
+            Sound.Volume = 1
+            Sound.Looped = false
+            Sound.Parent = Folder_Audio
+            Sound:Play()
+            task.wait(1) -- Wait time before removing the sound
+            Sound:Destroy()
+        end
+    end
+
+    CreateSound(ID)
+end
+
+local function Audio_All_ServerSide(ID)
+    if type(ID) ~= "number" then
+        print("Insert a valid number!")
+        return nil
+    end
+
+    local GunSoundEvent = ReplicatedStorage:FindFirstChild("1Gu1nSound1s", true)
+    if GunSoundEvent then
+        GunSoundEvent:FireServer(workspace, ID, 1)
+    end
+end
+
+-- Toggle for "Burst everyone's eardrums"
+Tab:AddToggle({
+    Name = "Burst Eardrums LOL",
+    Description = "Plays audio repeatedly for everyone",
+    Default = false,
+    Flag = "audio_spam",
+    Callback = function(value)
+        getgenv().Audio_All_loop_fast = value
+
+        while getgenv().Audio_All_loop_fast do
+            Audio_All_ServerSide(audioID)
+            task.spawn(function()
+                Audio_All_ClientSide(audioID)
+            end)
+            task.wait(0.03) -- Extremely fast delay (0.03 seconds)
+        end
+    end
+})
+
+Tab:AddParagraph({"Info", "Everyone in the server hears the audio"})
+
+
+local Tab = Window:MakeTab({"Lag Server", "bomb"})
+
+
+-- Shutdown Custom Section
+local Section = Tab:AddSection({
+    Name = "Custom Shutdown"
+})
+
+-- Shutdown Server Button
+Tab:AddButton({
+    Name = "Shutdown Server",
+    Callback = function()
+        for m = 1, 495 do
+            local args = {
+                [1] = "PickingTools",
+                [2] = "FireHose"
+            }
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+            local args = {
+                [1] = "FireHose",
+                [2] = "DestroyFireHose"
+            }
+            game:GetService("Players").LocalPlayer.Backpack.FireHose.ToolSound:FireServer(unpack(args))
+        end
+        local oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -475, 999999999.414)
+        local rootpart = game.Players.LocalPlayer.Character.HumanoidRootPart
+        repeat wait() until rootpart.Parent == nil
+        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Shutdown Complete, Now It Will Shut Down",
+            Button1 = "Ok",
+            Duration = 5
+        })
+        wait()
+        for _, ergeg in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if ergeg.Name == "FireHose" then
+                ergeg.Parent = game.Players.LocalPlayer.Character
+            end
+        end
+        wait(0.2)
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Starting duplication, be patient",
+            Button1 = "Ok",
+            Duration = 5
+        })
+        wait(0.5)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(9999, -475, 9999)
+    end
+})
+
+-- Shutdown Server (Internet Error) Button
+Tab:AddButton({
+    Name = "Shutdown Server (Internet Error)",
+    Callback = function()
+        for m = 1, 535 do
+            local args = {
+                [1] = "PickingTools",
+                [2] = "FireHose"
+            }
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+            local args = {
+                [1] = "FireHose",
+                [2] = "DestroyFireHose"
+            }
+            game:GetService("Players").LocalPlayer.Backpack.FireHose.ToolSound:FireServer(unpack(args))
+        end
+        local oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -475, 999999999.414)
+        local rootpart = game.Players.LocalPlayer.Character.HumanoidRootPart
+        repeat wait() until rootpart.Parent == nil
+        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Shutdown Complete, Now It Will Shut Down",
+            Button1 = "Ok",
+            Duration = 5
+        })
+        wait()
+        for _, ergeg in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if ergeg.Name == "FireHose" then
+                ergeg.Parent = game.Players.LocalPlayer.Character
+            end
+        end
+        wait(0.2)
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Starting duplication, be patient",
+            Button1 = "Ok",
+            Duration = 5
+        })
+        wait(0.5)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(9999, -475, 9999)
+    end
+})
+
+-- Shutdown Server (Timeout Error) Button
+Tab:AddButton({
+    Name = "Shutdown Server (Connection Timeout Error)",
+    Callback = function()
+        for m = 1, 635 do
+            local args = {
+                [1] = "PickingTools",
+                [2] = "FireHose"
+            }
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+            local args = {
+                [1] = "FireHose",
+                [2] = "DestroyFireHose"
+            }
+            game:GetService("Players").LocalPlayer.Backpack.FireHose.ToolSound:FireServer(unpack(args))
+        end
+        local oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Shutdown Complete, Now It Will Shut Down",
+            Button1 = "Ok",
+            Duration = 5
+        })
+        wait()
+        for _, ergeg in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if ergeg.Name == "FireHose" then
+                ergeg.Parent = game.Players.LocalPlayer.Character
+            end
+        end
+        wait(0.2)
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Starting duplication, be patient",
+            Button1 = "Ok",
+            Duration = 5
+        })
+        wait(0.5)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(9999, -475, 9999)
+    end
+})
+
+-- Lag Laptop Section
+local Section = Tab:AddSection({
+    Name = "Lag with Laptop"
+})
+
+-- Toggle State for Lag Laptop
+local toggles = { LagLaptop = false }
+
+-- Function to Simulate Normal Click
+local function clickNormally(object)
+    local clickDetector = object:FindFirstChildWhichIsA("ClickDetector")
+    if clickDetector then
+        fireclickdetector(clickDetector)
+    end
+end
+
+-- Function to Lag Game with Laptop
+local function lagGameWithLaptop(laptopPath, maxTeleports)
+    if laptopPath then
+        local teleportCount = 0
+        while teleportCount < maxTeleports and toggles.LagLaptop do
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = laptopPath.CFrame
+            clickNormally(laptopPath)
+            teleportCount = teleportCount + 1
+            wait(0.0001)
+        end
+    else
+        warn("Laptop not found.")
+    end
+end
+
+-- Lag Laptop Toggle
+Tab:AddToggle({
+    Name = "Lag with Laptop",
+    Default = false,
+    Callback = function(state)
+        toggles.LagLaptop = state
+        if state then
+            local laptopPath = workspace:FindFirstChild("WorkspaceCom"):FindFirstChild("001_GiveTools"):FindFirstChild("Laptop")
+            if laptopPath then
+                spawn(function()
+                    lagGameWithLaptop(laptopPath, 999999999)
+                end)
+            else
+                warn("Laptop not found.")
+            end
+        else
+            print("Lag with Laptop deactivated.")
+        end
+    end
+})
+
+-- Lag Laptop Paragraph
+Tab:AddParagraph({
+    "Lag Information",
+    "The lag effect starts after 35 seconds"
+})
+
+-- Lag Phone Section
+local Section = Tab:AddSection({
+    Name = "Lag with Phone"
+})
+
+-- Toggle State for Lag Phone
+toggles.LagPhone = false
+
+-- Function to Lag Game with Phone
+local function lagGameWithPhone(phonePath, maxTeleports)
+    if phonePath then
+        local teleportCount = 0
+        while teleportCount < maxTeleports and toggles.LagPhone do
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = phonePath.CFrame
+            clickNormally(phonePath)
+            teleportCount = teleportCount + 1
+            wait(0.01)
+        end
+    else
+        warn("Phone not found.")
+    end
+end
+
+-- Lag Phone Toggle
+Tab:AddToggle({
+    Name = "Lag with Phone",
+    Default = false,
+    Callback = function(state)
+        toggles.LagPhone = state
+        if state then
+            local phonePath = workspace:FindFirstChild("WorkspaceCom"):FindFirstChild("001_CommercialStores"):FindFirstChild("CommercialStorage1"):FindFirstChild("Store"):FindFirstChild("Tools"):FindFirstChild("Iphone")
+            if phonePath then
+                spawn(function()
+                    lagGameWithPhone(phonePath, 999999)
+                end)
+            else
+                warn("Phone not found.")
+            end
+        else
+            print("Lag with Phone deactivated.")
+        end
+    end
+})
+
+-- Lag Phone Paragraph
+Tab:AddParagraph({
+    "Lag Information",
+    "The script starts to cause lag after 35 seconds"
+})
+
+local Section = Tab:AddSection({
+    Name = "Lag with Bomb"
+})
+
+
+local BombActive = false
+
+Tab:AddToggle({
+    Name = "Lag with Bomb",
+    Default = false,
+    Callback = function(Value)
+        if Value then
+            BombActive = true
+
+            local Player = game.Players.LocalPlayer
+            local Character = Player.Character or Player.CharacterAdded:Wait()
+            local RootPart = Character:WaitForChild("HumanoidRootPart")
+            local WorkspaceService = game:GetService("Workspace")
+            local ReplicatedStorage = game:GetService("ReplicatedStorage")
+            local Bomb = WorkspaceService:WaitForChild("WorkspaceCom"):WaitForChild("001_CriminalWeapons"):WaitForChild("GiveTools"):WaitForChild("Bomb")
+
+            task.spawn(function()
+                while BombActive do
+                    if Bomb and RootPart then
+                        RootPart.CFrame = Bomb.CFrame
+                        fireclickdetector(Bomb.ClickDetector) -- Triggers the bomb's ClickDetector
+                        task.wait(0.00001) -- Minimum delay to avoid crashes
+                    else
+                        task.wait(0.0001) 
+                    end
+                end
+            end)
+
+            task.spawn(function()
+                while BombActive do
+                    if Bomb and RootPart then
+                        local VirtualInputManager = game:GetService("VirtualInputManager")
+                        VirtualInputManager:SendMouseButtonEvent(500, 500, 0, true, game, 0) 
+                        task.wait(1.5)
+                        VirtualInputManager:SendMouseButtonEvent(500, 500, 0, false, game, 0) 
+
+                        -- Executes the FireServer with the player's name
+                        local args = {
+                            [1] = "Bomb" .. Player.Name -- Uses the current player's name
+                        }
+                        ReplicatedStorage:WaitForChild("RE"):WaitForChild("1Blo1wBomb1sServe1r"):FireServer(unpack(args))
+                    end
+                    task.wait(1.5) -- 1-second interval for click and FireServer
+                end
+            end)
+        else
+            -- Deactivating the functionality
+            BombActive = false
+        end
+    end
+})
+
+Tab:AddParagraph({
+    "Lag Information",
+    "The script starts to cause lag after 35 seconds"
+})
+
+local Tab = Window:MakeTab({"Names", "Paper"})
+
+local SectionRGBBio = Tab:AddSection({
+    Name = "RGB BIO"
+})
+
+Tab:AddToggle({
+    Name = "RGB BIO",
+    Description = "Activate RGB BIO",
+    Default = false,
+    Callback = function(value)
+        isBioActive = value
+        print(value and "RGB BIO activated" or "RGB BIO deactivated")
+    end
+})
+
+
+local vibrantColors = {
+    Color3.fromRGB(255, 0, 0),   -- Red
+    Color3.fromRGB(0, 255, 0),   -- Green
+    Color3.fromRGB(0, 0, 255),   -- Blue
+    Color3.fromRGB(255, 255, 0), -- Yellow
+    Color3.fromRGB(255, 0, 255), -- Magenta
+    Color3.fromRGB(0, 255, 255), -- Cyan
+    Color3.fromRGB(255, 165, 0), -- Orange
+    Color3.fromRGB(128, 0, 128), -- Purple
+    Color3.fromRGB(255, 20, 147) -- Hot Pink
+}
+
+spawn(function()
+    while true do
+        if isNameActive then
+            local randomColor = vibrantColors[math.random(#vibrantColors)]
+            local args = {
+                [1] = "PickingRPNameColor",
+                [2] = randomColor
+            }
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1RPNam1eColo1r"):FireServer(unpack(args))
+        end
+        wait(0.7)
+    end
+end)
+
+spawn(function()
+    while true do
+        if isBioActive then
+            local randomColor = vibrantColors[math.random(#vibrantColors)]
+            local args = {
+                [1] = "PickingRPBioColor",
+                [2] = randomColor
+            }
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1RPNam1eColo1r"):FireServer(unpack(args))
+        end
+        wait(0.7)
+    end
+end)
+
+local SectionNames = Tab:AddSection({
+    Name = "Add Names to Player"
+})
+
+local names = {
+    {"Anonymus", " Anonymus "},
+    {"PRO", " PRO "},
+    {"ERR0R_666", " ERR0R_666 "},
+    {"DARKNE1SSS", " DARKNE1SSS "},
+    {"GHOST", " GHOST "},
+    {"JOKER", " JOKER "},
+    {"ADMIN", " ADMIN "},
+    {"TUBERS93", " TUBERS 93 "},
+    {"CO0LKID", " CO0 LKID "},
+    {"GAME ATTACKED BY MAFIA", " GAME ATTACKED BY MAFIA "},
+    {"INC0MUN", " INC0MUN"},
+    {"BAD BOY", " BAD BOY "}
+}
+
+for _, name in ipairs(names) do
+    Tab:AddButton({
+        Name = "Name: " .. name[1],
+        Callback = function()
+            game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer("RolePlayName", name[2])
+        end
+    })
+end
+
+
+local CarTab = Window:MakeTab({"Car", "car"})
+
+local Section = CarTab:AddSection({"all car functions"})
+
+
+local Players = game:GetService("Players")
+local Workspace = game:GetService("Workspace")
+local LocalPlayer = Players.LocalPlayer
+local Camera = Workspace.CurrentCamera
+
+-- Namespace para evitar conflitos
+local TeleportCarro = {}
+TeleportCarro.Players = Players
+TeleportCarro.Workspace = Workspace
+TeleportCarro.LocalPlayer = LocalPlayer
+TeleportCarro.Camera = Camera
+
+-- Função para exibir notificação
+function TeleportCarro:MostrarNotificacao(mensagem)
+    pcall(function()
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Aviso",
+            Text = mensagem,
+            Duration = 5
+        })
+    end)
+end
+
+-- Função para desativar/ativar dano de queda
+function TeleportCarro:ToggleFallDamage(disable)
+    if not self.LocalPlayer.Character or not self.LocalPlayer.Character:FindFirstChild("Humanoid") then return false end
+    local humanoid = self.LocalPlayer.Character.Humanoid
+    if disable then
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.GettingUp, true)
+        humanoid.PlatformStand = false
+        return true
+    else
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, true)
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, true)
+        return false
+    end
+end
+
+-- Função para teleportar o jogador para o assento do carro
+function TeleportCarro:TeleportToSeat(seat, car)
+    if not self.LocalPlayer.Character or not self.LocalPlayer.Character:FindFirstChild("Humanoid") then
+        self:MostrarNotificacao("Personagem não encontrado!")
+        return false
+    end
+    local humanoid = self.LocalPlayer.Character.Humanoid
+    local rootPart = self.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+    if not rootPart then
+        self:MostrarNotificacao("Parte raiz do personagem não encontrada!")
+        return false
+    end
+
+    humanoid.Sit = false
+    task.wait(0.1)
+
+    rootPart.CFrame = seat.CFrame + Vector3.new(0, 5, 0)
+    task.wait(0.1)
+
+    seat:Sit(humanoid)
+    task.wait(0.5)
+    return humanoid.SeatPart == seat
+end
+
+-- Função para teleportar o carro para o void com delay
+function TeleportCarro:TeleportToVoid(car)
+    if not car then
+        self:MostrarNotificacao("Veículo inválido!")
+        return
+    end
+    if not car.PrimaryPart then
+        local body = car:FindFirstChild("Body", true) or car:FindFirstChild("Chassis", true)
+        if body and body:IsA("BasePart") then
+            car.PrimaryPart = body
+        else
+            self:MostrarNotificacao("Parte principal do veículo não encontrada!")
+            return
+        end
+    end
+    local voidPosition = Vector3.new(0, -1000, 0)
+    car:SetPrimaryPartCFrame(CFrame.new(voidPosition))
+    task.wait(0.5)
+end
+
+-- Função para teleportar o carro para a posição do jogador com delay
+function TeleportCarro:TeleportToPlayer(car, playerPos)
+    if not car then
+        self:MostrarNotificacao("Veículo inválido!")
+        return
+    end
+    if not car.PrimaryPart then
+        local body = car:FindFirstChild("Body", true) or car:FindFirstChild("Chassis", true)
+        if body and body:IsA("BasePart") then
+            car.PrimaryPart = body
+        else
+            self:MostrarNotificacao("Parte principal do veículo não encontrada!")
+            return
+        end
+    end
+    local targetPos = playerPos + Vector3.new(5, 0, 5)
+    car:SetPrimaryPartCFrame(CFrame.new(targetPos))
+    task.wait(0.5)
+end
+
+-- Função para sair do carro e voltar à posição original
+function TeleportCarro:ExitCarAndReturn(originalPos)
+    if not self.LocalPlayer.Character or not self.LocalPlayer.Character:FindFirstChild("Humanoid") then return end
+    local humanoid = self.LocalPlayer.Character.Humanoid
+    if humanoid.SeatPart then
+        humanoid.Sit = false
+    end
+    task.wait(0.1)
+    if originalPos then
+        self.LocalPlayer.Character:PivotTo(CFrame.new(originalPos))
+    end
+end
+
+-- Função para atualizar a lista de carros no dropdown
+function TeleportCarro:AtualizarListaCarros()
+    local pastaVeiculos = self.Workspace:FindFirstChild("Vehicles")
+    local listaCarros = {}
+    
+    if pastaVeiculos then
+        for _, carro in ipairs(pastaVeiculos:GetChildren()) do
+            if carro.Name:match("Car$") then
+                table.insert(listaCarros, carro.Name)
+            end
+        end
+    end
+    
+    return listaCarros
+end
+
+-- Parágrafo
+CarTab:AddParagraph({
+    Title = "use o void protection",
+    Content = ""
+})
+
+-- Toggle para matar todos os carros
+CarTab:AddToggle({
+    Name = "Matar todos os carros do server",
+    Description = "Teleporta os carros para o void",
+    Default = false,
+    Callback = function(state)
+        local originalPosition
+        local teleportActive = state
+        local fallDamageDisabled = false
+
+        if state then
+            if self.LocalPlayer.Character and self.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                originalPosition = self.LocalPlayer.Character.HumanoidRootPart.Position
+            else
+                TeleportCarro:MostrarNotificacao("Personagem não encontrado!")
+                return
+            end
+
+            fallDamageDisabled = TeleportCarro:ToggleFallDamage(true)
+
+            spawn(function()
+                local vehiclesFolder = TeleportCarro.Workspace:FindFirstChild("Vehicles")
+                if not vehiclesFolder then
+                    TeleportCarro:MostrarNotificacao("Pasta de veículos não encontrada!")
+                    return
+                end
+
+                local cars = {}
+                for _, car in ipairs(vehiclesFolder:GetChildren()) do
+                    if car.Name:match("Car$") then
+                        table.insert(cars, car)
+                    end
+                end
+
+                for _, car in ipairs(cars) do
+                    if not teleportActive then break end
+
+                    local vehicleSeat = car:FindFirstChildWhichIsA("VehicleSeat", true)
+                    if vehicleSeat and vehicleSeat.Occupant == nil then
+                        local success = TeleportCarro:TeleportToSeat(vehicleSeat, car)
+                        if success then
+                            TeleportCarro:TeleportToVoid(car)
+                            TeleportCarro:ExitCarAndReturn(originalPosition)
+                            task.wait(1)
+                        end
+                    end
+                end
+
+                if teleportActive then
+                    teleportActive = false
+                    TeleportCarro:ToggleFallDamage(false)
+                end
+            end)
+        else
+            teleportActive = false
+            TeleportCarro:ToggleFallDamage(false)
+        end
+    end
+})
+
+local Section = CarTab:AddSection({"functions dos carro"})
+
+-- Criar o dropdown
+local Dropdown = CarTab:AddDropdown({
+    Name = "Selecionar Carro do Jogador",
+    Description = "Selecione o carro de um jogador",
+    Default = nil,
+    Options = TeleportCarro:AtualizarListaCarros(),
+    Callback = function(carroSelecionado)
+        _G.SelectedVehicle = carroSelecionado
+    end
+})
+
+-- Toggle para ver a câmera do carro selecionado
+CarTab:AddToggle({
+    Name = "Ver Câmera do Carro Selecionado",
+    Description = "Foca a câmera no carro selecionado",
+    Default = false,
+    Callback = function(state)
+        if state then
+            if not _G.SelectedVehicle or _G.SelectedVehicle == "" then
+                TeleportCarro:MostrarNotificacao("Nenhum carro selecionado!")
+                return
+            end
+
+            local vehiclesFolder = TeleportCarro.Workspace:FindFirstChild("Vehicles")
+            if not vehiclesFolder then
+                TeleportCarro:MostrarNotificacao("Pasta de veículos não encontrada!")
+                return
+            end
+
+            local vehicle = vehiclesFolder:FindFirstChild(_G.SelectedVehicle)
+            if not vehicle then
+                TeleportCarro:MostrarNotificacao("Carro selecionado não encontrado!")
+                return
+            end
+
+            local vehicleSeat = vehicle:FindFirstChildWhichIsA("VehicleSeat", true)
+            if not vehicleSeat then
+                TeleportCarro:MostrarNotificacao("Assento do carro não encontrado!")
+                return
+            end
+
+            -- Salvar o estado original da câmera
+            TeleportCarro.OriginalCameraSubject = TeleportCarro.Camera.CameraSubject
+            TeleportCarro.OriginalCameraType = TeleportCarro.Camera.CameraType
+
+            -- Ajustar a câmera para o assento do carro, mesmo se ocupado
+            TeleportCarro.Camera.CameraSubject = vehicleSeat
+            TeleportCarro.Camera.CameraType = Enum.CameraType.Follow
+            TeleportCarro:MostrarNotificacao("Câmera ajustada para o carro " .. _G.SelectedVehicle .. "!")
+        else
+            -- Restaurar a câmera ao estado original
+            if TeleportCarro.OriginalCameraSubject then
+                TeleportCarro.Camera.CameraSubject = TeleportCarro.OriginalCameraSubject
+                TeleportCarro.Camera.CameraType = TeleportCarro.OriginalCameraType or Enum.CameraType.Custom
+                TeleportCarro:MostrarNotificacao("Câmera restaurada ao normal!")
+                TeleportCarro.OriginalCameraSubject = nil
+                TeleportCarro.OriginalCameraType = nil
+            end
+        end
+    end
+})
+
+-- Atualizar o dropdown dinamicamente
+TeleportCarro.Workspace:WaitForChild("Vehicles").ChildAdded:Connect(function()
+    Dropdown:Set(TeleportCarro:AtualizarListaCarros())
+end)
+TeleportCarro.Workspace:WaitForChild("Vehicles").ChildRemoved:Connect(function()
+    Dropdown:Set(TeleportCarro:AtualizarListaCarros())
+end)
+
+local Section = CarTab:AddSection({"functions kill e trazer"})
+
+-- Botão para destruir carro selecionado
+CarTab:AddButton({
+    Name = "Destruir Carro Selecionado",
+    Description = "Teleporta o carro selecionado para o void",
+    Callback = function()
+        if not _G.SelectedVehicle or _G.SelectedVehicle == "" then
+            TeleportCarro:MostrarNotificacao("Nenhum carro selecionado!")
+            return
+        end
+
+        local vehiclesFolder = TeleportCarro.Workspace:FindFirstChild("Vehicles")
+        if not vehiclesFolder then
+            TeleportCarro:MostrarNotificacao("Pasta de veículos não encontrada!")
+            return
+        end
+
+        local vehicle = vehiclesFolder:FindFirstChild(_G.SelectedVehicle)
+        if not vehicle then
+            TeleportCarro:MostrarNotificacao("Carro selecionado não encontrado!")
+            return
+        end
+
+        local vehicleSeat = vehicle:FindFirstChildWhichIsA("VehicleSeat", true)
+        if not vehicleSeat then
+            TeleportCarro:MostrarNotificacao("Assento do carro não encontrado!")
+            return
+        end
+
+        if vehicleSeat.Occupant then
+            TeleportCarro:MostrarNotificacao("O kill car não foi possível, há alguém sentado no assento do motorista!")
+            return
+        end
+
+        local originalPos
+        if TeleportCarro.LocalPlayer.Character and TeleportCarro.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+            originalPos = TeleportCarro.LocalPlayer.Character.HumanoidRootPart.Position
+        else
+            TeleportCarro:MostrarNotificacao("Personagem do jogador não encontrado!")
+            return
+        end
+
+        local isFallDamageOff = TeleportCarro:ToggleFallDamage(true)
+        local success = TeleportCarro:TeleportToSeat(vehicleSeat, vehicle)
+        if success then
+            TeleportCarro:TeleportToVoid(vehicle)
+            TeleportCarro:MostrarNotificacao("Carro " .. _G.SelectedVehicle .. " foi teleportado para o void!")
+            TeleportCarro:ExitCarAndReturn(originalPos)
+        else
+            TeleportCarro:MostrarNotificacao("Falha ao sentar no carro!")
+        end
+        TeleportCarro:ToggleFallDamage(false)
+    end
+})
+
+-- Botão para trazer carro selecionado
+CarTab:AddButton({
+    Name = "Trazer Carro Selecionado",
+    Description = "Teleporta o carro selecionado para sua posição",
+    Callback = function()
+        if not _G.SelectedVehicle or _G.SelectedVehicle == "" then
+            TeleportCarro:MostrarNotificacao("Nenhum carro selecionado!")
+            return
+        end
+
+        local vehiclesFolder = TeleportCarro.Workspace:FindFirstChild("Vehicles")
+        if not vehiclesFolder then
+            TeleportCarro:MostrarNotificacao("Pasta de veículos não encontrada!")
+            return
+        end
+
+        local vehicle = vehiclesFolder:FindFirstChild(_G.SelectedVehicle)
+        if not vehicle then
+            TeleportCarro:MostrarNotificacao("Carro selecionado não encontrado!")
+            return
+        end
+
+        local vehicleSeat = vehicle:FindFirstChildWhichIsA("VehicleSeat", true)
+        if not vehicleSeat then
+            TeleportCarro:MostrarNotificacao("Assento do carro não encontrado!")
+            return
+        end
+
+        if vehicleSeat.Occupant then
+            TeleportCarro:MostrarNotificacao("O teleporte do carro não foi possível, há alguém sentado no assento do motorista!")
+            return
+        end
+
+        local originalPos
+        if TeleportCarro.LocalPlayer.Character and TeleportCarro.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+            originalPos = TeleportCarro.LocalPlayer.Character.HumanoidRootPart.Position
+        else
+            TeleportCarro:MostrarNotificacao("Personagem do jogador não encontrado!")
+            return
+        end
+
+        local isFallDamageOff = TeleportCarro:ToggleFallDamage(true)
+        local success = TeleportCarro:TeleportToSeat(vehicleSeat, vehicle)
+        if success then
+            TeleportCarro:TeleportToPlayer(vehicle, originalPos)
+            TeleportCarro:MostrarNotificacao("Carro " .. _G.SelectedVehicle .. " foi teleportado para você!")
+            TeleportCarro:ExitCarAndReturn(originalPos)
+        else
+            TeleportCarro:MostrarNotificacao("Falha ao sentar no carro!")
+        end
+        TeleportCarro:ToggleFallDamage(false)
+    end
+})
+
+-- Botão para trazer todos os carros
+CarTab:AddButton({
+    Name = "Trazer Todos os Carros",
+    Description = "Teleporta todos os carros do servidor para sua posição",
+    Callback = function()
+        local originalPos
+        if TeleportCarro.LocalPlayer.Character and TeleportCarro.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+            originalPos = TeleportCarro.LocalPlayer.Character.HumanoidRootPart.Position
+        else
+            TeleportCarro:MostrarNotificacao("Personagem do jogador não encontrado!")
+            return
+        end
+
+        local vehiclesFolder = TeleportCarro.Workspace:FindFirstChild("Vehicles")
+        if not vehiclesFolder then
+            TeleportCarro:MostrarNotificacao("Pasta de veículos não encontrada!")
+            return
+        end
+
+        local isFallDamageOff = TeleportCarro:ToggleFallDamage(true)
+        local cars = {}
+        for _, car in ipairs(vehiclesFolder:GetChildren()) do
+            if car.Name:match("Car$") then
+                table.insert(cars, car)
+            end
+        end
+
+        for _, car in ipairs(cars) do
+            local vehicleSeat = car:FindFirstChildWhichIsA("VehicleSeat", true)
+            if vehicleSeat and vehicleSeat.Occupant == nil then
+                local success = TeleportCarro:TeleportToSeat(vehicleSeat, car)
+                if success then
+                    TeleportCarro:TeleportToPlayer(car, originalPos)
+                    TeleportCarro:ExitCarAndReturn(originalPos)
+                    TeleportCarro:MostrarNotificacao("Carro " .. car.Name .. " foi teleportado para você!")
+                    task.wait(1)
+                else
+                    TeleportCarro:MostrarNotificacao("Falha ao sentar no carro " .. car.Name .. "!")
+                end
+            else
+                if vehicleSeat then
+                    TeleportCarro:MostrarNotificacao("Carro " .. car.Name .. " ignorado: alguém está no assento do motorista!")
+                else
+                    TeleportCarro:MostrarNotificacao("Carro " .. car.Name .. " ignorado: assento não encontrado!")
+                end
+            end
+        end
+
+        TeleportCarro:ToggleFallDamage(false)
+        if #cars == 0 then
+            TeleportCarro:MostrarNotificacao("Nenhum carro disponível para teleportar!")
+        end
+    end
+})
+
+-- Manter o estado de dano de queda ao recarregar o personagem
+local fallDamageDisabled = false
+TeleportCarro.LocalPlayer.CharacterAdded:Connect(function(character)
+    local humanoid = character:WaitForChild("Humanoid")
+    if fallDamageDisabled then
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, false)
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.GettingUp, true)
+        humanoid.PlatformStand = false
+    else
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, true)
+        humanoid:SetStateEnabled(Enum.HumanoidStateType.Ragdoll, true)
+    end
+end)
+
+-- Colors for RGB
+local colors = {
+    Color3.new(1, 0, 0),     -- Red
+    Color3.new(0, 1, 0),     -- Green
+    Color3.new(0, 0, 1),     -- Blue
+    Color3.new(1, 1, 0),     -- Yellow
+    Color3.new(1, 0, 1),     -- Magenta
+    Color3.new(0, 1, 1),     -- Cyan
+    Color3.new(0.5, 0, 0.5), -- Purple
+    Color3.new(1, 0.5, 0)    -- Orange
+}
+
+-- Replicated Storage Service
+local replicatedStorage = game:GetService("ReplicatedStorage")
+local remoteEvent = replicatedStorage:WaitForChild("RE"):WaitForChild("1Player1sCa1r")
+
+-- RGB Color Change Logic
+local isColorChanging = false
+local colorChangeCoroutine = nil
+
+local function changeCarColor()
+    while isColorChanging do
+        for _, color in ipairs(colors) do
+            if not isColorChanging then return end
+            local args = {
+                [1] = "PickingCarColor",
+                [2] = color
+            }
+            remoteEvent:FireServer(unpack(args))
+            wait(1)
+        end
+    end
+end
+
+CarTab:AddButton({
+    Name = "Remove All Cars",
+    Callback = function()
+        local ofnawufn = false
+
+if ofnawufn == true then
+    return
+end
+ofnawufn = true
+
+local cawwfer = "MilitaryBoatFree" -- Changed to MilitaryBoatFree
+local oldcfffff = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1754, -2, 58) -- Updated coordinates
+wait(0.3)
+
+local args = {
+    [1] = "PickingBoat", -- Changed to PickingBoat
+    [2] = cawwfer
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer(unpack(args))
+wait(1)
+
+local wrinfjn
+for _, errb in pairs(game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"]:GetDescendants()) do
+    if errb:IsA("VehicleSeat") then
+        wrinfjn = errb
+    end
+end
+
+repeat
+    if game.Players.LocalPlayer.Character.Humanoid.Health == 0 then return end
+    if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+        if not game.Players.LocalPlayer.Character.Humanoid.SeatPart == wrinfjn then
+            game.Players.LocalPlayer.Character.Humanoid.Sit = false
+        end
+    end
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = wrinfjn.CFrame
+    task.wait()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = wrinfjn.CFrame + Vector3.new(0,1,0)
+    task.wait()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = wrinfjn.CFrame + Vector3.new(0,-1,0)
+    task.wait()
+until game.Players.LocalPlayer.Character.Humanoid.SeatPart == wrinfjn
+
+for _, wifn in pairs(game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"]:GetDescendants()) do
+    if wifn.Name == "PhysicalWheel" then
+        wifn:Destroy()
+    end
+end
+
+local FLINGED = Instance.new("BodyThrust", game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"].Chassis.Mass) 
+FLINGED.Force = Vector3.new(50000, 0, 50000) 
+FLINGED.Name = "SUNTERIUM HUB FLING"
+FLINGED.Location = game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"].Chassis.Mass.Position
+
+for _, wvwvwasc in pairs(game.workspace.Vehicles:GetChildren()) do
+    for _, ascegr in pairs(wvwvwasc:GetDescendants()) do
+        if ascegr.Name == "VehicleSeat" then
+            local targetcar = ascegr
+            local tet = Instance.new("BodyVelocity", game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"].Chassis.Mass)
+            tet.MaxForce = Vector3.new(math.huge,math.huge,math.huge)
+            tet.P = 1250
+            tet.Velocity = Vector3.new(0,0,0)
+            tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"
+            for m=1,25 do
+                local pos = {x=0, y=0, z=0}
+                pos.x = targetcar.Position.X
+                pos.y = targetcar.Position.Y
+                pos.z = targetcar.Position.Z
+                pos.x = pos.x + targetcar.Velocity.X / 2
+                pos.y = pos.y + targetcar.Velocity.Y / 2
+                pos.z = pos.z + targetcar.Velocity.Z / 2
+                if pos.y <= -200 then
+                    game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"].Chassis.Mass.CFrame = CFrame.new(0,1000,0)
+                else
+                    game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"].Chassis.Mass.CFrame = CFrame.new(Vector3.new(pos.x,pos.y,pos.z))
+                    task.wait()
+                    game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"].Chassis.Mass.CFrame = CFrame.new(Vector3.new(pos.x,pos.y,pos.z)) + Vector3.new(0,-2,0)
+                    task.wait()
+                    game.workspace.Vehicles[game.Players.LocalPlayer.Name.."Car"].Chassis.Mass.CFrame = CFrame.new(Vector3.new(pos.x,pos.y,pos.z)) * CFrame.new(0,0,2)
+                    task.wait()
+                    game.workspace.Vehicles[
+game.Players.LocalPlayer.Name.."Car"].Chassis.Mass.CFrame = CFrame.new(Vector3.new(pos.x,pos.y,pos.z)) * CFrame.new(2,0,0)
+                    task.wait()
+                end
+                task.wait()
+            end
+        end
+    end
+end
+
+task.wait()
+local args = {
+    [1] = "DeleteAllVehicles"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Ca1r"):FireServer(unpack(args))
+game.Players.LocalPlayer.Character.Humanoid.Sit = false
+wait()
+local tet = Instance.new("BodyVelocity", game.Players.LocalPlayer.Character.HumanoidRootPart)
+tet.MaxForce = Vector3.new(math.huge,math.huge,math.huge)
+tet.P = 1250
+tet.Velocity = Vector3.new(0,0,0)
+tet.Name = "#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"
+wait(0.1)
+for m=1,2 do 
+    task.wait()
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcfffff
+end
+wait(1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcfffff
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart:FindFirstChild("#mOVOOEPF$#@F$#GERE..>V<<<<EW<V<<W"):Destroy()
+wait(0.2)
+ofnawufn = false
+    end
+})
+
+CarTab:AddParagraph({"Information:", "It's recommended to use this twice to ensure all vehicles are removed"})
+
+CarTab:AddButton({
+    Name = "Bring All Cars",
+    Callback = function()
+        for _, v in next, workspace.Vehicles:GetChildren() do
+            v:SetPrimaryPartCFrame(game.Players.LocalPlayer.Character:GetPrimaryPartCFrame())
+        end
+    end
+})
+
+CarTab:AddParagraph({"Information:", "Brings all cars in the server to you"})
+
+-- Speed V1 Section
+local SpeedSection = CarTab:AddSection({"Speed V1"})
+
+local Speed = 50
+local Turbo = 50
+
+local function ChangeCarSpeedAndTurbo(speedValue, turboValue)
+    local player = game.Players.LocalPlayer
+    local car = workspace.Vehicles:FindFirstChild(player.Name .. "Car")
+
+    if car then
+        local body = car:FindFirstChild("Body").VehicleSeat
+        if body then
+            body.TopSpeed.Value = speedValue
+            body.Turbo.Value = turboValue
+            wait(0.1)
+            Libary:MakeNotification({
+                Name = "Mafia Hub",
+                Content = "Done, You can Move Now!",
+                Time = 5
+            })
+        else
+            Libary:MakeNotification({
+                Name = "Error",
+                Content = "Sit in car first!",
+                Time = 5
+            })
+        end
+    else
+        Libary:MakeNotification({
+            Name = "Error",
+            Content = "Put a Car First!",
+            Time = 5
+        })
+    end
+end
+
+CarTab:AddTextBox({
+    Name = "Speed",
+    PlaceholderText = "50",
+    Callback = function(value)
+        local newSpeed = tonumber(value)
+        if newSpeed then
+            Speed = newSpeed
+        end
+    end
+})
+
+CarTab:AddTextBox({
+    Name = "Turbo",
+    PlaceholderText = "50",
+    Callback = function(value)
+        local newTurbo = tonumber(value)
+        if newTurbo then
+            Turbo = newTurbo
+        end
+    end
+})
+
+CarTab:AddTextBox({
+    Name = "Drift",
+    PlaceholderText = "50",
+    Callback = function(value)
+        local args = {
+            [1] = "DriftingNumber",
+            [2] = value
+        }
+        game:GetService("ReplicatedStorage").RE:FindFirstChild("1Player1sCa1r"):FireServer(unpack(args))
+    end
+})
+
+CarTab:AddButton({
+    Name = "Apply Speed, Turbo and Drift",
+    Callback = function()
+        ChangeCarSpeedAndTurbo(Speed, Turbo)
+    end
+})
+
+-- Turbo V2 Section
+local TurboSection = CarTab:AddSection({"Turbo V2"})
+
+CarTab:AddButton({
+    Name = "Turbo V2 [Best]",
+    Callback = function()
+     local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
+
+local flying = false
+local speed = 30
+
+local screenGui = Instance.new("ScreenGui", player.PlayerGui)
+
+local function createImageButton(name, position, imageId, rotation, action)
+    local button = Instance.new("ImageButton", screenGui)
+    button.Size = UDim2.new(0, 60, 0, 60)
+    button.Position = position
+    button.BackgroundTransparency = 1
+    button.Image = "rbxassetid://" .. imageId
+    button.Rotation = rotation
+    button.MouseButton1Down:Connect(action)
+    return button
+end
+
+local forwardButton = createImageButton("ForwardButton", UDim2.new(0, 10, 0.35, 0), "18478249606", 0, function()
+    flying = true
+    while flying do
+        if humanoidRootPart then
+            humanoidRootPart.Velocity = humanoidRootPart.CFrame.LookVector * speed
+        end
+        task.wait()
+    end
+end)
+
+local backButton = createImageButton("BackButton", UDim2.new(0, 10, 0.5, 0), "18478249606", 180, function()
+    flying = true
+    while flying do
+        if humanoidRootPart then
+            humanoidRootPart.Velocity = -humanoidRootPart.CFrame.LookVector * speed
+        end
+        task.wait()
+    end
+end)
+
+local leftButton = createImageButton("LeftButton", UDim2.new(1, -210, 0.3, 0), "18478249606", -90, function()
+    flying = true
+    while flying do
+        if humanoidRootPart then
+            humanoidRootPart.Velocity = -humanoidRootPart.CFrame.RightVector * speed
+        end
+        task.wait()
+    end
+end)
+
+local rightButton = createImageButton("RightButton", UDim2.new(1, -140, 0.3, 0), "18478249606", 90, function()
+    flying = true
+    while flying do
+        if humanoidRootPart then
+            humanoidRootPart.Velocity = humanoidRootPart.CFrame.RightVector * speed
+        end
+        task.wait()
+    end
+end)
+
+local function stopFlying()
+    flying = false
+    if humanoidRootPart then
+        humanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+    end
+end
+
+forwardButton.MouseButton1Up:Connect(stopFlying)
+backButton.MouseButton1Up:Connect(stopFlying)
+leftButton.MouseButton1Up:Connect(stopFlying)
+rightButton.MouseButton1Up:Connect(stopFlying)
+
+local turboButton = Instance.new("ImageButton", screenGui)
+turboButton.Size = UDim2.new(0, 60, 0, 60)
+turboButton.Position = UDim2.new(1, -130, 0, 10)
+turboButton.BackgroundTransparency = 1
+turboButton.Image = "rbxassetid://97607579386418"
+turboButton.MouseButton1Down:Connect(function()
+    speed = 300
+end)
+
+-- Minimize button (with "+" or "-" depending on the state)
+local minimizeButton = Instance.new("TextButton", screenGui)
+minimizeButton.Size = UDim2.new(0, 60, 0, 60)
+minimizeButton.Position = UDim2.new(0, 10, 0, 10)  -- Changed to top-left corner
+minimizeButton.BackgroundTransparency = 1
+minimizeButton.Text = "-"  -- Starts with "-" symbol
+minimizeButton.TextSize = 40
+minimizeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+
+local buttons = {forwardButton, backButton, leftButton, rightButton, turboButton}
+
+local minimized = false
+
+local function toggleButtons()
+    minimized = not minimized
+    for _, button in ipairs(buttons) do
+        button.Visible = not minimized
+    end
+    -- Change the text of the minimize button
+    if minimized then
+        minimizeButton.Text = "+"
+    else
+        minimizeButton.Text = "-"
+    end
+end
+
+minimizeButton.MouseButton1Down:Connect(toggleButtons)    
+    end
+})
+
+CarTab:AddParagraph({"Information:", "Both turbos do not require a Gamepass"})
+
+-- Music Section
+local MusicSection = CarTab:AddSection({"Music for Cars, Houses"})
+
+local musicIds = {
+    "71373562243752", "138129019858244", "138480372357526", "122199933878670",
+    "74187181906707", "82793916573031", "107421761958790", "91394092603440",
+    "113198957973421", "81452315991527", "93786060174790", "74752089069476",
+    "131592235762789", "132081774507495", "124394293950763", "83381647646350",
+    "16190782181", "1841682637", "3148329638", "124928367733395",
+    "106317184644394", "100247055114504", "107035638005233", "109351649716900",
+    "84751398517083", "125259969174449", "89269071829332", "88094479399489",
+    "72440232513341", "92893359226454", "111281710445018", "98677515506006",
+    "105882833374061", "104541292443133", "105832154444494", "84733736048142",
+    "94718473830640", "130324826943718", "123039027577735", "113312785512702",
+    "139161205970637", "113768944849093", "135667903253566", "81335392002580",
+    "77428091165211", "14145624031", "8080255618", "8654835474",
+    "13530439502", "18841894272", "90323407842935", "136932193331774",
+    "113504863495384", "1836175030", "79998949362539", "109188610023287",
+    "134939857094956", "132245626038510", "124567809277408", "72591334498716",
+    "76578817848504", "17422156627", "81902909302285", "130449561461006",
+    "110519234838026", "106434295960535", "86271123924168", "85481949732828",
+    "106476166672589", "87968531262747", "73966367524216", "137962454483542",
+    "98371771055411", "111668097052966", "140095882383991", "122873874738223",
+    "105461615542794"
+}
+
+local function playCarMusic(musicId)
+    if musicId and musicId ~= "" then
+        local carArgs = {
+            [1] = "PickingCarMusicText",
+            [2] = musicId
+        }
+        game:GetService("ReplicatedStorage").RE:FindFirstChild("1Player1sCa1r"):FireServer(unpack(carArgs))
+    end
+end
+
+local function playScooterMusic(musicId)
+    if musicId and musicId ~= "" then
+        local scooterArgs = {
+            [1] = "PickingScooterMusicText",
+            [2] = musicId
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1NoMoto1rVehicle1s"):FireServer(unpack(scooterArgs))
+    end
+end
+
+local function playHouseMusic(musicId)
+    if musicId and musicId ~= "" then
+        local houseArgs = {
+            [1] = "PickHouseMusicText",
+            [2] = musicId
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Player1sHous1e"):FireServer(unpack(houseArgs))
+    end
+end
+
+CarTab:AddTextBox({
+    Name = "Music ID (Gamepass Required)",
+    PlaceholderText = "Enter Music ID",
+    Callback = function(value)
+        playCarMusic(value)
+        playScooterMusic(value)
+        playHouseMusic(value)
+    end
+})
+
+CarTab:AddDropdown({
+    Name = "Select Music (Gamepass Required)",
+    Options = musicIds,
+    Callback = function(value)
+        playCarMusic(value)
+        playScooterMusic(value)
+        playHouseMusic(value)
+    end
+})
+
+CarTab:AddParagraph({"Note", "The music script works in all cars and houses"})
+
+-- Car RGB Section
+local RGBSection = CarTab:AddSection({"Car RGB"})
+
+CarTab:AddToggle({
+    Name = "Car RGB",
+    Default = false,
+    Callback = function(state)
+        isColorChanging = state
+        if isColorChanging then
+            colorChangeCoroutine = coroutine.create(changeCarColor)
+            coroutine.resume(colorChangeCoroutine)
+        end
+    end
+})
+
+CarTab:AddParagraph({"Note", "Activating this will make your car RGB"})
+
+-- Spam Horn Section
+local HornSection = CarTab:AddSection({"Spam Horn"})
+
+local spamming = false
+local args = {"Horn"}
+
+local function spamHorn()
+    while spamming do
+        remoteEvent:FireServer(unpack(args))
+        wait(0.1)
+    end
+end
+
+CarTab:AddToggle({
+    Name = "Spam Horn",
+    Default = false,
+    Callback = function(value)
+        spamming = value
+        if spamming then
+            spawn(spamHorn)
+        end
+    end
+})
+
+-- Fly Car Section
+local FlySection = CarTab:AddSection({"Fly Car"})
+
+CarTab:AddButton({
+    Name = "Fly Car",
+    Callback = function()
+        --by Luscaa
+-- Version: 4.1
+
+-- Instances:
+local Flymguiv2 = Instance.new("ScreenGui")
+local Drag = Instance.new("Frame")
+local FlyFrame = Instance.new("Frame")
+local ddnsfbfwewefe = Instance.new("TextButton")
+local Speed = Instance.new("TextBox")
+local Fly = Instance.new("TextButton")
+local Speeed = Instance.new("TextLabel")
+local Stat = Instance.new("TextLabel")
+local Stat2 = Instance.new("TextLabel")
+local Unfly = Instance.new("TextButton")
+local Vfly = Instance.new("TextLabel")
+local Close = Instance.new("TextButton")
+local Minimize = Instance.new("TextButton")
+local Flyon = Instance.new("Frame")
+local W = Instance.new("TextButton")
+local S = Instance.new("TextButton")
+
+--Properties:
+
+Flymguiv2.Name = "Car Fly gui v2"
+Flymguiv2.Parent = game.CoreGui
+Flymguiv2.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Drag.Name = "Drag"
+Drag.Parent = Flymguiv2
+Drag.Active = true
+Drag.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+Drag.BorderSizePixel = 0
+Drag.Draggable = true
+Drag.Position = UDim2.new(0.482438415, 0, 0.454874992, 0)
+Drag.Size = UDim2.new(0, 237, 0, 27)
+
+FlyFrame.Name = "FlyFrame"
+FlyFrame.Parent = Drag
+FlyFrame.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+FlyFrame.BorderSizePixel = 0
+FlyFrame.Draggable = true
+FlyFrame.Position = UDim2.new(-0.00200000009, 0, 0.989000022, 0)
+FlyFrame.Size = UDim2.new(0, 237, 0, 139)
+
+ddnsfbfwewefe.Name = "ddnsfbfwewefe"
+ddnsfbfwewefe.Parent = FlyFrame
+ddnsfbfwewefe.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+ddnsfbfwewefe.BorderSizePixel = 0
+ddnsfbfwewefe.Position = UDim2.new(-0.000210968778, 0, -0.00395679474, 0)
+ddnsfbfwewefe.Size = UDim2.new(0, 237, 0, 27)
+ddnsfbfwewefe.Font = Enum.Font.SourceSans
+ddnsfbfwewefe.Text = "by Lusquinha_067"
+ddnsfbfwewefe.TextColor3 = Color3.fromRGB(255, 255, 255)
+ddnsfbfwewefe.TextScaled = true
+ddnsfbfwewefe.TextSize = 14.000
+ddnsfbfwewefe.TextWrapped = true
+
+Speed.Name = "Speed"
+Speed.Parent = FlyFrame
+Speed.BackgroundColor3 = Color3.fromRGB(63, 63, 63)
+Speed.BorderColor3 = Color3.fromRGB(0, 0, 191)
+Speed.BorderSizePixel = 0
+Speed.Position = UDim2.new(0.445025861, 0, 0.402877688, 0)
+Speed.Size = UDim2.new(0, 111, 0, 33)
+Speed.Font = Enum.Font.SourceSans
+Speed.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
+Speed.Text = "50"
+Speed.TextColor3 = Color3.fromRGB(255, 255, 255)
+Speed.TextScaled = true
+Speed.TextSize = 14.000
+Speed.TextWrapped = true
+
+Fly.Name = "Fly"
+Fly.Parent = FlyFrame
+Fly.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+Fly.BorderSizePixel = 0
+Fly.Position = UDim2.new(0.0759493634, 0, 0.705797076, 0)
+Fly.Size = UDim2.new(0, 199, 0, 32)
+Fly.Font = Enum.Font.SourceSans
+Fly.Text = "Enable"
+Fly.TextColor3 = Color3.fromRGB(255, 255, 255)
+Fly.TextScaled = true
+Fly.TextSize = 14.000
+Fly.TextWrapped = true
+Fly.MouseButton1Click:Connect(function()
+	local HumanoidRP = game.Players.LocalPlayer.Character.HumanoidRootPart
+	Fly.Visible = false
+	Stat2.Text = "On"
+	Stat2.TextColor3 = Color3.fromRGB(0, 255, 0)
+	Unfly.Visible = true
+	Flyon.Visible = true
+	local BV = Instance.new("BodyVelocity",HumanoidRP)
+	local BG = Instance.new("BodyGyro",HumanoidRP)
+	BV.MaxForce = Vector3.new(math.huge,math.huge,math.huge)
+	game:GetService('RunService').RenderStepped:connect(function()
+	BG.MaxTorque = Vector3.new(math.huge,math.huge,math.huge)
+	BG.D = 5000
+	BG.P = 100000
+	BG.CFrame = game.Workspace.CurrentCamera.CFrame
+	end)
+end)
+
+Speeed.Name = "Speeed"
+Speeed.Parent = FlyFrame
+Speeed.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+Speeed.BorderSizePixel = 0
+Speeed.Position = UDim2.new(0.0759493634, 0, 0.402877688, 0)
+Speeed.Size = UDim2.new(0, 87, 0, 32)
+Speeed.ZIndex = 0
+Speeed.Font = Enum.Font.SourceSans
+Speeed.Text = "Speed:"
+Speeed.TextColor3 = Color3.fromRGB(255, 255, 255)
+Speeed.TextScaled = true
+Speeed.TextSize = 14.000
+Speeed.TextWrapped = true
+
+Stat.Name = "Stat"
+Stat.Parent = FlyFrame
+Stat.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+Stat.BorderSizePixel = 0
+Stat.Position = UDim2.new(0.299983799, 0, 0.239817441, 0)
+Stat.Size = UDim2.new(0, 85, 0, 15)
+Stat.Font = Enum.Font.SourceSans
+Stat.Text = "Status:"
+Stat.TextColor3 = Color3.fromRGB(255, 255, 255)
+Stat.TextScaled = true
+Stat.TextSize = 14.000
+Stat.TextWrapped = true
+
+Stat2.Name = "Stat2"
+Stat2.Parent = FlyFrame
+Stat2.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
+Stat2.BorderSizePixel = 0
+Stat2.Position = UDim2.new(0.546535194, 0, 0.239817441, 0)
+Stat2.Size = UDim2.new(0, 27, 0, 15)
+Stat2.Font = Enum.Font.SourceSans
+Stat2.Text = "Off"
+Stat2.TextColor3 = Color3.fromRGB(255, 0, 0)
+Stat2.TextScaled = true
+Stat2.TextSize = 14.000
+Stat2.TextWrapped = true
+
+Unfly.Name = "Unfly"
+Unfly.Parent = FlyFrame
+Unfly.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+Unfly.BorderSizePixel = 0
+Unfly.Position = UDim2.new(0.0759493634, 0, 0.705797076, 0)
+Unfly.Size = UDim2.new(0, 199, 0, 32)
+Unfly.Visible = false
+Unfly.Font = Enum.Font.SourceSans
+Unfly.Text = "Disable"
+Unfly.TextColor3 = Color3.fromRGB(255, 255, 255)
+Unfly.TextScaled = true
+Unfly.TextSize = 14.000
+Unfly.TextWrapped = true
+Unfly.MouseButton1Click:Connect(function()
+	local HumanoidRP = game.Players.LocalPlayer.Character.HumanoidRootPart
+	Fly.Visible = true
+	Stat2.Text = "Off"
+	Stat2.TextColor3 = Color3.fromRGB(255, 0, 0)
+	wait()
+	Unfly.Visible = false
+	Flyon.Visible = false
+	HumanoidRP:FindFirstChildOfClass("BodyVelocity"):Destroy()
+	HumanoidRP:FindFirstChildOfClass("BodyGyro"):Destroy()
+end)
+
+Vfly.Name = "Vfly"
+Vfly.Parent = Drag
+Vfly.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+Vfly.BorderSizePixel = 0
+Vfly.Size = UDim2.new(0, 57, 0, 27)
+Vfly.Font = Enum.Font.SourceSans
+Vfly.Text = "Car fly"
+Vfly.TextColor3 = Color3.fromRGB(255, 255, 255)
+Vfly.TextScaled = true
+Vfly.TextSize = 14.000
+Vfly.TextWrapped = true
+
+Close.Name = "Close"
+Close.Parent = Drag
+Close.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+Close.BorderSizePixel = 0
+Close.Position = UDim2.new(0.875, 0, 0, 0)
+Close.Size = UDim2.new(0, 27, 0, 27)
+Close.Font = Enum.Font.SourceSans
+Close.Text = "X"
+Close.TextColor3 = Color3.fromRGB(255, 255, 255)
+Close.TextScaled = true
+Close.TextSize = 14.000
+Close.TextWrapped = true
+Close.MouseButton1Click:Connect(function()
+	Flymguiv2:Destroy()
+end)
+
+Minimize.Name = "Minimize"
+Minimize.Parent = Drag
+Minimize.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+Minimize.BorderSizePixel = 0
+Minimize.Position = UDim2.new(0.75, 0, 0, 0)
+Minimize.Size = UDim2.new(0, 27, 0, 27)
+Minimize.Font = Enum.Font.SourceSans
+Minimize.Text = "-"
+Minimize.TextColor3 = Color3.fromRGB(255, 255, 255)
+Minimize.TextScaled = true
+Minimize.TextSize = 14.000
+Minimize.TextWrapped = true
+function Mini()
+	if Minimize.Text == "-" then
+		Minimize.Text = "+"
+		FlyFrame.Visible = false
+	elseif Minimize.Text == "+" then
+		Minimize.Text = "-"
+		FlyFrame.Visible = true
+	end
+end
+Minimize.MouseButton1Click:Connect(Mini)
+
+Flyon.Name = "Fly on"
+Flyon.Parent = Flymguiv2
+Flyon.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Flyon.BorderSizePixel = 0
+Flyon.Position = UDim2.new(0.117647067, 0, 0.550284624, 0)
+Flyon.Size = UDim2.new(0.148000002, 0, 0.314999998, 0)
+Flyon.Visible = false
+Flyon.Active = true
+Flyon.Draggable = true
+
+W.Name = "W"
+W.Parent = Flyon
+W.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+W.BorderSizePixel = 0
+W.Position = UDim2.new(0.134719521, 0, 0.0152013302, 0)
+W.Size = UDim2.new(0.708999991, 0, 0.499000013, 0)
+W.Font = Enum.Font.SourceSans
+W.Text = "^"
+W.TextColor3 = Color3.fromRGB(255, 255, 255)
+W.TextScaled = true
+W.TextSize = 14.000
+W.TextWrapped = true
+W.TouchLongPress:Connect(function()
+	local HumanoidRP = game.Players.LocalPlayer.Character.HumanoidRootPart
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * 0
+end)
+
+W.MouseButton1Click:Connect(function()
+	local HumanoidRP = game.Players.LocalPlayer.Character.HumanoidRootPart
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * 0
+end)
+
+S.Name = "S"
+S.Parent = Flyon
+S.BackgroundColor3 = Color3.fromRGB(0, 150, 191)
+S.BorderSizePixel = 0
+S.Position = UDim2.new(0.134000003, 0, 0.479999989, 0)
+S.Rotation = 180.000
+S.Size = UDim2.new(0.708999991, 0, 0.499000013, 0)
+S.Font = Enum.Font.SourceSans
+S.Text = "^"
+S.TextColor3 = Color3.fromRGB(255, 255, 255)
+S.TextScaled = true
+S.TextSize = 14.000
+S.TextWrapped = true
+S.TouchLongPress:Connect(function()
+	local HumanoidRP = game.Players.LocalPlayer.Character.HumanoidRootPart
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * 0
+end)
+
+S.MouseButton1Click:Connect(function()
+	local HumanoidRP = game.Players.LocalPlayer.Character.HumanoidRootPart
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * -Speed.Text
+	wait(.1)
+	HumanoidRP.BodyVelocity.Velocity = game.Workspace.CurrentCamera.CFrame.LookVector * 0
+end)
+    end
+})
+
+CarTab:AddParagraph({"Note", "By activating this, you can fly with your car"})
+
+-- Spam Cars Section
+local SpamCarSection = CarTab:AddSection({"Spam Car"})
+
+local carList = {
+    "SchoolBus", "SmartCar", "FarmTruck", "Cadillac", "Excavator",
+    "Jeep", "NascarTruck", "TowTruck", "Snowplow", "MilitaryTruck",
+    "Tank", "Limo", "FireTruck"
+}
+
+local spamCarsActive = false
+
+local function spawnCar(carName)
+    local args = {
+        [1] = "PickingCar",
+        [2] = carName
+    }
+    game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+end
+
+CarTab:AddToggle({
+    Name = "Spam Cars",
+    Default = false,
+    Callback = function(state)
+        spamCarsActive = state
+        if spamCarsActive then
+            task.spawn(function()
+                while spamCarsActive do
+                    for _, carName in ipairs(carList) do
+                        if not spamCarsActive then break end
+                        spawnCar(carName)
+                        wait(0.4)
+                    end
+                end
+            end)
+        end
+    end
+})
+
+CarTab:AddParagraph({"Information:", "Spam multiple cars"})
+
+
+
+-- Global variables
+local pl = game.Players.LocalPlayer
+local players = {}
+
+-- Function to update the player list
+local function updatePlayerList()
+    players = {}
+    for _, player in pairs(game.Players:GetPlayers()) do
+        table.insert(players, player.Name)
+    end
+    return players
+end
+
+-- Initializes the player list
+updatePlayerList()
+
+-- Child Tab
+local ChildTab = Window:MakeTab({"Child", "baby"})
+
+local Section = ChildTab:AddSection({
+    Name = "Child"
+})
+
+local chasingplayer = nil
+local playerChild = ChildTab:AddDropdown({
+    Name = "Select a player to chase",
+    Options = players,
+    Default = "",
+    Callback = function(selected)
+        if game.Players:FindFirstChild(selected) then
+            chasingplayer = selected
+        else
+            chasingplayer = nil
+        end
+    end
+})
+
+ChildTab:AddButton({
+    Name = "Update Player List",
+    Callback = function()
+        local updatedPlayers = updatePlayerList()
+        if playerChild and updatedPlayers then
+            pcall(function()
+                playerChild:Refresh(updatedPlayers)
+            end)
+            if chasingplayer and not game.Players:FindFirstChild(chasingplayer) then
+                chasingplayer = nil
+                pcall(function()
+                    playerChild:Set("")
+                end)
+            end
+        end
+    end
+})
+
+-- Player join/leave events
+game.Players.PlayerAdded:Connect(function()
+    task.wait(0.1)
+    local updatedPlayers = updatePlayerList()
+    if playerChild and updatedPlayers then
+        pcall(function()
+            playerChild:Refresh(updatedPlayers)
+        end)
+    end
+end)
+
+game.Players.PlayerRemoving:Connect(function(player)
+    task.wait(0.1)
+    local updatedPlayers = updatePlayerList()
+    if playerChild and updatedPlayers then
+        pcall(function()
+            playerChild:Refresh(updatedPlayers)
+        end)
+        if chasingplayer == player.Name then
+            chasingplayer = nil
+            pcall(function()
+                playerChild:Set("")
+            end)
+        end
+    end
+end)
+
+ChildTab:AddButton({
+    Name = "Send Child",
+    Callback = function()
+        if not chasingplayer then
+            warn("No player selected!")
+            return
+        end
+        if not workspace:FindFirstChild(pl.Name) or not workspace[pl.Name]:FindFirstChild("FollowCharacter") then
+            local args = {
+                [1] = "CharacterFollowSpawnPlayer",
+                [2] = "BabyBoy"
+            }
+            local success, err = pcall(function()
+                game:GetService("ReplicatedStorage").RE:FindFirstChild("1Bab1yFollo1w"):FireServer(unpack(args))
+            end)
+            if not success then
+                warn("Error sending child: " .. err)
+            end
+        end
+        
+        task.wait(0.2)
+        
+        if workspace:FindFirstChild(pl.Name) then
+            for _, v in pairs(workspace[pl.Name]:GetChildren()) do
+                if v:IsA("BasePart") then
+                    v.CanCollide = true
+                end
+            end
+        end
+
+        local target = chasingplayer
+        if workspace:FindFirstChild(target) and workspace:FindFirstChild(pl.Name) and workspace[pl.Name]:FindFirstChild("FollowCharacter") then
+            workspace[pl.Name].FollowCharacter.Parent = workspace[target]
+
+            if rawget(getgenv(), "RunService") then
+                return
+            end
+
+            getgenv().RunService = game:GetService("RunService").Heartbeat:Connect(function()
+                local followCharacter = workspace[target]:FindFirstChild("FollowCharacter")
+                if followCharacter and followCharacter:FindFirstChild("Torso") and followCharacter.Torso:FindFirstChild("BodyPosition") then
+                    local humanoidRootPart = workspace[target]:FindFirstChild("HumanoidRootPart")
+                    if humanoidRootPart then
+                        followCharacter.Torso.BodyPosition.Position = humanoidRootPart.Position - (humanoidRootPart.CFrame.LookVector * 3)
+                        followCharacter.Torso.BodyGyro.CFrame = humanoidRootPart.CFrame
+                    end
+                end
+            end)
+        end
+    end
+})
+
+ChildTab:AddButton({
+    Name = "Return Child",
+    Callback = function()
+        if rawget(getgenv(), "RunService") then
+            getgenv().RunService:Disconnect()
+            getgenv().RunService = nil
+        end
+
+        local args = { [1] = "DeleteFollowCharacter" }
+        local success, err = pcall(function()
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Bab1yFollo1w"):FireServer(unpack(args))
+        end)
+        if not success then
+            warn("Error returning child: " .. err)
+        end
+
+        local args1 = { [1] = "CharacterFollowSpawnPlayer", [2] = "BabyBoy" }
+        success, err = pcall(function()
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Bab1yFollo1w"):FireServer(unpack(args1))
+        end)
+        if not success then
+            warn("Error spawning child: " .. err)
+        end
+    end
+})
+
+ChildTab:AddToggle({
+    Name = "Spectate Player",
+    Default = false,
+    Callback = function(Value)
+        local Players = game:GetService("Players")
+        local RunService = game:GetService("RunService")
+        local LocalPlayer = Players.LocalPlayer
+        local Camera = workspace.CurrentCamera
+
+        if Value then
+            if not chasingplayer then
+                warn("No player selected to spectate!")
+                return false
+            end
+
+            if not rawget(getgenv(), "CameraConnection") then
+                getgenv().CameraConnection = RunService.Heartbeat:Connect(function()
+                    local targetPlayer = Players:FindFirstChild(chasingplayer)
+                    if targetPlayer and targetPlayer.Character and targetPlayer.Character:FindFirstChild("Humanoid") then
+                        Camera.CameraSubject = targetPlayer.Character.Humanoid
+                    else
+                        if rawget(getgenv(), "CameraConnection") then
+                            getgenv().CameraConnection:Disconnect()
+                            getgenv().CameraConnection = nil
+                        end
+                        Camera.CameraSubject = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") or nil
+                    end
+                end)
+            end
+        else
+            if rawget(getgenv(), "CameraConnection") then
+                getgenv().CameraConnection:Disconnect()
+                getgenv().CameraConnection = nil
+            end
+            if LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Humanoid") then
+                Camera.CameraSubject = LocalPlayer.Character.Humanoid
+            end
+        end
+    end
+})
+
+ChildTab:AddParagraph({
+    Title = "FE",
+    Content = "FE Features"
+})
+
+-- Local Player Tab
+local LocalPlayerTab = Window:MakeTab({"Local Player", "user"})
+
+local Section = LocalPlayerTab:AddSection({
+    Name = "Speed, Gravity and Jump"
+})
+
+LocalPlayerTab:AddTextBox({
+    Name = "Player Speed",
+    PlaceholderText = "Enter speed",
+    Callback = function(value)
+        local speed = tonumber(value)
+        if speed and pl.Character and pl.Character:FindFirstChild("Humanoid") then
+            pl.Character.Humanoid.WalkSpeed = speed
+        else
+            warn("Invalid speed or character not found!")
+        end
+    end
+})
+
+LocalPlayerTab:AddButton({
+    Name = "Reset speed",
+    Callback = function()
+        if pl.Character and pl.Character:FindFirstChild("Humanoid") then
+            pl.Character.Humanoid.WalkSpeed = 16
+        end
+    end
+})
+
+LocalPlayerTab:AddTextBox({
+    Name = "Jump Height",
+    PlaceholderText = "Enter jump height",
+    Callback = function(value)
+        local jumpHeight = tonumber(value)
+        if jumpHeight and pl.Character and pl.Character:FindFirstChild("Humanoid") then
+            pl.Character.Humanoid.JumpPower = jumpHeight
+        else
+            warn("Invalid jump height or character not found!")
+        end
+    end
+})
+
+LocalPlayerTab:AddButton({
+    Name = "Reset Jump",
+    Callback = function()
+        if pl.Character and pl.Character:FindFirstChild("Humanoid") then
+            pl.Character.Humanoid.JumpPower = 50
+        end
+    end
+})
+
+LocalPlayerTab:AddTextBox({
+    Name = "Gravity",
+    PlaceholderText = "Enter gravity",
+    Callback = function(value)
+        local gravity = tonumber(value)
+        if gravity then
+            workspace.Gravity = gravity
+        else
+            warn("Invalid gravity!")
+        end
+    end
+})
+
+LocalPlayerTab:AddButton({
+    Name = "Reset Gravity",
+    Callback = function()
+        workspace.Gravity = 196.2
+    end
+})
+
+Section = LocalPlayerTab:AddSection({
+    Name = "Spam Chat"
+})
+
+local TextSave
+local tcs = game:GetService("TextChatService")
+local chat = tcs.ChatInputBarConfiguration and tcs.ChatInputBarConfiguration.TargetTextChannel
+
+function sendchat(msg)
+    if not msg or msg == "" then return end
+    if tcs.ChatVersion == Enum.ChatVersion.LegacyChatService then
+        local success, err = pcall(function()
+            game:GetService("ReplicatedStorage"):FindFirstChild("DefaultChatSystemChatEvents").SayMessageRequest:FireServer(msg, "All")
+        end)
+        if not success then
+            warn("Error sending chat: " .. err)
+        end
+    elseif chat then
+        local success, err = pcall(function()
+            chat:SendAsync(msg)
+        end)
+        if not success then
+            warn("Error sending chat: " .. err)
+        end
+    end
+end
+
+LocalPlayerTab:AddTextBox({
+    Name = "Enter text",
+    PlaceholderText = "Enter message",
+    Callback = function(text)
+        TextSave = text
+    end
+})
+
+LocalPlayerTab:AddButton({
+    Name = "Send Chat",
+    Callback = function()
+        sendchat(TextSave)
+    end
+})
+
+getgenv().ChaosHubSendDelay = 1
+
+LocalPlayerTab:AddSlider({
+    Name = "Spam Delay",
+    Min = 0.4,
+    Max = 10,
+    Default = 1,
+    Increment = 0.1,
+    Callback = function(Value)
+        getgenv().ChaosHubSendDelay = Value
+    end
+})
+
+LocalPlayerTab:AddToggle({
+    Name = "Spam Chat",
+    Default = false,
+    Flag = "Text Spawning",
+    Callback = function(Value)
+        getgenv().ChaosHubSpawnText = Value
+        while getgenv().ChaosHubSpawnText do
+            sendchat(TextSave)
+            task.wait(getgenv().ChaosHubSendDelay)
+        end
+    end
+})
+
+LocalPlayerTab:AddButton({
+    Name = "Spam chat Hacked By Mafia",
+    Callback = function()
+        if game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.TextChatService then 
+            game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("hi\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\rServer: Hacked by Mafia Hub")
+        else 
+            print("Nothing")
+    end
+end
+})
+
+LocalPlayerTab:AddButton({
+    Name = "Clear Chat",
+    Callback = function()
+        if game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.TextChatService then 
+            game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("hi\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\rServer: Chat Cleared")
+        else 
+            print("Nothing")
+    end
+end
+})
+
+Section = LocalPlayerTab:AddSection({
+    Name = "Headsit"
+})
+
+local selectedHeadSit = nil
+local headSitConnection = nil
+
+local headSitDropdown = LocalPlayerTab:AddDropdown({
+    Name = "Select Player",
+    Default = "",
+    Options = players,
+    Callback = function(Value)
+        selectedHeadSit = Value
+    end
+})
+
+LocalPlayerTab:AddToggle({
+    Name = "Head Sit (Piggyback)",
+    Default = false,
+    Callback = function(bool)
+        local player = game.Players.LocalPlayer
+        local character = player.Character or player.CharacterAdded:Wait()
+        local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+        local humanoid = character:WaitForChild("Humanoid")
+
+        if not selectedHeadSit or selectedHeadSit == "" then
+            warn("No player selected for Head Sit!")
+            return false
+        end
+
+        local selectedPlayer = game.Players:FindFirstChild(selectedHeadSit)
+
+        if bool then
+            if selectedPlayer and selectedPlayer.Character then
+                humanoid.Sit = true
+
+                if headSitConnection then
+                    headSitConnection:Disconnect()
+                end
+
+                headSitConnection = game:GetService("RunService").Heartbeat:Connect(function()
+                    if selectedPlayer.Character and selectedPlayer.Character:FindFirstChild("Head") and humanoid.Sit then
+                        local targetHead = selectedPlayer.Character.Head
+                        humanoidRootPart.CFrame = targetHead.CFrame * CFrame.Angles(0, 0, 0) * CFrame.new(0, 1.6, 0.4)
+                    else
+                        if headSitConnection then
+                            headSitConnection:Disconnect()
+                            headSitConnection = nil
+                            humanoid.Sit = false
+                        end
+                    end
+                end)
+            else
+                warn("Selected player not found or has no Character!")
+                return false
+            end
+        else
+            if headSitConnection then
+                headSitConnection:Disconnect()
+                headSitConnection = nil
+            end
+            humanoid.Sit = false
+        end
+    end
+})
+
+LocalPlayerTab:AddButton({
+    Name = "Refresh list",
+    Callback = function()
+        local updatedPlayers = updatePlayerList()
+        if headSitDropdown and updatedPlayers then
+            pcall(function()
+                headSitDropdown:Refresh(updatedPlayers)
+            end)
+            if selectedHeadSit and not game.Players:FindFirstChild(selectedHeadSit) then
+                selectedHeadSit = nil
+                pcall(function()
+                    headSitDropdown:Set("")
+                end)
+            end
+        end
+    end
+})
+
+local Tab = Window:MakeTab({"Teleports", "tp"}) -- Icon name: 'portal' in lowercase for teleport
+
+-- Teleport Buttons
+local teleportButtons = {
+    {"To the Backstage", CFrame.new(192, 4, 272)},
+    {"To the City Center", CFrame.new(136, 4, 117)},
+    {"To the Crime Area", CFrame.new(-119, -28, 235)},
+    {"To the Deserted House", CFrame.new(986, 4, 63)},
+    {"To the Agency Portal", CFrame.new(672, 4, -296)},
+    {"To the Hideout", CFrame.new(505, -75, 143)},
+    {"To the School", CFrame.new(-312, 4, 211)},
+    {"To the Brook Cafe", CFrame.new(161, 8, 52)},
+    {"To the Starting Point", CFrame.new(-26, 4, -23)},
+    {"To the Main Arch", CFrame.new(-589, 141, -59)},
+    {"To the Hospital", CFrame.new(-309, 4, 71)},
+    {"To the Agency Base", CFrame.new(179, 4, -464)},
+    {"To the Workshop's Hidden Room", CFrame.new(0, 4, -495)},
+    {"To Secret Room 2", CFrame.new(-343, 4, -613)},
+    {"To the Isolated Island", CFrame.new(-1925, 23, 127)},
+    {"To the Hotel Square", CFrame.new(182, 4, 150)},
+    {"Climb Mountain 1", CFrame.new(-670, 251, 765)},
+    {"To the Main Bank", CFrame.new(2.28, 4.65, 254.58)},
+    {"To the Clothing Store", CFrame.new(-46.15, 4.65, 253.20)},
+    {"To the Refuge", CFrame.new(-88.48, 22.05, 262.34)},
+    {"To the Dental Clinic", CFrame.new(-53.58, 22.15, 265.61)},
+    {"To the Cafeteria", CFrame.new(-97.12, 4.65, 254.99)}
+}
+
+for _, btn in ipairs(teleportButtons) do
+    Tab:AddButton({
+        btn[1],
+        function()
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = btn[2]
+        end
+    })
+end
+
+
+local ToolsTab = Window:MakeTab({"Items", "backpack"})
+
+-- Color table
+local colorsTable = {
+    {Name = "Red", Color = Color3.fromRGB(255, 0, 0)},
+    {Name = "Orange", Color = Color3.fromRGB(255, 165, 0)},
+    {Name = "Yellow", Color = Color3.fromRGB(255, 255, 0)},
+    {Name = "Green", Color = Color3.fromRGB(0, 255, 0)},
+    {Name = "Cyan", Color = Color3.fromRGB(0, 255, 255)},
+    {Name = "Blue", Color = Color3.fromRGB(0, 0, 255)},
+    {Name = "Purple", Color = Color3.fromRGB(128, 0, 128)},
+    {Name = "Black", Color = Color3.fromRGB(0, 0, 0)}
+}
+
+-- Button to color the map
+ToolsTab:AddButton({
+    Name = "Color Map Floor [Very OP]",
+    Callback = function()
+      local toolselected = "PaintRoller"
+local dupeamot = 100
+local picktoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l")
+local cleartoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clea1rTool1s")
+local duping = true
+local oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+
+local GripPosTable = {}
+for i = 1, 100 do
+    if i == 1 then
+        table.insert(GripPosTable, Vector3.new(0, 5, 0)) 
+    else
+        table.insert(GripPosTable, Vector3.new((i - 1) * 1.2, 5, 0)) 
+    end
+end
+
+local toolCount = 0
+for _, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+    if tool:IsA("Tool") and tool.Name == toolselected then
+        toolCount = toolCount + 1
+    end
+end
+for _, tool in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+    if tool:IsA("Tool") and tool.Name == toolselected then
+        toolCount = toolCount + 1
+    end
+end
+
+if toolCount >= dupeamot then
+    -- Unequips and moves the tools to the defined positions
+    for i, tool in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+        if tool:IsA("Tool") and tool.Name == toolselected then
+            tool.Parent = game.Players.LocalPlayer.Backpack
+        end
+    end
+    for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if tool:IsA("Tool") and tool.Name == toolselected then
+            tool.Parent = game.Players.LocalPlayer.Character
+            local gripPosIndex = math.min(i, #GripPosTable)
+            local gripPos = GripPosTable[gripPosIndex]
+            tool.GripPos = gripPos
+        end
+    end
+else
+    
+    local args = {
+        [1] = "ClearAllTools"
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer(unpack(args))
+    
+    wait(0.2)
+    
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "Mafia Hub Dupe",
+        Text = "Don't click on anything while the tools are being duped",
+        Button1 = "Got it",
+        Duration = 3
+    })
+    
+    if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+        task.wait()
+        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+    end
+    
+    wait(0.1)
+    
+    if game:GetService("Workspace"):FindFirstChild("Camera") then
+        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+    end
+    
+    for m = 1, 2 do
+        task.wait()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+    end
+    
+    task.wait(0.2)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+    wait(0.5)
+    
+    for aidj, afh in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+        if not afh.Name == toolselected then
+            if afh:IsA("Tool") then
+                afh.Parent = game.Players.LocalPlayer.Backpack
+            end
+        end
+    end
+    
+    for aiefhiewhwf, dvjbvj in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+        if dvjbvj:IsA("Tool") then
+            if not dvjbvj.Name == toolselected then
+                dvjbvj:Destroy()
+            end
+        end
+    end
+    
+    for ttjtjutjutjjtj, ddvdvdsvdfbrnytytmvdv in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+        if ddvdvdsvdfbrnytytmvdv:IsA("Tool") then
+            if not ddvdvdsvdfbrnytytmvdv.name == toolselected then
+                ddvdvdsvdfbrnytytmvdv:Destroy()
+            end
+        end
+    end
+    
+    for findin, toollel in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+        if toollel:IsA("Tool") then
+            if toollel.Name == toolselected then
+                toollllfoun2 = true
+                for basc, aijfw in pairs(toollel:GetDescendants()) do
+                    if aijfw.Name == "Handle" then
+                        aijfw.Name = "Hâ¥aâ¥nâ¥dâ¥lâ¥e"
+                        toollel.Parent = game.Players.LocalPlayer.Backpack
+                        toollel.Parent = game.Players.LocalPlayer.Character
+                        tolllahhhh = toollel
+                        task.wait()
+                    end
+                end
+            else
+                toollllfoun2 = false
+            end
+        end
+    end
+    
+    for fiifi, toollll in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+        if toollll:IsA("Tool") then
+            if toollll.Name == toolselected then
+                toollllfoun = true
+                for nana, jjsjsj in pairs(toollll:GetDescendants()) do
+                    if jjsjsj.Name == "Handle" then
+                        toollll.Parent = game.Players.LocalPlayer.Character
+                        wait()
+                        jjsjsj.Name = "Hâ¥aâ¥nâ¥dâ¥lâ¥e"
+                        toollll.Parent = game.Players.LocalPlayer.Backpack
+                        toollll.Parent = game.Players.LocalPlayer.Character
+                        toolllffel = toollll
+                    end
+                end
+            else
+                toollllfoun = false
+            end
+        end
+    end
+    
+    if toollllfoun == true then
+        if game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil then
+            toollllfoun = false
+        end
+        repeat
+            wait()
+        until game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil
+        toollllfoun = false
+    end
+    
+    if toollllfoun2 == true then
+        if game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil then
+            toollllfoun2 = false
+        end
+        repeat
+            wait()
+        until game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil
+        toollllfoun2 = false
+    end
+    
+    wait(0.1)
+    
+    for m = 1, dupeamot do
+        if duping == false then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+            return
+        end
+        if game:GetService("Workspace"):FindFirstChild("Camera") then
+            game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+        end
+        if m <= dupeamot then
+        elseif m == dupeamot or m >= dupeamot - 1 then
+        end
+        local args = {
+            [1] = "PickingTools",
+            [2] = toolselected
+        }
+        picktoolremote:InvokeServer(unpack(args))
+        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolselected).Parent = game.Players.LocalPlayer.Character
+        if duping == false then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+            return
+        end
+        wait()
+        game:GetService("Players").LocalPlayer.Character[toolselected]:FindFirstChild("Handle").Name = "Hâ¥aâ¥nâ¥dâ¥lâ¥e"
+        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselected).Parent = game.Players.LocalPlayer.Backpack
+        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolselected).Parent = game.Players.LocalPlayer.Character
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Mafia Hub Tool",
+            Text = "Tool Duped: " .. m .. " / " .. dupeamot,
+            Duration = 1
+        })
+        repeat
+            if game:GetService("Workspace"):FindFirstChild("Camera") then
+                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+            end
+            task.wait()
+        until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselected) == nil
+    end
+    
+    game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+    repeat
+        wait()
+    until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+    repeat
+        wait()
+    until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf
+    
+    for z, x in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if x.Name == toolselected then
+            toolamouth = z
+        end
+    end
+    
+    wait()
+    duping = false
+    wait(0.1)
+    
+    for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if tool:IsA("Tool") then
+            tool.Parent = game.Players.LocalPlayer.Character
+            local gripPosIndex = math.min(i, #GripPosTable)
+            local gripPos = GripPosTable[gripPosIndex]
+            if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                tool.GripPos = gripPos
+            else
+                warn("Tool", tool.Name, "is not in character")
+            end
+        end
+    end
+    
+    wait(1)
+    
+    function EquipEverything()
+        
+        local player = game:GetService("Players").LocalPlayer
+        
+        
+        local function changeAnimation(tool)  
+            if tool:FindFirstChild("CycleNextAnimation") then  
+                tool.CycleNextAnimation:FireServer()  
+            end  
+        end
+        
+        
+        for _, tool in ipairs(player.Backpack:GetChildren()) do  
+            if tool:IsA("Tool") and tool.Name == "PaintRoller" then  
+                changeAnimation(tool)  
+            end  
+        end
+        
+        
+        local character = player.Character or player.CharacterAdded:Wait()  
+        for _, tool in ipairs(character:GetChildren()) do  
+            if tool:IsA("Tool") and tool.Name == "PaintRoller" then  
+                changeAnimation(tool)  
+            end  
+        end
+        
+    end
+    
+    EquipEverything()
+    wait(1)
+    EquipEverything()
+    wait(1)
+    EquipEverything()
+    
+    function startSpin()
+        local Players = game:GetService("Players")
+        local RunService = game:GetService("RunService")
+        local player = Players.LocalPlayer
+        local character = player.Character or player.CharacterAdded:Wait()
+        local rootPart = character:WaitForChild("HumanoidRootPart")
+        
+        task.wait(1)  
+        
+        local spinSpeed = math.rad(1750) 
+  
+        RunService.RenderStepped:Connect(function(dt)  
+            rootPart.CFrame = rootPart.CFrame * CFrame.Angles(0, spinSpeed * dt, 0)  
+        end)
+        
+    end
+    
+    startSpin()
+end
+    end
+})
+
+ToolsTab:AddButton({
+    Name = "Color Map Sky [Very OP]",
+    Callback = function()
+       local toolselected = "PaintRoller"
+local dupeamot = 100
+local picktoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l")
+local cleartoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clea1rTool1s")
+local duping = true
+local oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+
+
+local GripPosTable = {}
+for i = 1, 100 do
+    if i == 1 then
+        table.insert(GripPosTable, Vector3.new(2, 50, -50)) 
+    else
+        table.insert(GripPosTable, Vector3.new((i - 1) * 2, 50, -50)) 
+    end
+end
+
+local toolCount = 0
+for _, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+    if tool:IsA("Tool") and tool.Name == toolselected then
+        toolCount = toolCount + 1
+    end
+end
+for _, tool in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+    if tool:IsA("Tool") and tool.Name == toolselected then
+        toolCount = toolCount + 1
+    end
+end
+
+if toolCount >= dupeamot then
+    -- Unequips and moves the tools to the defined positions
+    for i, tool in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+        if tool:IsA("Tool") and tool.Name == toolselected then
+            tool.Parent = game.Players.LocalPlayer.Backpack
+        end
+    end
+    for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if tool:IsA("Tool") and tool.Name == toolselected then
+            tool.Parent = game.Players.LocalPlayer.Character
+            local gripPosIndex = math.min(i, #GripPosTable)
+            local gripPos = GripPosTable[gripPosIndex]
+            tool.GripPos = gripPos
+        end
+    end
+else
+    
+    local args = {
+        [1] = "ClearAllTools"
+    }
+    
+    game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer(unpack(args))
+    
+    wait(0.2)
+    
+    game:GetService("StarterGui"):SetCore("SendNotification", {
+        Title = "Mafia Hub Dupe",
+        Text = "Don't click on anything while the tools are being duped",
+        Button1 = "Got it",
+        Duration = 3
+    })
+    
+    if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+        task.wait()
+        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+    end
+    
+    wait(0.1)
+    
+    if game:GetService("Workspace"):FindFirstChild("Camera") then
+        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+    end
+    
+    for m = 1, 2 do
+        task.wait()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+    end
+    
+    task.wait(0.2)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+    wait(0.5)
+    
+    for aidj, afh in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+        if not afh.Name == toolselected then
+            if afh:IsA("Tool") then
+                afh.Parent = game.Players.LocalPlayer.Backpack
+            end
+        end
+    end
+    
+    for aiefhiewhwf, dvjbvj in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+        if dvjbvj:IsA("Tool") then
+            if not dvjbvj.Name == toolselected then
+                dvjbvj:Destroy()
+            end
+        end
+    end
+    
+    for ttjtjutjutjjtj, ddvdvdsvdfbrnytytmvdv in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+        if ddvdvdsvdfbrnytytmvdv:IsA("Tool") then
+            if not ddvdvdsvdfbrnytytmvdv.name == toolselected then
+                ddvdvdsvdfbrnytytmvdv:Destroy()
+            end
+        end
+    end
+    
+    for findin, toollel in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+        if toollel:IsA("Tool") then
+            if toollel.Name == toolselected then
+                toollllfoun2 = true
+                for basc, aijfw in pairs(toollel:GetDescendants()) do
+                    if aijfw.Name == "Handle" then
+                        aijfw.Name = "Hâ¥aâ¥nâ¥dâ¥lâ¥e"
+                        toollel.Parent = game.Players.LocalPlayer.Backpack
+                        toollel.Parent = game.Players.LocalPlayer.Character
+                        tolllahhhh = toollel
+                        task.wait()
+                    end
+                end
+            else
+                toollllfoun2 = false
+            end
+        end
+    end
+    
+    for fiifi, toollll in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+        if toollll:IsA("Tool") then
+            if toollll.Name == toolselected then
+                toollllfoun = true
+                for nana, jjsjsj in pairs(toollll:GetDescendants()) do
+                    if jjsjsj.Name == "Handle" then
+                        toollll.Parent = game.Players.LocalPlayer.Character
+                        wait()
+                        jjsjsj.Name = "Hâ¥aâ¥nâ¥dâ¥lâ¥e"
+                        toollll.Parent = game.Players.LocalPlayer.Backpack
+                        toollll.Parent = game.Players.LocalPlayer.Character
+                        toolllffel = toollll
+                    end
+                end
+            else
+                toollllfoun = false
+            end
+        end
+    end
+    
+    if toollllfoun == true then
+        if game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil then
+            toollllfoun = false
+        end
+        repeat
+            wait()
+        until game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil
+        toollllfoun = false
+    end
+    
+    if toollllfoun2 == true then
+        if game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil then
+            toollllfoun2 = false
+        end
+        repeat
+            wait()
+        until game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil
+        toollllfoun2 = false
+    end
+    
+    wait(0.1)
+    
+    for m = 1, dupeamot do
+        if duping == false then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+            return
+        end
+        if game:GetService("Workspace"):FindFirstChild("Camera") then
+            game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+        end
+        if m <= dupeamot then
+        elseif m == dupeamot or m >= dupeamot - 1 then
+        end
+        local args = {
+            [1] = "PickingTools",
+            [2] = toolselected
+        }
+        picktoolremote:InvokeServer(unpack(args))
+        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolselected).Parent = game.Players.LocalPlayer.Character
+        if duping == false then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+            return
+        end
+        wait()
+        game:GetService("Players").LocalPlayer.Character[toolselected]:FindFirstChild("Handle").Name = "Hâ¥aâ¥nâ¥dâ¥lâ¥e"
+        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselected).Parent = game.Players.LocalPlayer.Backpack
+        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolselected).Parent = game.Players.LocalPlayer.Character
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Mafia Hub Tool",
+            Text = "Tool Duped: " .. m .. " / " .. dupeamot,
+            Duration = 1
+        })
+        repeat
+            if game:GetService("Workspace"):FindFirstChild("Camera") then
+                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+            end
+            task.wait()
+        until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselected) == nil
+    end
+    
+    game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+    repeat
+        wait()
+    until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+    repeat
+        wait()
+    until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf
+    
+    for z, x in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if x.Name == toolselected then
+            toolamouth = z
+        end
+    end
+    
+    wait()
+    duping = false
+    wait(0.1)
+    
+    for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if tool:IsA("Tool") then
+            tool.Parent = game.Players.LocalPlayer.Character
+            local gripPosIndex = math.min(i, #GripPosTable)
+            local gripPos = GripPosTable[gripPosIndex]
+            if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                tool.GripPos = gripPos
+            else
+                warn("Tool", tool.Name, "is not in character")
+            end
+        end
+    end
+    
+    wait(1)
+    
+    function EquipEverything()
+        
+        local player = game:GetService("Players").LocalPlayer
+        
+        
+        local function changeAnimation(tool)  
+            if tool:FindFirstChild("CycleNextAnimation") then  
+                tool.CycleNextAnimation:FireServer()  
+            end  
+        end
+        
+        
+        for _, tool in ipairs(player.Backpack:GetChildren()) do  
+            if tool:IsA("Tool") and tool.Name == "PaintRoller" then  
+                changeAnimation(tool)  
+            end  
+        end
+        
+        
+        local character = player.Character or player.CharacterAdded:Wait()  
+        for _, tool in ipairs(character:GetChildren()) do  
+            if tool:IsA("Tool") and tool.Name == "PaintRoller" then  
+                changeAnimation(tool)  
+            end  
+        end
+        
+    end
+    
+    EquipEverything()
+    wait(1)
+    EquipEverything()
+    wait(1)
+    EquipEverything()
+    
+    function startSpin()
+        local Players = game:GetService("Players")
+        local RunService = game:GetService("RunService")
+        local player = Players.LocalPlayer
+        local character = player.Character or player.CharacterAdded:Wait()
+        local rootPart = character:WaitForChild("HumanoidRootPart")
+        
+        task.wait(1)  
+        
+        local spinSpeed = math.rad(1750) 
+  
+        RunService.RenderStepped:Connect(function(dt)  
+            rootPart.CFrame = rootPart.CFrame * CFrame.Angles(0, spinSpeed * dt, 0)  
+        end)
+    
+    
+    end
+    
+    startSpin() end
+end
+})
+-- Variable to store the selected color
+local selectedColor = colorsTable[1].Color
+
+-- Function to apply the selected color
+local function applySelectedColor()
+    local LocalPlayer = game:GetService("Players").LocalPlayer
+    local backpack = LocalPlayer.Backpack
+    local character = LocalPlayer.Character
+    local args = {selectedColor}
+
+    local function changeToolColor(tool)
+        if tool:IsA("Tool") and tool.Name == "PaintRoller" then
+            local SetColor = tool:FindFirstChild("SetColor", true)
+            if SetColor then
+                SetColor:FireServer(unpack(args))
+            end
+        end
+    end
+
+    for _, tool in ipairs(backpack:GetChildren()) do
+        changeToolColor(tool)
+    end
+    for _, tool in ipairs(character:GetChildren()) do
+        changeToolColor(tool)
+    end
+end
+
+-- Function to equip and unequip tools
+local function equipAndUnequipTools(callback)
+    local LocalPlayer = game:GetService("Players").LocalPlayer
+    local backpack = LocalPlayer.Backpack
+    local character = LocalPlayer.Character
+
+    local function unequipTools()
+        for _, tool in ipairs(character:GetChildren()) do
+            if tool:IsA("Tool") and tool.Name == "PaintRoller" then
+                tool.Parent = backpack
+            end
+        end
+    end
+
+    local function equipTools()
+        for _, tool in ipairs(backpack:GetChildren()) do
+            if tool:IsA("Tool") and tool.Name == "PaintRoller" then
+                tool.Parent = character
+            end
+        end
+    end
+
+    unequipTools()
+    wait(0.7)
+    if callback then callback() end
+    wait(0.7)
+    equipTools()
+end
+
+-- Dropdown to select the color
+ToolsTab:AddDropdown({
+    Name = "Select Color",
+    Description = "Choose a color to apply",
+    Options = (function()
+        local colorNames = {}
+        for _, color in ipairs(colorsTable) do
+            table.insert(colorNames, color.Name)
+        end
+        return colorNames
+    end)(),
+    Default = colorsTable[1].Name,
+    Callback = function(selected)
+        for _, color in ipairs(colorsTable) do
+            if color.Name == selected then
+                selectedColor = color.Color
+                equipAndUnequipTools(applySelectedColor)
+                break
+            end
+        end
+    end
+})
+
+-- Function to apply RGB cycle
+local function applyRGBCycle()
+    local LocalPlayer = game:GetService("Players").LocalPlayer
+    local backpack = LocalPlayer.Backpack
+    local character = LocalPlayer.Character
+    local toolIndex = 0
+    local totalColors = #colorsTable
+
+    local function changeToolColor(tool, color)
+        if tool:IsA("Tool") and tool.Name == "PaintRoller" then
+            local SetColor = tool:FindFirstChild("SetColor", true)
+            if SetColor then
+                SetColor:FireServer(color)
+            end
+        end
+    end
+
+    for _, tool in ipairs(backpack:GetChildren()) do
+        if tool.Name == "PaintRoller" then
+            toolIndex = toolIndex + 1
+            local color = colorsTable[(toolIndex - 1) % totalColors + 1].Color
+            changeToolColor(tool, color)
+        end
+    end
+    for _, tool in ipairs(character:GetChildren()) do
+        if tool.Name == "PaintRoller" then
+            toolIndex = toolIndex + 1
+            local color = colorsTable[(toolIndex - 1) % totalColors + 1].Color
+            changeToolColor(tool, color)
+        end
+    end
+end
+
+-- Button to apply color cycle
+ToolsTab:AddButton({
+    Name = "Rainbow",
+    Callback = function()
+        equipAndUnequipTools(applyRGBCycle)
+    end
+})
+
+-- Color combinations
+local colorCombinations = {}
+for i, color1 in ipairs(colorsTable) do
+    for j, color2 in ipairs(colorsTable) do
+        if i ~= j then
+            table.insert(colorCombinations, {Name = color1.Name .. " and " .. color2.Name, Colors = {color1.Color, color2.Color}})
+        end
+    end
+end
+
+-- Dropdown for color combinations
+ToolsTab:AddDropdown({
+    Name = "Select Color Combination",
+    Description = "Choose a color combination",
+    Options = (function()
+        local combinationNames = {}
+        for _, combination in ipairs(colorCombinations) do
+            table.insert(combinationNames, combination.Name)
+        end
+        return combinationNames
+    end)(),
+    Default = colorCombinations[1].Name,
+    Callback = function(selected)
+        for _, combination in ipairs(colorCombinations) do
+            if combination.Name == selected then
+                local function applyDoubleColor()
+                    local LocalPlayer = game:GetService("Players").LocalPlayer
+                    local backpack = LocalPlayer.Backpack
+                    local character = LocalPlayer.Character
+                    local toolIndex = 0
+                    local colors = combination.Colors
+
+                    local function changeToolColor(tool, color)
+                        if tool:IsA("Tool") and tool.Name == "PaintRoller" then
+                            local SetColor = tool:FindFirstChild("SetColor", true)
+                            if SetColor then
+                                SetColor:FireServer(color)
+                            end
+                        end
+                    end
+
+                    for _, tool in ipairs(backpack:GetChildren()) do
+                        if tool.Name == "PaintRoller" then
+                            toolIndex = toolIndex + 1
+                            local color = colors[(toolIndex - 1) % 2 + 1]
+                            changeToolColor(tool, color)
+                        end
+                    end
+                    for _, tool in ipairs(character:GetChildren()) do
+                        if tool.Name == "PaintRoller" then
+                            toolIndex = toolIndex + 1
+                            local color = colors[(toolIndex - 1) % 2 + 1]
+                            changeToolColor(tool, color)
+                        end
+                    end
+                end
+                equipAndUnequipTools(applyDoubleColor)
+                break
+            end
+        end
+    end
+})
+
+-- References to remotes
+local cleartoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clea1rTool1s")
+local picktoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l")
+
+-- Item control section
+local Section = ToolsTab:AddSection({
+    Name = "Items Control"
+})
+
+-- Button to clear all tools
+ToolsTab:AddButton({
+    Name = "Clear All Tools",
+    Callback = function()
+        local args = {
+            [1] = "ClearAllTools"
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Clea1rTool1s"):FireServer(unpack(args))
+    end
+})
+
+-- Section to equip items
+Section = ToolsTab:AddSection({
+    Name = "Equip Items"
+})
+
+-- Button to equip all items
+ToolsTab:AddButton({
+    Name = "Equip all items",
+    Callback = function()
+        for _, tool in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+            if tool:IsA("Tool") then
+                tool.Parent = game.Players.LocalPlayer.Character
+            end
+        end
+    end
+})
+
+-- Section for Cross Grip
+Section = ToolsTab:AddSection({
+    Name = "Cross Grip"
+})
+
+-- Button for Giant Joust Blue Cross
+ToolsTab:AddButton({
+    Name = "Giant Joust Blue Cross",
+    Callback = function()
+       toolselcted = "JoustBlue"
+        dupeamot = 175 --Put amouth to dupe
+        picktoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l")
+        cleartoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clea1rTool1s")
+                                duping = true
+                                oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.", Button1 = "I understand" ,Duration=5})
+                                if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                                        task.wait()
+                                        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+                                end
+                                wait(0.1)
+                                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                                        for m=1,2 do task.wait()
+                                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+                                                end
+                                                task.wait(0.2)
+                                                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+                                wait(0.5)
+                                for aidj,afh in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+                                        if afh.Name == toolselcted == false then
+                                                if afh:IsA("Tool") then
+                                                        afh.Parent = game.Players.LocalPlayer.Backpack
+                                                end
+                                        end
+                                end
+                                for aiefhiewhwf,dvjbvj in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+                                        if dvjbvj:IsA("Tool") then
+                                                if dvjbvj.Name == toolselcted == false then
+                                                        dvjbvj:Destroy()
+                                                end
+                                        end
+                                end
+                                for ttjtjutjutjjtj,ddvdvdsvdfbrnytytmvdv in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+                                        if ddvdvdsvdfbrnytytmvdv:IsA("Tool") then
+                                                if ddvdvdsvdfbrnytytmvdv.name == toolselcted == false then
+                                                        ddvdvdsvdfbrnytytmvdv:Destroy()
+                                                end
+                                        end
+                                end
+                                for findin,toollel in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+                                        if toollel:IsA("Tool") then
+                                                if toollel.Name == toolselcted then
+                                                        toollllfoun2 = true
+                                                        for basc,aijfw in pairs(toollel:GetDescendants()) do
+                                                                if aijfw.Name == "Handle" then
+                                                                        aijfw.Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                                                                        toollel.Parent = game.Players.LocalPlayer.Backpack
+                                                                toollel.Parent = game.Players.LocalPlayer.Character
+                                                                tollllahhhh = toollel
+                                                                task.wait()
+                                                        end
+                                                end
+                                        else toollllfoun2 = false
+                                        end
+                                end
+                        end
+                                for fiifi,toollll in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+                                        if toollll:IsA("Tool") then
+                                                if toollll.Name == toolselcted then
+                                                        toollllfoun = true
+                                                        for nana,jjsjsj in pairs(toollll:GetDescendants()) do
+                                                                if jjsjsj.Name == "Handle" then
+                                                                        toollll.Parent = game.Players.LocalPlayer.Character
+                                                wait()
+                                                jjsjsj.Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                                                toollll.Parent = game.Players.LocalPlayer.Backpack
+                                                toollll.Parent = game.Players.LocalPlayer.Character
+                                                toolllffel = toollll
+                                                                end
+                                                        end
+                                                else toollllfoun = false
+                                        end
+                                end
+                                end
+                                if toollllfoun == true then
+                                                                        if game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil then  toollllfoun = false end
+                                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil
+                                toollllfoun = false
+                                end
+                                if toollllfoun2 == true then
+                                        if game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil then toollllfoun2 = false end
+                                        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil
+                                        toollllfoun2 = false
+                                end
+                                wait(1)
+                                for m=1, dupeamot do
+                                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                                        if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                                                if m <= dupeamot then
+                elseif m == dupeamot or m >= dupeamot - 1 then
+                end
+                                        local args = {
+                                                [1] = "PickingTools",
+                                                [2] = toolselcted
+                                        }
+                                        
+                                        picktoolremote:InvokeServer(unpack(args))
+                                        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolselcted).Parent = game.Players.LocalPlayer.Character
+                                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                                        wait()
+                                        game:GetService("Players").LocalPlayer.Character[toolselcted]:FindFirstChild("Handle").Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                                        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselcted).Parent = game.Players.LocalPlayer.Backpack
+                                        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolselcted).Parent = game.Players.LocalPlayer.Character
+                                        repeat         if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                                                 task.wait() until
+                                                 game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselcted) == nil
+                                end
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+                                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf
+                                for z,x in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                                        if x.Name == toolselcted then
+                                                toolamouth = z
+                                        end
+                                end
+                                wait()
+                                duping = false
+   wait(1)
+
+
+local GripPosTable = {
+                      Vector3.new(0, 3, 6),
+                      Vector3.new(1, 3, 6),
+                      Vector3.new(2, 3, 6),
+                      Vector3.new(3, 3, 6),
+                      Vector3.new(4, 3, 6),
+                      Vector3.new(5, 3, 6),
+                      Vector3.new(6, 3, 6),
+                      Vector3.new(0, 3, 17),
+                      Vector3.new(1, 3, 17),
+                      Vector3.new(2, 3, 17),
+                      Vector3.new(3, 3, 17),
+                      Vector3.new(4, 3, 17),
+                      Vector3.new(5, 3, 17),
+                      Vector3.new(6, 3, 17),
+                      Vector3.new(0, 3, 30),
+                      Vector3.new(1, 3, 30),
+                      Vector3.new(2, 3, 30),
+                      Vector3.new(3, 3, 30),
+                      Vector3.new(4, 3, 30),
+                      Vector3.new(5, 3, 30),
+                      Vector3.new(6, 3, 30),
+                      Vector3.new(0, 3, 43),
+                      Vector3.new(1, 3, 43),
+                      Vector3.new(2, 3, 43),
+                      Vector3.new(3, 3, 43),
+                      Vector3.new(4, 3, 43),
+                      Vector3.new(5, 3, 43),
+                      Vector3.new(6, 3, 43),
+                      Vector3.new(0, 3, 55),
+                      Vector3.new(1, 3, 55),
+                      Vector3.new(2, 3, 55),
+                      Vector3.new(3, 3, 55),
+                      Vector3.new(4, 3, 55),
+                      Vector3.new(5, 3, 55),
+                      Vector3.new(6, 3, 55),
+                      Vector3.new(-1 , 3, 6),
+                      Vector3.new(-2 , 3, 6),
+                      Vector3.new(-3 , 3, 6),
+                      Vector3.new(-4 , 3, 6),
+                      Vector3.new(-5 , 3, 6),
+                      Vector3.new(-6 , 3, 6),
+                      Vector3.new(-7 , 3, 6),
+                      Vector3.new(-8 , 3, 6),
+                      Vector3.new(-9 , 3, 6),
+                      Vector3.new(-10 , 3, 6),
+                      Vector3.new(-11 , 3, 6),
+                      Vector3.new(-12 , 3, 6),
+                      Vector3.new(-13 , 3, 6),
+                      Vector3.new(-14 , 3, 6),
+                      Vector3.new(-15 , 3, 6),
+                      Vector3.new(-16 , 3, 6),
+                      Vector3.new(-17 , 3, 6),
+                      Vector3.new(-18 , 3, 6),
+                      Vector3.new(-19 , 3, 6),
+                      Vector3.new(-20 , 3, 6),
+                      Vector3.new(-21 , 3, 6),
+                      Vector3.new(1 , 3, 55),
+                      Vector3.new(2 , 3, 55),
+                      Vector3.new(3 , 3, 55),
+                      Vector3.new(4 , 3, 55),
+                      Vector3.new(5 , 3, 55),
+                      Vector3.new(6 , 3, 55),
+                      Vector3.new(7 , 3, 55),
+                      Vector3.new(8 , 3, 55),
+                      Vector3.new(9 , 3, 55),
+                      Vector3.new(10 , 3, 55),
+                      Vector3.new(11 , 3, 55),
+                      Vector3.new(12 , 3, 55),
+                      Vector3.new(13 , 3, 55),
+                      Vector3.new(14 , 3, 55),
+                      Vector3.new(15 , 3, 55),
+                      Vector3.new(16 , 3, 55),
+                      Vector3.new(17 , 3, 55),
+                      Vector3.new(18 , 3, 55),
+                      Vector3.new(19 , 3, 55),
+                      Vector3.new(20 , 3, 55),
+                      Vector3.new(21 , 3, 55),
+                      Vector3.new(22 , 3, 55),
+                      Vector3.new(-16, 3, 43),
+                                   Vector3.new(-17, 3, 43),
+                      Vector3.new(-18, 3, 43),
+                      Vector3.new(-19, 3, 43),
+                      Vector3.new(-20, 3, 43),
+                      Vector3.new(-21, 3, 43),
+                      Vector3.new(-16, 3, 43),
+                      Vector3.new(-15, 3, 43),
+                      Vector3.new(-16, 3, 43),
+                                                Vector3.new(-17, 3, 55),
+                      Vector3.new(-18, 3, 55),
+                      Vector3.new(-19, 3, 55),
+                      Vector3.new(-20, 3, 55),
+                      Vector3.new(-21, 3, 55),
+                      Vector3.new(-16, 3, 55),
+                      Vector3.new(-15, 3, 55),
+                      Vector3.new(0, 3, 55),
+                      Vector3.new(1, 3, 55),
+                      Vector3.new(2, 3, 55),
+                      Vector3.new(3, 3, 55),
+                      Vector3.new(4, 3, 55),
+                      Vector3.new(5, 3, 55),
+                      Vector3.new(6, 3, 55),
+         Vector3.new(23 , 3, 55),
+         Vector3.new(24 , 3, 55),
+          Vector3.new(25 , 3, 55),
+           Vector3.new(26 , 3, 55),
+            Vector3.new(27 , 3, 55),
+                         Vector3.new(-1 , 3, 30),
+                      Vector3.new(-2 , 3, 30),
+                      Vector3.new(-3 , 3, 30),
+                      Vector3.new(-4 , 3, 30),
+                      Vector3.new(-5 , 3, 30),
+                      Vector3.new(-6 , 3, 30),
+                      Vector3.new(-7 , 3, 30),
+                      Vector3.new(-8 , 3, 30),
+                      Vector3.new(-9 , 3, 30),
+                      Vector3.new(-10 , 3, 30),
+                      Vector3.new(-11 , 3, 30),
+                      Vector3.new(-12 , 3, 30),
+                      Vector3.new(-13 , 3, 30),
+                      Vector3.new(-14 , 3, 30),
+                      Vector3.new(-15 , 3, 30),
+                      Vector3.new(-16 , 3, 30),
+                      Vector3.new(-17 , 3, 30),
+                      Vector3.new(-18 , 3, 30),
+                      Vector3.new(-19 , 3, 30),
+                      Vector3.new(-20 , 3, 30),
+                      Vector3.new(-21 , 3, 30),
+                          Vector3.new(1 , 3, 30),
+                      Vector3.new(2 , 3, 30),
+                      Vector3.new(3 , 3, 30),
+                      Vector3.new(4 , 3, 30),
+                      Vector3.new(5 , 3, 30),
+                      Vector3.new(6 , 3, 30),
+                      Vector3.new(7 , 3, 30),
+                      Vector3.new(8 , 3, 30),
+                      Vector3.new(9 , 3, 30),
+                      Vector3.new(10 , 3, 30),
+                      Vector3.new(11 , 3, 30),
+                      Vector3.new(12 , 3, 30),
+                      Vector3.new(13 , 3, 30),
+                      Vector3.new(14 , 3, 30),
+                      Vector3.new(15 , 3, 30),
+                      Vector3.new(16 , 3, 30),
+                      Vector3.new(17 , 3, 30),
+                      Vector3.new(18 , 3, 30),
+                      Vector3.new(19 , 3, 30),
+                      Vector3.new(20 , 3, 30),
+                      Vector3.new(21 , 3, 30),
+                      Vector3.new(22 , 3, 30),
+                      Vector3.new(23 , 3, 30),
+                      Vector3.new(24 , 3, 30),
+                      Vector3.new(25 , 3, 30),
+                      Vector3.new(26 , 3, 30),
+                      Vector3.new(27 , 3, 30),
+                      Vector3.new(28 , 3, 30),
+                      Vector3.new(28, 3, 6),
+                      Vector3.new(27, 3, 6),
+                      Vector3.new(26, 3, 6),
+                      Vector3.new(25, 3, 6),
+                      Vector3.new(24, 3, 6),
+                      Vector3.new(23, 3, 6),
+                      Vector3.new(22, 3, 6),
+                      Vector3.new(21, 3, 6),
+                      Vector3.new(21, 3, 17),
+                      Vector3.new(22, 3, 17),
+                      Vector3.new(23, 3, 17),
+                      Vector3.new(24, 3, 17),
+                      Vector3.new(25, 3, 17),
+                      Vector3.new(26, 3, 17),
+                      Vector3.new(27, 3, 17),
+                      Vector3.new(28, 3, 17),
+                         }
+                          for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                              if tool:IsA("Tool") then
+                                  -- Move the tool to the player character
+                                  tool.Parent = game.Players.LocalPlayer.Character
+                                  
+                                  -- Setting the grip position index
+                                  local gripPosIndex = math.min(i, #GripPosTable)
+                                  local gripPos = GripPosTable[gripPosIndex]
+                          
+                                  -- Set the grip position (GripPos) if the tool is in the player's character
+                                  if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                                      tool.GripPos = gripPos
+                                  else
+                                      warn("Tool", tool.Name, "is not in character")
+                                  end
+                              end
+                          end
+    end
+})
+
+-- Button for Giant Joust Red Cross
+ToolsTab:AddButton({
+    Name = "Giant Joust Red Cross",
+    Callback = function()
+        toolselcted = "JoustRed"
+        dupeamot = 175 --Put amouth to dupe
+        picktoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l")
+        cleartoolremote = game:GetService("ReplicatedStorage").RE:FindFirstChild("1Clea1rTool1s")
+                                duping = true
+                                oldcf = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.", Button1 = "I understand" ,Duration=5})
+                                if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                                        task.wait()
+                                        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+                                end
+                                wait(0.1)
+                                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                                        for m=1,2 do task.wait()
+                                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+                                                end
+                                                task.wait(0.2)
+                                                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+                                wait(0.5)
+                                for aidj,afh in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+                                        if afh.Name == toolselcted == false then
+                                                if afh:IsA("Tool") then
+                                                        afh.Parent = game.Players.LocalPlayer.Backpack
+                                                end
+                                        end
+                                end
+                                for aiefhiewhwf,dvjbvj in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+                                        if dvjbvj:IsA("Tool") then
+                                                if dvjbvj.Name == toolselcted == false then
+                                                        dvjbvj:Destroy()
+                                                end
+                                        end
+                                end
+                                for ttjtjutjutjjtj,ddvdvdsvdfbrnytytmvdv in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+                                        if ddvdvdsvdfbrnytytmvdv:IsA("Tool") then
+                                                if ddvdvdsvdfbrnytytmvdv.name == toolselcted == false then
+                                                        ddvdvdsvdfbrnytytmvdv:Destroy()
+                                                end
+                                        end
+                                end
+                                for findin,toollel in pairs(game:GetService("Players").LocalPlayer.Character:GetChildren()) do
+                                        if toollel:IsA("Tool") then
+                                                if toollel.Name == toolselcted then
+                                                        toollllfoun2 = true
+                                                        for basc,aijfw in pairs(toollel:GetDescendants()) do
+                                                                if aijfw.Name == "Handle" then
+                                                                        aijfw.Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                                                                        toollel.Parent = game.Players.LocalPlayer.Backpack
+                                                                toollel.Parent = game.Players.LocalPlayer.Character
+                                                                tollllahhhh = toollel
+                                                                task.wait()
+                                                        end
+                                                end
+                                        else toollllfoun2 = false
+                                        end
+                                end
+                        end
+                                for fiifi,toollll in pairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+                                        if toollll:IsA("Tool") then
+                                                if toollll.Name == toolselcted then
+                                                        toollllfoun = true
+                                                        for nana,jjsjsj in pairs(toollll:GetDescendants()) do
+                                                                if jjsjsj.Name == "Handle" then
+                                                                        toollll.Parent = game.Players.LocalPlayer.Character
+                                                wait()
+                                                jjsjsj.Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                                                toollll.Parent = game.Players.LocalPlayer.Backpack
+                                                toollll.Parent = game.Players.LocalPlayer.Character
+                                                toolllffel = toollll
+                                                                end
+                                                        end
+                                                else toollllfoun = false
+                                        end
+                                end
+                                end
+                                if toollllfoun == true then
+                                                                        if game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil then  toollllfoun = false end
+                                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild(toolllffel) == nil
+                                toollllfoun = false
+                                end
+                                if toollllfoun2 == true then
+                                        if game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil then toollllfoun2 = false end
+                                        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild(tollllahhhh) == nil
+                                        toollllfoun2 = false
+                                end
+                                wait(1)
+                                for m=1, dupeamot do
+                                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                                        if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                                                if m <= dupeamot then
+                elseif m == dupeamot or m >= dupeamot - 1 then
+                end
+                                        local args = {
+                                                [1] = "PickingTools",
+                                                [2] = toolselcted
+                                        }
+                                        
+                                        picktoolremote:InvokeServer(unpack(args))
+                                        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolselcted).Parent = game.Players.LocalPlayer.Character
+                                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                                        wait()
+                                        game:GetService("Players").LocalPlayer.Character[toolselcted]:FindFirstChild("Handle").Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                                        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselcted).Parent = game.Players.LocalPlayer.Backpack
+                                        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolselcted).Parent = game.Players.LocalPlayer.Character
+                                        repeat         if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                                                 task.wait() until
+                                                 game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolselcted) == nil
+                                end
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+                                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcf
+                                for z,x in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                                        if x.Name == toolselcted then
+                                                toolamouth = z
+                                        end
+                                end
+                                wait()
+                                duping = false
+   wait(1)
+
+
+local GripPosTable = {
+                      Vector3.new(0, 3, 6),
+                      Vector3.new(1, 3, 6),
+                      Vector3.new(2, 3, 6),
+                      Vector3.new(3, 3, 6),
+                      Vector3.new(4, 3, 6),
+                      Vector3.new(5, 3, 6),
+                      Vector3.new(6, 3, 6),
+                      Vector3.new(0, 3, 17),
+                      Vector3.new(1, 3, 17),
+                      Vector3.new(2, 3, 17),
+                      Vector3.new(3, 3, 17),
+                      Vector3.new(4, 3, 17),
+                      Vector3.new(5, 3, 17),
+                      Vector3.new(6, 3, 17),
+                      Vector3.new(0, 3, 30),
+                      Vector3.new(1, 3, 30),
+                      Vector3.new(2, 3, 30),
+                      Vector3.new(3, 3, 30),
+                      Vector3.new(4, 3, 30),
+                      Vector3.new(5, 3, 30),
+                      Vector3.new(6, 3, 30),
+                      Vector3.new(0, 3, 43),
+                      Vector3.new(1, 3, 43),
+                      Vector3.new(2, 3, 43),
+                      Vector3.new(3, 3, 43),
+                      Vector3.new(4, 3, 43),
+                      Vector3.new(5, 3, 43),
+                      Vector3.new(6, 3, 43),
+                      Vector3.new(0, 3, 55),
+                      Vector3.new(1, 3, 55),
+                      Vector3.new(2, 3, 55),
+                      Vector3.new(3, 3, 55),
+                      Vector3.new(4, 3, 55),
+                      Vector3.new(5, 3, 55),
+                      Vector3.new(6, 3, 55),
+                      Vector3.new(-1 , 3, 6),
+                      Vector3.new(-2 , 3, 6),
+                      Vector3.new(-3 , 3, 6),
+                      Vector3.new(-4 , 3, 6),
+                      Vector3.new(-5 , 3, 6),
+                      Vector3.new(-6 , 3, 6),
+                      Vector3.new(-7 , 3, 6),
+                      Vector3.new(-8 , 3, 6),
+                      Vector3.new(-9 , 3, 6),
+                      Vector3.new(-10 , 3, 6),
+                      Vector3.new(-11 , 3, 6),
+                      Vector3.new(-12 , 3, 6),
+                      Vector3.new(-13 , 3, 6),
+                      Vector3.new(-14 , 3, 6),
+                      Vector3.new(-15 , 3, 6),
+                      Vector3.new(-16 , 3, 6),
+                      Vector3.new(-17 , 3, 6),
+                      Vector3.new(-18 , 3, 6),
+                      Vector3.new(-19 , 3, 6),
+                      Vector3.new(-20 , 3, 6),
+                      Vector3.new(-21 , 3, 6),
+                      Vector3.new(1 , 3, 55),
+                      Vector3.new(2 , 3, 55),
+                      Vector3.new(3 , 3, 55),
+                      Vector3.new(4 , 3, 55),
+                      Vector3.new(5 , 3, 55),
+                      Vector3.new(6 , 3, 55),
+                      Vector3.new(7 , 3, 55),
+                      Vector3.new(8 , 3, 55),
+                      Vector3.new(9 , 3, 55),
+                      Vector3.new(10 , 3, 55),
+                      Vector3.new(11 , 3, 55),
+                      Vector3.new(12 , 3, 55),
+                      Vector3.new(13 , 3, 55),
+                      Vector3.new(14 , 3, 55),
+                      Vector3.new(15 , 3, 55),
+                      Vector3.new(16 , 3, 55),
+                      Vector3.new(17 , 3, 55),
+                      Vector3.new(18 , 3, 55),
+                      Vector3.new(19 , 3, 55),
+                      Vector3.new(20 , 3, 55),
+                      Vector3.new(21 , 3, 55),
+                      Vector3.new(22 , 3, 55),
+                      Vector3.new(-16, 3, 43),
+                                   Vector3.new(-17, 3, 43),
+                      Vector3.new(-18, 3, 43),
+                      Vector3.new(-19, 3, 43),
+                      Vector3.new(-20, 3, 43),
+                      Vector3.new(-21, 3, 43),
+                      Vector3.new(-16, 3, 43),
+                      Vector3.new(-15, 3, 43),
+                      Vector3.new(-16, 3, 43),
+                                                Vector3.new(-17, 3, 55),
+                      Vector3.new(-18, 3, 55),
+                      Vector3.new(-19, 3, 55),
+                      Vector3.new(-20, 3, 55),
+                      Vector3.new(-21, 3, 55),
+                      Vector3.new(-16, 3, 55),
+                      Vector3.new(-15, 3, 55),
+                      Vector3.new(0, 3, 55),
+                      Vector3.new(1, 3, 55),
+                      Vector3.new(2, 3, 55),
+                      Vector3.new(3, 3, 55),
+                      Vector3.new(4, 3, 55),
+                      Vector3.new(5, 3, 55),
+                      Vector3.new(6, 3, 55),
+         Vector3.new(23 , 3, 55),
+         Vector3.new(24 , 3, 55),
+          Vector3.new(25 , 3, 55),
+           Vector3.new(26 , 3, 55),
+            Vector3.new(27 , 3, 55),
+                         Vector3.new(-1 , 3, 30),
+                      Vector3.new(-2 , 3, 30),
+                      Vector3.new(-3 , 3, 30),
+                      Vector3.new(-4 , 3, 30),
+                      Vector3.new(-5 , 3, 30),
+                      Vector3.new(-6 , 3, 30),
+                      Vector3.new(-7 , 3, 30),
+                      Vector3.new(-8 , 3, 30),
+                      Vector3.new(-9 , 3, 30),
+                      Vector3.new(-10 , 3, 30),
+                      Vector3.new(-11 , 3, 30),
+                      Vector3.new(-12 , 3, 30),
+                      Vector3.new(-13 , 3, 30),
+                      Vector3.new(-14 , 3, 30),
+                      Vector3.new(-15 , 3, 30),
+                      Vector3.new(-16 , 3, 30),
+                      Vector3.new(-17 , 3, 30),
+                      Vector3.new(-18 , 3, 30),
+                      Vector3.new(-19 , 3, 30),
+                      Vector3.new(-20 , 3, 30),
+                      Vector3.new(-21 , 3, 30),
+                          Vector3.new(1 , 3, 30),
+                      Vector3.new(2 , 3, 30),
+                      Vector3.new(3 , 3, 30),
+                      Vector3.new(4 , 3, 30),
+                      Vector3.new(5 , 3, 30),
+                      Vector3.new(6 , 3, 30),
+                      Vector3.new(7 , 3, 30),
+                      Vector3.new(8 , 3, 30),
+                      Vector3.new(9 , 3, 30),
+                      Vector3.new(10 , 3, 30),
+                      Vector3.new(11 , 3, 30),
+                      Vector3.new(12 , 3, 30),
+                      Vector3.new(13 , 3, 30),
+                      Vector3.new(14 , 3, 30),
+                      Vector3.new(15 , 3, 30),
+                      Vector3.new(16 , 3, 30),
+                      Vector3.new(17 , 3, 30),
+                      Vector3.new(18 , 3, 30),
+                      Vector3.new(19 , 3, 30),
+                      Vector3.new(20 , 3, 30),
+                      Vector3.new(21 , 3, 30),
+                      Vector3.new(22 , 3, 30),
+                      Vector3.new(23 , 3, 30),
+                      Vector3.new(24 , 3, 30),
+                      Vector3.new(25 , 3, 30),
+                      Vector3.new(26 , 3, 30),
+                      Vector3.new(27 , 3, 30),
+                      Vector3.new(28 , 3, 30),
+                      Vector3.new(28, 3, 6),
+                      Vector3.new(27, 3, 6),
+                      Vector3.new(26, 3, 6),
+                      Vector3.new(25, 3, 6),
+                      Vector3.new(24, 3, 6),
+                      Vector3.new(23, 3, 6),
+                      Vector3.new(22, 3, 6),
+                      Vector3.new(21, 3, 6),
+                      Vector3.new(21, 3, 17),
+                      Vector3.new(22, 3, 17),
+                      Vector3.new(23, 3, 17),
+                      Vector3.new(24, 3, 17),
+                      Vector3.new(25, 3, 17),
+                      Vector3.new(26, 3, 17),
+                      Vector3.new(27, 3, 17),
+                      Vector3.new(28, 3, 17),
+                         }
+                          for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+                              if tool:IsA("Tool") then
+                                  -- Move the tool to the player character
+                                  tool.Parent = game.Players.LocalPlayer.Character
+                                  
+                                  -- Setting the grip position index
+                                  local gripPosIndex = math.min(i, #GripPosTable)
+                                  local gripPos = GripPosTable[gripPosIndex]
+                          
+                                  -- Set the grip position (GripPos) if the tool is in the player's character
+                                  if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                                      tool.GripPos = gripPos
+                                  else
+                                      warn("Tool", tool.Name, "is not in character")
+                                  end
+                              end
+                          end
+    end
+})
+
+-- Button for Fire Cross
+ToolsTab:AddButton({
+    Name = "Fire Cross",
+    Callback = function()
+        local nametools = "crystal cross lel"
+        local oldcframe = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.",
+            Button1 = "I understand",
+            Duration = 5
+        })
+        local toolthatiwanttodupe = "PaperbagFire"
+        local tools = "PaperbagFire"
+        if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+            task.wait()
+            game.Players.LocalPlayer.Character.Humanoid.Sit = false
+        end
+        wait(0.1)
+        local args = {
+            [1] = "ClearAllTools"
+        }
+        cleartoolremote:FireServer(unpack(args))
+        if game:GetService("Workspace"):FindFirstChild("Camera") then
+            game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+        end
+        for m = 1, 2 do
+            task.wait()
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+        end
+        task.wait(0.2)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+        wait(0.3)
+        local duping = true
+        for m = 1, 57 do
+            if duping == false then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                return
+            end
+            if game:GetService("Workspace"):FindFirstChild("Camera") then
+                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+            end
+            local args = {
+                [1] = "PickingTools",
+                [2] = toolthatiwanttodupe
+            }
+            picktoolremote:InvokeServer(unpack(args))
+            game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+            if duping == false then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                return
+            end
+            wait()
+            game:GetService("Players").LocalPlayer.Character[toolthatiwanttodupe]:FindFirstChild("Handle").Name = "Hândlê"
+            game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Backpack
+            game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+            repeat
+                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                    game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+                end
+                wait()
+            until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe) == nil
+        end
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+        local toolgrip = true
+        duping = false
+        wait()
+        local gripBase = CFrame.new(-0.290086746, 0.0755810738, -0.0109872818, 0.0439560413, 0.509705901, -0.859225094, -0.0591450632, -0.857220173, -0.511542261, -0.997281134, 0.0733042806, -0.00753343105)
+        local gripPositions = {
+            Vector3.new(0, 0, 0), Vector3.new(0, 0.5, 0), Vector3.new(0, 1, 0), Vector3.new(0, 1.5, 0),
+            Vector3.new(0, 2, 0), Vector3.new(0, 2.5, 0), Vector3.new(0, 3, 0), Vector3.new(0, 3.5, 0),
+            Vector3.new(0, 4, 0), Vector3.new(0, 4.5, 0), Vector3.new(0, 5, 0), Vector3.new(0, 5, -1),
+            Vector3.new(0, 5, -2), Vector3.new(0, 5, -3), Vector3.new(0, 5, -4), Vector3.new(0, 5, -5),
+            Vector3.new(0, 5, -6), Vector3.new(0, 5, -7), Vector3.new(0, 5, -8), Vector3.new(0, 5, -9),
+            Vector3.new(0, 5, -10), Vector3.new(0, 5.5, -10), Vector3.new(0, 6, -10), Vector3.new(0, 6.5, -10),
+            Vector3.new(0, 7, -10), Vector3.new(0, 7.5, -10), Vector3.new(0, 8, -10), Vector3.new(0, 8.5, -10),
+            Vector3.new(0, 9, -10), Vector3.new(0, 9.5, -10), Vector3.new(0, 10, -10), Vector3.new(0, 10, -5),
+            Vector3.new(0, 10, -4.5), Vector3.new(0, 10, -4), Vector3.new(0, 10, -3.5), Vector3.new(0, 10, -3),
+            Vector3.new(0, 10, -2.5), Vector3.new(0, 10, -2), Vector3.new(0, 10, -1.5), Vector3.new(0, 10, -1),
+            Vector3.new(0, 10, -0.5), Vector3.new(0, 10, 0), Vector3.new(0, 9, -5), Vector3.new(0, 8, -5),
+            Vector3.new(0, 7, -5), Vector3.new(0, 6, -5), Vector3.new(0, 5, -5), Vector3.new(0, 4, -5),
+            Vector3.new(0, 3, -5), Vector3.new(0, 2, -5), Vector3.new(0, 1, -5), Vector3.new(0, 0, -5),
+            Vector3.new(0, 0, -10), Vector3.new(0, 0, -9), Vector3.new(0, 0, -8), Vector3.new(0, 0, -7),
+            Vector3.new(0, 0, -6)
+        }
+        for _, pos in ipairs(gripPositions) do
+            game.Players.LocalPlayer.Backpack[tools].Grip = gripBase + pos
+            game.Players.LocalPlayer.Backpack[tools].Name = nametools
+        end
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcframe
+        wait(0.5)
+        for _, tool in ipairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+            if tool:IsA("Tool") and tool.Name == nametools then
+                tool.Parent = game:GetService("Players").LocalPlayer.Character
+            end
+        end
+    end
+})
+
+-- Button for Crystal Cross
+ToolsTab:AddButton({
+    Name = "Crystal Cross",
+    Callback = function()
+        local nametools = "crystal cross lel"
+        local oldcframe = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.",
+            Button1 = "I understand",
+            Duration = 5
+        })
+        local toolthatiwanttodupe = "Crystal"
+        local tools = "Crystal"
+        if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+            task.wait()
+            game.Players.LocalPlayer.Character.Humanoid.Sit = false
+        end
+        wait(0.1)
+        local args = {
+            [1] = "ClearAllTools"
+        }
+        cleartoolremote:FireServer(unpack(args))
+        if game:GetService("Workspace"):FindFirstChild("Camera") then
+            game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+        end
+        for m = 1, 2 do
+            task.wait()
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+        end
+        task.wait(0.2)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+        wait(0.3)
+        local duping = true
+        for m = 1, 57 do
+            if duping == false then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                return
+            end
+            if game:GetService("Workspace"):FindFirstChild("Camera") then
+                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+            end
+            local args = {
+                [1] = "PickingTools",
+                [2] = toolthatiwanttodupe
+            }
+            picktoolremote:InvokeServer(unpack(args))
+            game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+            if duping == false then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                return
+            end
+            wait()
+            game:GetService("Players").LocalPlayer.Character[toolthatiwanttodupe]:FindFirstChild("Handle").Name = "Hândlê"
+            game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Backpack
+            game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+            repeat
+                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                    game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+                end
+                wait()
+            until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe) == nil
+        end
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+        local toolgrip = true
+        duping = false
+        wait()
+        local gripBase = CFrame.new(-0.290086746, 0.0755810738, -0.0109872818, 0.0439560413, 0.509705901, -0.859225094, -0.0591450632, -0.857220173, -0.511542261, -0.997281134, 0.0733042806, -0.00753343105)
+        local gripPositions = {
+            Vector3.new(0, 0, 0), Vector3.new(0, 0.5, 0), Vector3.new(0, 1, 0), Vector3.new(0, 1.5, 0),
+            Vector3.new(0, 2, 0), Vector3.new(0, 2.5, 0), Vector3.new(0, 3, 0), Vector3.new(0, 3.5, 0),
+            Vector3.new(0, 4, 0), Vector3.new(0, 4.5, 0), Vector3.new(0, 5, 0), Vector3.new(0, 5, -1),
+            Vector3.new(0, 5, -2), Vector3.new(0, 5, -3), Vector3.new(0, 5, -4), Vector3.new(0, 5, -5),
+            Vector3.new(0, 5, -6), Vector3.new(0, 5, -7), Vector3.new(0, 5, -8), Vector3.new(0, 5, -9),
+            Vector3.new(0, 5, -10), Vector3.new(0, 5.5, -10), Vector3.new(0, 6, -10), Vector3.new(0, 6.5, -10),
+            Vector3.new(0, 7, -10), Vector3.new(0, 7.5, -10), Vector3.new(0, 8, -10), Vector3.new(0, 8.5, -10),
+            Vector3.new(0, 9, -10), Vector3.new(0, 9.5, -10), Vector3.new(0, 10, -10), Vector3.new(0, 10, -5),
+            Vector3.new(0, 10, -4.5), Vector3.new(0, 10, -4), Vector3.new(0, 10, -3.5), Vector3.new(0, 10, -3),
+            Vector3.new(0, 10, -2.5), Vector3.new(0, 10, -2), Vector3.new(0, 10, -1.5), Vector3.new(0, 10, -1),
+            Vector3.new(0, 10, -0.5), Vector3.new(0, 10, 0), Vector3.new(0, 9, -5), Vector3.new(0, 8, -5),
+            Vector3.new(0, 7, -5), Vector3.new(0, 6, -5), Vector3.new(0, 5, -5), Vector3.new(0, 4, -5),
+            Vector3.new(0, 3, -5), Vector3.new(0, 2, -5), Vector3.new(0, 1, -5), Vector3.new(0, 0, -5),
+            Vector3.new(0, 0, -10), Vector3.new(0, 0, -9), Vector3.new(0, 0, -8), Vector3.new(0, 0, -7),
+            Vector3.new(0, 0, -6)
+        }
+        for _, pos in ipairs(gripPositions) do
+            game.Players.LocalPlayer.Backpack[tools].Grip = gripBase + pos
+            game.Players.LocalPlayer.Backpack[tools].Name = nametools
+        end
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcframe
+        wait(0.5)
+        for _, tool in ipairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+            if tool:IsA("Tool") and tool.Name == nametools then
+                tool.Parent = game:GetService("Players").LocalPlayer.Character
+            end
+        end
+    end
+})
+
+-- Button for FireX Cross
+ToolsTab:AddButton({
+    Name = "FireX Cross",
+    Callback = function()
+        local nametools = "cross firex lel"
+        local oldcframe = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.",
+            Button1 = "I understand",
+            Duration = 5
+        })
+        local toolthatiwanttodupe = "FireX"
+        local tools = "FireX"
+        if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+            task.wait()
+            game.Players.LocalPlayer.Character.Humanoid.Sit = false
+        end
+        wait(0.1)
+        local args = {
+            [1] = "ClearAllTools"
+        }
+        cleartoolremote:FireServer(unpack(args))
+        if game:GetService("Workspace"):FindFirstChild("Camera") then
+            game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+        end
+        for m = 1, 2 do
+            task.wait()
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+        end
+        task.wait(0.2)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+        wait(0.3)
+        local duping = true
+        for m = 1, 71 do
+            if duping == false then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                return
+            end
+            if game:GetService("Workspace"):FindFirstChild("Camera") then
+                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+            end
+            local args = {
+                [1] = "PickingTools",
+                [2] = toolthatiwanttodupe
+            }
+            picktoolremote:InvokeServer(unpack(args))
+            game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+            if duping == false then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                return
+            end
+            wait()
+            game:GetService("Players").LocalPlayer.Character[toolthatiwanttodupe]:FindFirstChild("Handle").Name = "Hândlê"
+            game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Backpack
+            game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+            repeat
+                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                    game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+                end
+                wait()
+            until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe) == nil
+        end
+        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+        repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+        local toolgrip = true
+        duping = false
+        wait()
+        local gripBase = CFrame.new(0.0538333468, -0.264812469, -0.0177594293, 0.999998629, 0, 0.00164011808, 0, 1, 0, -0.00164011808, 0, 0.999998629)
+        local gripPositions = {
+            Vector3.new(0, -2, 0), Vector3.new(0, -4, 0), Vector3.new(0, -6, 0), Vector3.new(0, -8, 0),
+            Vector3.new(0, -10, 0), Vector3.new(0, -12, 0), Vector3.new(0, -14, 0), Vector3.new(1, -14, 0),
+            Vector3.new(2, -14, 0), Vector3.new(3, -14, 0), Vector3.new(4, -14, 0), Vector3.new(5, -14, 0),
+            Vector3.new(6, -14, 0), Vector3.new(7, -14, 0), Vector3.new(8, -14, 0), Vector3.new(9, -14, 0),
+            Vector3.new(10, -14, 0), Vector3.new(11, -14, 0), Vector3.new(12, -14, 0), Vector3.new(13, -14, 0),
+            Vector3.new(14, -14, 0), Vector3.new(15, -14, 0), Vector3.new(16, -14, 0), Vector3.new(17, -14, 0),
+            Vector3.new(18, -14, 0), Vector3.new(19, -14, 0), Vector3.new(20, -14, 0), Vector3.new(20, -16, 0),
+            Vector3.new(20, -18, 0), Vector3.new(20, -20, 0), Vector3.new(20, -22, 0), Vector3.new(20, -24, 0),
+            Vector3.new(20, -26, 0), Vector3.new(20, -28, 0), Vector3.new(20, -30, 0), Vector3.new(10, -30, 0),
+            Vector3.new(10, -28, 0), Vector3.new(10, -26, 0), Vector3.new(10, -24, 0), Vector3.new(10, -22, 0),
+            Vector3.new(10, -20, 0), Vector3.new(10, -18, 0), Vector3.new(10, -16, 0), Vector3.new(10, -14, 0),
+            Vector3.new(10, -12, 0), Vector3.new(10, -10, 0), Vector3.new(10, -8, 0), Vector3.new(10, -6, 0),
+            Vector3.new(10, -4, 0), Vector3.new(10, -2, 0), Vector3.new(11, -2, 0), Vector3.new(12, -2, 0),
+            Vector3.new(13, -2, 0), Vector3.new(14, -2, 0), Vector3.new(15, -2, 0), Vector3.new(16, -2, 0),
+            Vector3.new(17, -2, 0), Vector3.new(18, -2, 0), Vector3.new(19, -2, 0), Vector3.new(20, -2, 0),
+            Vector3.new(1, -30, 0), Vector3.new(0, -30, 0), Vector3.new(2, -30, 0), Vector3.new(3, -30, 0),
+            Vector3.new(4, -30, 0), Vector3.new(5, -30, 0), Vector3.new(6, -30, 0), Vector3.new(7, -30, 0),
+            Vector3.new(8, -30, 0), Vector3.new(9, -30, 0)
+        }
+        for _, pos in ipairs(gripPositions) do
+            game.Players.LocalPlayer.Backpack[tools].Grip = gripBase + pos
+            game.Players.LocalPlayer.Backpack[tools].Name = nametools
+        end
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcframe
+        wait(0.5)
+        for _, tool in ipairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+            if tool:IsA("Tool") and tool.Name == nametools then
+                tool.Parent = game:GetService("Players").LocalPlayer.Character
+            end
+        end
+    end
+})
+
+-- Section for Aura Grip
+Section = ToolsTab:AddSection({
+    Name = "Aura Grip"
+})
+
+-- Button for Couch Aura
+ToolsTab:AddButton({
+    Name = "Couch Aura",
+    Callback = function()
+    nametools = "Couch Spray lel"
+                oldcframe = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.", Button1 = "I understand" ,Duration=5})
+                toolthatiwanttodupe = "Couch"
+                tools = "Couch"
+                if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                        task.wait()
+                        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+                end
+                wait(0.1)
+                local args = {
+                        [1] = "ClearAllTools"
+                }
+                
+                cleartoolremote:FireServer(unpack(args))
+                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                for m=1,2 do task.wait()
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+                        end
+                        task.wait(0.2)
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+                wait(0.3)
+                duping = true
+                for m=1, 124 do
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                        local args = {
+                                [1] = "PickingTools",
+                                [2] = toolthatiwanttodupe
+                        }
+                        
+                        picktoolremote:InvokeServer(unpack(args))
+                        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        wait()
+                        game:GetService("Players").LocalPlayer.Character[toolthatiwanttodupe]:FindFirstChild("Handle").Name = "HÃ¢Â Â¥aÃ¢Â Â¥nÃ¢Â Â¥dÃ¢Â Â¥lÃ¢Â Â¥e"
+                        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Backpack
+                        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        repeat                 if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end wait() until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe) == nil
+                end
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                toolgrip = true
+                duping = false
+                wait()
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:FindFirstChildOfClass("Humanoid")
+
+
+print("done")
+wait(1)
+local GripPosTable = {
+       Vector3.new(0, 0, 0),
+  Vector3.new(10, 0, 0),
+  Vector3.new(20, 0, 0),
+  Vector3.new(30, 0, 0),
+  Vector3.new(40, 0, 0),
+  Vector3.new(50, 0, 0),
+  Vector3.new(60, 0, 0),                      
+  Vector3.new(-0, 0, 0),
+  Vector3.new(-10, 0, 0),
+  Vector3.new(-20, 0, 0),
+  Vector3.new(-30, 0, 0),
+  Vector3.new(-40, 0, 0),
+  Vector3.new(-50, 0, 0),
+  Vector3.new(-60, 0, 0),
+                      Vector3.new(0, 0, 30),
+  Vector3.new(10, 0, 30),
+  Vector3.new(20, 0, 30),
+  Vector3.new(30, 0, 30),
+  Vector3.new(40, 0, 30),
+  Vector3.new(50, 0, 30),
+  Vector3.new(60, 0, 30),
+  Vector3.new(-0, 0, 30),
+  Vector3.new(-10, 0, 30),
+  Vector3.new(-20, 0, 30),
+  Vector3.new(-30, 0, 30),
+  Vector3.new(-40, 0, 30),
+  Vector3.new(-50, 0, 30),
+  Vector3.new(-60, 0, 30),
+                          Vector3.new(0, 0, 45),
+  Vector3.new(10, 0, 45),
+  Vector3.new(20, 0, 45),
+  Vector3.new(30, 0, 45),
+  Vector3.new(40, 0, 45),
+  Vector3.new(50, 0, 45),
+  Vector3.new(60, 0, 45),
+  Vector3.new(-0, 0, 45),
+  Vector3.new(-10, 0, 45),
+  Vector3.new(-20, 0, 45),
+  Vector3.new(-30, 0, 45),
+  Vector3.new(-40, 0, 45),
+  Vector3.new(-50, 0, 45),
+  Vector3.new(-60, 0, 45),
+  Vector3.new(0, 0, 15),
+  Vector3.new(10, 0, 15),
+  Vector3.new(20, 0, 15),
+  Vector3.new(30, 0, 15),
+  Vector3.new(40, 0, 15),
+  Vector3.new(50, 0, 15),
+  Vector3.new(60, 0, 15),                          
+  Vector3.new(-0, 0, 15),
+  Vector3.new(-10, 0, 15),
+  Vector3.new(-20, 0, 15),
+  Vector3.new(-30, 0, 15),
+  Vector3.new(-40, 0, 15),
+  Vector3.new(-50, 0, 15),
+  Vector3.new(-60, 0, 15),
+Vector3.new(0, 0, -15),
+  Vector3.new(10, 0, -15),
+  Vector3.new(20, 0, -15),
+  Vector3.new(30, 0, -15),
+  Vector3.new(40, 0, -15),
+  Vector3.new(50, 0, -15),
+  Vector3.new(60, 0, -15),                      
+  Vector3.new(-0, 0, -15),
+  Vector3.new(-10, 0, -15),
+  Vector3.new(-20, 0, -15),
+  Vector3.new(-30, 0, -15),
+  Vector3.new(-40, 0, -15),
+  Vector3.new(-50, 0, -15),
+  Vector3.new(-60, 0, -15),
+  Vector3.new(0, 0, -30),
+  Vector3.new(10, 0, -30),
+  Vector3.new(20, 0, -30),
+  Vector3.new(30, 0, -30),
+  Vector3.new(40, 0, -30),
+  Vector3.new(50, 0, -30),
+  Vector3.new(60, 0, -30),                          
+  Vector3.new(-0, 0, -30),
+  Vector3.new(-10, 0, -30),
+  Vector3.new(-20, 0, -30),
+  Vector3.new(-30, 0, -30),
+  Vector3.new(-40, 0, -30),
+  Vector3.new(-50, 0, -30),
+  Vector3.new(-60, 0, -30),
+    Vector3.new(0, 0, -30),
+  Vector3.new(10, 0, -45),
+  Vector3.new(20, 0, -45),
+  Vector3.new(30, 0, -45),
+  Vector3.new(40, 0, -45),
+  Vector3.new(50, 0, -45),
+  Vector3.new(60, 0, -45),                          
+  Vector3.new(-0, 0, -45),
+  Vector3.new(-10, 0, -45),
+  Vector3.new(-20, 0, -45),
+  Vector3.new(-30, 0, -45),
+  Vector3.new(-40, 0, -45),
+  Vector3.new(-50, 0, -45),
+  Vector3.new(-60, 0, -45),
+    Vector3.new(10, 0, -60),
+  Vector3.new(20, 0, -60),
+  Vector3.new(30, 0, -60),
+  Vector3.new(40, 0, -60),
+  Vector3.new(50, 0, -60),
+  Vector3.new(60, 0, -60),                          
+  Vector3.new(-0, 0, -60),
+  Vector3.new(-10, 0, -60),
+  Vector3.new(-20, 0, -60),
+  Vector3.new(-30, 0, -60),
+  Vector3.new(-40, 0, -60),
+  Vector3.new(-50, 0, -60),
+  Vector3.new(-60, 0, -60),
+  Vector3.new(10, 0, -75),
+  Vector3.new(20, 0, -75),
+  Vector3.new(30, 0, -75),
+  Vector3.new(40, 0, -75),
+  Vector3.new(50, 0, -75),
+  Vector3.new(60, 0, -75),                          
+  Vector3.new(-0, 0, -75),
+  Vector3.new(-10, 0, -75),
+  Vector3.new(-20, 0, -75),
+  Vector3.new(-30, 0, -75),
+  Vector3.new(-40, 0, -75),
+  Vector3.new(-50, 0, -75),
+  Vector3.new(-60, 0, -75),
+
+
+     }
+      for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+          if tool:IsA("Tool") then
+              tool.Parent = game.Players.LocalPlayer.Character
+              local gripPosIndex = math.min(i, #GripPosTable)
+              local gripPos = GripPosTable[gripPosIndex]
+              
+              if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                  tool.GripPos = gripPos
+              else
+                  warn("Tool", tool.Name, "is not in character")
+              end
+          end
+      end           
+    end
+})
+
+-- Button for Fire Aura
+ToolsTab:AddButton({
+    Name = "Fire Aura",
+    Callback = function()
+        nametools = "fire Spray lel"
+                oldcframe = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.", Button1 = "I understand" ,Duration=5})
+                toolthatiwanttodupe = "PaperbagFire"
+                tools = "PaperbagFire"
+                if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                        task.wait()
+                        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+                end
+                wait(0.1)
+                local args = {
+                        [1] = "ClearAllTools"
+                }
+                
+                cleartoolremote:FireServer(unpack(args))
+                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                for m=1,2 do task.wait()
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+                        end
+                        task.wait(0.2)
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+                wait(0.3)
+                duping = true
+                for m=1, 124 do
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                        local args = {
+                                [1] = "PickingTools",
+                                [2] = toolthatiwanttodupe
+                        }
+                        
+                        picktoolremote:InvokeServer(unpack(args))
+                        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        wait()
+                        game:GetService("Players").LocalPlayer.Character[toolthatiwanttodupe]:FindFirstChild("Handle").Name = "HÃ¢Â Â¥aÃ¢Â Â¥nÃ¢Â Â¥dÃ¢Â Â¥lÃ¢Â Â¥e"
+                        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Backpack
+                        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        repeat                 if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end wait() until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe) == nil
+                end
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                toolgrip = true
+                duping = false
+                wait()
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:FindFirstChildOfClass("Humanoid")
+
+
+print("done")
+wait(1)
+local GripPosTable = {
+       Vector3.new(0, 0, 0),
+  Vector3.new(10, 0, 0),
+  Vector3.new(20, 0, 0),
+  Vector3.new(30, 0, 0),
+  Vector3.new(40, 0, 0),
+  Vector3.new(50, 0, 0),
+  Vector3.new(60, 0, 0),                      
+  Vector3.new(-0, 0, 0),
+  Vector3.new(-10, 0, 0),
+  Vector3.new(-20, 0, 0),
+  Vector3.new(-30, 0, 0),
+  Vector3.new(-40, 0, 0),
+  Vector3.new(-50, 0, 0),
+  Vector3.new(-60, 0, 0),
+                      Vector3.new(0, 0, 30),
+  Vector3.new(10, 0, 30),
+  Vector3.new(20, 0, 30),
+  Vector3.new(30, 0, 30),
+  Vector3.new(40, 0, 30),
+  Vector3.new(50, 0, 30),
+  Vector3.new(60, 0, 30),
+  Vector3.new(-0, 0, 30),
+  Vector3.new(-10, 0, 30),
+  Vector3.new(-20, 0, 30),
+  Vector3.new(-30, 0, 30),
+  Vector3.new(-40, 0, 30),
+  Vector3.new(-50, 0, 30),
+  Vector3.new(-60, 0, 30),
+                          Vector3.new(0, 0, 45),
+  Vector3.new(10, 0, 45),
+  Vector3.new(20, 0, 45),
+  Vector3.new(30, 0, 45),
+  Vector3.new(40, 0, 45),
+  Vector3.new(50, 0, 45),
+  Vector3.new(60, 0, 45),
+  Vector3.new(-0, 0, 45),
+  Vector3.new(-10, 0, 45),
+  Vector3.new(-20, 0, 45),
+  Vector3.new(-30, 0, 45),
+  Vector3.new(-40, 0, 45),
+  Vector3.new(-50, 0, 45),
+  Vector3.new(-60, 0, 45),
+  Vector3.new(0, 0, 15),
+  Vector3.new(10, 0, 15),
+  Vector3.new(20, 0, 15),
+  Vector3.new(30, 0, 15),
+  Vector3.new(40, 0, 15),
+  Vector3.new(50, 0, 15),
+  Vector3.new(60, 0, 15),                          
+  Vector3.new(-0, 0, 15),
+  Vector3.new(-10, 0, 15),
+  Vector3.new(-20, 0, 15),
+  Vector3.new(-30, 0, 15),
+  Vector3.new(-40, 0, 15),
+  Vector3.new(-50, 0, 15),
+  Vector3.new(-60, 0, 15),
+Vector3.new(0, 0, -15),
+  Vector3.new(10, 0, -15),
+  Vector3.new(20, 0, -15),
+  Vector3.new(30, 0, -15),
+  Vector3.new(40, 0, -15),
+  Vector3.new(50, 0, -15),
+  Vector3.new(60, 0, -15),                      
+  Vector3.new(-0, 0, -15),
+  Vector3.new(-10, 0, -15),
+  Vector3.new(-20, 0, -15),
+  Vector3.new(-30, 0, -15),
+  Vector3.new(-40, 0, -15),
+  Vector3.new(-50, 0, -15),
+  Vector3.new(-60, 0, -15),
+  Vector3.new(0, 0, -30),
+  Vector3.new(10, 0, -30),
+  Vector3.new(20, 0, -30),
+  Vector3.new(30, 0, -30),
+  Vector3.new(40, 0, -30),
+  Vector3.new(50, 0, -30),
+  Vector3.new(60, 0, -30),                          
+  Vector3.new(-0, 0, -30),
+  Vector3.new(-10, 0, -30),
+  Vector3.new(-20, 0, -30),
+  Vector3.new(-30, 0, -30),
+  Vector3.new(-40, 0, -30),
+  Vector3.new(-50, 0, -30),
+  Vector3.new(-60, 0, -30),
+    Vector3.new(0, 0, -30),
+  Vector3.new(10, 0, -45),
+  Vector3.new(20, 0, -45),
+  Vector3.new(30, 0, -45),
+  Vector3.new(40, 0, -45),
+  Vector3.new(50, 0, -45),
+  Vector3.new(60, 0, -45),                          
+  Vector3.new(-0, 0, -45),
+  Vector3.new(-10, 0, -45),
+  Vector3.new(-20, 0, -45),
+  Vector3.new(-30, 0, -45),
+  Vector3.new(-40, 0, -45),
+  Vector3.new(-50, 0, -45),
+  Vector3.new(-60, 0, -45),
+    Vector3.new(10, 0, -60),
+  Vector3.new(20, 0, -60),
+  Vector3.new(30, 0, -60),
+  Vector3.new(40, 0, -60),
+  Vector3.new(50, 0, -60),
+  Vector3.new(60, 0, -60),                          
+  Vector3.new(-0, 0, -60),
+  Vector3.new(-10, 0, -60),
+  Vector3.new(-20, 0, -60),
+  Vector3.new(-30, 0, -60),
+  Vector3.new(-40, 0, -60),
+  Vector3.new(-50, 0, -60),
+  Vector3.new(-60, 0, -60),
+  Vector3.new(10, 0, -75),
+  Vector3.new(20, 0, -75),
+  Vector3.new(30, 0, -75),
+  Vector3.new(40, 0, -75),
+  Vector3.new(50, 0, -75),
+  Vector3.new(60, 0, -75),                          
+  Vector3.new(-0, 0, -75),
+  Vector3.new(-10, 0, -75),
+  Vector3.new(-20, 0, -75),
+  Vector3.new(-30, 0, -75),
+  Vector3.new(-40, 0, -75),
+  Vector3.new(-50, 0, -75),
+  Vector3.new(-60, 0, -75),
+
+
+     }
+      for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+          if tool:IsA("Tool") then
+              tool.Parent = game.Players.LocalPlayer.Character
+              local gripPosIndex = math.min(i, #GripPosTable)
+              local gripPos = GripPosTable[gripPosIndex]
+              
+              if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                  tool.GripPos = gripPos
+              else
+                  warn("Tool", tool.Name, "is not in character")
+              end
+          end
+      end           
+    end
+})
+
+-- Button for Water Aura
+ToolsTab:AddButton({
+    Name = "Water Aura",
+    Callback = function()
+        nametools = "water Spray lel"
+                oldcframe = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.", Button1 = "I understand" ,Duration=5})
+                toolthatiwanttodupe = "WateringCan"
+                tools = "WateringCan"
+                if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                        task.wait()
+                        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+                end
+                wait(0.1)
+                local args = {
+                        [1] = "ClearAllTools"
+                }
+                
+                cleartoolremote:FireServer(unpack(args))
+                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                for m=1,2 do task.wait()
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+                        end
+                        task.wait(0.2)
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+                wait(0.3)
+                duping = true
+                for m=1, 124 do
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                        local args = {
+                                [1] = "PickingTools",
+                                [2] = toolthatiwanttodupe
+                        }
+                        
+                        picktoolremote:InvokeServer(unpack(args))
+                        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        wait()
+                        game:GetService("Players").LocalPlayer.Character[toolthatiwanttodupe]:FindFirstChild("Handle").Name = "HÃ¢Â Â¥aÃ¢Â Â¥nÃ¢Â Â¥dÃ¢Â Â¥lÃ¢Â Â¥e"
+                        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Backpack
+                        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        repeat                 if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end wait() until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe) == nil
+                end
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                toolgrip = true
+                duping = false
+                wait()
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:FindFirstChildOfClass("Humanoid")
+
+
+print("done")
+wait(1)
+local GripPosTable = {
+       Vector3.new(0, 0, 0),
+  Vector3.new(10, 0, 0),
+  Vector3.new(20, 0, 0),
+  Vector3.new(30, 0, 0),
+  Vector3.new(40, 0, 0),
+  Vector3.new(50, 0, 0),
+  Vector3.new(60, 0, 0),                      
+  Vector3.new(-0, 0, 0),
+  Vector3.new(-10, 0, 0),
+  Vector3.new(-20, 0, 0),
+  Vector3.new(-30, 0, 0),
+  Vector3.new(-40, 0, 0),
+  Vector3.new(-50, 0, 0),
+  Vector3.new(-60, 0, 0),
+                      Vector3.new(0, 0, 30),
+  Vector3.new(10, 0, 30),
+  Vector3.new(20, 0, 30),
+  Vector3.new(30, 0, 30),
+  Vector3.new(40, 0, 30),
+  Vector3.new(50, 0, 30),
+  Vector3.new(60, 0, 30),
+  Vector3.new(-0, 0, 30),
+  Vector3.new(-10, 0, 30),
+  Vector3.new(-20, 0, 30),
+  Vector3.new(-30, 0, 30),
+  Vector3.new(-40, 0, 30),
+  Vector3.new(-50, 0, 30),
+  Vector3.new(-60, 0, 30),
+                          Vector3.new(0, 0, 45),
+  Vector3.new(10, 0, 45),
+  Vector3.new(20, 0, 45),
+  Vector3.new(30, 0, 45),
+  Vector3.new(40, 0, 45),
+  Vector3.new(50, 0, 45),
+  Vector3.new(60, 0, 45),
+  Vector3.new(-0, 0, 45),
+  Vector3.new(-10, 0, 45),
+  Vector3.new(-20, 0, 45),
+  Vector3.new(-30, 0, 45),
+  Vector3.new(-40, 0, 45),
+  Vector3.new(-50, 0, 45),
+  Vector3.new(-60, 0, 45),
+  Vector3.new(0, 0, 15),
+  Vector3.new(10, 0, 15),
+  Vector3.new(20, 0, 15),
+  Vector3.new(30, 0, 15),
+  Vector3.new(40, 0, 15),
+  Vector3.new(50, 0, 15),
+  Vector3.new(60, 0, 15),                          
+  Vector3.new(-0, 0, 15),
+  Vector3.new(-10, 0, 15),
+  Vector3.new(-20, 0, 15),
+  Vector3.new(-30, 0, 15),
+  Vector3.new(-40, 0, 15),
+  Vector3.new(-50, 0, 15),
+  Vector3.new(-60, 0, 15),
+Vector3.new(0, 0, -15),
+  Vector3.new(10, 0, -15),
+  Vector3.new(20, 0, -15),
+  Vector3.new(30, 0, -15),
+  Vector3.new(40, 0, -15),
+  Vector3.new(50, 0, -15),
+  Vector3.new(60, 0, -15),                      
+  Vector3.new(-0, 0, -15),
+  Vector3.new(-10, 0, -15),
+  Vector3.new(-20, 0, -15),
+  Vector3.new(-30, 0, -15),
+  Vector3.new(-40, 0, -15),
+  Vector3.new(-50, 0, -15),
+  Vector3.new(-60, 0, -15),
+  Vector3.new(0, 0, -30),
+  Vector3.new(10, 0, -30),
+  Vector3.new(20, 0, -30),
+  Vector3.new(30, 0, -30),
+  Vector3.new(40, 0, -30),
+  Vector3.new(50, 0, -30),
+  Vector3.new(60, 0, -30),                          
+  Vector3.new(-0, 0, -30),
+  Vector3.new(-10, 0, -30),
+  Vector3.new(-20, 0, -30),
+  Vector3.new(-30, 0, -30),
+  Vector3.new(-40, 0, -30),
+  Vector3.new(-50, 0, -30),
+  Vector3.new(-60, 0, -30),
+    Vector3.new(0, 0, -30),
+  Vector3.new(10, 0, -45),
+  Vector3.new(20, 0, -45),
+  Vector3.new(30, 0, -45),
+  Vector3.new(40, 0, -45),
+  Vector3.new(50, 0, -45),
+  Vector3.new(60, 0, -45),                          
+  Vector3.new(-0, 0, -45),
+  Vector3.new(-10, 0, -45),
+  Vector3.new(-20, 0, -45),
+  Vector3.new(-30, 0, -45),
+  Vector3.new(-40, 0, -45),
+  Vector3.new(-50, 0, -45),
+  Vector3.new(-60, 0, -45),
+    Vector3.new(10, 0, -60),
+  Vector3.new(20, 0, -60),
+  Vector3.new(30, 0, -60),
+  Vector3.new(40, 0, -60),
+  Vector3.new(50, 0, -60),
+  Vector3.new(60, 0, -60),                          
+  Vector3.new(-0, 0, -60),
+  Vector3.new(-10, 0, -60),
+  Vector3.new(-20, 0, -60),
+  Vector3.new(-30, 0, -60),
+  Vector3.new(-40, 0, -60),
+  Vector3.new(-50, 0, -60),
+  Vector3.new(-60, 0, -60),
+  Vector3.new(10, 0, -75),
+  Vector3.new(20, 0, -75),
+  Vector3.new(30, 0, -75),
+  Vector3.new(40, 0, -75),
+  Vector3.new(50, 0, -75),
+  Vector3.new(60, 0, -75),                          
+  Vector3.new(-0, 0, -75),
+  Vector3.new(-10, 0, -75),
+  Vector3.new(-20, 0, -75),
+  Vector3.new(-30, 0, -75),
+  Vector3.new(-40, 0, -75),
+  Vector3.new(-50, 0, -75),
+  Vector3.new(-60, 0, -75),
+
+
+     }
+      for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+          if tool:IsA("Tool") then
+              tool.Parent = game.Players.LocalPlayer.Character
+              local gripPosIndex = math.min(i, #GripPosTable)
+              local gripPos = GripPosTable[gripPosIndex]
+              
+              if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                  tool.GripPos = gripPos
+              else
+                  warn("Tool", tool.Name, "is not in character")
+              end
+          end
+      end
+    end
+})
+
+-- Button for Light Aura
+ToolsTab:AddButton({
+    Name = "Light Aura",
+    Callback = function()
+        nametools = "light Spray lel"
+                oldcframe = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Dupe Script",Text="Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.", Button1 = "I understand" ,Duration=5})
+                toolthatiwanttodupe = "FlashLight"
+                tools = "FlashLight"
+                if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                        task.wait()
+                        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+                end
+                wait(0.1)
+                local args = {
+                        [1] = "ClearAllTools"
+                }
+                
+                cleartoolremote:FireServer(unpack(args))
+                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                for m=1,2 do task.wait()
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+                        end
+                        task.wait(0.2)
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+                wait(0.3)
+                duping = true
+                for m=1, 124 do
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                        local args = {
+                                [1] = "PickingTools",
+                                [2] = toolthatiwanttodupe
+                        }
+                        
+                        picktoolremote:InvokeServer(unpack(args))
+                        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        wait()
+                        game:GetService("Players").LocalPlayer.Character[toolthatiwanttodupe]:FindFirstChild("Handle").Name = "HÃ¢Â Â¥aÃ¢Â Â¥nÃ¢Â Â¥dÃ¢Â Â¥lÃ¢Â Â¥e"
+                        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Backpack
+                        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        repeat                 if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end wait() until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe) == nil
+                end
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                toolgrip = true
+                duping = false
+                wait()
+local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:FindFirstChildOfClass("Humanoid")
+
+
+print("done")
+wait(1)
+local GripPosTable = {
+       Vector3.new(0, 0, 0),
+  Vector3.new(10, 0, 0),
+  Vector3.new(20, 0, 0),
+  Vector3.new(30, 0, 0),
+  Vector3.new(40, 0, 0),
+  Vector3.new(50, 0, 0),
+  Vector3.new(60, 0, 0),                      
+  Vector3.new(-0, 0, 0),
+  Vector3.new(-10, 0, 0),
+  Vector3.new(-20, 0, 0),
+  Vector3.new(-30, 0, 0),
+  Vector3.new(-40, 0, 0),
+  Vector3.new(-50, 0, 0),
+  Vector3.new(-60, 0, 0),
+                      Vector3.new(0, 0, 30),
+  Vector3.new(10, 0, 30),
+  Vector3.new(20, 0, 30),
+  Vector3.new(30, 0, 30),
+  Vector3.new(40, 0, 30),
+  Vector3.new(50, 0, 30),
+  Vector3.new(60, 0, 30),
+  Vector3.new(-0, 0, 30),
+  Vector3.new(-10, 0, 30),
+  Vector3.new(-20, 0, 30),
+  Vector3.new(-30, 0, 30),
+  Vector3.new(-40, 0, 30),
+  Vector3.new(-50, 0, 30),
+  Vector3.new(-60, 0, 30),
+                          Vector3.new(0, 0, 45),
+  Vector3.new(10, 0, 45),
+  Vector3.new(20, 0, 45),
+  Vector3.new(30, 0, 45),
+  Vector3.new(40, 0, 45),
+  Vector3.new(50, 0, 45),
+  Vector3.new(60, 0, 45),
+  Vector3.new(-0, 0, 45),
+  Vector3.new(-10, 0, 45),
+  Vector3.new(-20, 0, 45),
+  Vector3.new(-30, 0, 45),
+  Vector3.new(-40, 0, 45),
+  Vector3.new(-50, 0, 45),
+  Vector3.new(-60, 0, 45),
+  Vector3.new(0, 0, 15),
+  Vector3.new(10, 0, 15),
+  Vector3.new(20, 0, 15),
+  Vector3.new(30, 0, 15),
+  Vector3.new(40, 0, 15),
+  Vector3.new(50, 0, 15),
+  Vector3.new(60, 0, 15),                          
+  Vector3.new(-0, 0, 15),
+  Vector3.new(-10, 0, 15),
+  Vector3.new(-20, 0, 15),
+  Vector3.new(-30, 0, 15),
+  Vector3.new(-40, 0, 15),
+  Vector3.new(-50, 0, 15),
+  Vector3.new(-60, 0, 15),
+Vector3.new(0, 0, -15),
+  Vector3.new(10, 0, -15),
+  Vector3.new(20, 0, -15),
+  Vector3.new(30, 0, -15),
+  Vector3.new(40, 0, -15),
+  Vector3.new(50, 0, -15),
+  Vector3.new(60, 0, -15),                      
+  Vector3.new(-0, 0, -15),
+  Vector3.new(-10, 0, -15),
+  Vector3.new(-20, 0, -15),
+  Vector3.new(-30, 0, -15),
+  Vector3.new(-40, 0, -15),
+  Vector3.new(-50, 0, -15),
+  Vector3.new(-60, 0, -15),
+  Vector3.new(0, 0, -30),
+  Vector3.new(10, 0, -30),
+  Vector3.new(20, 0, -30),
+  Vector3.new(30, 0, -30),
+  Vector3.new(40, 0, -30),
+  Vector3.new(50, 0, -30),
+  Vector3.new(60, 0, -30),                          
+  Vector3.new(-0, 0, -30),
+  Vector3.new(-10, 0, -30),
+  Vector3.new(-20, 0, -30),
+  Vector3.new(-30, 0, -30),
+  Vector3.new(-40, 0, -30),
+  Vector3.new(-50, 0, -30),
+  Vector3.new(-60, 0, -30),
+    Vector3.new(0, 0, -30),
+  Vector3.new(10, 0, -45),
+  Vector3.new(20, 0, -45),
+  Vector3.new(30, 0, -45),
+  Vector3.new(40, 0, -45),
+  Vector3.new(50, 0, -45),
+  Vector3.new(60, 0, -45),                          
+  Vector3.new(-0, 0, -45),
+  Vector3.new(-10, 0, -45),
+  Vector3.new(-20, 0, -45),
+  Vector3.new(-30, 0, -45),
+  Vector3.new(-40, 0, -45),
+  Vector3.new(-50, 0, -45),
+  Vector3.new(-60, 0, -45),
+    Vector3.new(10, 0, -60),
+  Vector3.new(20, 0, -60),
+  Vector3.new(30, 0, -60),
+  Vector3.new(40, 0, -60),
+  Vector3.new(50, 0, -60),
+  Vector3.new(60, 0, -60),                          
+  Vector3.new(-0, 0, -60),
+  Vector3.new(-10, 0, -60),
+  Vector3.new(-20, 0, -60),
+  Vector3.new(-30, 0, -60),
+  Vector3.new(-40, 0, -60),
+  Vector3.new(-50, 0, -60),
+  Vector3.new(-60, 0, -60),
+  Vector3.new(10, 0, -75),
+  Vector3.new(20, 0, -75),
+  Vector3.new(30, 0, -75),
+  Vector3.new(40, 0, -75),
+  Vector3.new(50, 0, -75),
+  Vector3.new(60, 0, -75),                          
+  Vector3.new(-0, 0, -75),
+  Vector3.new(-10, 0, -75),
+  Vector3.new(-20, 0, -75),
+  Vector3.new(-30, 0, -75),
+  Vector3.new(-40, 0, -75),
+  Vector3.new(-50, 0, -75),
+  Vector3.new(-60, 0, -75),
+
+
+     }
+      for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+          if tool:IsA("Tool") then
+              tool.Parent = game.Players.LocalPlayer.Character
+              local gripPosIndex = math.min(i, #GripPosTable)
+              local gripPos = GripPosTable[gripPosIndex]
+              
+              if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                  tool.GripPos = gripPos
+              else
+                  warn("Tool", tool.Name, "is not in character")
+              end
+          end
+      end
+    end
+})
+
+-- Button for Smoke Aura
+ToolsTab:AddButton({
+    Name = "Smoke Aura",
+    Callback = function()
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Dupe Script",
+            Text = "Please do not equip any tools or unequip tools or click tools on inventory. It will break the script.",
+            Button1 = "I understand",
+            Duration = 5
+        })
+        local args = {
+            [1] = "ClearAllTools"
+        }
+        cleartoolremote:FireServer(unpack(args))
+        if game:GetService("Workspace"):FindFirstChild("Camera") then
+            game:GetService("Workspace"):FindFirstChild("Camera"):Destroy()
+        end
+        wait(0.3)
+        for i = 1, 124 do
+            local args = {
+                [1] = "PickingTools",
+                [2] = "FireHose"
+            }
+            game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+            local args = {
+                [1] = "FireHose",
+                [2] = "DestroyFireHose"
+            }
+            game:GetService("Players").LocalPlayer.Backpack.FireHose.ToolSound:FireServer(unpack(args))
+        end
+        local player = game.Players.LocalPlayer
+        local character = player.Character or player.CharacterAdded:Wait()
+        local humanoid = character:FindFirstChildOfClass("Humanoid")
+        if humanoid then
+            humanoid.Health = 0
+        end
+        wait(8)
+        local GripPosTable = {
+            Vector3.new(0, 0, 0), Vector3.new(10, 0, 0), Vector3.new(20, 0, 0), Vector3.new(30, 0, 0),
+            Vector3.new(40, 0, 0), Vector3.new(50, 0, 0), Vector3.new(60, 0, 0), Vector3.new(-0, 0, 0),
+            Vector3.new(-10, 0, 0), Vector3.new(-20, 0, 0), Vector3.new(-30, 0, 0), Vector3.new(-40, 0, 0),
+            Vector3.new(-50, 0, 0), Vector3.new(-60, 0, 0), Vector3.new(0, 0, 30), Vector3.new(10, 0, 30),
+            Vector3.new(20, 0, 30), Vector3.new(30, 0, 30), Vector3.new(40, 0, 30), Vector3.new(50, 0, 30),
+            Vector3.new(60, 0, 30), Vector3.new(-0, 0, 30), Vector3.new(-10, 0, 30), Vector3.new(-20, 0, 30),
+            Vector3.new(-30, 0, 30), Vector3.new(-40, 0, 30), Vector3.new(-50, 0, 30), Vector3.new(-60, 0, 30),
+            Vector3.new(0, 0, 45), Vector3.new(10, 0, 45), Vector3.new(20, 0, 45), Vector3.new(30, 0, 45),
+            Vector3.new(40, 0, 45), Vector3.new(50, 0, 45), Vector3.new(60, 0, 45), Vector3.new(-0, 0, 45),
+            Vector3.new(-10, 0, 45), Vector3.new(-20, 0, 45), Vector3.new(-30, 0, 45), Vector3.new(-40, 0, 45),
+            Vector3.new(-50, 0, 45), Vector3.new(-60, 0, 45), Vector3.new(0, 0, 15), Vector3.new(10, 0, 15),
+            Vector3.new(20, 0, 15), Vector3.new(30, 0, 15), Vector3.new(40, 0, 15), Vector3.new(50, 0, 15),
+            Vector3.new(60, 0, 15), Vector3.new(-0, 0, 15), Vector3.new(-10, 0, 15), Vector3.new(-20, 0, 15),
+            Vector3.new(-30, 0, 15), Vector3.new(-40, 0, 15), Vector3.new(-50, 0, 15), Vector3.new(-60, 0, 15),
+            Vector3.new(0, 0, -15), Vector3.new(10, 0, -15), Vector3.new(20, 0, -15), Vector3.new(30, 0, -15),
+            Vector3.new(40, 0, -15), Vector3.new(50, 0, -15), Vector3.new(60, 0, -15), Vector3.new(-0, 0, -15),
+            Vector3.new(-10, 0, -15), Vector3.new(-20, 0, -15), Vector3.new(-30, 0, -15), Vector3.new(-40, 0, -15),
+            Vector3.new(-50, 0, -15), Vector3.new(-60, 0, -15), Vector3.new(0, 0, -30), Vector3.new(10, 0, -30),
+            Vector3.new(20, 0, -30), Vector3.new(30, 0, -30), Vector3.new(40, 0, -30), Vector3.new(50, 0, -30),
+            Vector3.new(60, 0, -30), Vector3.new(-0, 0, -30), Vector3.new(-10, 0, -30), Vector3.new(-20, 0, -30),
+            Vector3.new(-30, 0, -30), Vector3.new(-40, 0, -30), Vector3.new(-50, 0, -30), Vector3.new(-60, 0, -30),
+            Vector3.new(0, 0, -30), Vector3.new(10, 0, -45), Vector3.new(20, 0, -45), Vector3.new(30, 0, -45),
+            Vector3.new(40, 0, -45), Vector3.new(50, 0, -45), Vector3.new(60, 0, -45), Vector3.new(-0, 0, -45),
+            Vector3.new(-10, 0, -45), Vector3.new(-20, 0, -45), Vector3.new(-30, 0, -45), Vector3.new(-40, 0, -45),
+            Vector3.new(-50, 0, -45), Vector3.new(-60, 0, -45), Vector3.new(10, 0, -60), Vector3.new(20, 0, -60),
+            Vector3.new(30, 0, -60), Vector3.new(40, 0, -60), Vector3.new(50, 0, -60), Vector3.new(60, 0, -60),
+            Vector3.new(-0, 0, -60), Vector3.new(-10, 0, -60), Vector3.new(-20, 0, -60), Vector3.new(-30, 0, -60),
+            Vector3.new(-40, 0, -60), Vector3.new(-50, 0, -60), Vector3.new(-60, 0, -60), Vector3.new(10, 0, -75),
+            Vector3.new(20, 0, -75), Vector3.new(30, 0, -75), Vector3.new(40, 0, -75), Vector3.new(50, 0, -75),
+            Vector3.new(60, 0, -75), Vector3.new(-0, 0, -75), Vector3.new(-10, 0, -75), Vector3.new(-20, 0, -75),
+            Vector3.new(-30, 0, -75), Vector3.new(-40, 0, -75), Vector3.new(-50, 0, -75), Vector3.new(-60, 0, -75)
+        }
+        for i, tool in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if tool:IsA("Tool") then
+                tool.Parent = game.Players.LocalPlayer.Character
+                local gripPosIndex = math.min(i, #GripPosTable)
+                local gripPos = GripPosTable[gripPosIndex]
+                if tool:IsDescendantOf(game.Players.LocalPlayer.Character) then
+                    tool.GripPos = gripPos
+                else
+                    warn("Tool ", tool.Name, " is not in the character.")
+                end
+            end
+        end
+    end
+})
+
+-- Section for Special Grip
+Section = ToolsTab:AddSection({
+    Name = "Special Grip"
+})
+
+-- Button for Black Bar
+ToolsTab:AddButton({
+    Name = "Black Bar",
+    Callback = function()
+                        oldcframe = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+                toolthatiwanttodupe = "Box"
+                tools = "Box"
+                if game.Players.LocalPlayer.Character.Humanoid.Sit == true then
+                        task.wait()
+                        game.Players.LocalPlayer.Character.Humanoid.Sit = false
+                end
+                wait(0.1)
+                local args = {
+                        [1] = "ClearAllTools"
+                }
+                
+                cleartoolremote:FireServer(unpack(args))
+                if game:GetService("Workspace"):FindFirstChild("Camera") then
+                        game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                for m=1,2 do task.wait()
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(999999999.414, -490, 999999999.414, 0.974360406, -0.175734088, 0.14049761, -0.133441404, 0.0514053069, 0.989722729, -0.181150302, -0.983094692, 0.0266370922)
+                        end
+                        task.wait(0.2)
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
+                wait(0.3)
+                duping = true
+                for m=1, 76 do
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end
+                        local args = {
+                                [1] = "PickingTools",
+                                [2] = toolthatiwanttodupe
+                        }
+                        
+                        picktoolremote:InvokeServer(unpack(args))
+                        game:GetService("Players").LocalPlayer.Backpack:WaitForChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        if duping == false then game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false return end
+                        wait()
+                        game:GetService("Players").LocalPlayer.Character[toolthatiwanttodupe]:FindFirstChild("Handle").Name = "Hâ ¥aâ ¥nâ ¥dâ ¥lâ ¥e"
+                        game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Backpack
+                        game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(toolthatiwanttodupe).Parent = game.Players.LocalPlayer.Character
+                        repeat                 if game:GetService("Workspace"):FindFirstChild("Camera") then
+                                game:GetService("Workspace"):FindFirstChild("Camera"):Destroy() end wait() until game:GetService("Players").LocalPlayer.Character:FindFirstChild(toolthatiwanttodupe) == nil
+                end
+                game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = false
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") == nil
+                repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+                toolgrip = true
+                duping = false
+                wait(1)
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -1.5, 0)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, 0, 2)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, 0, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, 0, 6)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, 0, 8)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, 0, -8)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, 0, -6)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, 0, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, 0, -2)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -1, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -2, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -3, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -4, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -5, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -6, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -7, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -8, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -9, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10, -10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10.5, -9)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10.5, -8)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10.5, -6)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10, -5)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -11.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -12.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -13.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -14.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -15.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -16.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -17.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -18.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -19.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -20.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -21.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -22.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -23.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -24.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -25.5, -4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -26, -3.5)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -27, -2.5)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -27, -1.5)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -27, -1.5)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -1, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -2, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -3, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -4, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -5, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -6, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -7, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -8, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -9, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10, 10)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10.5, 9)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10.5, 8)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10.5, 6)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10, 5)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -10.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -11.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -12.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -13.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -14.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -15.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -16.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -17.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -18.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -19.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -20.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -21.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -22.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -23.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -24.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -25.5, 4)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -26, 3)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -27, 2)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Backpack[tools].Grip = CFrame.new(-0.784089804, 0.623452663, 0.928474426, 0.611631632, 0.0202812403, -0.790882647, 0.107864097, 0.988198876, 0.108758211, 0.783755124, -0.151827812, 0.602226019) + Vector3.new(0, -27, 0)
+                game.Players.LocalPlayer.Backpack[tools].Name = "Big Black Dick Lmao"
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = oldcframe
+                wait(0.5)
+                for _, tool in ipairs(game:GetService("Players").LocalPlayer.Backpack:GetChildren()) do
+                        if tool:IsA("Tool") then
+                                if tool.Name == nametools then
+                                 tool.Parent = game:GetService("Players").LocalPlayer.Character
+                                end
+                        end
+                end
+    end
+})
+
+local UniversalTab = Window:MakeTab({"Scripts Universais", "plane"})
+
+-- Seção para Scripts Universais
+Section = UniversalTab:AddSection({
+    Name = "Scripts Universais"
+})
+
+-- Botão para Rael Hub Brook
+UniversalTab:AddButton({
+    Name = "Rael Hub Brook",
+    Callback = function()
+        loadstring(game:HttpGet("https://rawscripts.net/raw/The-Mimic-Rael-Hub-20921"))()
+    end
+})
+
+-- Botão para ShiftLock
+UniversalTab:AddButton({
+    Name = "ShiftLock",
+    Callback = function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/N2tiHgyv"))()
+    end
+})
+
+-- Botão para Ghost Hub
+UniversalTab:AddButton({
+    Name = "Ghost Hub",
+    Callback = function()
+        loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-GhostHub-16534"))()
+    end
+})
+
+-- Botão para Infinite Yield
+UniversalTab:AddButton({
+    Name = "InfiniteYield - Cmd",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+    end
+})
+
+-- Botão para TP Tool
+UniversalTab:AddButton({
+    Name = "TP Tool",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/err0r129/KptHadesBlair/main/Bao.lua"))()
+    end
+})
+
+-- Botão para Fly Gui
+UniversalTab:AddButton({
+    Name = "Fly Gui",
+    Callback = function()
+        loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Fly-v3-7412"))()
+    end
+})
+
+-- Botão para Nameless Admin 
+UniversalTab:AddButton({
+    Name = "Nameless Admin - Cmd",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))()
+    end
+})
+
+
+UniversalTab:AddButton({
+    Name = "Telekinesis",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/SAZXHUB/Control-update/main/README.md", true))()
+    end
+})
+
+---------------------------------------------------------------------------------------------------------------------------------
+                                                   -- === Tab 16: Painel Admin === --
+---------------------------------------------------------------------------------------------------------------------------------
+local Tab16 = Window:MakeTab({"Painel Admin", "shield"})
+
+Tab16:AddParagraph({
+    Title = "⚠️ AVISO IMPORTANTE ⚠️",
+    Content = "Só clique nesse botão caso tenha o nome na white list. Se não, será kickado automaticamente!"
+})
+
+Tab16:AddButton({
+    Name = "Painel Admin",
+    Description = "Carregar painel administrativo",
+    Callback = function()
+        loadstring(game:HttpGet("https://ghostbin.axel.org/paste/mj38b/raw"))()
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Painel Admin",
+            Text = "Painel administrativo carregado!",
+            Duration = 5
+        })
+    end
+})
+
+---------------------------------------------------------------------------------------------------------------------------------
+                                                   -- === Tab 17: Skybox === --
+---------------------------------------------------------------------------------------------------------------------------------
+local Tab17 = Window:MakeTab({"Skybox", "cloud"})
+
+Tab17:AddButton({
+    Name = "Ativar Skybox",
+    Description = "Ativar o skybox personalizado",
+    Callback = function()
+        local ReplicatedStorage = game:GetService("ReplicatedStorage")
+        local WearShirt = ReplicatedStorage.Remotes.WearShirt
+        WearShirt:InvokeServer(98679358331654)
+
+        local args = {{100839513065432}}
+        game:GetService("ReplicatedStorage").Remotes.ChangeCharacterBody:InvokeServer(unpack(args))
+        
+        -- Animação
+        local player = game.Players.LocalPlayer
+        local character = player.Character or player.CharacterAdded:Wait()
+        local humanoid = character:WaitForChild("Humanoid")
+        
+        local function LoadTrack(id)
+            local newAnim = Instance.new("Animation")
+            newAnim.AnimationId = "rbxassetid://" .. tostring(id)
+            local newTrack = humanoid:LoadAnimation(newAnim)
+            newTrack.Priority = Enum.AnimationPriority.Action4
+            newTrack:Play(0.1, 1, 1)
+            return newTrack
+        end
+
+        local EmoteId = 101852027997337
+        LoadTrack(EmoteId)
+        
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Skybox",
+            Text = "Skybox ativado com sucesso!",
+            Duration = 5
+        })
+    end
+})
+
+Tab17:AddButton({
+    Name = "Desativar Skybox",
+    Description = "Remover skybox personalizado",
+    Callback = function()
+        local ReplicatedStorage = game:GetService("ReplicatedStorage")
+        local Remote = ReplicatedStorage.Remotes.ResetCharacterAppearance
+        pcall(function()
+            Remote:FireServer()
+        end)
+
+        local player = game.Players.LocalPlayer
+        local character = player.Character
+        if character then
+            local humanoid = character:FindFirstChildOfClass("Humanoid")
+            if humanoid then
+                for _, track in pairs(humanoid:GetPlayingAnimationTracks()) do
+                    track:Stop()
+                end
+            end
+        end
+        
+        game:GetService("StarterGui"):SetCore("SendNotification", {
+            Title = "Skybox",
+            Text = "Skybox desativado!",
+            Duration = 5
+        })
+    end
+})
+
+---------------------------------------------------------------------------------------------------------------------------------
+                                                   -- === Tab 18: Proteção === --
+---------------------------------------------------------------------------------------------------------------------------------
+
+local Tab18 = Window:MakeTab({"Protection", "rbxassetid://11322093465"})
+
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local Workspace = game:GetService("Workspace")
+local RunService = game:GetService("RunService")
+
+local backupTables = {
+    Vehicles = {},
+    Canoes = {},
+    Jets = {},
+    Helis = {},
+    Balls = {}
+}
+
+local TeleportCarro = {}
+function TeleportCarro:MostrarNotificacao(msg)
+    print("ðŸ”” "..msg)
+end
+
+local function AntiFlingLoop(name, getFolderFunc)
+    local active = false
+    task.spawn(function()
+        while true do
+            if active and LocalPlayer.Character then
+                local folder = getFolderFunc()
+                if folder then
+                    for _, item in ipairs(folder:GetChildren()) do
+                        local isMine = false
+                        if name == "Vehicles" then
+                            for _, seat in ipairs(item:GetDescendants()) do
+                                if (seat:IsA("VehicleSeat") or seat:IsA("Seat")) and seat.Occupant and seat.Occupant.Parent == LocalPlayer.Character then
+                                    isMine = true
+                                    break
+                                end
+                            end
+                        elseif name == "Canoes" then
+                            local owner = item:FindFirstChild("Owner")
+                            isMine = owner and owner.Value == LocalPlayer
+                        elseif name == "Jets" or name == "Helis" then
+                            isMine = item.Name == LocalPlayer.Name
+                        end
+                        if not isMine then
+                            table.insert(backupTables[name], item:Clone())
+                            item:Destroy()
+                        end
+                    end
+                end
+            end
+            task.wait(0.03)
+        end
+    end)
+    return function(state)
+        active = state
+        TeleportCarro:MostrarNotificacao(name.." "..(state and "ativado!" or "desativado!"))
+        if not state then
+            for _, item in ipairs(backupTables[name]) do
+                local parentFolder = getFolderFunc()
+                if parentFolder then item.Parent = parentFolder end
+            end
+            backupTables[name] = {}
+        end
+    end
+end
+ 
+Tab18:AddSection({
+    Name = "Anti bug (atualizado)"
+})
+
+Tab18:AddButton({
+    Name = "Protection Bug (Irreversible)",
+    Description = "Create a protection against the Bugs/Scripters",
+    Callback = function()
+        local Players = game:GetService("Players")
+        local LocalPlayer = Players.LocalPlayer
+
+        local blacklist = {
+            {Name = "water", Class = "Part"},
+        }
+
+        local function neutralize(part)
+            if part and part:IsA("BasePart") then
+                pcall(function()
+                    part.Anchored = true
+                    part.CanCollide = false
+                    part.Massless = true
+                    part.Transparency = 1
+                    part:ClearAllChildren()
+                end)
+                pcall(function()
+                    part:Destroy()
+                end)
+            end
+        end
+
+        workspace.DescendantAdded:Connect(function(obj)
+            for _, rule in ipairs(blacklist) do
+                if obj.Name == rule.Name and obj.ClassName == rule.Class then
+                    neutralize(obj)
+                end
+            end
+        end)
+
+        for _, obj in ipairs(workspace:GetDescendants()) do
+            for _, rule in ipairs(blacklist) do
+                if obj.Name == rule.Name and obj.ClassName == rule.Class then
+                    neutralize(obj)
+                end
+            end
+        end
+
+        task.spawn(function()
+            while task.wait(0.25) do
+                for _, rule in ipairs(blacklist) do
+                    for _, v in next, getnilinstances() do
+                        if v.Name == rule.Name and v.ClassName == rule.Class then
+                            neutralize(v)
+                        end
+                    end
+                end
+            end
+        end)
+
+        LocalPlayer.CharacterAdded:Connect(function(char)
+            local hum = char:WaitForChild("Humanoid")
+            hum.Touched:Connect(function(hit)
+                for _, rule in ipairs(blacklist) do
+                    if hit.Name == rule.Name and hit.ClassName == rule.Class then
+                        neutralize(hit)
+                    end
+                end
+            end)
+        end)
+    end
+})
+   
+-- TOGGLES DE ANTI-FLING / SIT
+Tab18:AddToggle({
+    Name = "Anti fling Carros",
+    Description = "",
+    Default = false,
+    Callback = AntiFlingLoop("Vehicles", function()
+        return Workspace:FindFirstChild("Vehicles")
+    end)
+})
+
+Tab18:AddToggle({
+    Name = "Anti Canoe Fling",
+    Description = "",
+    Default = false,
+    Callback = AntiFlingLoop("Canoes", function()
+        local workspaceCom = Workspace:FindFirstChild("WorkspaceCom")
+        return workspaceCom and workspaceCom:FindFirstChild("001_CanoeStorage")
+    end)
+})
+
+Tab18:AddToggle({
+    Name = "Anti Fling Jets",
+    Description = "",
+    Default = false,
+    Callback = AntiFlingLoop("Jets", function()
+        local folder = Workspace:FindFirstChild("WorkspaceCom")
+        if folder and folder:FindFirstChild("001_Airport") then
+            local storage = folder["001_Airport"]:FindFirstChild("AirportHanger")
+            if storage then return storage:FindFirstChild("001_JetStorage") and storage["001_JetStorage"]:FindFirstChild("JetAirport") end
+        end
+    end)
+})
+
+Tab18:AddToggle({
+    Name = "Anti Fling Helicópteros",
+    Description = "",
+    Default = false,
+    Callback = AntiFlingLoop("Helis", function()
+        local folder = Workspace:FindFirstChild("WorkspaceCom")
+        return folder and folder:FindFirstChild("001_HeliStorage") and folder["001_HeliStorage"]:FindFirstChild("PoliceStationHeli")
+    end)
+})
+
+Tab18:AddToggle({
+    Name = "Anti Fling Ball",
+    Description = "",
+    Default = false,
+    Callback = AntiFlingLoop("Balls", function()
+        local folder = Workspace:FindFirstChild("WorkspaceCom")
+        return folder and folder:FindFirstChild("001_SoccerBalls")
+    end)
+})
+
+-- Anti Sit
+local antiSitActive = false
+Tab18:AddToggle({
+    Name = "Anti Sit",
+    Description = "",
+    Default = false,
+    Callback = function(state)
+        antiSitActive = state
+        TeleportCarro:MostrarNotificacao("Anti Sit "..(state and "ativado!" or "desativado!"))
+        task.spawn(function()
+            while antiSitActive and LocalPlayer.Character do
+                local humanoid = LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+                if humanoid then
+                    humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+                    if humanoid:GetState() == Enum.HumanoidStateType.Seated then
+                        humanoid:ChangeState(Enum.HumanoidStateType.GettingUp)
+                    end
+                end
+                task.wait(0.05)
+            end
+            if not antiSitActive then
+                local humanoid = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+                if humanoid then
+                    humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+                end
+            end
+        end)
+    end
+})
+
+Tab18:AddToggle({
+    Name = "Anti-Lag",
+    Description = "",
+    Default = false,
+    Callback = function(state)
+        local Players = game:GetService("Players")
+        local dedupLock = {}
+        local IGNORED_PLAYER
+
+        if not state then return end
+
+        local function marcarIgnorado(player)
+            IGNORED_PLAYER = player
+        end
+
+        local function isTargetTool(inst)
+            return inst:IsA("Tool")
+        end
+
+        local function gatherTools(player)
+            local found = {}
+            local containers = {}
+            if player.Character then table.insert(containers, player.Character) end
+            local backpack = player:FindFirstChildOfClass("Backpack")
+            if backpack then table.insert(containers, backpack) end
+            local sg = player:FindFirstChild("StarterGear")
+            if sg then table.insert(containers, sg) end
+            for _, container in ipairs(containers) do
+                for _, child in ipairs(container:GetChildren()) do
+                    if isTargetTool(child) then table.insert(found, child) end
+                end
+            end
+            return found
+        end
+
+        local function dedupePlayer(player)
+            if player == IGNORED_PLAYER then return end
+            if dedupLock[player] then return end
+            dedupLock[player] = true
+            local tools = gatherTools(player)
+            if #tools > 1 then
+                for i = 2, #tools do pcall(function() tools[i]:Destroy() end) end
+            end
+            dedupLock[player] = false
+        end
+
+        local function hookPlayer(player)
+            if not IGNORED_PLAYER then marcarIgnorado(player) end
+            task.defer(dedupePlayer, player)
+            local function setupChar(char)
+                task.delay(0.5, function() dedupePlayer(player) end)
+                char.ChildAdded:Connect(function(child)
+                    if isTargetTool(child) then task.delay(0.1, function() dedupePlayer(player) end) end
+                end)
+            end
+            if player.Character then setupChar(player.Character) end
+            player.CharacterAdded:Connect(setupChar)
+            local backpack = player:WaitForChild("Backpack", 10)
+            if backpack then
+                backpack.ChildAdded:Connect(function(child)
+                    if isTargetTool(child) then task.delay(0.1, function() dedupePlayer(player) end) end
+                end)
+            end
+            local sg = player:FindFirstChild("StarterGear") or player:WaitForChild("StarterGear", 10)
+            if sg then
+                sg.ChildAdded:Connect(function(child)
+                    if isTargetTool(child) then task.delay(0.1, function() dedupePlayer(player) end) end
+                end)
+            end
+        end
+
+        Players.PlayerAdded:Connect(hookPlayer)
+        for _, plr in ipairs(Players:GetPlayers()) do hookPlayer(plr) end
+
+        task.spawn(function()
+            while state do
+                for _, plr in ipairs(Players:GetPlayers()) do dedupePlayer(plr) end
+                task.wait(2)
+            end
+        end)
+    end
+})
+
+Tab18:AddToggle({
+    Name = "Anti Fling Portas",
+    Description = "",
+    Default = false,
+    Callback = function(state)
+        if not _G.hiddenDoors then _G.hiddenDoors = {} end
+        if state then
+            _G.hiddenDoors = {}
+            for _, obj in ipairs(workspace:GetDescendants()) do
+                if obj:IsA("BasePart") and obj.Name:lower():find("door") then
+                    local doorData = {
+                        door = obj,
+                        originalTransparency = obj.Transparency,
+                        originalCanCollide = obj.CanCollide,
+                        originalCastShadow = obj.CastShadow
+                    }
+                    obj.Transparency = 1
+                    obj.CanCollide = false
+                    obj.CastShadow = false
+                    for _, child in ipairs(obj:GetChildren()) do
+                        if child:IsA("BasePart") then
+                            child.Transparency = 1
+                            child.CanCollide = false
+                        elseif child:IsA("SurfaceGui") or child:IsA("BillboardGui") then
+                            child.Enabled = false
+                        end
+                    end
+                    table.insert(_G.hiddenDoors, doorData)
+                end
+            end
+            print("ðŸ”§ " .. #_G.hiddenDoors .. " portas escondidas!")
+        else
+            for _, doorData in ipairs(_G.hiddenDoors or {}) do
+                if doorData.door and doorData.door.Parent then
+                    doorData.door.Transparency = doorData.originalTransparency
+                    doorData.door.CanCollide = doorData.originalCanCollide
+                    doorData.door.CastShadow = doorData.originalCastShadow
+                    for _, child in ipairs(doorData.door:GetChildren()) do
+                        if child:IsA("BasePart") then
+                            child.Transparency = 0
+                            child.CanCollide = true
+                        elseif child:IsA("SurfaceGui") or child:IsA("BillboardGui") then
+                            child.Enabled = true
+                        end
+                    end
+                end
+            end
+            print("âœ… " .. #(_G.hiddenDoors or {}) .. " portas restauradas com funcionalidade!")
+            _G.hiddenDoors = {}
+        end
+    end
+})
+
+---------------------------------------------------------------------------------------------------------------------------------
+                                                   -- === Tab 19: Lag === --
+---------------------------------------------------------------------------------------------------------------------------------
+
+local Tab19 = Window:MakeTab({"Lag", "skull"})
+
+Tab19:AddButton({
+    Name = " Expansão de Domínio by Hiro",
+    Callback = function()
+        -- Serviços
+        local TextChatService = game:GetService("TextChatService")
+        local Lighting = game:GetService("Lighting")
+        local Players = game:GetService("Players")
+        local ReplicatedStorage = game:GetService("ReplicatedStorage")
+        local Player = Players.LocalPlayer
+        
+        -- Variáveis globais para controle
+        _G.DominioAtivo = true
+        _G.AudioLoopAtivo = true
+        _G.AtaqueLoopAtivo = true
+
+        -- Aviso no chat
+        if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then 
+            TextChatService.TextChannels.RBXGeneral:SendAsync(
+                "Saia!\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r [] Expansão de Domínio..."
+            )
+        else 
+            print("Ataque funcionando kkkkk")
+        end
+
+        -- Função para ativar Expansão de Dominio
+        local function ativarDominio()
+            local char = Player.Character or Player.CharacterAdded:Wait()
+            local hrp = char:WaitForChild("HumanoidRootPart")
+
+            local dominio = Instance.new("Model", workspace)
+            dominio.Name = "InfiniteVoid"
+            _G.DominioModel = dominio
+
+            local esfera = Instance.new("Part")
+            esfera.Shape = Enum.PartType.Ball
+            esfera.Size = Vector3.new(300, 300, 300)
+            esfera.Position = hrp.Position
+            esfera.Anchored = true
+            esfera.CanCollide = false
+            esfera.Material = Enum.Material.ForceField
+            esfera.Transparency = 0.3
+            esfera.Color = Color3.fromRGB(0, 0, 0)
+            esfera.Parent = dominio
+
+            local luz = Instance.new("PointLight", esfera)
+            luz.Color = Color3.fromRGB(0, 153, 255)
+            luz.Brightness = 10
+            luz.Range = 300
+            _G.DominioLight = luz
+
+            local ps = Instance.new("ParticleEmitter", esfera)
+            ps.Texture = "rbxassetid://243660364"
+            ps.Color = ColorSequence.new(Color3.fromRGB(0, 153, 255))
+            ps.LightEmission = 1
+            ps.Size = NumberSequence.new(3)
+            ps.Transparency = NumberSequence.new(0.2)
+            ps.Rate = 500  -- Reduzido para melhor performance
+            ps.Lifetime = NumberRange.new(2)
+            ps.Speed = NumberRange.new(0)
+            ps.VelocitySpread = 180
+            _G.DominioParticles = ps
+
+            local som = Instance.new("Sound", esfera)
+            som.SoundId = "rbxassetid://1843527678"
+            som.Volume = 2
+            som.Looped = true
+            som:Play()
+            _G.DominioSound = som
+
+            local skyOld = Lighting:FindFirstChildOfClass("Sky")
+            if skyOld then
+                skyOld.Parent = nil
+            end
+
+            local newSky = Instance.new("Sky", Lighting)
+            newSky.SkyboxBk = "rbxassetid://159454299"
+            newSky.SkyboxDn = "rbxassetid://159454296"
+            newSky.SkyboxFt = "rbxassetid://159454293"
+            newSky.SkyboxLf = "rbxassetid://159454286"
+            newSky.SkyboxRt = "rbxassetid://159454300"
+            newSky.SkyboxUp = "rbxassetid://159454288"
+            _G.DominioSky = newSky
+        end
+
+        -- Executa a expansão de domínio
+        ativarDominio()
+
+        -- Audio em loop infinito no jogador (com controle)
+        local selectedAudioID = 140031333626044
+
+        task.spawn(function()
+            while _G.AudioLoopAtivo do
+                local remote = ReplicatedStorage:FindFirstChild("RE") and ReplicatedStorage.RE:FindFirstChild("1Gu1nSound1s")
+                if remote then
+                    remote:FireServer(workspace, selectedAudioID, 1)
+                end
+
+                local root = Player.Character and Player.Character:FindFirstChild("HumanoidRootPart")
+                if root and _G.AudioLoopAtivo then
+                    local sound = Instance.new("Sound")
+                    sound.SoundId = "rbxassetid://" .. selectedAudioID
+                    sound.Volume = 1
+                    sound.Looped = false
+                    sound.Parent = root
+                    sound:Play()
+                    sound.Ended:Connect(function() 
+                        if sound.Parent then
+                            sound:Destroy() 
+                        end
+                    end)
+                    task.wait(sound.TimeLength + 0.1)
+                else
+                    break
+                end
+            end
+        end)
+
+        -- ========================
+        -- ATAQUE COM ARMA: Assault
+        -- ========================
+
+        local RE = ReplicatedStorage:WaitForChild("RE")
+        local ClearEvent = RE:FindFirstChild("1Clea1rTool1s")
+        local ToolEvent = RE:FindFirstChild("1Too1l")
+        local FireEvent = RE:FindFirstChild("1Gu1n")
+
+        -- Limpa ferramentas
+        local function clearAllTools()
+            if ClearEvent then
+                ClearEvent:FireServer("ClearAllTools")
+            end
+        end
+
+        -- Solicita Assault
+        local function getAssault()
+            if ToolEvent then
+                ToolEvent:InvokeServer("PickingTools", "Assault")
+            end
+        end
+
+        -- Verifica se recebeu Assault
+        local function hasAssault()
+            return Player.Backpack:FindFirstChild("Assault") ~= nil
+        end
+
+        -- Atira em parte
+        local function fireAtPart(targetPart)
+            local gunScript = Player.Backpack:FindFirstChild("Assault")
+                and Player.Backpack.Assault:FindFirstChild("GunScript_Local")
+
+            if not gunScript or not targetPart then return end
+
+            local args = {
+                targetPart,
+                targetPart,
+                Vector3.new(1e14, 1e14, 1e14),
+                targetPart.Position,
+                gunScript:FindFirstChild("MuzzleEffect"),
+                gunScript:FindFirstChild("HitEffect"),
+                0,
+                0,
+                { false },
+                {
+                    25,
+                    Vector3.new(100, 100, 100),
+                    BrickColor.new(29),
+                    0.25,
+                    Enum.Material.SmoothPlastic,
+                    0.25
+                },
+                true,
+                false
+            }
+
+            FireEvent:FireServer(unpack(args))
+        end
+
+        -- Atira em todos os jogadores
+        local function fireAtAllPlayers(times)
+            for i = 1, times do
+                if not _G.AtaqueLoopAtivo then break end
+                for _, player in ipairs(Players:GetPlayers()) do
+                    if not _G.AtaqueLoopAtivo then break end
+                    if player ~= Player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+                        fireAtPart(player.Character.HumanoidRootPart)
+                        task.wait(0.2)  -- Aumentado para reduzir lag
+                    end
+                end
+            end
+        end
+
+        -- Loop automático de ataque (com controle)
+        task.spawn(function()
+            while _G.AtaqueLoopAtivo do
+                clearAllTools()
+                getAssault()
+
+                local waitTime = 0
+                repeat
+                    task.wait(0.2)
+                    waitTime = waitTime + 0.2
+                    if waitTime > 5 then break end  -- Timeout de 5 segundos
+                until hasAssault() or not _G.AtaqueLoopAtivo
+
+                if hasAssault() and _G.AtaqueLoopAtivo then
+                    fireAtAllPlayers(2)  -- Reduzido de 3 para 2
+                    task.wait(2)  -- Aumentado o wait entre ciclos
+                else
+                    task.wait(1)
+                end
+            end
+        end)
+    end
+})
+
+Tab19:AddButton({
+    Name = "Cancelar Expansão de Domínio ",
+    Callback = function()
+        -- Para todos os loops
+        _G.DominioAtivo = false
+        _G.AudioLoopAtivo = false
+        _G.AtaqueLoopAtivo = false
+        
+        local Lighting = game:GetService("Lighting")
+        local workspace = game:GetService("Workspace")
+        local ReplicatedStorage = game:GetService("ReplicatedStorage")
+        local Players = game:GetService("Players")
+        local Player = Players.LocalPlayer
+
+        -- Remove o modelo de domínio
+        local dominio = workspace:FindFirstChild("InfiniteVoid")
+        if dominio then
+            dominio:Destroy()
+        end
+
+        -- Remove todos os sons criados dentro do personagem
+        if Player.Character then
+            for _, sound in ipairs(Player.Character:GetDescendants()) do
+                if sound:IsA("Sound") then
+                    sound:Stop()
+                    sound:Destroy()
+                end
+            end
+        end
+
+        -- Remove sons da workspace
+        for _, sound in ipairs(workspace:GetDescendants()) do
+            if sound:IsA("Sound") and (sound.SoundId:find("1843527678") or sound.SoundId:find("140031333626044")) then
+                sound:Stop()
+                sound:Destroy()
+            end
+        end
+
+        -- Restaura o Sky original
+        for _, obj in ipairs(Lighting:GetChildren()) do
+            if obj:IsA("Sky") then
+                obj:Destroy()
+            end
+        end
+
+        local defaultSky = Instance.new("Sky")
+        defaultSky.SkyboxBk = "rbxassetid://7018684000"
+        defaultSky.SkyboxDn = "rbxassetid://7018684000"
+        defaultSky.SkyboxFt = "rbxassetid://7018684000"
+        defaultSky.SkyboxLf = "rbxassetid://7018684000"
+        defaultSky.SkyboxRt = "rbxassetid://7018684000"
+        defaultSky.SkyboxUp = "rbxassetid://7018684000"
+        defaultSky.Parent = Lighting
+
+        -- Limpa variáveis globais
+        _G.DominioModel = nil
+        _G.DominioLight = nil
+        _G.DominioParticles = nil
+        _G.DominioSound = nil
+        _G.DominioSky = nil
+
+        -- Mensagem visual no Output
+        print("Expansão de Domínio  cancelada com sucesso!")
+
+        -- Opcional: mensagem no chat
+        local TextChatService = game:GetService("TextChatService")
+        if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
+            TextChatService.TextChannels.RBXGeneral:SendAsync("Expansão de Domínio  foi cancelada!")
+        end
+    end
+})
+
+Tab19:AddButton({
+    Name = "Sharingan", 
+    Callback = function()
+        -- Serviços
+        local TextChatService = game:GetService("TextChatService")
+        local Lighting = game:GetService("Lighting")
+        local Players = game:GetService("Players")
+        local ReplicatedStorage = game:GetService("ReplicatedStorage")
+        local Player = Players.LocalPlayer
+        
+        -- Variáveis globais para controle
+        _G.SharinganAtivo = true
+        _G.SharinganAudioLoopAtivo = true
+        _G.SharinganAtaqueLoopAtivo = true
+
+        -- Aviso no chat
+        if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then 
+            TextChatService.TextChannels.RBXGeneral:SendAsync(
+                "hi\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r[] Sharingan Ativado..."
+            )
+        else 
+            print("Sharingan ativado!")
+        end
+
+        -- Função para ativar Sharingan (versão otimizada)
+        local function ativarSharingan()
+            local char = Player.Character or Player.CharacterAdded:Wait()
+            local hrp = char:WaitForChild("HumanoidRootPart")
+
+            local sharingan = Instance.new("Model", workspace)
+            sharingan.Name = "SharinganEffect"
+            _G.SharinganModel = sharingan
+
+            -- Esfera menor e mais otimizada
+            local esfera = Instance.new("Part")
+            esfera.Shape = Enum.PartType.Ball
+            esfera.Size = Vector3.new(150, 150, 150)  -- Reduzido pela metade
+            esfera.Position = hrp.Position
+            esfera.Anchored = true
+            esfera.CanCollide = false
+            esfera.Material = Enum.Material.Neon
+            esfera.Transparency = 0.4
+            esfera.Color = Color3.fromRGB(255, 0, 0)
+            esfera.Parent = sharingan
+
+            local luz = Instance.new("PointLight", esfera)
+            luz.Color = Color3.fromRGB(255, 0, 0)
+            luz.Brightness = 5  -- Reduzido
+            luz.Range = 150
+            _G.SharinganLight = luz
+
+            -- Partículas reduzidas
+            local ps = Instance.new("ParticleEmitter", esfera)
+            ps.Texture = "rbxassetid://243660364"
+            ps.Color = ColorSequence.new(Color3.fromRGB(255, 0, 0))
+            ps.LightEmission = 0.8
+            ps.Size = NumberSequence.new(2)
+            ps.Transparency = NumberSequence.new(0.3)
+            ps.Rate = 300  -- Reduzido significativamente
+            ps.Lifetime = NumberRange.new(1.5)
+            ps.Speed = NumberRange.new(0)
+            ps.VelocitySpread = 90
+            _G.SharinganParticles = ps
+
+            -- Som com volume mais baixo
+            local som = Instance.new("Sound", esfera)
+            som.SoundId = "rbxassetid://1843527678"
+            som.Volume = 1.5
+            som.Looped = true
+            som:Play()
+            _G.SharinganSound = som
+
+            -- Sky mais simples
+            local skyOld = Lighting:FindFirstChildOfClass("Sky")
+            if skyOld then
+                skyOld.Parent = nil
+            end
+
+            local newSky = Instance.new("Sky", Lighting)
+            newSky.SkyboxBk = "rbxassetid://159454299"
+            newSky.SkyboxDn = "rbxassetid://159454296"
+            newSky.SkyboxFt = "rbxassetid://159454293"
+            newSky.SkyboxLf = "rbxassetid://159454286"
+            newSky.SkyboxRt = "rbxassetid://159454300"
+            newSky.SkyboxUp = "rbxassetid://159454288"
+            _G.SharinganSky = newSky
+        end
+
+        -- Executa o sharingan
+        ativarSharingan()
+
+        -- Áudio em loop otimizado
+        local selectedAudioID = 405593386
+
+        task.spawn(function()
+            while _G.SharinganAudioLoopAtivo do
+                local remote = ReplicatedStorage:FindFirstChild("RE") and ReplicatedStorage.RE:FindFirstChild("1Gu1nSound1s")
+                if remote then
+                    remote:FireServer(workspace, selectedAudioID, 0.8)  -- Volume reduzido
+                end
+
+                local root = Player.Character and Player.Character:FindFirstChild("HumanoidRootPart")
+                if root and _G.SharinganAudioLoopAtivo then
+                    local sound = Instance.new("Sound")
+                    sound.SoundId = "rbxassetid://" .. selectedAudioID
+                    sound.Volume = 0.8  -- Volume reduzido
+                    sound.Looped = false
+                    sound.Parent = root
+                    sound:Play()
+                    sound.Ended:Connect(function() 
+                        if sound.Parent then
+                            sound:Destroy() 
+                        end
+                    end)
+                    task.wait(sound.TimeLength + 0.2)  -- Wait aumentado
+                else
+                    break
+                end
+            end
+        end)
+
+        -- ========================
+        -- ATAQUE COM ARMA OTIMIZADO
+        -- ========================
+
+        local RE = ReplicatedStorage:WaitForChild("RE")
+        local ClearEvent = RE:FindFirstChild("1Clea1rTool1s")
+        local ToolEvent = RE:FindFirstChild("1Too1l")
+        local FireEvent = RE:FindFirstChild("1Gu1n")
+
+        -- Limpa ferramentas
+        local function clearAllTools()
+            if ClearEvent then
+                ClearEvent:FireServer("ClearAllTools")
+            end
+        end
+
+        -- Solicita Assault
+        local function getAssault()
+            if ToolEvent then
+                ToolEvent:InvokeServer("PickingTools", "Assault")
+            end
+        end
+
+        -- Verifica se recebeu Assault
+        local function hasAssault()
+            return Player.Backpack:FindFirstChild("Assault") ~= nil
+        end
+
+        -- Atira em parte
+        local function fireAtPart(targetPart)
+            local gunScript = Player.Backpack:FindFirstChild("Assault")
+                and Player.Backpack.Assault:FindFirstChild("GunScript_Local")
+
+            if not gunScript or not targetPart then return end
+
+            local args = {
+                targetPart,
+                targetPart,
+                Vector3.new(1e14, 1e14, 1e14),
+                targetPart.Position,
+                gunScript:FindFirstChild("MuzzleEffect"),
+                gunScript:FindFirstChild("HitEffect"),
+                0,
+                0,
+                { false },
+                {
+                    25,
+                    Vector3.new(100, 100, 100),
+                    BrickColor.new(29),
+                    0.25,
+                    Enum.Material.SmoothPlastic,
+                    0.25
+                },
+                true,
+                false
+            }
+
+            FireEvent:FireServer(unpack(args))
+        end
+
+        -- Atira em todos os jogadores (otimizado)
+        local function fireAtAllPlayers(times)
+            for i = 1, times do
+                if not _G.SharinganAtaqueLoopAtivo then break end
+                for _, player in ipairs(Players:GetPlayers()) do
+                    if not _G.SharinganAtaqueLoopAtivo then break end
+                    if player ~= Player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+                        fireAtPart(player.Character.HumanoidRootPart)
+                        task.wait(0.3)  -- Wait aumentado para reduzir lag
+                    end
+                end
+            end
+        end
+
+        -- Loop automático de ataque otimizado
+        task.spawn(function()
+            while _G.SharinganAtaqueLoopAtivo do
+                clearAllTools()
+                getAssault()
+
+                local waitTime = 0
+                repeat
+                    task.wait(0.3)
+                    waitTime = waitTime + 0.3
+                    if waitTime > 5 then break end  -- Timeout de 5 segundos
+                until hasAssault() or not _G.SharinganAtaqueLoopAtivo
+
+                if hasAssault() and _G.SharinganAtaqueLoopAtivo then
+                    fireAtAllPlayers(1)  -- Reduzido para 1 ciclo
+                    task.wait(3)  -- Wait aumentado significativamente
+                else
+                    task.wait(2)
+                end
+            end
+        end)
+    end
+})
+
+Tab19:AddButton({
+    Name = "Cancelar Sharingan ",
+    Callback = function()
+        -- Para todos os loops do Sharingan
+        _G.SharinganAtivo = false
+        _G.SharinganAudioLoopAtivo = false
+        _G.SharinganAtaqueLoopAtivo = false
+        
+        -- Serviços
+        local Lighting = game:GetService("Lighting")
+        local Players = game:GetService("Players")
+        local workspace = game:GetService("Workspace")
+        local TextChatService = game:GetService("TextChatService")
+        local Player = Players.LocalPlayer
+
+        -- Remove o modelo do Sharingan
+        local sharingan = workspace:FindFirstChild("SharinganEffect")
+        if sharingan then
+            sharingan:Destroy()
+        end
+
+        -- Remove sons e partículas criadas dentro do personagem
+        if Player.Character then
+            for _, obj in ipairs(Player.Character:GetDescendants()) do
+                if obj:IsA("Sound") or obj:IsA("ParticleEmitter") then
+                    obj:Destroy()
+                end
+            end
+        end
+
+        -- Remove sons extras da workspace (se existirem)
+        for _, obj in ipairs(workspace:GetDescendants()) do
+            if obj:IsA("Sound") and (obj.SoundId:find("1843527678") or obj.SoundId:find("405593386")) then
+                obj:Stop()
+                obj:Destroy()
+            end
+        end
+
+        -- Limpa qualquer Sky customizado
+        for _, obj in ipairs(Lighting:GetChildren()) do
+            if obj:IsA("Sky") then
+                obj:Destroy()
+            end
+        end
+
+        -- Restaura um céu padrão
+        local defaultSky = Instance.new("Sky")
+        defaultSky.SkyboxBk = "rbxassetid://7018684000"
+        defaultSky.SkyboxDn = "rbxassetid://7018684000"
+        defaultSky.SkyboxFt = "rbxassetid://7018684000"
+        defaultSky.SkyboxLf = "rbxassetid://7018684000"
+        defaultSky.SkyboxRt = "rbxassetid://7018684000"
+        defaultSky.SkyboxUp = "rbxassetid://7018684000"
+        defaultSky.Parent = Lighting
+
+        -- Limpa variáveis globais
+        _G.SharinganModel = nil
+        _G.SharinganLight = nil
+        _G.SharinganParticles = nil
+        _G.SharinganSound = nil
+        _G.SharinganSky = nil
+
+        -- Mensagem no chat
+        if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
+            TextChatService.TextChannels.RBXGeneral:SendAsync("[] Sharingan Cancelado ")
+        else
+            print("Sharingan cancelado com sucesso.")
+        end
+
+        print("Efeitos do Sharingan removidos e ambiente restaurado ")
+    end
+})
+
+local Section = Tab19:AddSection({"Troll all methods"})
+
+Tab19:AddToggle({
+    Name = "Bug All",
+    Default = false,
+    Callback = function(state)
+        local Players = game:GetService("Players")
+        local ReplicatedStorage = game:GetService("ReplicatedStorage")
+        local Player = Players.LocalPlayer
+
+        local RE = ReplicatedStorage:WaitForChild("RE")
+        local ClearEvent = RE:FindFirstChild("1Clea1rTool1s")
+        local ToolEvent = RE:FindFirstChild("1Too1l")
+        local FireEvent = RE:FindFirstChild("1Gu1n")
+
+        if state then
+            -- ==============================
+            -- INICIO DO LOOP DE ATAQUE
+            -- ==============================
+            _G.BugAllAtivo = true
+
+            local function clearAllTools()
+                if ClearEvent then
+                    ClearEvent:FireServer("ClearAllTools")
+                end
+            end
+
+            local function getAssault()
+                if ToolEvent then
+                    ToolEvent:InvokeServer("PickingTools", "Assault")
+                end
+            end
+
+            local function hasAssault()
+                return Player.Backpack:FindFirstChild("Assault") ~= nil
+            end
+
+            local function fireAtPart(targetPart)
+                local gunScript = Player.Backpack:FindFirstChild("Assault")
+                    and Player.Backpack.Assault:FindFirstChild("GunScript_Local")
+
+                if not gunScript or not targetPart then return end
+
+                local args = {
+                    targetPart,
+                    targetPart,
+                    Vector3.new(1e14, 1e14, 1e14),
+                    targetPart.Position,
+                    gunScript:FindFirstChild("MuzzleEffect"),
+                    gunScript:FindFirstChild("HitEffect"),
+                    0,
+                    0,
+                    { false },
+                    {
+                        25,
+                        Vector3.new(100, 100, 100),
+                        BrickColor.new(29),
+                        0.25,
+                        Enum.Material.SmoothPlastic,
+                        0.25
+                    },
+                    true,
+                    false
+                }
+
+                FireEvent:FireServer(unpack(args))
+            end
+
+            local function fireAtAllPlayers(times)
+                for i = 1, times do
+                    for _, player in ipairs(Players:GetPlayers()) do
+                        if player ~= Player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+                            fireAtPart(player.Character.HumanoidRootPart)
+                            task.wait(0.1)
+                        end
+                    end
+                end
+            end
+
+            -- Loop continua enquanto o toggle estiver ativo
+            task.spawn(function()
+                while _G.BugAllAtivo do
+                    clearAllTools()
+                    getAssault()
+                    repeat task.wait(0.2) until hasAssault()
+                    fireAtAllPlayers(3)
+                    task.wait(1)
+                end
+            end)
+
+        else
+            -- ==============================
+            -- DESATIVAR LOOP DE ATAQUE
+            -- ==============================
+            _G.BugAllAtivo = false
+        end
+    end
+})
+
+Tab19:AddSection({ "(OP) Tornado" })
+
+Tab19:AddButton({
+    Name = "[OP] Tornado - Pirate Ship (Large)",
+    Callback = function()
+local RS = game:GetService("ReplicatedStorage")
+local RunService = game:GetService("RunService")
+local TextChatService = game:GetService("TextChatService")
+local Player = game.Players.LocalPlayer
+local Character = Player.Character or Player.CharacterAdded:Wait()
+local Humanoid = Character:WaitForChild("Humanoid")
+local RootPart = Character:WaitForChild("HumanoidRootPart")
+local Vehicles = workspace:WaitForChild("Vehicles")
+
+if TextChatService.ChatVersion == Enum.ChatVersion.TextChatService then
+    TextChatService.TextChannels.RBXGeneral:SendAsync(
+        "hi\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\rTornado has appeared! Be careful..."
+    )
+else
+end
+
+local selectedAudioID = 9068077052
+local function playAudio()
+    if not selectedAudioID then
+        return
+    end
+
+    local args = {
+        [1] = workspace,
+        [2] = selectedAudioID,
+        [3] = 1,
+    }
+
+    for i = 1, 5 do
+        RS.RE:FindFirstChild("1Gu1nSound1s"):FireServer(unpack(args))
+
+        local sound = Instance.new("Sound")
+        sound.SoundId = "rbxassetid://" .. tostring(selectedAudioID)
+        sound.Parent = Player.Character and Player.Character:FindFirstChild("HumanoidRootPart")
+        if sound.Parent then
+            sound:Play()
+        else
+            break
+        end
+
+        task.wait(1.5)
+        sound:Destroy()
+    end
+end
+
+local function spawnBoat()
+    RootPart.CFrame = CFrame.new(1754, -2, 58)
+    task.wait(0.5)
+    RS:WaitForChild("RE"):FindFirstChild("1Ca1r"):FireServer("PickingBoat", "PirateFree")
+    task.wait(1)
+    return Vehicles:FindFirstChild(Player.Name .. "Car")
+end
+
+local PCar = spawnBoat()
+if not PCar then
+    return
+end
+
+local Seat = PCar:FindFirstChild("Body") and PCar.Body:FindFirstChild("VehicleSeat")
+if not Seat then
+    return
+end
+
+repeat
+    task.wait(0.1)
+    RootPart.CFrame = Seat.CFrame * CFrame.new(0, 1, 0)
+until Humanoid.SeatPart == Seat
+
+task.spawn(playAudio)
+
+task.delay(4, function()
+    if Humanoid.SeatPart then
+        Humanoid.Sit = false
+    end
+    RootPart.CFrame = CFrame.new(0, 0, 0)
+end)
+
+local RE_Flip = RS:WaitForChild("RE"):WaitForChild("1Player1sCa1r")
+task.spawn(function()
+    while PCar and PCar.Parent do
+        RE_Flip:FireServer("Flip")
+        task.wait(0.5)
+    end
+end)
+
+local waypoints = {
+    Vector3.new(-16, 0, -47),
+    Vector3.new(-110, 0, -45),
+    Vector3.new(16, 0, -55)
+}
+
+local currentIndex = 1
+local nextIndex = 2
+local moveSpeed = 15
+local rotationSpeed = math.rad(720)
+local progress = 0
+local currentRotation = 0
+
+local function lerpCFrame(a, b, t)
+    return a:lerp(b, t)
+end
+
+RunService.Heartbeat:Connect(function(dt)
+    if not (PCar and PCar.PrimaryPart) then return end
+
+    local startPos = waypoints[currentIndex]
+    local endPos = waypoints[nextIndex]
+
+    progress += (moveSpeed * dt) / (startPos - endPos).Magnitude
+    if progress >= 1 then
+        progress = 0
+        currentIndex = nextIndex
+        nextIndex = (nextIndex % #waypoints) + 1
+    end
+
+    local newPos = lerpCFrame(CFrame.new(startPos), CFrame.new(endPos), progress).p
+    currentRotation += rotationSpeed * dt
+
+    local cf = CFrame.new(newPos) * CFrame.Angles(0, currentRotation, 0)
+    PCar:SetPrimaryPartCFrame(cf)
+end)
+end
+})
+
+Tab19:AddButton({
+    Name = "Cancel Tornado",
+    Callback = function()
+        local success, err = pcall(function()
+            local args = { "DeleteAllVehicles" }
+            game:GetService("ReplicatedStorage"):WaitForChild("RE"):WaitForChild("1Ca1r"):FireServer(unpack(args))
+        end)
+
+        if not success then
+        else
+        end
+    end
+})
